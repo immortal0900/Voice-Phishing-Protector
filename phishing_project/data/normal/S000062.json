@@ -1,0 +1,86 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "상담사1",
+                    "age": "30대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "고객1",
+                    "age": "40대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000062/0001.wav",
+                "duration": 3.087,
+                "text": "그 고 (1)/(일)인데 지금"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000062/0002.wav",
+                "duration": 8.915,
+                "text": "수업하기 어렵지 않을까 해서 지금 한번 문의드리고 싶었거든요. 일반에서도 고 (1)/(일)이 많이 선택하는지 아님 거의 고 (3)/(삼)이 선택하는 건지"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000062/0003.wav",
+                "duration": 9.14,
+                "text": "o/ 일단은 요기 수능 쪽 강의이긴 내신보다는 수능 쪽이긴 한데 뭐 수강하시는 뭐 학년은 굉장이 다양해서"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000062/0004.wav",
+                "duration": 5.619,
+                "text": "o/ 정해져 있진 않거든요. (()) 수능 쪽이긴 해요. 내신보다."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000062/0005.wav",
+                "duration": 4.056,
+                "text": "어 네 네 네 내신이 아니라는 건 알고 있는데요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000062/0006.wav",
+                "duration": 6.029,
+                "text": "o/ 어 어쨌든 국어의 전반적인 힘을 키우고 싶어서 지금 뭐 여기저기 알아보다가"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000062/0007.wav",
+                "duration": 4.52,
+                "text": "전화를 (드렸습니) 전화받으신 분이 조금 귀찮아 하시는 거 같아요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000062/0008.wav",
+                "duration": 2.568,
+                "text": "알겠습니다. 수고하세요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000062/0009.wav",
+                "duration": 2.083,
+                "text": "네 감사합니다."
+            }
+        ]
+    }
+}

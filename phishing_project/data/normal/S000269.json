@@ -1,0 +1,110 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "고객1",
+                    "age": "40대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "상담사1",
+                    "age": "30대",
+                    "gender": "남",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000269/0001.wav",
+                "duration": 3.928,
+                "text": "아 네 지금 예비 고 (1)/(일) 학생이고요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000269/0002.wav",
+                "duration": 11.064,
+                "text": "o/ 지금 인강 처음 시작하는 처음 해보는 거라 (()) 국어랑 과학 중 추천받고 싶어서 좀 전화드렸거든요. 뭘 해야 될 지 몰라가지고"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000269/0003.wav",
+                "duration": 4.781,
+                "text": "o/ 예비 고 (1)/(일) 학생 그 과학 강좌 말씀하시는 걸까요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000269/0004.wav",
+                "duration": 2.307,
+                "text": "o/ 국어랑 과학 과목"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000269/0005.wav",
+                "duration": 6.616,
+                "text": "o/ 네 그러시면 저희가 그 학습상담이라고 해서 (()) 선생님들이 (이제)/(인제) 따로 계세요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000269/0006.wav",
+                "duration": 4.109,
+                "text": "혹시 뭐 아이디 가입하시거나 그러신 건 아직 아니시죠?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000269/0007.wav",
+                "duration": 6.008,
+                "text": "o/ 아 네 그러면은 제 예비 고 (1)/(일) 학생 국어 과학 강좌 수강으로 해서"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000269/0008.wav",
+                "duration": 10.136,
+                "text": "o/ 저희가 (1시)/(한 시)에서 (8시)/(여덟 시) 사이에 저녁 (8시)/(여덟 시) 사이에 오후 (1시)/(한 시) (()) 순차적으로 순차적으로 연락을 진행해드려요. 학습상담을"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000269/0009.wav",
+                "duration": 3.24,
+                "text": "어머님 번호 (1번)/(한 번) 남겨주시면"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000269/0010.wav",
+                "duration": 3.66,
+                "text": "o/ 예 전화오시면 받아주셔서 전화상담 받으시면"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000269/0011.wav",
+                "duration": 4.403,
+                "text": "o/ 아 네 알겠습니다. 정확한 시간은 모르겠네요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000269/0012.wav",
+                "duration": 2.285,
+                "text": "o/ 상담 예약 도와드릴 거고요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000269/0013.wav",
+                "duration": 4.28,
+                "text": "o/ 수신되시면 받으셔서 전화 상담 진행해 (()) 됩니다."
+            }
+        ]
+    }
+}

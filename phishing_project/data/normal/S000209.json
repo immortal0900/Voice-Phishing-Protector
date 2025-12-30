@@ -1,0 +1,230 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "상담사1",
+                    "age": "20대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "고객1",
+                    "age": "40대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000209/0001.wav",
+                "duration": 4.904,
+                "text": "기타로 체크를 했는데 학교가 검색이 안돼가지고요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000209/0002.wav",
+                "duration": 7.72,
+                "text": "o/ 아 네 (어) 어머니 거 잠시만 기다려주시겠어요? 저희가 한번 해당 부분 확인해보도록 하겠습니다."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000209/0003.wav",
+                "duration": 4.925,
+                "text": "o/ 어머니 학교 입력이 안되신다는 말씀이시죠?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000209/0004.wav",
+                "duration": 5.565,
+                "text": "o/ (그러니까)/(이까) 국내가 아니다 보니까 외국학교를 기타로 선정해가지고"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000209/0005.wav",
+                "duration": 6.749,
+                "text": "학교명을 치고 검색을 하니까 등록 자체가 아예 안되는 상태거든요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000209/0006.wav",
+                "duration": 9.267,
+                "text": "o/ 어 어머니 근데 혹시 저희 그 학교 명 b/ 꼭 입력을 안 하셔도 이용은 가능하신데 혹시 해보셨을까요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000209/0007.wav",
+                "duration": 5.907,
+                "text": "o/ 네 한번 해 봐 주시고 저한테 말씀해주시겠어요? 네 제가 b/ 제 통화 끊지 않고 기다리겠습니다."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000209/0008.wav",
+                "duration": 3.613,
+                "text": "o/ 네 순서가 그렇게 되어있어 가지고 그러네 넘어가"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000209/0009.wav",
+                "duration": 3.84,
+                "text": "흔하지 않는 아이딘데 사용 중으로 나오네"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000209/0010.wav",
+                "duration": 3.991,
+                "text": "아 네, 네 학교를 안 넣어도 가능하네요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000209/0011.wav",
+                "duration": 2.671,
+                "text": "아 네 괜찮으실까요? 어머님"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000209/0012.wav",
+                "duration": 3.485,
+                "text": "그렇게 해서 그러면 진행 부탁드리겠습니다. 어머님"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000209/0013.wav",
+                "duration": 4.296,
+                "text": "o/ 아 그리고요. 이메일의 책자가"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000209/0014.wav",
+                "duration": 4.041,
+                "text": "o/ 그 책자에 (ebook)/(이 북)이라고 되어있는 거는"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000209/0015.wav",
+                "duration": 3.976,
+                "text": "제가 교재를 만약에 해외인 (경) 경우에"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000209/0016.wav",
+                "duration": 3.005,
+                "text": "교재를 (받으려면)/(받을려면) 어떻게 해야 되죠?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000209/0017.wav",
+                "duration": 4.328,
+                "text": "저희가 일단은 해외배송은 안되시기 때문에"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000209/0018.wav",
+                "duration": 7.25,
+                "text": "o/ 네 한국 주소지 계신 (()) 뭐 지인분이나 주소를 받은 다음에 해외로 따로 받으셔야 하고요. 어머님"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000209/0019.wav",
+                "duration": 4.339,
+                "text": "그리고 저희가 어 어머니 그리고 말씀하셨던"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000209/0020.wav",
+                "duration": 2.764,
+                "text": "o/ 혹시 어 문의사항이"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000209/0021.wav",
+                "duration": 4.069,
+                "text": "o/ 예 교재에 보니까 (ebook)/(이 북) 으로 표시가 되어있어서"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000209/0022.wav",
+                "duration": 6.995,
+                "text": "o/ 아 (ebook)/(이 북)은 저희가 b/ 교재 전체가입이 아니라 교재가 어떤 구성으로 이루어져 있는지 저희가"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000209/0023.wav",
+                "duration": 4.004,
+                "text": "o/ 네 맛보기 교재라서 네 제가 강의 중에는"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000209/0024.wav",
+                "duration": 4.04,
+                "text": "o/ 어 네 원활한 학습을 위해서는 인제 교재가 있으셔야"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000209/0025.wav",
+                "duration": 4.847,
+                "text": "그러면 교재를 받아서 아 받아서 해야 되는구나."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000209/0026.wav",
+                "duration": 5.42,
+                "text": "아 그러면 수강을 하고 다시 전화를 그러면 드려야 되나요? 드려서"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000209/0027.wav",
+                "duration": 6.728,
+                "text": "주소지로 보내달라 주소 아 주소지가 입력되어있으면 그쪽으로 보내주시는 건가요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000209/0028.wav",
+                "duration": 6.216,
+                "text": "저희가 이제 주소지 이제 네 말씀드렸던 뭐 한국 한국에 있는 배송지로"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000209/0029.wav",
+                "duration": 5.821,
+                "text": "o/ 저희가 그쪽으로 이제 주문을 하시면 그쪽으로 바로 주문이 됩니다. 어머니 배송이 되세요. 어머니"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000209/0030.wav",
+                "duration": 5.54,
+                "text": "그러면 아 배송을 하고 받고 시간이 좀 걸리긴 걸리겠구나."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000209/0031.wav",
+                "duration": 2.928,
+                "text": "아 알겠습니다. 그러면l/"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000209/0032.wav",
+                "duration": 2.493,
+                "text": "네 알겠습니다."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000209/0033.wav",
+                "duration": 3.027,
+                "text": "o/ 감사합니다. 좋은 하루 (되세요)/(되세요오)."
+            }
+        ]
+    }
+}

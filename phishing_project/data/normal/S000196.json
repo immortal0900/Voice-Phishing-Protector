@@ -1,0 +1,116 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "상담사1",
+                    "age": "20대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "고객1",
+                    "age": "40대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000196/0001.wav",
+                "duration": 7.673,
+                "text": "지금 네 지금 날짜부터 b/ 개념부터 들어야 되는 건지 어떻게 해야 (()) 얘가 도통 감을 못 (잡더라고요)/(잡더라구여)."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000196/0002.wav",
+                "duration": 8.765,
+                "text": "아 그러신가요? b/ 회원님 그러시면은 저희 쪽보다는요. 저희 홈페이지 혹시 이용 가능하실까요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000196/0003.wav",
+                "duration": 3.987,
+                "text": "아 아직 아 예 근데요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000196/0004.wav",
+                "duration": 6.547,
+                "text": "o/ 예 학습 지원센터로 들어가려시면 왼쪽에 b/ 학습 상담이라는 버튼이 보이실 거예요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000196/0005.wav",
+                "duration": 7.293,
+                "text": "네 이 학습 상담이라는 이 버튼 클릭하셔 가지고 강좌나 (등) 이제 강좌 관련해서 상담 신청해주시면 되세요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000196/0006.wav",
+                "duration": 4.211,
+                "text": "아 (그러면)/(그면) (담당)/(담장) 과목 선생님이 댓글 달아주나요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000196/0007.wav",
+                "duration": 3.571,
+                "text": "o/ (그러니까)/(그까) 저희가 이거는 전화 이제 상담 예약 남겨주시면은"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000196/0008.wav",
+                "duration": 4.82,
+                "text": "o/ 전문적으로 상담해주시는 학습 상담 컨설턴트분께서 어머니께 연락을 드릴 거예요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000196/0009.wav",
+                "duration": 2.004,
+                "text": "아n/ 그런가요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000196/0010.wav",
+                "duration": 4.051,
+                "text": "이게 이게 언제 쯤 이게 또 밀려있는 건 아니겠죠?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000196/0011.wav",
+                "duration": 5.748,
+                "text": "저희가 이거 순차적으로 연락을 드리고 있기 때문에요. 이거 연락되는 데까지는 시간 조금 걸리실 수 있으세요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000196/0012.wav",
+                "duration": 6.92,
+                "text": "o/ n/ 어 그리고 어머님께서 상담 가능 상담 원하는 시간 설정하셔가지고 상담 예약 남겨주시면 되시는 거고요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000196/0013.wav",
+                "duration": 2.205,
+                "text": "예 알았습니다."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000196/0014.wav",
+                "duration": 2.568,
+                "text": "네 감사합니다."
+            }
+        ]
+    }
+}

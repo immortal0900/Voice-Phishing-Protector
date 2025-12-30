@@ -1,0 +1,134 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "고객1",
+                    "age": "40대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "상담사1",
+                    "age": "20대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000046/0001.wav",
+                "duration": 2.818,
+                "text": "네. 수고가 많으십니다."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000046/0002.wav",
+                "duration": 5.805,
+                "text": "아 제가 블로그 같은 델 좀 찾아는 봤는데 확실하지 않아서 (여쭤보려고)/(여쭤볼려고) 전화드렸어요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000046/0003.wav",
+                "duration": 2.797,
+                "text": "저는 학부몬데 혹시 b/"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000046/0004.wav",
+                "duration": 5.396,
+                "text": "입시설명회나 학부모 설명회 같은 거 b/ 가 있나요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000046/0005.wav",
+                "duration": 4.041,
+                "text": "o/ 입시설명회요? 어 예. 있으시긴 한데요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000046/0006.wav",
+                "duration": 7.66,
+                "text": "예. 말씀해주시겠어요? 지금 제가 외부래서 그러는데 b/ 그 홈페이지로 들어가면은 뭐 언제 하는지 어디서 하는지 좀 알 수 있어요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000046/0007.wav",
+                "duration": 5.08,
+                "text": "네. 여기 입시 정보 쪽 들어가시면은 입시설명회가 있어요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000046/0008.wav",
+                "duration": 2.905,
+                "text": "o/ 여기서 확인해보시면 돼요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000046/0009.wav",
+                "duration": 8.849,
+                "text": "그러면 그걸 확인해서 들어가게 되면 이거 b/ 설명회 갈 때 뭐 비용 같은 게 별도로 들어가는 건가요? 네."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000046/0010.wav",
+                "duration": 5.163,
+                "text": "회원님, 제가 잠시만 확인하고 말씀드릴게요. 쪼끔만 기다려주세요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000046/0011.wav",
+                "duration": 1.966,
+                "text": "예, 기다릴게요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000046/0012.wav",
+                "duration": 4.496,
+                "text": "저희가 제공하는 특별 프로그램이라서"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000046/0013.wav",
+                "duration": 5.341,
+                "text": "예 b/ 예, 알겠습니다. 그러면 제가 들어가서 어 확인해보고"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000046/0014.wav",
+                "duration": 4.093,
+                "text": "o/ 일단은 제가 말씀드렸던 경로로 입시 정보 b/"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000046/0015.wav",
+                "duration": 5.801,
+                "text": "o/ 자주 묻는 질문이라고 있어요. 그것도 한번 확인해주시면 좋을 것 같애요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000046/0016.wav",
+                "duration": 2.541,
+                "text": "네. 알겠습니다."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000046/0017.wav",
+                "duration": 2.19,
+                "text": "네. 감사합니다."
+            }
+        ]
+    }
+}

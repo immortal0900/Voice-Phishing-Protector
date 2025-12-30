@@ -1,0 +1,344 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "상담사1",
+                    "age": "20대",
+                    "gender": "남",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "고객1",
+                    "age": "40대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000135/0001.wav",
+                "duration": 3.123,
+                "text": "아 예약콜 남겨주셔서 연락드렸습니다."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000135/0002.wav",
+                "duration": 5.075,
+                "text": "아 저기 그 사이트에 보니까 (수시 )/(투시) 지원전략 오픈한다던데"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000135/0003.wav",
+                "duration": 3.453,
+                "text": "그 (7월)/(칠 월) (25일)/(이십 오 일) 그때 오픈되는 거예요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000135/0004.wav",
+                "duration": 1.853,
+                "text": "네, 네, 맞습니다."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000135/0005.wav",
+                "duration": 2.493,
+                "text": "그러면 이게"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000135/0006.wav",
+                "duration": 3.587,
+                "text": "제가 하다 보니까 엄마 회원으로 가입을 했는데"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000135/0007.wav",
+                "duration": 4.499,
+                "text": "네, 학부모님으로 가입하시면 안 되시고요. 학생회원으로 가입해주셔야 되세"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000135/0008.wav",
+                "duration": 3.621,
+                "text": "아 학부모도 따로 하고 학생 따로 (2개)/(두 개) 해야 되는 거예요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000135/0009.wav",
+                "duration": 6.006,
+                "text": "네, 학부모 회원님은 어차피 이용을 하실 수가 없습니다. 저희 사이트 내에 서비스 같은걸"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000135/0010.wav",
+                "duration": 4.723,
+                "text": "o/ 아 그래요? 그러면은 탈퇴하고 학생으로 다시 (할까요)/(하까요)?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000135/0011.wav",
+                "duration": 15.848,
+                "text": "o/ 네, 그렇게 하셔도 되시고요. 다만 어머님이 쓰셨던 아이디는 학생회원님 걸로는 (1번)/(한 번) 쓰셨던 게 처리로 되기 때문에 아이디는 그 (설) 사용하셨던 아이디로는 가입 안되시니까. 뭐 뒤에 뭐 숫자를 더 추가하시거나 네, 그렇게 진행해주시면 되세요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000135/0012.wav",
+                "duration": 2.205,
+                "text": "아 그래야 돼요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000135/0013.wav",
+                "duration": 3.806,
+                "text": "그러면은 여기 수강자 학생이 아닌데도"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000135/0014.wav",
+                "duration": 5.223,
+                "text": "수시전력n/ 전략들이 하는 거기 (때문에)/(때매) 학생으로 아이디 입력해야 되군요. 새로?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000135/0015.wav",
+                "duration": 6.249,
+                "text": "o/ 네, 맞습니다. 가입을 그냥 학생회원 자체로 카테고리가 (2개)/(두 개)가 있어요. 회원 가입하실 때"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000135/0016.wav",
+                "duration": 2.333,
+                "text": "로 네, 네, 네, 하시면 되세요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000135/0017.wav",
+                "duration": 3.436,
+                "text": "o/ 아 그래야 (되는구나)/(되구나). 아 근데 학생 걸로 하면은"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000135/0018.wav",
+                "duration": 5.064,
+                "text": "인증 같은 게 학생한테 아 그럼 혹시 전화번호는 엄마 걸로 해도 돼요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000135/0019.wav",
+                "duration": 1.939,
+                "text": "o/ 아 상관없습니다."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000135/0020.wav",
+                "duration": 3.0,
+                "text": "o/ 아 그랬구나n/. 그러면 그렇게 할걸 그랬네요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000135/0021.wav",
+                "duration": 2.109,
+                "text": "네, 네, 네, 고렇게 진행해"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000135/0022.wav",
+                "duration": 3.304,
+                "text": "그 이게 사용하는 게 무료예요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000135/0023.wav",
+                "duration": 2.28,
+                "text": "수시 지원 전략이요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000135/0024.wav",
+                "duration": 2.323,
+                "text": "시만 기다려 주세요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000135/0025.wav",
+                "duration": 4.211,
+                "text": "네, 저희가 근데 뭐 (1)/(일) 대 (1)/(일) 코칭받는 거 아니고서는"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000135/0026.wav",
+                "duration": 2.557,
+                "text": "네, 저희가 무료입니다."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000135/0027.wav",
+                "duration": 3.059,
+                "text": "그러면 이게 모든 대학 들어 있는 건 아니잖아요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000135/0028.wav",
+                "duration": 2.387,
+                "text": "그러면 그게 아직은."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000135/0029.wav",
+                "duration": 2.397,
+                "text": "네, 확인해주셔야 되세요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000135/0030.wav",
+                "duration": 7.901,
+                "text": "o/ 없어요? 근데 (이거이) 이게 계속 무료는 아니고 또 (3개월)/(삼 개월)에 (5만원)/(오만 원) 뭐 (이러) 이렇게 하지 않았나요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000135/0031.wav",
+                "duration": 6.979,
+                "text": "o/ 정시 지원 인제 할 때 있는데 그건 또 그때 그게 나와야 돼요. 상품이 그래야 저희도 확인이 가능한 거라서"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000135/0032.wav",
+                "duration": 3.709,
+                "text": "시말고 수 수시때 수시 저는 수시로 갈 거면은"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000135/0033.wav",
+                "duration": 4.648,
+                "text": "네, 그것도 저희가 상품이 나와야 저희도 확인 할l/ 수가 있는 거라서"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000135/0034.wav",
+                "duration": 3.325,
+                "text": "상품이 (21일)/(이십 일 일) 날 (오픈)/(오플) 때 이제 같이 나오는 거 아니에요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000135/0035.wav",
+                "duration": 5.347,
+                "text": "네, 네, 그때 근까 그때 확인을 저희도 같이 동일하게 해야 돼요. 저희가 미리 알고 있는 게"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000135/0036.wav",
+                "duration": 2.63,
+                "text": "돈을 내야지 쓸 수 있는거죠?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000135/0037.wav",
+                "duration": 3.427,
+                "text": "돈을 안 내면은 한계가 보는 게 한계가 있는"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000135/0038.wav",
+                "duration": 2.131,
+                "text": "그렇죠. 네, 네."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000135/0039.wav",
+                "duration": 2.616,
+                "text": "아 그것도 돈을 내겠네요? 그러면n/."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000135/0040.wav",
+                "duration": 3.005,
+                "text": "아 (그럼)/(금) 학생회원으로 다시 해야 되겠네."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000135/0041.wav",
+                "duration": 1.773,
+                "text": "n/ 네, 맞습니다."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000135/0042.wav",
+                "duration": 2.42,
+                "text": "스면 어떻게 해요. 엄마는?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000135/0043.wav",
+                "duration": 3.069,
+                "text": "어 일단 아이디 가입하신 거에서"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000135/0044.wav",
+                "duration": 5.048,
+                "text": "마이페이지 (들어가시면)/(들으시면) 되시고요. 로그인하셔서 회원 탈퇴라고 보이실 거예요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000135/0045.wav",
+                "duration": 2.355,
+                "text": "마이페이지 (들어가서요)/(드가서요)?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000135/0046.wav",
+                "duration": 3.603,
+                "text": "마이 페이지가? 아 사람 있는 게 마이페이지 인가요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000135/0047.wav",
+                "duration": 1.757,
+                "text": "n/ 네, 맞습니다."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000135/0048.wav",
+                "duration": 6.419,
+                "text": "아 예, 알겠습니다. 그러면 엄마 회원으로 (들어가서는)/(들가선) 사실 볼 게 없지요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000135/0049.wav",
+                "duration": 3.4,
+                "text": "학부모 회원님들은 네, 거의 없다고 보시면 돼요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000135/0050.wav",
+                "duration": 1.811,
+                "text": "네, 알겠습니다."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000135/0051.wav",
+                "duration": 1.8,
+                "text": "네, 감사합니다. 상담사"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000135/0052.wav",
+                "duration": 1.944,
+                "text": "네, 감사합니다."
+            }
+        ]
+    }
+}

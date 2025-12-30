@@ -1,0 +1,348 @@
+{
+  "file": "NR3497_마스킹 완료(금융회사 사칭)_.mp3",
+  "rel_path": "NR3497_마스킹 완료(금융회사 사칭)_.mp3",
+  "language": "ko",
+  "text": "네 안녕하세요 KB고민원의 이민정 대리입니다. 좀전에 그 XXX이 남편분이 되시는 분 아시죠? 네 좀전에 저희가 그 XXX가 지금 상담하셔서 대초자금 진행권을 드렸는데 어떤 부분을 지금 여쭤보실려고 전화 드렸는데 그게 금리가 몇이라고 그랬죠? 금리는 5.3%로 내드리고 있습니다. 근데 제가 듣기론 신용등급이 낮아서 등급이 낮은 것이 아니라 신용평점이 낮다 보니까 신용평점을 올리려면 대출 일부를 갚으셔야 하시는데 기존에 지금 XXX께서 우리 카드 쪽으로 금액이 있으시다 보니까 대출자금 받으시고 이쪽으로 대화하시려고 하시는 거잖아요? 네 그런데 지금 일부만 갚으셔도 평점이 올라가기 때문에 그쪽으로 일부를 갚고 저희 쪽 대출자금 받아가는 걸로 해드린다는 거고요 일부는 어디다 우리 은행에다 갚으면 되는 거예요? 우리 카드사하고 카드론으로 받으셨으니까 그쪽으로 갚으셔야죠 아 그리고요? 그리고 그쪽으로 갚으시면 대출자금 갚고 그리고 저희 쪽에서 당대출로 바로 1200만 그리고 48개월로 내드릴 수 있다는 겁니다 거기가 국민은행 어디 지점이죠? 명동 지점입니다 명동? 네 명동 지점이시고요 명동 지점이요? 네 명동 지점 그 성함이 어떻게 되시죠? 저는 이민용이라고 합니다 이민용 직행이 어떻게 되세요? 대리입니다 이민용 대리님 여기 직통번호 좀 알려주실래요? 이 번호가 저희 직통번호인데요 저희 지금 이 번호로 통화하고 있어요 1577-529호요? 네 1577-529 그러면 제가 국민은행 환만 확인하고 다시 전화해도 되죠? 네 그러셔야 되십니다 네",
+  "duration_sec": 128.3135,
+  "segments": [
+    {
+      "index": 0,
+      "start": 0.0,
+      "end": 4.0,
+      "text": "네 안녕하세요 KB고민원의 이민정 대리입니다.",
+      "speaker": "speaker_1",
+      "confidence": -0.3607954428954558
+    },
+    {
+      "index": 1,
+      "start": 4.0,
+      "end": 9.0,
+      "text": "좀전에 그 XXX이 남편분이 되시는 분 아시죠?",
+      "speaker": "speaker_1",
+      "confidence": -0.3607954428954558
+    },
+    {
+      "index": 2,
+      "start": 9.0,
+      "end": 10.0,
+      "text": "네",
+      "speaker": "speaker_1",
+      "confidence": -0.3607954428954558
+    },
+    {
+      "index": 3,
+      "start": 10.0,
+      "end": 18.0,
+      "text": "좀전에 저희가 그 XXX가 지금 상담하셔서 대초자금 진행권을 드렸는데",
+      "speaker": "speaker_1",
+      "confidence": -0.3607954428954558
+    },
+    {
+      "index": 4,
+      "start": 18.0,
+      "end": 24.0,
+      "text": "어떤 부분을 지금 여쭤보실려고 전화 드렸는데",
+      "speaker": "speaker_1",
+      "confidence": -0.3607954428954558
+    },
+    {
+      "index": 5,
+      "start": 24.0,
+      "end": 25.0,
+      "text": "그게 금리가 몇이라고 그랬죠?",
+      "speaker": "speaker_1",
+      "confidence": -0.3607954428954558
+    },
+    {
+      "index": 6,
+      "start": 25.0,
+      "end": 28.0,
+      "text": "금리는 5.3%로 내드리고 있습니다.",
+      "speaker": "speaker_1",
+      "confidence": -0.3607954428954558
+    },
+    {
+      "index": 7,
+      "start": 28.0,
+      "end": 31.0,
+      "text": "근데 제가 듣기론 신용등급이 낮아서",
+      "speaker": "speaker_1",
+      "confidence": -0.1976102887123239
+    },
+    {
+      "index": 8,
+      "start": 31.0,
+      "end": 36.0,
+      "text": "등급이 낮은 것이 아니라 신용평점이 낮다 보니까",
+      "speaker": "speaker_1",
+      "confidence": -0.1976102887123239
+    },
+    {
+      "index": 9,
+      "start": 36.0,
+      "end": 41.0,
+      "text": "신용평점을 올리려면 대출 일부를 갚으셔야 하시는데",
+      "speaker": "speaker_1",
+      "confidence": -0.1976102887123239
+    },
+    {
+      "index": 10,
+      "start": 41.0,
+      "end": 48.0,
+      "text": "기존에 지금 XXX께서 우리 카드 쪽으로 금액이 있으시다 보니까",
+      "speaker": "speaker_1",
+      "confidence": -0.1976102887123239
+    },
+    {
+      "index": 11,
+      "start": 48.0,
+      "end": 53.0,
+      "text": "대출자금 받으시고 이쪽으로 대화하시려고 하시는 거잖아요?",
+      "speaker": "speaker_1",
+      "confidence": -0.1976102887123239
+    },
+    {
+      "index": 12,
+      "start": 53.0,
+      "end": 54.0,
+      "text": "네",
+      "speaker": "speaker_1",
+      "confidence": -0.1976102887123239
+    },
+    {
+      "index": 13,
+      "start": 54.0,
+      "end": 58.0,
+      "text": "그런데 지금 일부만 갚으셔도 평점이 올라가기 때문에",
+      "speaker": "speaker_1",
+      "confidence": -0.16989272654946172
+    },
+    {
+      "index": 14,
+      "start": 58.0,
+      "end": 63.0,
+      "text": "그쪽으로 일부를 갚고 저희 쪽 대출자금 받아가는 걸로 해드린다는 거고요",
+      "speaker": "speaker_1",
+      "confidence": -0.16989272654946172
+    },
+    {
+      "index": 15,
+      "start": 63.0,
+      "end": 65.0,
+      "text": "일부는 어디다 우리 은행에다 갚으면 되는 거예요?",
+      "speaker": "speaker_1",
+      "confidence": -0.16989272654946172
+    },
+    {
+      "index": 16,
+      "start": 65.0,
+      "end": 70.0,
+      "text": "우리 카드사하고 카드론으로 받으셨으니까 그쪽으로 갚으셔야죠",
+      "speaker": "speaker_1",
+      "confidence": -0.16989272654946172
+    },
+    {
+      "index": 17,
+      "start": 70.0,
+      "end": 71.0,
+      "text": "아 그리고요?",
+      "speaker": "speaker_1",
+      "confidence": -0.16989272654946172
+    },
+    {
+      "index": 18,
+      "start": 71.0,
+      "end": 76.0,
+      "text": "그리고 그쪽으로 갚으시면 대출자금 갚고",
+      "speaker": "speaker_1",
+      "confidence": -0.16989272654946172
+    },
+    {
+      "index": 19,
+      "start": 76.0,
+      "end": 83.0,
+      "text": "그리고 저희 쪽에서 당대출로 바로 1200만 그리고 48개월로 내드릴 수 있다는 겁니다",
+      "speaker": "speaker_1",
+      "confidence": -0.16989272654946172
+    },
+    {
+      "index": 20,
+      "start": 83.0,
+      "end": 86.0,
+      "text": "거기가 국민은행 어디 지점이죠?",
+      "speaker": "speaker_1",
+      "confidence": -0.19723135977983475
+    },
+    {
+      "index": 21,
+      "start": 86.0,
+      "end": 88.0,
+      "text": "명동 지점입니다",
+      "speaker": "speaker_1",
+      "confidence": -0.19723135977983475
+    },
+    {
+      "index": 22,
+      "start": 88.0,
+      "end": 89.0,
+      "text": "명동?",
+      "speaker": "speaker_1",
+      "confidence": -0.19723135977983475
+    },
+    {
+      "index": 23,
+      "start": 89.0,
+      "end": 90.0,
+      "text": "네",
+      "speaker": "speaker_1",
+      "confidence": -0.19723135977983475
+    },
+    {
+      "index": 24,
+      "start": 90.0,
+      "end": 91.0,
+      "text": "명동 지점이시고요",
+      "speaker": "speaker_1",
+      "confidence": -0.19723135977983475
+    },
+    {
+      "index": 25,
+      "start": 91.0,
+      "end": 92.0,
+      "text": "명동 지점이요?",
+      "speaker": "speaker_1",
+      "confidence": -0.19723135977983475
+    },
+    {
+      "index": 26,
+      "start": 92.0,
+      "end": 93.0,
+      "text": "네",
+      "speaker": "speaker_1",
+      "confidence": -0.19723135977983475
+    },
+    {
+      "index": 27,
+      "start": 93.0,
+      "end": 96.0,
+      "text": "명동 지점",
+      "speaker": "speaker_1",
+      "confidence": -0.19723135977983475
+    },
+    {
+      "index": 28,
+      "start": 96.0,
+      "end": 99.0,
+      "text": "그 성함이 어떻게 되시죠?",
+      "speaker": "speaker_1",
+      "confidence": -0.19723135977983475
+    },
+    {
+      "index": 29,
+      "start": 99.0,
+      "end": 101.0,
+      "text": "저는 이민용이라고 합니다",
+      "speaker": "speaker_1",
+      "confidence": -0.19723135977983475
+    },
+    {
+      "index": 30,
+      "start": 101.0,
+      "end": 103.0,
+      "text": "이민용",
+      "speaker": "speaker_1",
+      "confidence": -0.19723135977983475
+    },
+    {
+      "index": 31,
+      "start": 103.0,
+      "end": 105.0,
+      "text": "직행이 어떻게 되세요?",
+      "speaker": "speaker_1",
+      "confidence": -0.19723135977983475
+    },
+    {
+      "index": 32,
+      "start": 105.0,
+      "end": 106.0,
+      "text": "대리입니다",
+      "speaker": "speaker_1",
+      "confidence": -0.19723135977983475
+    },
+    {
+      "index": 33,
+      "start": 106.0,
+      "end": 108.0,
+      "text": "이민용 대리님 여기 직통번호 좀 알려주실래요?",
+      "speaker": "speaker_1",
+      "confidence": -0.19723135977983475
+    },
+    {
+      "index": 34,
+      "start": 109.0,
+      "end": 111.0,
+      "text": "이 번호가 저희 직통번호인데요",
+      "speaker": "speaker_1",
+      "confidence": -0.29124999364217125
+    },
+    {
+      "index": 35,
+      "start": 111.0,
+      "end": 114.0,
+      "text": "저희 지금 이 번호로 통화하고 있어요",
+      "speaker": "speaker_1",
+      "confidence": -0.29124999364217125
+    },
+    {
+      "index": 36,
+      "start": 114.0,
+      "end": 116.0,
+      "text": "1577-529호요?",
+      "speaker": "speaker_1",
+      "confidence": -0.29124999364217125
+    },
+    {
+      "index": 37,
+      "start": 116.0,
+      "end": 117.0,
+      "text": "네",
+      "speaker": "speaker_1",
+      "confidence": -0.29124999364217125
+    },
+    {
+      "index": 38,
+      "start": 117.0,
+      "end": 122.0,
+      "text": "1577-529",
+      "speaker": "speaker_1",
+      "confidence": -0.29124999364217125
+    },
+    {
+      "index": 39,
+      "start": 122.0,
+      "end": 124.0,
+      "text": "그러면 제가 국민은행 환만 확인하고 다시 전화해도 되죠?",
+      "speaker": "speaker_1",
+      "confidence": -0.29124999364217125
+    },
+    {
+      "index": 40,
+      "start": 124.0,
+      "end": 126.0,
+      "text": "네 그러셔야 되십니다",
+      "speaker": "speaker_1",
+      "confidence": -0.29124999364217125
+    },
+    {
+      "index": 41,
+      "start": 126.0,
+      "end": 127.0,
+      "text": "네",
+      "speaker": "speaker_1",
+      "confidence": -0.29124999364217125
+    }
+  ],
+  "engine": "faster-whisper-medium-float16-cuda",
+  "processed_at": 1758154964.0754797,
+  "error": null
+}

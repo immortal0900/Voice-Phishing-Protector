@@ -1,0 +1,242 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "상담사1",
+                    "age": "20대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "고객1",
+                    "age": "40대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000162/0001.wav",
+                "duration": 2.067,
+                "text": "네 안녕하세요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000162/0002.wav",
+                "duration": 2.099,
+                "text": "네 안녕하세요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000162/0003.wav",
+                "duration": 4.051,
+                "text": "저기 네 그 결제를 (하려고)/(할려고) 하는데"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000162/0004.wav",
+                "duration": 4.511,
+                "text": "그 그 뭐지 학부모가 가입을"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000162/0005.wav",
+                "duration": 2.865,
+                "text": "해서 결제를 하잖아요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000162/0006.wav",
+                "duration": 3.155,
+                "text": "근데 그게 학생이 들으려면은"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000162/0007.wav",
+                "duration": 4.941,
+                "text": "학생이 듣는 건데 학부모 아이디로 들어가서 듣는 거예요? 그러면?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000162/0008.wav",
+                "duration": 7.139,
+                "text": "아 어머니 혹시 저희 그러시면 일단 정확한 안내를 위해서 저희 학생회원님 아이디 혹시 어떻게 되실까요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000162/0009.wav",
+                "duration": 2.963,
+                "text": "아 (()) 아직 가입은 안 했는데요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000162/0010.wav",
+                "duration": 5.437,
+                "text": "o/ 아 일단 어머니 혹시 어머님께서 학부모 회원으로 가입을 하신 걸까요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000162/0011.wav",
+                "duration": 5.075,
+                "text": "지금 이제 (하려고)/(할려고) 결제를 하려다 보니까 이제 회원가입을 하라고 해서"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000162/0012.wav",
+                "duration": 8.531,
+                "text": "o/ 제가 인제 가입을 하려고 했더니 생각해보니까 b/ 제가 가입을 해서 결제를 했는데 이제 학생이 들을 때"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000162/0013.wav",
+                "duration": 7.794,
+                "text": "o/ 그러면은 그 엄마 아이디하고 비밀번호를 들어가서 그 신청을 하는 건지"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000162/0014.wav",
+                "duration": 5.395,
+                "text": "아니면 학생이 별도로 회원가입을 또 하면 연동이 되는 건지 가"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000162/0015.wav",
+                "duration": 17.512,
+                "text": "o/ 일단 저희가 어 일단 회원가입을 하실 때 학생회원과 학부모회원으로 이제 이제 회원가입이 나뉘어집니다. 네 학부모 회원님은 저희 학생회원님 자녀관리만 가능하세요. 그래서 뭐 자녀의 수강이력라던가 이런 것만 확인이 가능하시고"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000162/0016.wav",
+                "duration": 5.285,
+                "text": "o/ 강좌수강이나 이제 결제는 안되세요. 저희 학부모님 회원은"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000162/0017.wav",
+                "duration": 3.994,
+                "text": "o/ 아 그러면은 학생으로 가입을 해서"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000162/0018.wav",
+                "duration": 7.611,
+                "text": "o/ 학생도 일단 가입을 해가지고 결제할 때 그러면 저는 회원가입을 별도로 필요 없는 거예요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000162/0019.wav",
+                "duration": 7.094,
+                "text": "o/ 어 네 저희 학생회원님으로 가입을 하시고 이제 학생 회원님 정보로 학생회원가입을 하시고 저희 이제"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000162/0020.wav",
+                "duration": 4.755,
+                "text": "n/ 이제 어머님 카드나 뭐 이런 결제수단으로 결제를 해주시"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000162/0021.wav",
+                "duration": 4.893,
+                "text": "o/ 아 그게 별도로 돼있구나 따로따로 돼 있구나 저는 혹시"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000162/0022.wav",
+                "duration": 4.413,
+                "text": "o/ 결제 완료를 했더니 자꾸 로그인하라 그래가지고"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000162/0023.wav",
+                "duration": 3.22,
+                "text": "o/ 저도 회원가입을 해야 되는 건가"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000162/0024.wav",
+                "duration": 8.06,
+                "text": "o/ 일단 저희가 어 이제 강좌 수강이나 결제를 하시면 회원가입은 필요한데 저희 학부모회원님 뭐 따로 자녀관리 이런 게 필요없"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000162/0025.wav",
+                "duration": 2.536,
+                "text": "n/ 따로 필요 없으시고"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000162/0026.wav",
+                "duration": 3.091,
+                "text": "n/ 하셔서 결제 (하) 해주시면"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000162/0027.wav",
+                "duration": 6.376,
+                "text": "아 b/ 그러면은 저기 뭐지 제가 인제 회원가입을 할 때"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000162/0028.wav",
+                "duration": 8.36,
+                "text": "혹시 학생으로 회원가입을 하고 부모가 관리하는 게 있을 거 아니에요. 얘가 잘 듣고있는 안 듣고 있나"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000162/0029.wav",
+                "duration": 10.557,
+                "text": "o/ 네 그러면은 학생 밑으로 회원가입이 부모가 되는 거예요? 아니면 학생 따로 부모 따로 각자 그 회원가입을 해야 되는 거예요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000162/0030.wav",
+                "duration": 11.752,
+                "text": "o/ 어머님께서 직접 학생회원님 아이디로 로그인하셔서 직접 보셔도 되고 아니시면 학부모회원님으로 가입을 하셔서 네 학생회원님한테 그 자녀 등록을 보내면"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000162/0031.wav",
+                "duration": 2.152,
+                "text": "수락하시면 이제"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000162/0032.wav",
+                "duration": 2.835,
+                "text": "o/ 아 자녀등록?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000162/0033.wav",
+                "duration": 3.678,
+                "text": "o/ 같은 거를 네 이제 어머니께서 보실 수 있어요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000162/0034.wav",
+                "duration": 4.051,
+                "text": "아 그렇게? 알겠어 네 알겠습니다."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000162/0035.wav",
+                "duration": 2.237,
+                "text": "좋은 하루 되세요."
+            }
+        ]
+    }
+}

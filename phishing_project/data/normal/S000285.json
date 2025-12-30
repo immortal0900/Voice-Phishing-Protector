@@ -1,0 +1,134 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "상담사1",
+                    "age": "20대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "고객1",
+                    "age": "40대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000285/0001.wav",
+                "duration": 4.84,
+                "text": "아 네 제가 그 아들을 고등학교 (2학년)/(이 학년)인데요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000285/0002.wav",
+                "duration": 4.072,
+                "text": "예 지금 뭐 이렇게 다 들을 수 있는 걸로 했는데"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000285/0003.wav",
+                "duration": 8.755,
+                "text": "고등학교 (1학년)/(일 학년)꺼나 아니면 (2학)(이 학) 아 아니 (2학년)/(이 학년) (1학기)/(일 학기)꺼 이렇게 좀 심화를 좀 복습을 하려면"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000285/0004.wav",
+                "duration": 3.517,
+                "text": "어떤 과정을 듣는게 좋을까 해가지고요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000285/0005.wav",
+                "duration": 7.293,
+                "text": "어 저희 강좌 추천은 저희 부서가 따로 있어서 선생님이 좀 전화를 드리는 시스템이라."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000285/0006.wav",
+                "duration": 3.752,
+                "text": "o/ 어 제 저희가 전화를 다시 드려야 되거든요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000285/0007.wav",
+                "duration": 3.933,
+                "text": "예, 아마 많이 오래 걸리진 않으실 거예요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000285/0008.wav",
+                "duration": 3.069,
+                "text": "o/ 예 그러면 부탁 드릴게요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000285/0009.wav",
+                "duration": 6.163,
+                "text": "예 고 (2)/(이) 이시고 혹시 어느 강 어느 과목 특히 추천 원하시는 거세요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000285/0010.wav",
+                "duration": 4.648,
+                "text": "수학 수학 만약에 수 (1)/(원) 과정이라든지"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000285/0011.wav",
+                "duration": 4.317,
+                "text": "에 지금 기하 이제 기본으로 들어가야 되는데"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000285/0012.wav",
+                "duration": 6.813,
+                "text": "o/ 예 기하 기하에서 맨 처음에 인제 어떤 과정 가장 좋은지 하고"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000285/0013.wav",
+                "duration": 4.392,
+                "text": "o/ 아 수 (1)/(원) 만약에 복습하고 인제 수 (2)/(투) 인제"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000285/0014.wav",
+                "duration": 4.896,
+                "text": "o/ 약간 심화 이런 거 들으려면 어떤 게 좋은지 하고 그 다음에 영어도"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000285/0015.wav",
+                "duration": 5.213,
+                "text": "음 만약에 추천해주실 수 있으면 영어도 (1번)/(한 번) 보려고"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000285/0016.wav",
+                "duration": 4.136,
+                "text": "네 그러면 최대한 빨리 전화 다시 드리도록 할게요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000285/0017.wav",
+                "duration": 2.216,
+                "text": "네 감사합니다."
+            }
+        ]
+    }
+}

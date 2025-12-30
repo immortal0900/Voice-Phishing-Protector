@@ -1,0 +1,340 @@
+{
+  "file": "NR0067[서울중앙지검_본인명의 대포통장이 발견]_.mp3",
+  "rel_path": "NR0067[서울중앙지검_본인명의 대포통장이 발견]_.mp3",
+  "language": "ko",
+  "text": "명의도형 사건 때문에 몇 가지 사실 확인처에 연락드렸거든요. 네. 혹시 본인께서 XX이라고 알고 계십니까? 아니요. XX 모르세요? XX 출신 사식제진은 남성분이거든요. 모르는데요. 모르신다고요? 네. 왜냐하면 얼마 전에 저희 검찰에서 XX 주범으로 인한 금융범죄 사기단을 검거했는데 지금 검거 당시 현장에서 대량의 신용카드와 대포 통장들이 발견되어 압수하였거든요. 아 그래요? 네. 그 중에서 지금 XX 씨 명의로 돼 농협이랑 신화원회 통장이 현장에서 불법 통장으로 사용 중인 걸 저희가 압수수색했습니다. 그런데 신기한 게 제가 카드나 통장이 없거든요. 뭐라고요? 카드나 통장이 없어요. 통장이나 카드가 없다고요? 네. 지금 그런데 저희가 불법현장에서 지금 농협이랑 신화원회 통장이 지금 또 하나의 통장이 지금 현장에서 발견되었잖아요. *** 실생 맞으신가요? 아니세요. 아 *** 실생 아니니까요? 네. 아, 그래요? 그럼 일단 제가 다시 한번 확인하고 전화 드릴게요. 어디라고 하셨죠? 서울 중앙지검이요. 서울 지방 뭐라고요? 중앙지검이요. 지검이라고요? 예예. 상황은 어떻게 되십니까? 이준호 수사관입니다. 이준호 수사관이요? 네. 알겠습니다. 다시 연락주세요. 일단 한번 확인해보고 전화드릴게요. 네.",
+  "duration_sec": 105.195125,
+  "segments": [
+    {
+      "index": 0,
+      "start": 0.0,
+      "end": 4.0,
+      "text": "명의도형 사건 때문에 몇 가지 사실 확인처에 연락드렸거든요.",
+      "speaker": "speaker_1",
+      "confidence": -0.3465277640907853
+    },
+    {
+      "index": 1,
+      "start": 4.0,
+      "end": 5.0,
+      "text": "네.",
+      "speaker": "speaker_1",
+      "confidence": -0.3465277640907853
+    },
+    {
+      "index": 2,
+      "start": 5.0,
+      "end": 9.0,
+      "text": "혹시 본인께서 XX이라고 알고 계십니까?",
+      "speaker": "speaker_1",
+      "confidence": -0.3465277640907853
+    },
+    {
+      "index": 3,
+      "start": 9.0,
+      "end": 10.0,
+      "text": "아니요.",
+      "speaker": "speaker_1",
+      "confidence": -0.3465277640907853
+    },
+    {
+      "index": 4,
+      "start": 10.0,
+      "end": 11.0,
+      "text": "XX 모르세요?",
+      "speaker": "speaker_1",
+      "confidence": -0.3465277640907853
+    },
+    {
+      "index": 5,
+      "start": 11.0,
+      "end": 15.0,
+      "text": "XX 출신 사식제진은 남성분이거든요.",
+      "speaker": "speaker_1",
+      "confidence": -0.3465277640907853
+    },
+    {
+      "index": 6,
+      "start": 15.0,
+      "end": 17.0,
+      "text": "모르는데요.",
+      "speaker": "speaker_1",
+      "confidence": -0.3465277640907853
+    },
+    {
+      "index": 7,
+      "start": 17.0,
+      "end": 18.0,
+      "text": "모르신다고요?",
+      "speaker": "speaker_1",
+      "confidence": -0.3465277640907853
+    },
+    {
+      "index": 8,
+      "start": 18.0,
+      "end": 19.0,
+      "text": "네.",
+      "speaker": "speaker_1",
+      "confidence": -0.3465277640907853
+    },
+    {
+      "index": 9,
+      "start": 19.0,
+      "end": 24.0,
+      "text": "왜냐하면 얼마 전에 저희 검찰에서 XX 주범으로 인한 금융범죄 사기단을",
+      "speaker": "speaker_1",
+      "confidence": -0.3465277640907853
+    },
+    {
+      "index": 10,
+      "start": 24.0,
+      "end": 29.0,
+      "text": "검거했는데 지금 검거 당시 현장에서 대량의 신용카드와 대포 통장들이",
+      "speaker": "speaker_1",
+      "confidence": -0.3465277640907853
+    },
+    {
+      "index": 11,
+      "start": 29.0,
+      "end": 30.0,
+      "text": "발견되어 압수하였거든요.",
+      "speaker": "speaker_1",
+      "confidence": -0.20585881087227145
+    },
+    {
+      "index": 12,
+      "start": 30.0,
+      "end": 31.0,
+      "text": "아 그래요?",
+      "speaker": "speaker_1",
+      "confidence": -0.20585881087227145
+    },
+    {
+      "index": 13,
+      "start": 31.0,
+      "end": 32.0,
+      "text": "네.",
+      "speaker": "speaker_1",
+      "confidence": -0.20585881087227145
+    },
+    {
+      "index": 14,
+      "start": 32.0,
+      "end": 37.0,
+      "text": "그 중에서 지금 XX 씨 명의로 돼 농협이랑 신화원회 통장이 현장에서",
+      "speaker": "speaker_1",
+      "confidence": -0.20585881087227145
+    },
+    {
+      "index": 15,
+      "start": 37.0,
+      "end": 41.0,
+      "text": "불법 통장으로 사용 중인 걸 저희가 압수수색했습니다.",
+      "speaker": "speaker_1",
+      "confidence": -0.20585881087227145
+    },
+    {
+      "index": 16,
+      "start": 41.0,
+      "end": 48.0,
+      "text": "그런데 신기한 게 제가 카드나 통장이 없거든요.",
+      "speaker": "speaker_1",
+      "confidence": -0.20585881087227145
+    },
+    {
+      "index": 17,
+      "start": 48.0,
+      "end": 49.0,
+      "text": "뭐라고요?",
+      "speaker": "speaker_1",
+      "confidence": -0.20585881087227145
+    },
+    {
+      "index": 18,
+      "start": 49.0,
+      "end": 52.0,
+      "text": "카드나 통장이 없어요.",
+      "speaker": "speaker_1",
+      "confidence": -0.20585881087227145
+    },
+    {
+      "index": 19,
+      "start": 52.0,
+      "end": 53.0,
+      "text": "통장이나 카드가 없다고요?",
+      "speaker": "speaker_1",
+      "confidence": -0.20585881087227145
+    },
+    {
+      "index": 20,
+      "start": 53.0,
+      "end": 54.0,
+      "text": "네.",
+      "speaker": "speaker_1",
+      "confidence": -0.20585881087227145
+    },
+    {
+      "index": 21,
+      "start": 54.0,
+      "end": 58.0,
+      "text": "지금 그런데 저희가 불법현장에서 지금 농협이랑 신화원회 통장이 지금",
+      "speaker": "speaker_1",
+      "confidence": -0.20585881087227145
+    },
+    {
+      "index": 22,
+      "start": 58.0,
+      "end": 61.0,
+      "text": "또 하나의 통장이 지금 현장에서 발견되었잖아요.",
+      "speaker": "speaker_1",
+      "confidence": -0.37709946210185685
+    },
+    {
+      "index": 23,
+      "start": 62.0,
+      "end": 65.0,
+      "text": "*** 실생 맞으신가요?",
+      "speaker": "speaker_1",
+      "confidence": -0.37709946210185685
+    },
+    {
+      "index": 24,
+      "start": 65.0,
+      "end": 66.0,
+      "text": "아니세요.",
+      "speaker": "speaker_1",
+      "confidence": -0.37709946210185685
+    },
+    {
+      "index": 25,
+      "start": 67.0,
+      "end": 69.0,
+      "text": "아 *** 실생 아니니까요?",
+      "speaker": "speaker_1",
+      "confidence": -0.37709946210185685
+    },
+    {
+      "index": 26,
+      "start": 69.0,
+      "end": 70.0,
+      "text": "네.",
+      "speaker": "speaker_1",
+      "confidence": -0.37709946210185685
+    },
+    {
+      "index": 27,
+      "start": 71.0,
+      "end": 75.0,
+      "text": "아, 그래요? 그럼 일단 제가 다시 한번 확인하고 전화 드릴게요.",
+      "speaker": "speaker_1",
+      "confidence": -0.37709946210185685
+    },
+    {
+      "index": 28,
+      "start": 75.0,
+      "end": 77.0,
+      "text": "어디라고 하셨죠?",
+      "speaker": "speaker_1",
+      "confidence": -0.37709946210185685
+    },
+    {
+      "index": 29,
+      "start": 77.0,
+      "end": 79.0,
+      "text": "서울 중앙지검이요.",
+      "speaker": "speaker_1",
+      "confidence": -0.37709946210185685
+    },
+    {
+      "index": 30,
+      "start": 80.0,
+      "end": 82.0,
+      "text": "서울 지방 뭐라고요?",
+      "speaker": "speaker_1",
+      "confidence": -0.37709946210185685
+    },
+    {
+      "index": 31,
+      "start": 83.0,
+      "end": 84.0,
+      "text": "중앙지검이요.",
+      "speaker": "speaker_1",
+      "confidence": -0.37709946210185685
+    },
+    {
+      "index": 32,
+      "start": 84.0,
+      "end": 85.0,
+      "text": "지검이라고요?",
+      "speaker": "speaker_1",
+      "confidence": -0.37709946210185685
+    },
+    {
+      "index": 33,
+      "start": 85.0,
+      "end": 86.0,
+      "text": "예예.",
+      "speaker": "speaker_1",
+      "confidence": -0.37709946210185685
+    },
+    {
+      "index": 34,
+      "start": 86.0,
+      "end": 88.0,
+      "text": "상황은 어떻게 되십니까?",
+      "speaker": "speaker_1",
+      "confidence": -0.3021673266926119
+    },
+    {
+      "index": 35,
+      "start": 88.0,
+      "end": 90.0,
+      "text": "이준호 수사관입니다.",
+      "speaker": "speaker_1",
+      "confidence": -0.3021673266926119
+    },
+    {
+      "index": 36,
+      "start": 90.0,
+      "end": 92.0,
+      "text": "이준호 수사관이요?",
+      "speaker": "speaker_1",
+      "confidence": -0.3021673266926119
+    },
+    {
+      "index": 37,
+      "start": 92.0,
+      "end": 94.0,
+      "text": "네.",
+      "speaker": "speaker_1",
+      "confidence": -0.3021673266926119
+    },
+    {
+      "index": 38,
+      "start": 94.0,
+      "end": 96.0,
+      "text": "알겠습니다. 다시 연락주세요.",
+      "speaker": "speaker_1",
+      "confidence": -0.3021673266926119
+    },
+    {
+      "index": 39,
+      "start": 96.0,
+      "end": 100.0,
+      "text": "일단 한번 확인해보고 전화드릴게요.",
+      "speaker": "speaker_1",
+      "confidence": -0.3021673266926119
+    },
+    {
+      "index": 40,
+      "start": 100.0,
+      "end": 102.0,
+      "text": "네.",
+      "speaker": "speaker_1",
+      "confidence": -0.3021673266926119
+    }
+  ],
+  "engine": "faster-whisper-medium-float16-cuda",
+  "processed_at": 1758158787.080419,
+  "error": null
+}

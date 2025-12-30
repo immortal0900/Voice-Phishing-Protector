@@ -1,0 +1,244 @@
+{
+  "file": "(경찰 사칭)강남서 사이버수사과입니다_.mp3",
+  "rel_path": "(경찰 사칭)강남서 사이버수사과입니다_.mp3",
+  "language": "ko",
+  "text": "여보세요? 여보세요? 네 여기 강남서 사이버수사과에요 어디요? 강남서 사이버수사과에요 강남서? 네네 사이버수사과에요 사이버수사과요? 네네 저희 측에 신고접수 확인되셔가지고 연락드렸는데 어떻게 신고접수하신거세요? 지금 사이버수사과라고 하셨죠? 네네 지금 번호 주신건 핸드폰 번호가 뜨는데요 사이버수사과 유선번호로 알려주시겠습니까? 네? 사이버수사과라고 하셨잖아요 강남서요 네네 강남서 사이버수사과도 유선번화가 당연히 있을테니 1825 전화주시면 되세요 그러시면 전화주셔가지고 1825 1825요? 네네 1825 세 자리 숫자가 맞습니까? 네네 맞습니다 1825 전화해주세요 네네 알겠습니다 제가 전화 드리도록 하겠습니다 네네",
+  "duration_sec": 62.8335,
+  "segments": [
+    {
+      "index": 0,
+      "start": 0.0,
+      "end": 1.0,
+      "text": "여보세요?",
+      "speaker": "speaker_1",
+      "confidence": -0.20897239026116446
+    },
+    {
+      "index": 1,
+      "start": 1.0,
+      "end": 2.0,
+      "text": "여보세요?",
+      "speaker": "speaker_1",
+      "confidence": -0.20897239026116446
+    },
+    {
+      "index": 2,
+      "start": 2.0,
+      "end": 3.0,
+      "text": "네",
+      "speaker": "speaker_1",
+      "confidence": -0.20897239026116446
+    },
+    {
+      "index": 3,
+      "start": 3.0,
+      "end": 7.0,
+      "text": "여기 강남서 사이버수사과에요",
+      "speaker": "speaker_1",
+      "confidence": -0.20897239026116446
+    },
+    {
+      "index": 4,
+      "start": 7.0,
+      "end": 8.0,
+      "text": "어디요?",
+      "speaker": "speaker_1",
+      "confidence": -0.20897239026116446
+    },
+    {
+      "index": 5,
+      "start": 8.0,
+      "end": 10.0,
+      "text": "강남서 사이버수사과에요",
+      "speaker": "speaker_1",
+      "confidence": -0.20897239026116446
+    },
+    {
+      "index": 6,
+      "start": 10.0,
+      "end": 11.0,
+      "text": "강남서?",
+      "speaker": "speaker_1",
+      "confidence": -0.20897239026116446
+    },
+    {
+      "index": 7,
+      "start": 11.0,
+      "end": 13.0,
+      "text": "네네 사이버수사과에요",
+      "speaker": "speaker_1",
+      "confidence": -0.20897239026116446
+    },
+    {
+      "index": 8,
+      "start": 13.0,
+      "end": 14.0,
+      "text": "사이버수사과요?",
+      "speaker": "speaker_1",
+      "confidence": -0.20897239026116446
+    },
+    {
+      "index": 9,
+      "start": 14.0,
+      "end": 15.0,
+      "text": "네네",
+      "speaker": "speaker_1",
+      "confidence": -0.20897239026116446
+    },
+    {
+      "index": 10,
+      "start": 15.0,
+      "end": 18.0,
+      "text": "저희 측에 신고접수 확인되셔가지고 연락드렸는데",
+      "speaker": "speaker_1",
+      "confidence": -0.20897239026116446
+    },
+    {
+      "index": 11,
+      "start": 18.0,
+      "end": 21.0,
+      "text": "어떻게 신고접수하신거세요?",
+      "speaker": "speaker_1",
+      "confidence": -0.20897239026116446
+    },
+    {
+      "index": 12,
+      "start": 21.0,
+      "end": 24.0,
+      "text": "지금 사이버수사과라고 하셨죠?",
+      "speaker": "speaker_1",
+      "confidence": -0.20897239026116446
+    },
+    {
+      "index": 13,
+      "start": 24.0,
+      "end": 25.0,
+      "text": "네네",
+      "speaker": "speaker_1",
+      "confidence": -0.20897239026116446
+    },
+    {
+      "index": 14,
+      "start": 25.0,
+      "end": 29.0,
+      "text": "지금 번호 주신건 핸드폰 번호가 뜨는데요 사이버수사과 유선번호로 알려주시겠습니까?",
+      "speaker": "speaker_1",
+      "confidence": -0.20897239026116446
+    },
+    {
+      "index": 15,
+      "start": 29.0,
+      "end": 30.0,
+      "text": "네?",
+      "speaker": "speaker_1",
+      "confidence": -0.12978178481089658
+    },
+    {
+      "index": 16,
+      "start": 30.0,
+      "end": 32.0,
+      "text": "사이버수사과라고 하셨잖아요 강남서요",
+      "speaker": "speaker_1",
+      "confidence": -0.12978178481089658
+    },
+    {
+      "index": 17,
+      "start": 32.0,
+      "end": 33.0,
+      "text": "네네",
+      "speaker": "speaker_1",
+      "confidence": -0.12978178481089658
+    },
+    {
+      "index": 18,
+      "start": 33.0,
+      "end": 36.0,
+      "text": "강남서 사이버수사과도 유선번화가 당연히 있을테니",
+      "speaker": "speaker_1",
+      "confidence": -0.12978178481089658
+    },
+    {
+      "index": 19,
+      "start": 36.0,
+      "end": 38.0,
+      "text": "1825 전화주시면 되세요 그러시면",
+      "speaker": "speaker_1",
+      "confidence": -0.12978178481089658
+    },
+    {
+      "index": 20,
+      "start": 38.0,
+      "end": 40.0,
+      "text": "전화주셔가지고 1825",
+      "speaker": "speaker_1",
+      "confidence": -0.12978178481089658
+    },
+    {
+      "index": 21,
+      "start": 40.0,
+      "end": 41.0,
+      "text": "1825요?",
+      "speaker": "speaker_1",
+      "confidence": -0.12978178481089658
+    },
+    {
+      "index": 22,
+      "start": 41.0,
+      "end": 42.0,
+      "text": "네네",
+      "speaker": "speaker_1",
+      "confidence": -0.12978178481089658
+    },
+    {
+      "index": 23,
+      "start": 42.0,
+      "end": 45.0,
+      "text": "1825 세 자리 숫자가 맞습니까?",
+      "speaker": "speaker_1",
+      "confidence": -0.12978178481089658
+    },
+    {
+      "index": 24,
+      "start": 45.0,
+      "end": 46.0,
+      "text": "네네 맞습니다",
+      "speaker": "speaker_1",
+      "confidence": -0.12978178481089658
+    },
+    {
+      "index": 25,
+      "start": 48.0,
+      "end": 50.0,
+      "text": "1825 전화해주세요",
+      "speaker": "speaker_1",
+      "confidence": -0.12978178481089658
+    },
+    {
+      "index": 26,
+      "start": 57.0,
+      "end": 58.0,
+      "text": "네네",
+      "speaker": "speaker_1",
+      "confidence": -0.12978178481089658
+    },
+    {
+      "index": 27,
+      "start": 58.0,
+      "end": 60.0,
+      "text": "알겠습니다 제가 전화 드리도록 하겠습니다",
+      "speaker": "speaker_1",
+      "confidence": -0.16027113970588236
+    },
+    {
+      "index": 28,
+      "start": 60.0,
+      "end": 61.0,
+      "text": "네네",
+      "speaker": "speaker_1",
+      "confidence": -0.16027113970588236
+    }
+  ],
+  "engine": "faster-whisper-medium-float16-cuda",
+  "processed_at": 1758158787.080419,
+  "error": null
+}

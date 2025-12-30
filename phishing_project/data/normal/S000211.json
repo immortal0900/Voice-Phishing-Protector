@@ -1,0 +1,176 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "상담사1",
+                    "age": "20대",
+                    "gender": "남",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "고객1",
+                    "age": "40대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000211/0001.wav",
+                "duration": 5.448,
+                "text": "네 안녕하세요? 저희 아이가 혹시 이거 회원가입이 되어 있는지 먼저 알고 싶어서요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000211/0002.wav",
+                "duration": 3.784,
+                "text": "아 네 그러시면 혹시 아이디를 아실까요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000211/0003.wav",
+                "duration": 2.07,
+                "text": "아니요. 몰라요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000211/0004.wav",
+                "duration": 2.761,
+                "text": "o/ 휴대폰 번호 말씀해주시겠어요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000211/0005.wav",
+                "duration": 3.272,
+                "text": "전화주신 번호 도 없습니다."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000211/0006.wav",
+                "duration": 5.341,
+                "text": "o/ 아 그렇구나. 그면 (()) 아, 아 네 (1가지)/(한 가지) 궁금한 게요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000211/0007.wav",
+                "duration": 8.285,
+                "text": "o/ 어 저희 아이가 음 그 학부모로 이렇게 가입을 한 다음에는 b/ 그 강의 신청이라든지 교재 구입이 어렵나요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000211/0008.wav",
+                "duration": 2.845,
+                "text": "네 안됩니다. 그 진행 자체가 안돼요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000211/0009.wav",
+                "duration": 2.216,
+                "text": "o/ 네 무조건 학생회원"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000211/0010.wav",
+                "duration": 10.451,
+                "text": "o/ n/ 학생 회원으로 로그인 가입하고 로그인하신 후에 결제할 때에 부모님 카드나 무통장 계좌 상관없습니다. 그 어차피 그 아이디로만 연결된"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000211/0011.wav",
+                "duration": 7.475,
+                "text": "그렇구나. 어 저흰 아이가 지금 약간 기숙사에 있어가지고 휴대폰 잘 사용할 수가 없어서"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000211/0012.wav",
+                "duration": 8.061,
+                "text": "o/ 가입을 하시고 대신에 이제 어머니께서 이제 뭐 교재를 대시 구매해주신다 (하실) 하시기 때문에"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000211/0013.wav",
+                "duration": 5.565,
+                "text": "o/ 대부분이 이제 학생들이 좀 바쁘기도 하고 뭐 기숙학원 물론 부모님들도 바쁘시지만"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000211/0014.wav",
+                "duration": 4.573,
+                "text": "o/ 해야 돼요. 아이디를 (()) 서로 (()) 알고있어야 하시는 거죠."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000211/0015.wav",
+                "duration": 2.536,
+                "text": "o/ 아이가 아이디를 가 그거를"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000211/0016.wav",
+                "duration": 9.651,
+                "text": "o/ 음 네, 네, 네, 네 만약에요. 그러면 교재 여 뭐지? 강의랑 교재를 신청을 하게 되면은 보통 얼마만에 배송이 되나요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000211/0017.wav",
+                "duration": 6.44,
+                "text": "o/ 네 저희가 이제 말 그대로 저희도 성수기라는 게 있고 비수기라는 게 있기 때문에"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000211/0018.wav",
+                "duration": 3.592,
+                "text": "o/ n/ 저희가 출고되는 작업도 기간이 있고요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000211/0019.wav",
+                "duration": 5.384,
+                "text": "o/ 그다음에 택배사들도 마찬가지로 그만큼 저희도 성수기이면은"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000211/0020.wav",
+                "duration": 6.872,
+                "text": "o/ 보통적으로 (2)/(이) (3일)/(삼 일) 정도 소요는 되는데 그건 이제 비수인거고 네 요즘은 한 (4일)/(사 일) 정도 예"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000211/0021.wav",
+                "duration": 6.568,
+                "text": "o/ 정확하게 알 수는 없어요. 왜냐하면 뭐 차량이 출발하는 그 지역별로 차량 출발하는 시간도 다르고"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000211/0022.wav",
+                "duration": 5.08,
+                "text": "o/ 작업하는 시간도 다르기 때문에 평균적으로 그렇다 라는 것만 네"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000211/0023.wav",
+                "duration": 3.368,
+                "text": "o/ 어 네 알겠습니다. 고맙습니다."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000211/0024.wav",
+                "duration": 1.821,
+                "text": "네 감사합니다. 상담사"
+            }
+        ]
+    }
+}

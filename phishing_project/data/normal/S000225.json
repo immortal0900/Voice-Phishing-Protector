@@ -1,0 +1,92 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "고객1",
+                    "age": "50대",
+                    "gender": "남",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "상담사1",
+                    "age": "20대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000225/0001.wav",
+                "duration": 5.426,
+                "text": "아 네, 저 아까 문의주셨던 임직원 할인 혜택 관련해서 연락드렸는데요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000225/0002.wav",
+                "duration": 9.676,
+                "text": "근데 저희가 확인을 해보니까 만약에 단과 강좌 같은 경우에는 저희가 이제 수강 원하시는 선생님이랑 저희 강좌명 확인 후에"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000225/0003.wav",
+                "duration": 4.168,
+                "text": "그래도 저희 이제 상품파트 이제 담당자신"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000225/0004.wav",
+                "duration": 11.496,
+                "text": "어떤 회원 이제 사용하실 회원님 아이디랑 정보 같은 거랑 이제 어떤 혜택을 원하시는지 메일로 정리하셔서 발송해주시면 이제 확인하고 처리를 해주신다고 합니다."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000225/0005.wav",
+                "duration": 10.126,
+                "text": "네, 그래서 저희가 이제 이용하실 회원님의 아이디나 정보랑 그리고 이제 원하시는 이제 할인 혜택 이제 메일로 이제 정리를 하셔서 이제 말씀드렸던"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000225/0006.wav",
+                "duration": 2.493,
+                "text": "어 올라와 계신거죠?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000225/0007.wav",
+                "duration": 2.749,
+                "text": "아 저희 그 메신저에"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000225/0008.wav",
+                "duration": 3.601,
+                "text": "네, 거기에서 조회 가능하시다고 합니다."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000225/0009.wav",
+                "duration": 4.904,
+                "text": "o/ 예 알겠습니다. 그러면 거기 통해서 한번 (()) 하겠습니다."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000225/0010.wav",
+                "duration": 3.624,
+                "text": "아 네, 감사합니다. 좋은 하루 되세요."
+            }
+        ]
+    }
+}

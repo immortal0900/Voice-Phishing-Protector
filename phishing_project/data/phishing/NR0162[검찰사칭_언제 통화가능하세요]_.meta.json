@@ -1,0 +1,60 @@
+{
+  "file": "NR0162[검찰사칭_언제 통화가능하세요]_.mp3",
+  "rel_path": "NR0162[검찰사칭_언제 통화가능하세요]_.mp3",
+  "language": "ko",
+  "text": "여보세요? 엉헝씨 되십니까? 예 서울중앙지검입니다. 통화가능하세요? 아니요 제가 좀 바깥어요. 죄송합니다. 언제 통화가능하세요? 죄송합니다 저런 폰을 남겨주시면 한강할 때 전화해주세요",
+  "duration_sec": 21.1330625,
+  "segments": [
+    {
+      "index": 0,
+      "start": 0.0,
+      "end": 4.0,
+      "text": "여보세요?",
+      "speaker": "speaker_1",
+      "confidence": -0.861541170340318
+    },
+    {
+      "index": 1,
+      "start": 4.0,
+      "end": 8.0,
+      "text": "엉헝씨 되십니까?",
+      "speaker": "speaker_1",
+      "confidence": -0.861541170340318
+    },
+    {
+      "index": 2,
+      "start": 8.0,
+      "end": 12.0,
+      "text": "예 서울중앙지검입니다. 통화가능하세요?",
+      "speaker": "speaker_1",
+      "confidence": -0.861541170340318
+    },
+    {
+      "index": 3,
+      "start": 12.0,
+      "end": 16.0,
+      "text": "아니요 제가 좀 바깥어요. 죄송합니다.",
+      "speaker": "speaker_1",
+      "confidence": -0.861541170340318
+    },
+    {
+      "index": 4,
+      "start": 16.0,
+      "end": 20.5,
+      "text": "언제 통화가능하세요?",
+      "speaker": "speaker_1",
+      "confidence": -0.861541170340318
+    },
+    {
+      "index": 5,
+      "start": 20.5,
+      "end": 24.5,
+      "text": "죄송합니다 저런 폰을 남겨주시면 한강할 때 전화해주세요",
+      "speaker": "speaker_1",
+      "confidence": -0.861541170340318
+    }
+  ],
+  "engine": "faster-whisper-medium-float16-cuda",
+  "processed_at": 1758158787.080419,
+  "error": null
+}

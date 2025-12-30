@@ -1,0 +1,86 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "고객1",
+                    "age": "40대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "상담사1",
+                    "age": "20대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000240/0001.wav",
+                "duration": 4.712,
+                "text": "아 네 저기 그 통합과학 들으려 그러는데요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000240/0002.wav",
+                "duration": 4.52,
+                "text": "그 이 교재가 (ebook)/(이 북)이더라고요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000240/0003.wav",
+                "duration": 6.691,
+                "text": "그러면 이거 수업을 들으면서 (ebook)/(이 북)으로 같이 창을 열어서 할 수 있는 건가요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000240/0004.wav",
+                "duration": 4.851,
+                "text": "저희가 말씀하신 이제 저희 강좌 페이지에 있는 (ebook)/(이 북)은"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000240/0005.wav",
+                "duration": 9.914,
+                "text": "저 이제 b/ 해당 강좌의 교재가 어떤 구성으로 되어있나 어떤 내용으로 어떤 내용과 구성으로 되어있나 저희가 맛보기로 제공하는 파일이고요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000240/0006.wav",
+                "duration": 7.965,
+                "text": "o/ 네 저희가 강좌 교재는 이제 강좌 결제하시고 이제 교재 구매해 주시면 실물 책으로 교재가 배송되세요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000240/0007.wav",
+                "duration": 2.365,
+                "text": "아 발송되는 거예요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000240/0008.wav",
+                "duration": 3.061,
+                "text": "아 네 네 알겠습니다."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000240/0009.wav",
+                "duration": 2.797,
+                "text": "네 감사합니다. 좋은 하루 되세요."
+            }
+        ]
+    }
+}

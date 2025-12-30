@@ -1,0 +1,116 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "고객1",
+                    "age": "40대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "상담사1",
+                    "age": "20대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000354/0001.wav",
+                "duration": 3.432,
+                "text": "잘 안 들려요. 목소리 좀 크게 해 주세요. 네."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000354/0002.wav",
+                "duration": 3.672,
+                "text": "네? 이제 들려요. 오늘까지잖아요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000354/0003.wav",
+                "duration": 7.165,
+                "text": "o/ 네. 어 네. 판매 자체가 아예 종료가 되시는 건 아닌데요. 다만 지금 보시는 구성이랑은 변동이 생기실 수 (())"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000354/0004.wav",
+                "duration": 4.189,
+                "text": "변동이 어떻게 생기는 거예요? 그 안 좋게 생겨요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000354/0005.wav",
+                "duration": 4.563,
+                "text": "아니다던데 좀 가격이 좀 낮춰지고 전 과목"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000354/0006.wav",
+                "duration": 4.525,
+                "text": "전 과목 (()) (하) 그렇게는 나오는 거죠?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000354/0007.wav",
+                "duration": 6.056,
+                "text": "다만 이게 금액이 무조건 낮아진다 이렇게 진행되지는 않고요. 어떻게 변동될 지는 사실 저희도"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000354/0008.wav",
+                "duration": 2.995,
+                "text": "아니요. 왜 그냐면 이게"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000354/0009.wav",
+                "duration": 3.597,
+                "text": "o/ 이게 (1년)/(일 년)짜리잖아요. 원래 그죠? 응."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000354/0010.wav",
+                "duration": 4.254,
+                "text": "그렇죠. 할인받는 할인으로 판매 되죠. 그죠."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000354/0011.wav",
+                "duration": 5.4,
+                "text": "네. 그쵸. 이게 저희가 일주일 단위로 패스가 계속적으로 변동이 생기시는데요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000354/0012.wav",
+                "duration": 3.592,
+                "text": "매주 금액이 내려가지는 않으시거든요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000354/0013.wav",
+                "duration": 3.309,
+                "text": "금액은 그대로 갈 수도 있고 내려갈 수도 (())"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000354/0014.wav",
+                "duration": 7.88,
+                "text": "(그러면)/(그면) 올라가진 않죠? 음 그러면 되는 거예요. 난 내일 할 거예요. 내일 결제할 거예요. 알겠습니다."
+            }
+        ]
+    }
+}

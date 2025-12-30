@@ -1,0 +1,316 @@
+{
+  "file": "NR0171_검찰11_[서울중앙지검_본인명의의 대포통장 발견됐다며 작업]_.mp3",
+  "rel_path": "NR0171_검찰11_[서울중앙지검_본인명의의 대포통장 발견됐다며 작업]_.mp3",
+  "language": "ko",
+  "text": "여보세요? 네네 여보세요 근데 인사 안 들으십니까? 아니요 예세요 아 네 저는 서울중앙지검의 강대원 수사관입니다 잠깐 통화가 나십니까? 네 몇가지 문의사항 때문에 연락을 드렸던 거구요 선생님 혹시 ***신이 김용수라는 사람을 알고 계십니까? 아니요 저는 모르는 사람이구요 네 다름이 아니고 저희가 5월 15일자로 해서 제가 용의자 김용수 일당 외에 6명의 금융범죄 사기집단을 검거를 하였는데요 검거 현장에서 대량의 대포통장하고 체크카드를 압수를 했습니다 근데 어디라고 되셨죠? 네 저는 서울중앙지방검찰청 금융범죄 수사관의 강대원 수사관입니다 근데 정보기관에서 전화오신게 왜 왜 인륙서사군이에요? 아 저희가 이거 아시다시피 저희가 전반 내용의 사건을 수사하는 과정입니다 제가 114에 문의해서 검찰청으로 전화 드릴게요 그럼 되죠 네 그렇게 하셔도 되시는 거구요 부탁드릴게요",
+  "duration_sec": 75.0759375,
+  "segments": [
+    {
+      "index": 0,
+      "start": 0.0,
+      "end": 2.0,
+      "text": "여보세요?",
+      "speaker": "speaker_1",
+      "confidence": -0.4067841961852506
+    },
+    {
+      "index": 1,
+      "start": 2.0,
+      "end": 4.0,
+      "text": "네네 여보세요 근데 인사 안 들으십니까?",
+      "speaker": "speaker_1",
+      "confidence": -0.4067841961852506
+    },
+    {
+      "index": 2,
+      "start": 4.0,
+      "end": 6.0,
+      "text": "아니요",
+      "speaker": "speaker_1",
+      "confidence": -0.4067841961852506
+    },
+    {
+      "index": 3,
+      "start": 6.0,
+      "end": 8.0,
+      "text": "예세요",
+      "speaker": "speaker_1",
+      "confidence": -0.4067841961852506
+    },
+    {
+      "index": 4,
+      "start": 8.0,
+      "end": 10.0,
+      "text": "아 네 저는 서울중앙지검의",
+      "speaker": "speaker_1",
+      "confidence": -0.4067841961852506
+    },
+    {
+      "index": 5,
+      "start": 10.0,
+      "end": 12.0,
+      "text": "강대원 수사관입니다",
+      "speaker": "speaker_1",
+      "confidence": -0.4067841961852506
+    },
+    {
+      "index": 6,
+      "start": 12.0,
+      "end": 14.0,
+      "text": "잠깐 통화가 나십니까?",
+      "speaker": "speaker_1",
+      "confidence": -0.4067841961852506
+    },
+    {
+      "index": 7,
+      "start": 14.0,
+      "end": 16.0,
+      "text": "네",
+      "speaker": "speaker_1",
+      "confidence": -0.4067841961852506
+    },
+    {
+      "index": 8,
+      "start": 16.0,
+      "end": 18.0,
+      "text": "몇가지 문의사항 때문에 연락을 드렸던 거구요",
+      "speaker": "speaker_1",
+      "confidence": -0.4067841961852506
+    },
+    {
+      "index": 9,
+      "start": 18.0,
+      "end": 20.0,
+      "text": "선생님 혹시",
+      "speaker": "speaker_1",
+      "confidence": -0.4067841961852506
+    },
+    {
+      "index": 10,
+      "start": 20.0,
+      "end": 22.0,
+      "text": "***신이 김용수라는 사람을 알고 계십니까?",
+      "speaker": "speaker_1",
+      "confidence": -0.4067841961852506
+    },
+    {
+      "index": 11,
+      "start": 22.0,
+      "end": 24.0,
+      "text": "아니요",
+      "speaker": "speaker_1",
+      "confidence": -0.4067841961852506
+    },
+    {
+      "index": 12,
+      "start": 24.0,
+      "end": 26.0,
+      "text": "저는 모르는 사람이구요",
+      "speaker": "speaker_1",
+      "confidence": -0.4067841961852506
+    },
+    {
+      "index": 13,
+      "start": 26.0,
+      "end": 28.0,
+      "text": "네",
+      "speaker": "speaker_1",
+      "confidence": -0.4067841961852506
+    },
+    {
+      "index": 14,
+      "start": 28.0,
+      "end": 30.0,
+      "text": "다름이 아니고 저희가",
+      "speaker": "speaker_1",
+      "confidence": -0.2041083851477483
+    },
+    {
+      "index": 15,
+      "start": 30.0,
+      "end": 32.0,
+      "text": "5월 15일자로 해서",
+      "speaker": "speaker_1",
+      "confidence": -0.2041083851477483
+    },
+    {
+      "index": 16,
+      "start": 32.0,
+      "end": 34.0,
+      "text": "제가 용의자 김용수 일당 외에",
+      "speaker": "speaker_1",
+      "confidence": -0.2041083851477483
+    },
+    {
+      "index": 17,
+      "start": 34.0,
+      "end": 36.0,
+      "text": "6명의 금융범죄 사기집단을 검거를 하였는데요",
+      "speaker": "speaker_1",
+      "confidence": -0.2041083851477483
+    },
+    {
+      "index": 18,
+      "start": 36.0,
+      "end": 38.0,
+      "text": "검거 현장에서 대량의",
+      "speaker": "speaker_1",
+      "confidence": -0.2041083851477483
+    },
+    {
+      "index": 19,
+      "start": 38.0,
+      "end": 40.0,
+      "text": "대포통장하고 체크카드를 압수를 했습니다",
+      "speaker": "speaker_1",
+      "confidence": -0.2041083851477483
+    },
+    {
+      "index": 20,
+      "start": 40.0,
+      "end": 42.0,
+      "text": "근데",
+      "speaker": "speaker_1",
+      "confidence": -0.2041083851477483
+    },
+    {
+      "index": 21,
+      "start": 42.0,
+      "end": 44.0,
+      "text": "어디라고 되셨죠?",
+      "speaker": "speaker_1",
+      "confidence": -0.2041083851477483
+    },
+    {
+      "index": 22,
+      "start": 44.0,
+      "end": 46.0,
+      "text": "네 저는",
+      "speaker": "speaker_1",
+      "confidence": -0.2041083851477483
+    },
+    {
+      "index": 23,
+      "start": 46.0,
+      "end": 48.0,
+      "text": "서울중앙지방검찰청",
+      "speaker": "speaker_1",
+      "confidence": -0.2041083851477483
+    },
+    {
+      "index": 24,
+      "start": 48.0,
+      "end": 50.0,
+      "text": "금융범죄 수사관의",
+      "speaker": "speaker_1",
+      "confidence": -0.2041083851477483
+    },
+    {
+      "index": 25,
+      "start": 50.0,
+      "end": 52.0,
+      "text": "강대원 수사관입니다",
+      "speaker": "speaker_1",
+      "confidence": -0.2041083851477483
+    },
+    {
+      "index": 26,
+      "start": 52.0,
+      "end": 54.0,
+      "text": "근데",
+      "speaker": "speaker_1",
+      "confidence": -0.2041083851477483
+    },
+    {
+      "index": 27,
+      "start": 54.0,
+      "end": 56.0,
+      "text": "정보기관에서 전화오신게 왜",
+      "speaker": "speaker_1",
+      "confidence": -0.2041083851477483
+    },
+    {
+      "index": 28,
+      "start": 56.0,
+      "end": 58.0,
+      "text": "왜",
+      "speaker": "speaker_1",
+      "confidence": -0.26992188319563865
+    },
+    {
+      "index": 29,
+      "start": 58.0,
+      "end": 60.0,
+      "text": "인륙서사군이에요?",
+      "speaker": "speaker_1",
+      "confidence": -0.26992188319563865
+    },
+    {
+      "index": 30,
+      "start": 60.0,
+      "end": 62.0,
+      "text": "아 저희가 이거 아시다시피",
+      "speaker": "speaker_1",
+      "confidence": -0.26992188319563865
+    },
+    {
+      "index": 31,
+      "start": 62.0,
+      "end": 64.0,
+      "text": "저희가 전반 내용의",
+      "speaker": "speaker_1",
+      "confidence": -0.26992188319563865
+    },
+    {
+      "index": 32,
+      "start": 64.0,
+      "end": 66.0,
+      "text": "사건을 수사하는 과정입니다",
+      "speaker": "speaker_1",
+      "confidence": -0.26992188319563865
+    },
+    {
+      "index": 33,
+      "start": 66.0,
+      "end": 68.0,
+      "text": "제가 114에 문의해서",
+      "speaker": "speaker_1",
+      "confidence": -0.26992188319563865
+    },
+    {
+      "index": 34,
+      "start": 68.0,
+      "end": 70.0,
+      "text": "검찰청으로 전화 드릴게요",
+      "speaker": "speaker_1",
+      "confidence": -0.26992188319563865
+    },
+    {
+      "index": 35,
+      "start": 70.0,
+      "end": 72.0,
+      "text": "그럼 되죠",
+      "speaker": "speaker_1",
+      "confidence": -0.26992188319563865
+    },
+    {
+      "index": 36,
+      "start": 72.0,
+      "end": 74.0,
+      "text": "네 그렇게 하셔도 되시는 거구요",
+      "speaker": "speaker_1",
+      "confidence": -0.26992188319563865
+    },
+    {
+      "index": 37,
+      "start": 74.0,
+      "end": 76.0,
+      "text": "부탁드릴게요",
+      "speaker": "speaker_1",
+      "confidence": -0.26992188319563865
+    }
+  ],
+  "engine": "faster-whisper-medium-float16-cuda",
+  "processed_at": 1758158787.080419,
+  "error": null
+}

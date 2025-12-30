@@ -1,0 +1,80 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "고객1",
+                    "age": "50대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "상담사1",
+                    "age": "20대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000052/0001.wav",
+                "duration": 5.693,
+                "text": "아 네 네. 상담 시간을 잠시 다시 말씀 드리려 연락 드렸어요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000052/0002.wav",
+                "duration": 5.053,
+                "text": "o/ 시간이 변경이 되어서 (1시)/(한 시)부터 이제 (8시)/(여덟 시)까지 운영을 해요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000052/0003.wav",
+                "duration": 4.339,
+                "text": "o/ 혹시 (7시)/(일곱 시) 이후에 학습 상담 가능하실까요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000052/0004.wav",
+                "duration": 3.721,
+                "text": "아 예. (7시)/(일곱 시)는 될 것 같아요. (7시)/(일곱 시)에 마치니깐예."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000052/0005.wav",
+                "duration": 4.083,
+                "text": "그러면 (7시)/(일곱 시)부터 (8시)/(여덟 시) 사이는 가능하신가요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000052/0006.wav",
+                "duration": 5.971,
+                "text": "아 네 네. 아 그때로 변경해 드릴게요. 번호는 똑같이 네"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000052/0007.wav",
+                "duration": 2.408,
+                "text": "예 알겠습니다."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000052/0008.wav",
+                "duration": 2.451,
+                "text": "예 감사합니다."
+            }
+        ]
+    }
+}

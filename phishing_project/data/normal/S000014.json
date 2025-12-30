@@ -1,0 +1,272 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "고객1",
+                    "age": "40대",
+                    "gender": "남",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "상담사1",
+                    "age": "20대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000014/0001.wav",
+                "duration": 3.539,
+                "text": "o/ 혹시 ((xx생만)) 가능한가요? 상담이?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000014/0002.wav",
+                "duration": 3.069,
+                "text": "아니요. 혹시 어떻게 되실까요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000014/0003.wav",
+                "duration": 6.931,
+                "text": "어 (()) 좀 그 강사 강사로 지금 좀 여쭤볼 게 있어 가지고"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000014/0004.wav",
+                "duration": 3.901,
+                "text": "아 강사에 지원을 하시는 건가요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000014/0005.wav",
+                "duration": 2.557,
+                "text": "네 네. 어디로 연락해야죠?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000014/0006.wav",
+                "duration": 2.28,
+                "text": "저희가 잠시만요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000014/0007.wav",
+                "duration": 6.525,
+                "text": "o/ 어 사이트 저희가 그 강사 모집 페이지 안내 도와드려도 괜찮으실까요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000014/0008.wav",
+                "duration": 2.227,
+                "text": "아 그 알아요. 사이트는"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000014/0009.wav",
+                "duration": 3.133,
+                "text": "그 ((거는)) 번호가 있나요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000014/0010.wav",
+                "duration": 4.489,
+                "text": "o/ 어 혹시 어떠한 사유로 (연) 통화하고 통화를 원하실까요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000014/0011.wav",
+                "duration": 4.937,
+                "text": "o/ 여쭤볼 게 있으니 (()) 있어 가지고요. 여쭤볼 게 있어 가지고"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000014/0012.wav",
+                "duration": 4.605,
+                "text": "o/ 네. 문의하실 사항이 어떻게 되실까요? 전달 도와드릴게요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000014/0013.wav",
+                "duration": 2.11,
+                "text": "o/ 문의하실 사항이요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000014/0014.wav",
+                "duration": 5.651,
+                "text": "그니까 그 지원할 때 뭐 그냥 학원 같은 거 막 기입하잖아요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000014/0015.wav",
+                "duration": 8.275,
+                "text": "o/ 전 학원들 이제 그런 거가 어떻게 다 기입해야 되는 건지 아니면은 뭐 (())(1)/(한), (2개)/(두 개)만 하면 되는 건지"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000014/0016.wav",
+                "duration": 6.717,
+                "text": "그거랑 뭐 에 근데 그거 그냥 통화하면 전달이 전달을 말고 그냥 제가 통화하면 안돼요? 직접?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000014/0017.wav",
+                "duration": 6.878,
+                "text": "네 직접 통화 가능하시지가 않으세요. 네 직접 통화 가능하신 번호가 없는 것으로 확인 되세요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000014/0018.wav",
+                "duration": 3.465,
+                "text": "강사 모집 그쪽 관련된 질문이요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000014/0019.wav",
+                "duration": 4.541,
+                "text": "그러면은 전달 해서 연락을 답변을 드리는 거예요? 겨우 통화로?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000014/0020.wav",
+                "duration": 19.304,
+                "text": "o/ 아 저희가 네 (그러) 네 확인하고 다시 한번 연락 드릴게요. 혹시 (2가지)/(두 가지) 맞으세요? 아니 (2가지)/(두 가지) 네 문의하실 사항이 전에 그니까 전에 회원님께서 에 근무하셨던 학원을 전부 기입해야 하는지 아니면 (1)/(한), (2개)/(두 개)만 기입을 해야 하는지 이거 맞으실까요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000014/0021.wav",
+                "duration": 2.664,
+                "text": "네 그게 (같) 그게 (1)/(하나)의 질문이고"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000014/0022.wav",
+                "duration": 3.283,
+                "text": "뭐 그걸로 연락 뭐 연락을 하는지?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000014/0023.wav",
+                "duration": 4.627,
+                "text": "o/ 뭐 확인? 네 뭐 연락을 하는지? 전 학원에? 이런 거 있잖아요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000014/0024.wav",
+                "duration": 4.275,
+                "text": "o/ 아 전 학원에 확인 연락이 가는지"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000014/0025.wav",
+                "duration": 3.529,
+                "text": "o/ 에 에 에 그런 거 (()) 궁금해서"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000014/0026.wav",
+                "duration": 3.443,
+                "text": "아 그러세요? 혹시 성함이 어떻게 되실까요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000014/0027.wav",
+                "duration": 2.185,
+                "text": "아직 지원 안했는데?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000014/0028.wav",
+                "duration": 4.029,
+                "text": "저희가 성함은 확인해야 이게 전달이 가능해서요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000014/0029.wav",
+                "duration": 2.707,
+                "text": "아 성함이요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000014/0030.wav",
+                "duration": 3.859,
+                "text": "o/ 이세요? 연락 받으실 번호는 어떻게 되실까요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000014/0031.wav",
+                "duration": 3.539,
+                "text": "혹시 (지원하시려는게)/(지원하실려는게) (엇) 어디실까요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000014/0032.wav",
+                "duration": 5.203,
+                "text": "영어요? 어디의 어느 부서세요? 어느 그니까 학원이세요? 아니면"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000014/0033.wav",
+                "duration": 2.579,
+                "text": "학원이요? 아"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000014/0034.wav",
+                "duration": 4.541,
+                "text": "네 영어 말고 또 있나요? 아 저 고등부 네 네."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000014/0035.wav",
+                "duration": 5.523,
+                "text": "o/ 그러세요? 네 저희가 이 부분 확인하고 다시 한번 연락 드리도록 하겠습니다."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000014/0036.wav",
+                "duration": 3.571,
+                "text": "네. (()) 너무 늦지 않겠죠?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000014/0037.wav",
+                "duration": 9.405,
+                "text": "o/ 아 저희가 지금 (1시)/(한 시)부터 (2시)/(두 시)는 점심 시간이라서 (4시)/(네 시) (4시)/(네 시)나 (5시)/(다섯 시) 쯤에 다시 연락 드려도 괜찮으실까요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000014/0038.wav",
+                "duration": 4.051,
+                "text": "o/ 그니까 (4시)/(네 시) 쯤 최대한 (5시)/(다섯 시) 전에만 주시면 (()) 감사하겠습니다."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000014/0039.wav",
+                "duration": 3.347,
+                "text": "o/ 네 저희가 처리 확인 되는 대로 바로 연락 드릴게요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000014/0040.wav",
+                "duration": 2.452,
+                "text": "네 네 네. 감사합니다."
+            }
+        ]
+    }
+}

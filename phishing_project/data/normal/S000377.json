@@ -1,0 +1,116 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "상담사1",
+                    "age": "20대",
+                    "gender": "남",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "고객1",
+                    "age": "20대",
+                    "gender": "남",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000377/0001.wav",
+                "duration": 8.32,
+                "text": "네, 그 제가 뭐 목표 장학생인가 그 그거를 (치) 설정했는데 좀 취소하고 싶어서 전화드렸는데요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000377/0002.wav",
+                "duration": 3.229,
+                "text": "목표 어떤 걸 설정하셨어요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000377/0003.wav",
+                "duration": 4.712,
+                "text": "n/ 그 목표 장학 장학생인가 그거 있잖아요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000377/0004.wav",
+                "duration": 2.419,
+                "text": "o/ 목표 달성 장학생이요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000377/0005.wav",
+                "duration": 4.318,
+                "text": "네, 네, 네, 그거 그거를 그 설정을 했는데"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000377/0006.wav",
+                "duration": 2.267,
+                "text": "o/ 아 설정이라는게"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000377/0007.wav",
+                "duration": 4.968,
+                "text": "신청을 하신 거세요? 아니면은 예상 네, 아 합격"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000377/0008.wav",
+                "duration": 7.976,
+                "text": "n/ o/ 제가 합격하고 싶은 대학교를 이케 했는데 쫌 안 보이게 하고 싶어서 근데 그게 안되더라고요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000377/0009.wav",
+                "duration": 4.669,
+                "text": "n/ 잠시만 기다려주세요. 확인 도와드릴게요. 일단 회원님 아이디 (1번)/(한 번) 말씀해 주시겠어요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000377/0010.wav",
+                "duration": 3.251,
+                "text": "n/ 아 네, 회원님 생년월일 (6자리)/(여섯 자리) 말씀해주세요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000377/0011.wav",
+                "duration": 4.107,
+                "text": "n/ 네, 말씀해주신 내용 확인 도와드릴 거고요. 잠시만 기다려주세요"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000377/0012.wav",
+                "duration": 5.768,
+                "text": "n/ o/ 아 네, 회원 기다려 주셔서 감사드리고요. 따로 이건 수정이 되지 않는 걸로 확인돼서"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000377/0013.wav",
+                "duration": 2.397,
+                "text": "아 네, 알겠습니다."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000377/0014.wav",
+                "duration": 1.992,
+                "text": "네, 감사합니다."
+            }
+        ]
+    }
+}

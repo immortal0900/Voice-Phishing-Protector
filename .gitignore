@@ -1,0 +1,69 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+venv/
+env/
+ENV/
+.env
+.venv/
+
+# VS Code
+.vscode/
+
+# Large Media Files
+*.wav
+*.mp3
+*.m4a
+*.flac
+*.aac
+*.ogg
+
+# Models and Checkpoints
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.ckpt
+models/
+whisper-medium-finetuned-ko/
+phishing_project/fine-tuned-phishing-model/
+phishing_project/gemma-phishing-adapter/
+phishing_project/results/
+
+# Data
+fss_voice_files/
+fss_voice_files_200691/
+fw_stt_voice_files/
+low_qual_tele_files/
+fss_paired_audio/
+stt_results/
+llm_classify_out/
+fss_text_outputs/
+
+# Logs and Temp
+*.log
+temp.txt
+temp.ipynb
+test_tmp.wav

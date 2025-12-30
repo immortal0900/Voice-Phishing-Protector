@@ -1,0 +1,122 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "고객1",
+                    "age": "30대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "상담사1",
+                    "age": "20대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000081/0001.wav",
+                "duration": 3.531,
+                "text": "네 안녕하세요. 여기 지금 처음이어서"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000081/0002.wav",
+                "duration": 4.968,
+                "text": "네 어떻게 되는지 한번 전화 상담하려고 하는데요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000081/0003.wav",
+                "duration": 4.995,
+                "text": "아 어머니 저희 아직 홈페이지도 가입을 아직 하지 않으신 상태 실."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000081/0004.wav",
+                "duration": 5.696,
+                "text": "(들으) 이제 수강을 하시려면 저희가 단과로도 구매가 가능하시고요. 네 저희가 일단"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000081/0005.wav",
+                "duration": 5.853,
+                "text": "o/ 저희랑 분리가 되어있어요. 그래서 이용을 해주시려면 네 각 각 이용을 해주셔야 되세요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000081/0006.wav",
+                "duration": 3.656,
+                "text": "네 그러면 각 각 기기를 사는 건가요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000081/0007.wav",
+                "duration": 7.112,
+                "text": "어 저희가 기기는 일단 저희 고등부에는 일단 저희가 기기 결합 상품은 따로 없고요. 어머니"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000081/0008.wav",
+                "duration": 6.136,
+                "text": "어 네 만약에 구매를 하시려면 네 자녀분 각각 기기를 네 구매하셔서 이용해주셔야 하세요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000081/0009.wav",
+                "duration": 6.952,
+                "text": "o/ 그럼 요거는 언제든지 그냥 홈페이지 상에서 가입하고 결제하면 바로 수강이 가능한 거예요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000081/0010.wav",
+                "duration": 6.931,
+                "text": "어 네 저희 (()) 바로 결제하시고 수강하시면 바로 강의 들으실 수 있습니다."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000081/0011.wav",
+                "duration": 4.904,
+                "text": "예 그러면 교재는 또 그 여기 교재를 써야 되는 거고요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000081/0012.wav",
+                "duration": 9.693,
+                "text": "어 네 저희 이제 강의마다 다 해당 교재가 판매 중이어서 네 수강하시는 강좌의 교재를 구매하셔서 네 수강하시면 됩니다."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000081/0013.wav",
+                "duration": 9.227,
+                "text": "그러면 그거는 그 뭐 인터넷 상에서 온라인으로 하는 교재인가요. 아니면 그냥 학습지처럼 집에서 푸는 거가 각 각 있나요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000081/0014.wav",
+                "duration": 14.355,
+                "text": "o/ 어 저희가 교재가 이제 선생님께서 저희 온라인 자료 자료실에 올려주는 경우도 있고 저희가 보통은 이제 저희가 교재를 구매를 하시면 저희가 책 실물을 이제 배송으로 받아서 이제 수업을 들으실 수 있거든요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000081/0015.wav",
+                "duration": 4.887,
+                "text": "네, 네, 알겠습니다. 그럼 아이하고 (()) 얘기해보고 할게요."
+            }
+        ]
+    }
+}

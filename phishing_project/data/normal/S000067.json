@@ -1,0 +1,170 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "상담사1",
+                    "age": "30대",
+                    "gender": "남",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "고객1",
+                    "age": "40대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000067/0001.wav",
+                "duration": 1.944,
+                "text": "n/ 무엇을 도와드릴까요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000067/0002.wav",
+                "duration": 2.056,
+                "text": "n/ 네 여보세요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000067/0003.wav",
+                "duration": 2.916,
+                "text": "n/ 네 고 (3)/(삼) 학생인데요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000067/0004.wav",
+                "duration": 6.707,
+                "text": "n/ 저기 수능 전까지 그거 인강을 좀 듣고 싶는데요"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000067/0005.wav",
+                "duration": 5.085,
+                "text": "n/ 선생님 그 패키지를 신청하면 되나요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000067/0006.wav",
+                "duration": 2.893,
+                "text": "n/ 아직 회원가입 안 돼있어요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000067/0007.wav",
+                "duration": 2.531,
+                "text": "n/ 네 국어 과목이요 네."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000067/0008.wav",
+                "duration": 8.419,
+                "text": "n/ o/ 그냥 저기 수능 앞두고 그냥 두루두루 들으려고 하는 건데 그러면 패키지로 진행하는 게 제일 좋은 건가요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000067/0009.wav",
+                "duration": 4.317,
+                "text": "n/ 지금 해당부분에 (()) (안) 안내를 드리자면요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000067/0010.wav",
+                "duration": 4.456,
+                "text": "n/ 일클 월클 뭐 있는 그거던데 모의고사 예"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000067/0011.wav",
+                "duration": 4.689,
+                "text": "n/ 어 제가 그냥 홈페이지에서 잠깐 본거라 기억이 안 나는데"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000067/0012.wav",
+                "duration": 5.885,
+                "text": "n/ 그 할인해서 (106400원)/(십만 육천 사백 원)인가 뭐 이렇게 돼있었던 것 같아요. 금액"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000067/0013.wav",
+                "duration": 3.341,
+                "text": "n/ 그럼 고 (3)/(삼)은 어떤 게 더 나을까요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000067/0014.wav",
+                "duration": 2.413,
+                "text": "n/ (()) 그게 나은가요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000067/0015.wav",
+                "duration": 6.54,
+                "text": "n/ 그러면 모의고사 위주로 풀고 싶으면 (()) 첫번째 패키지가 더 나은 건가요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000067/0016.wav",
+                "duration": 2.542,
+                "text": "n/ 뭐가 필요한지 잘 모르겠다."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000067/0017.wav",
+                "duration": 3.705,
+                "text": "n/ 그럼 모의고사 위주로 있는 패키지도 있나요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000067/0018.wav",
+                "duration": 4.488,
+                "text": "n/ 아 그러면은 제가 선택을 하긴 하는 건데"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000067/0019.wav",
+                "duration": 10.609,
+                "text": "n/ 그 수능 코앞에 두고 지금 신청할 수 있는 패키지가 그러면은 추천해주실 수 있는 게 수능특별 그거가 더 나을까요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000067/0020.wav",
+                "duration": 3.374,
+                "text": "n/ (EBS)/(이비에스) 수능특강이 더 나을까요? 예."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000067/0021.wav",
+                "duration": 4.856,
+                "text": "n/ 예 전반적으로 정리를 그냥 (하려고)/(할려고) 그러는 거라"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000067/0022.wav",
+                "duration": 2.547,
+                "text": "n/ 네 고맙습니다."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000067/0023.wav",
+                "duration": 2.445,
+                "text": "n/ 네 알겠습니다."
+            }
+        ]
+    }
+}

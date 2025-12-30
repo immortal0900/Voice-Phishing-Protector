@@ -1,0 +1,332 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "고객1",
+                    "age": "40대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "상담사1",
+                    "age": "20대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000404/0001.wav",
+                "duration": 3.304,
+                "text": "아 여기가 인강하는 덴가요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000404/0002.wav",
+                "duration": 3.229,
+                "text": "아 고등학교 (1학년)/(일 학년)인데요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000404/0003.wav",
+                "duration": 2.825,
+                "text": "처럼 이렇게 하는 건가요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000404/0004.wav",
+                "duration": 6.994,
+                "text": "o/ 어 일단은 대면은 아니고 저희 저희 에서는 온라인이 인강 통해서 수업을 해요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000404/0005.wav",
+                "duration": 3.211,
+                "text": "아 온라인에 아래 그거"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000404/0006.wav",
+                "duration": 3.444,
+                "text": "(()) 원래 전과목 아닌가요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000404/0007.wav",
+                "duration": 3.474,
+                "text": "뭐 구매하시면 전과목 수강가능"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000404/0008.wav",
+                "duration": 3.187,
+                "text": "(1달)/(한 달)에 얼마씩 내가 내는 게 아니라요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000404/0009.wav",
+                "duration": 4.936,
+                "text": "올해 (12월)/(십 이 월) (31일)/(삼십 일 일)까지 자유롭게 수강하실 수가 있고요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000404/0010.wav",
+                "duration": 6.655,
+                "text": "o/ 뭐 구매 안 하시더라도 단과나 패키지로 구매하실 수 있어요. (1)/(하나) (1)/(하나)씩 결제하시는거"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000404/0011.wav",
+                "duration": 2.397,
+                "text": "아 월 마다요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000404/0012.wav",
+                "duration": 4.872,
+                "text": "강좌 (1)/(하나) (1)/(하나)씩 이렇게 따로 구매하실 수도 (있고요)/(있구요)."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000404/0013.wav",
+                "duration": 4.669,
+                "text": "하실 수가 있어요. 어 거 구매하시면은"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000404/0014.wav",
+                "duration": 8.408,
+                "text": "고등학교 (1학년)/(일 학년) (2학년)/(이 학년) (3학년)/(삼 학년) 강좌 올해 (12월)/(십 이 월) (31일)/(삼십 일 일)까지 자유롭게 수강하실 수가 있고요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000404/0015.wav",
+                "duration": 2.568,
+                "text": "o/ 이제 베이직 경우에는"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000404/0016.wav",
+                "duration": 2.868,
+                "text": "수강권이 따로 있어요"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000404/0017.wav",
+                "duration": 5.16,
+                "text": "어 그러면 (1년)/(일 년) (12월)/(십 이 월)달까지는 그러면 (490000원)/(사십 구만 원)인데 만약에 (1년)/(일 년) 지나면 어떻게 돼요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000404/0018.wav",
+                "duration": 3.763,
+                "text": "네, (1월)/(일 월) (1일)/(일 일) 되면 다시 구매하셔야 돼요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000404/0019.wav",
+                "duration": 2.703,
+                "text": "(1년)/(일 년)에 그게 얼만데요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000404/0020.wav",
+                "duration": 8.477,
+                "text": "o/ (490000원)/(사십 구만 원)이요. 기본이 (490000원)/(사십 구만 원)이고 교재 캐시가 포함되어 있으신 게 있는데 이거 (690000원)/(육십 구만 원)이요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000404/0021.wav",
+                "duration": 2.525,
+                "text": "아 교재는 뭐예요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000404/0022.wav",
+                "duration": 11.221,
+                "text": "o/ 강좌마다 이제 필요하신 교재가 있는데 이 부분 선생님께서 제작하신 교재가 있어요. 그 교재랑 이제 온라인 서점 교재를 캐시로 구매하실 수가 있어요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000404/0023.wav",
+                "duration": 6.653,
+                "text": "o/ 아 그렇구나. 아 저 다달이 뭐 돈을 내는 건 줄 알았더니"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000404/0024.wav",
+                "duration": 5.647,
+                "text": "정기권을 사 근데 지금이 (4월)/(사 월)달인데 그 (90000원)/(구만 원)을 다 내야 돼요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000404/0025.wav",
+                "duration": 6.658,
+                "text": "아 지금은 (100000원)/(십만 원) 정도 인하된 가격이고 원래 정가 (590000원)/(오십 구만 원)이세요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000404/0026.wav",
+                "duration": 9.429,
+                "text": "지금은 (100000원)/(십만 원) 할인해서 판매하고 있어요. 정해져 있어서 금액으로 결제하셔야 수강 하실 수가 있어요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000404/0027.wav",
+                "duration": 5.203,
+                "text": "그러면 뭐 국어 영어 수학 사회 국어 다 하는 거예요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000404/0028.wav",
+                "duration": 2.728,
+                "text": "네, 다 볼 수가 (있고요)/(있구요)."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000404/0029.wav",
+                "duration": 2.537,
+                "text": "안되는 거는"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000404/0030.wav",
+                "duration": 9.04,
+                "text": "제일 단과가 묶인 패키지 강좌나 적성 검사 첨삭 강좌 이런 거는 다 볼 수 있다 보시면 돼요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000404/0031.wav",
+                "duration": 6.824,
+                "text": "음 하게 되면 지금 전화한 대로 전화 드리고 가면 되나요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000404/0032.wav",
+                "duration": 8.605,
+                "text": "아니요. 사이트에서 학생 계정으로 신규 가입하시고 이거 사이트에서 구매해주시면 돼요. 여기서 구매하시면 돼요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000404/0033.wav",
+                "duration": 4.68,
+                "text": "어 이거는 괜찮나요? 선생님들하고 이렇게 저기 수업은"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000404/0034.wav",
+                "duration": 2.824,
+                "text": "네, 많은 학생들이 들어서"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000404/0035.wav",
+                "duration": 9.547,
+                "text": "어 인제 (1번)/(한 번)도 안 해봐서 인강은 뭐 어떤 걸 할부 한번 해볼까했더니 인터넷 뒤져보니까 여기 나오길래 제가 지금 한번 여쭤보는 거 거든요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000404/0036.wav",
+                "duration": 8.339,
+                "text": "그러면은 이렇게 자세하게 제가 상담해 주실 수 있는 선생님께 연결해드리려고 하는데 이쪽으로 연결해드릴까요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000404/0037.wav",
+                "duration": 3.561,
+                "text": "o/ 그 선생님한테 연결하면 뭐가 있나요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000404/0038.wav",
+                "duration": 8.509,
+                "text": "o/ 전화 통해서 이제 회원님께 연락이 오시는데 어떤 강좌를 공부하시는 게 나을지 추천도 해주세요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000404/0039.wav",
+                "duration": 2.845,
+                "text": "강좌가 다 다른가요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000404/0040.wav",
+                "duration": 2.634,
+                "text": "강좌가 다 달라요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000404/0041.wav",
+                "duration": 5.115,
+                "text": "n/ 선생문도 많고 선생님에 따라 강좌도 달라요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000404/0042.wav",
+                "duration": 3.766,
+                "text": "n/ 예 일단 전화 좀 달라고 해주세요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000404/0043.wav",
+                "duration": 2.301,
+                "text": "n/ 네, 그러면은"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000404/0044.wav",
+                "duration": 6.056,
+                "text": "n/ 그 연락 받으실 번호가 어떻게 되실까요? 불가하신 시간 있으실까요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000404/0045.wav",
+                "duration": 3.64,
+                "text": "n/ 저는 (1시)/(한 시)부터 (2시)/(두 시)까지는 가능해요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000404/0046.wav",
+                "duration": 3.613,
+                "text": "n/ (1시)/(한 시)부터 (2시)/(두 시)까지만 가능하신 건가요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000404/0047.wav",
+                "duration": 3.232,
+                "text": "n/ 아니요. 가능하긴 하는데 좀"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000404/0048.wav",
+                "duration": 4.819,
+                "text": "n/ 바쁠 때가 간혹가다 있어서 언제가 아니 일단 전화 주시면"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000404/0049.wav",
+                "duration": 2.963,
+                "text": "n/ 아 예 알겠습니다."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000404/0050.wav",
+                "duration": 2.492,
+                "text": "n/ 전달해 드릴게요."
+            }
+        ]
+    }
+}

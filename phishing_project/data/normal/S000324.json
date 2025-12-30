@@ -1,0 +1,86 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "고객1",
+                    "age": "50대",
+                    "gender": "남",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "상담사1",
+                    "age": "30대",
+                    "gender": "남",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000324/0001.wav",
+                "duration": 7.653,
+                "text": "아 예 그 저희 애가 고 (1)/(일)인데요. 예 뭐 어떻게 하면 되죠? 그냥 회원 가입하고 결제하면 되나요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000324/0002.wav",
+                "duration": 4.857,
+                "text": "o/ 그 학생 회원하고 학부모 회원이 있는데 학생 회원으로 가입하신 다음에"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000324/0003.wav",
+                "duration": 4.872,
+                "text": "n/ o/ 진행해주시면 되세요. 뭐 결제는 뭐 부모님 카드로 하시면 되시는 거니까"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000324/0004.wav",
+                "duration": 3.177,
+                "text": "그 예를 들어 중학교 때 애가 그"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000324/0005.wav",
+                "duration": 5.923,
+                "text": "n/ o/ 아이디 아예 다른 걸로 하셔야 돼요. 중복 중복으로 안돼요. 가입이 똑같은거는"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000324/0006.wav",
+                "duration": 3.736,
+                "text": "o/ 예 그냥 그 정상적으로 가입하고 결제하면 그냥 끝나는 거죠?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000324/0007.wav",
+                "duration": 1.976,
+                "text": "o/ 어 네 맞습니다."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000324/0008.wav",
+                "duration": 2.083,
+                "text": "아 예 알겠어요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000324/0009.wav",
+                "duration": 2.019,
+                "text": "o/ 네 감사합니다."
+            }
+        ]
+    }
+}

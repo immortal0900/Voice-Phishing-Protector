@@ -1,0 +1,158 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "상담사1",
+                    "age": "30대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "고객1",
+                    "age": "40대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000181/0001.wav",
+                "duration": 4.136,
+                "text": "o/ 네 그 (여쭤보려고)/(여쭤볼려고) 그러는데 아이가 지금 중 (3)/(삼)인데"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000181/0002.wav",
+                "duration": 4.797,
+                "text": "이 이제 고등학교 올라갈 때 그통합과학을 먼저"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000181/0003.wav",
+                "duration": 2.771,
+                "text": "선행을 좀 하고 싶은데요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000181/0004.wav",
+                "duration": 3.133,
+                "text": "이거 어떻게 하면되는지 뭐"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000181/0005.wav",
+                "duration": 13.928,
+                "text": "o/ 아 상담 그니까 통합과학 만약에 (1)/(하나)만 들으시면 저희 단과로 수강을 하시면 되는데 어 저희가 강좌 추천이라던가 요런 것들은 선생님 따로 계셔서 저희가 전화를 드려야 돼요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000181/0006.wav",
+                "duration": 3.368,
+                "text": "어 혹시 저희 쪽 아직 아이디는 없으신 거죠?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000181/0007.wav",
+                "duration": 4.776,
+                "text": "o/ 네 그러면 혹시 학년이 다시 (한) 죄송한데 어떻게 된다 하셨죠?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000181/0008.wav",
+                "duration": 5.629,
+                "text": "그러면 만약에 홈페이지에서 온라인 가입을 해야 되는데 그러면 아이가 가입하는 게 낫나요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000181/0009.wav",
+                "duration": 10.387,
+                "text": "o/ 저희 수강이나 결제는 학생회원 아이디로만 가능하셔 하고 학부모회원 아이디는 자녀관리용이라서 결제 같은 것들이 안돼요. 그래서 자녀분으로"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000181/0010.wav",
+                "duration": 3.837,
+                "text": "o/ 학생 이름으로 회원가입을 하고 결제를 해야겠네요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000181/0011.wav",
+                "duration": 4.659,
+                "text": "아 그러면은 아이가 중 (3)/(삼)이거든요. 지금?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000181/0012.wav",
+                "duration": 7.751,
+                "text": "o/ 네 중 (3)/(삼)이고 어 네 통합과학 선행 원하시는 거고"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000181/0013.wav",
+                "duration": 2.536,
+                "text": "통합과학부터 시작하는거죠?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000181/0014.wav",
+                "duration": 4.627,
+                "text": "그러면 저희 선생님이 어 (1시)/(한 시) 지나서 전화 다시 드릴게요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000181/0015.wav",
+                "duration": 2.173,
+                "text": "이쪽으로 드리면 될까요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000181/0016.wav",
+                "duration": 5.629,
+                "text": "o/ 죄송한데 그러면 전화를 지금 제가 회사에 나와있어서 점심시간이어가지고"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000181/0017.wav",
+                "duration": 2.756,
+                "text": "(1시)/(한 시) (40분)/(사십 분) 이후에 주실 수"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000181/0018.wav",
+                "duration": 4.989,
+                "text": "o/ 아 (1시)/(한 시) (40분)/(사십 분)이후에는 뭐 시간 괜찮으신거죠?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000181/0019.wav",
+                "duration": 3.944,
+                "text": "아 네 그러면 요렇게 해서 접수해놓도록 할게요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000181/0020.wav",
+                "duration": 2.152,
+                "text": "아 네 알겠습니다."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000181/0021.wav",
+                "duration": 1.971,
+                "text": "o/ 네 감사합니다."
+            }
+        ]
+    }
+}

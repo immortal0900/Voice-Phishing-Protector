@@ -1,0 +1,652 @@
+{
+  "file": "NR4020_마스킹 완료_.mp3",
+  "rel_path": "NR4020_마스킹 완료_.mp3",
+  "language": "ko",
+  "text": "뭐라고요? 제가 잘 못들어가지고 서울, 서울중앙지검이구요 네 손단범죄사팀 김진석 수사관입니다 네 다름이 아니라 본인과 관련된 사건이 접수가 돼서 확인찰락되어 있는데 잠시만 통화 안 하세요 네 본인 혹시 서울 출신입니다 서울 출신 남성이구요 네 서울 출신 37세 남성 김강호를 알고 계십니까? 네 김강호요? 김강호 아니요 몰라요 전혀 모르세요? 네 저희가 김강호에 대해서 여쭤본 이유는 얼마전 저희 지검에서 김강호를 지검으로 한 금융검죄사회라는 검거였습니다 네 사퇴연락에서 대포통장과 보안카드 압수하는 과정에서 본인 양위로 된 제일은행과 내신증권 CMA 계좌가 발견돼서 확인찰락을 드린거구요 네 저희가 각 금융권을 확인해본 결과 2017년 4월 당 서울시 세초구에서 새로 개설된 계좌로 확인을 했어요 몇월 며칠이요? 2017년 4월입니다 2017년 4월이요? 네 본인께서 신규 개설에 관련해 알고 계시는 사실이 있으십니까? 아니요 본인께서 개설하신 사실이 없으세요? 네 일단 저희가 연락드린 전반적인 이유는 본인께서 직접 계좌를 개설해서 통장을 양도하신 가담 혐의가 있는건지 반면 개인정보 유출이나 이런 부분으로 인해서 금융범죄의 피해를 입으신건지 확인찰락을 드린거에요 네 일단 이번 사건은 본인뿐만이 아니라 전국적으로 약 200명가량 연료가 되어있는 사건입니다 이제는 개인정보 유출로 인해서 피해를 보신 분들도 계시고 몇몇 분들은 대가성의 자금을 받고 통장을 판매하거나 양도하신 분들이 계셨어요 네 본인께서 타인에게 통장을 판매하거나 양도하신 사실이 있습니까? 아니요 전혀 없으세요? 네 일단 부터 현장에서 본인명의 계좌가 발견되다 보니 본인께서 피해자 입증을 받으셔야 되는 상황이에요 네 발견된 계좌가 본인과는 직관적 점으로 연관이 없다는 부분이 입증되셔야 됩니다 네 지금부터 통화 내용은 전반적인 목지상태로 진행될거에요 목지파일은 본인께서 피해자 입증 받는데 증거자료로 제출될겁니다 네 본인도 해야 녹취 진행해도 되겠습니까? 네 본인 확인부터 다시한번 할게요 통화자분이 성함이 맞습니까? 네 맞으세요? 아니요 아닙니까? 네",
+  "duration_sec": 167.230125,
+  "segments": [
+    {
+      "index": 0,
+      "start": 0.0,
+      "end": 2.0,
+      "text": "뭐라고요? 제가 잘 못들어가지고",
+      "speaker": "speaker_1",
+      "confidence": -0.2982382678345546
+    },
+    {
+      "index": 1,
+      "start": 2.0,
+      "end": 5.0,
+      "text": "서울, 서울중앙지검이구요",
+      "speaker": "speaker_1",
+      "confidence": -0.2982382678345546
+    },
+    {
+      "index": 2,
+      "start": 5.0,
+      "end": 6.0,
+      "text": "네",
+      "speaker": "speaker_1",
+      "confidence": -0.2982382678345546
+    },
+    {
+      "index": 3,
+      "start": 6.0,
+      "end": 9.0,
+      "text": "손단범죄사팀 김진석 수사관입니다",
+      "speaker": "speaker_1",
+      "confidence": -0.2982382678345546
+    },
+    {
+      "index": 4,
+      "start": 9.0,
+      "end": 10.0,
+      "text": "네",
+      "speaker": "speaker_1",
+      "confidence": -0.2982382678345546
+    },
+    {
+      "index": 5,
+      "start": 10.0,
+      "end": 13.0,
+      "text": "다름이 아니라 본인과 관련된 사건이 접수가 돼서",
+      "speaker": "speaker_1",
+      "confidence": -0.2982382678345546
+    },
+    {
+      "index": 6,
+      "start": 13.0,
+      "end": 14.0,
+      "text": "확인찰락되어 있는데",
+      "speaker": "speaker_1",
+      "confidence": -0.2982382678345546
+    },
+    {
+      "index": 7,
+      "start": 14.0,
+      "end": 15.0,
+      "text": "잠시만",
+      "speaker": "speaker_1",
+      "confidence": -0.2982382678345546
+    },
+    {
+      "index": 8,
+      "start": 15.0,
+      "end": 16.0,
+      "text": "통화 안 하세요",
+      "speaker": "speaker_1",
+      "confidence": -0.2982382678345546
+    },
+    {
+      "index": 9,
+      "start": 16.0,
+      "end": 17.0,
+      "text": "네",
+      "speaker": "speaker_1",
+      "confidence": -0.2982382678345546
+    },
+    {
+      "index": 10,
+      "start": 17.0,
+      "end": 19.0,
+      "text": "본인 혹시 서울 출신입니다",
+      "speaker": "speaker_1",
+      "confidence": -0.2982382678345546
+    },
+    {
+      "index": 11,
+      "start": 19.0,
+      "end": 21.0,
+      "text": "서울 출신 남성이구요",
+      "speaker": "speaker_1",
+      "confidence": -0.2982382678345546
+    },
+    {
+      "index": 12,
+      "start": 21.0,
+      "end": 22.0,
+      "text": "네",
+      "speaker": "speaker_1",
+      "confidence": -0.2982382678345546
+    },
+    {
+      "index": 13,
+      "start": 22.0,
+      "end": 25.0,
+      "text": "서울 출신 37세 남성 김강호를 알고 계십니까?",
+      "speaker": "speaker_1",
+      "confidence": -0.2982382678345546
+    },
+    {
+      "index": 14,
+      "start": 25.0,
+      "end": 27.0,
+      "text": "네 김강호요?",
+      "speaker": "speaker_1",
+      "confidence": -0.2982382678345546
+    },
+    {
+      "index": 15,
+      "start": 27.0,
+      "end": 28.0,
+      "text": "김강호",
+      "speaker": "speaker_1",
+      "confidence": -0.2982382678345546
+    },
+    {
+      "index": 16,
+      "start": 28.0,
+      "end": 29.0,
+      "text": "아니요 몰라요",
+      "speaker": "speaker_1",
+      "confidence": -0.2982382678345546
+    },
+    {
+      "index": 17,
+      "start": 29.0,
+      "end": 30.0,
+      "text": "전혀 모르세요?",
+      "speaker": "speaker_1",
+      "confidence": -0.268581071415463
+    },
+    {
+      "index": 18,
+      "start": 30.0,
+      "end": 31.0,
+      "text": "네",
+      "speaker": "speaker_1",
+      "confidence": -0.268581071415463
+    },
+    {
+      "index": 19,
+      "start": 32.0,
+      "end": 34.0,
+      "text": "저희가 김강호에 대해서 여쭤본 이유는",
+      "speaker": "speaker_1",
+      "confidence": -0.268581071415463
+    },
+    {
+      "index": 20,
+      "start": 34.0,
+      "end": 37.0,
+      "text": "얼마전 저희 지검에서 김강호를 지검으로 한",
+      "speaker": "speaker_1",
+      "confidence": -0.268581071415463
+    },
+    {
+      "index": 21,
+      "start": 37.0,
+      "end": 40.0,
+      "text": "금융검죄사회라는 검거였습니다",
+      "speaker": "speaker_1",
+      "confidence": -0.268581071415463
+    },
+    {
+      "index": 22,
+      "start": 40.0,
+      "end": 41.0,
+      "text": "네",
+      "speaker": "speaker_1",
+      "confidence": -0.268581071415463
+    },
+    {
+      "index": 23,
+      "start": 41.0,
+      "end": 45.0,
+      "text": "사퇴연락에서 대포통장과 보안카드 압수하는 과정에서",
+      "speaker": "speaker_1",
+      "confidence": -0.268581071415463
+    },
+    {
+      "index": 24,
+      "start": 46.0,
+      "end": 48.0,
+      "text": "본인 양위로 된 제일은행과",
+      "speaker": "speaker_1",
+      "confidence": -0.268581071415463
+    },
+    {
+      "index": 25,
+      "start": 48.0,
+      "end": 52.0,
+      "text": "내신증권 CMA 계좌가 발견돼서 확인찰락을 드린거구요",
+      "speaker": "speaker_1",
+      "confidence": -0.268581071415463
+    },
+    {
+      "index": 26,
+      "start": 52.0,
+      "end": 53.0,
+      "text": "네",
+      "speaker": "speaker_1",
+      "confidence": -0.268581071415463
+    },
+    {
+      "index": 27,
+      "start": 53.0,
+      "end": 56.0,
+      "text": "저희가 각 금융권을 확인해본 결과",
+      "speaker": "speaker_1",
+      "confidence": -0.268581071415463
+    },
+    {
+      "index": 28,
+      "start": 56.0,
+      "end": 59.0,
+      "text": "2017년 4월 당 서울시 세초구에서",
+      "speaker": "speaker_1",
+      "confidence": -0.15891472868217055
+    },
+    {
+      "index": 29,
+      "start": 59.0,
+      "end": 61.0,
+      "text": "새로 개설된 계좌로 확인을 했어요",
+      "speaker": "speaker_1",
+      "confidence": -0.15891472868217055
+    },
+    {
+      "index": 30,
+      "start": 61.0,
+      "end": 62.0,
+      "text": "몇월 며칠이요?",
+      "speaker": "speaker_1",
+      "confidence": -0.15891472868217055
+    },
+    {
+      "index": 31,
+      "start": 63.0,
+      "end": 65.0,
+      "text": "2017년 4월입니다",
+      "speaker": "speaker_1",
+      "confidence": -0.15891472868217055
+    },
+    {
+      "index": 32,
+      "start": 65.0,
+      "end": 66.0,
+      "text": "2017년 4월이요?",
+      "speaker": "speaker_1",
+      "confidence": -0.15891472868217055
+    },
+    {
+      "index": 33,
+      "start": 66.0,
+      "end": 67.0,
+      "text": "네",
+      "speaker": "speaker_1",
+      "confidence": -0.15891472868217055
+    },
+    {
+      "index": 34,
+      "start": 68.0,
+      "end": 70.0,
+      "text": "본인께서 신규 개설에 관련해",
+      "speaker": "speaker_1",
+      "confidence": -0.15891472868217055
+    },
+    {
+      "index": 35,
+      "start": 70.0,
+      "end": 72.0,
+      "text": "알고 계시는 사실이 있으십니까?",
+      "speaker": "speaker_1",
+      "confidence": -0.15891472868217055
+    },
+    {
+      "index": 36,
+      "start": 72.0,
+      "end": 73.0,
+      "text": "아니요",
+      "speaker": "speaker_1",
+      "confidence": -0.15891472868217055
+    },
+    {
+      "index": 37,
+      "start": 73.0,
+      "end": 75.0,
+      "text": "본인께서 개설하신 사실이 없으세요?",
+      "speaker": "speaker_1",
+      "confidence": -0.15891472868217055
+    },
+    {
+      "index": 38,
+      "start": 75.0,
+      "end": 76.0,
+      "text": "네",
+      "speaker": "speaker_1",
+      "confidence": -0.15891472868217055
+    },
+    {
+      "index": 39,
+      "start": 77.0,
+      "end": 78.0,
+      "text": "일단 저희가",
+      "speaker": "speaker_1",
+      "confidence": -0.15891472868217055
+    },
+    {
+      "index": 40,
+      "start": 79.0,
+      "end": 81.0,
+      "text": "연락드린 전반적인 이유는",
+      "speaker": "speaker_1",
+      "confidence": -0.15891472868217055
+    },
+    {
+      "index": 41,
+      "start": 81.0,
+      "end": 83.0,
+      "text": "본인께서 직접 계좌를 개설해서",
+      "speaker": "speaker_1",
+      "confidence": -0.15891472868217055
+    },
+    {
+      "index": 42,
+      "start": 83.0,
+      "end": 86.0,
+      "text": "통장을 양도하신 가담 혐의가 있는건지",
+      "speaker": "speaker_1",
+      "confidence": -0.12334437165039265
+    },
+    {
+      "index": 43,
+      "start": 86.0,
+      "end": 88.0,
+      "text": "반면 개인정보 유출이나",
+      "speaker": "speaker_1",
+      "confidence": -0.12334437165039265
+    },
+    {
+      "index": 44,
+      "start": 88.0,
+      "end": 90.0,
+      "text": "이런 부분으로 인해서",
+      "speaker": "speaker_1",
+      "confidence": -0.12334437165039265
+    },
+    {
+      "index": 45,
+      "start": 90.0,
+      "end": 93.0,
+      "text": "금융범죄의 피해를 입으신건지 확인찰락을 드린거에요",
+      "speaker": "speaker_1",
+      "confidence": -0.12334437165039265
+    },
+    {
+      "index": 46,
+      "start": 93.0,
+      "end": 94.0,
+      "text": "네",
+      "speaker": "speaker_1",
+      "confidence": -0.12334437165039265
+    },
+    {
+      "index": 47,
+      "start": 94.0,
+      "end": 97.0,
+      "text": "일단 이번 사건은 본인뿐만이 아니라",
+      "speaker": "speaker_1",
+      "confidence": -0.12334437165039265
+    },
+    {
+      "index": 48,
+      "start": 97.0,
+      "end": 101.0,
+      "text": "전국적으로 약 200명가량 연료가 되어있는 사건입니다",
+      "speaker": "speaker_1",
+      "confidence": -0.12334437165039265
+    },
+    {
+      "index": 49,
+      "start": 101.0,
+      "end": 103.0,
+      "text": "이제는 개인정보 유출로 인해서",
+      "speaker": "speaker_1",
+      "confidence": -0.12334437165039265
+    },
+    {
+      "index": 50,
+      "start": 103.0,
+      "end": 105.0,
+      "text": "피해를 보신 분들도 계시고",
+      "speaker": "speaker_1",
+      "confidence": -0.12334437165039265
+    },
+    {
+      "index": 51,
+      "start": 105.0,
+      "end": 108.0,
+      "text": "몇몇 분들은 대가성의 자금을 받고",
+      "speaker": "speaker_1",
+      "confidence": -0.12334437165039265
+    },
+    {
+      "index": 52,
+      "start": 108.0,
+      "end": 111.0,
+      "text": "통장을 판매하거나 양도하신 분들이 계셨어요",
+      "speaker": "speaker_1",
+      "confidence": -0.12334437165039265
+    },
+    {
+      "index": 53,
+      "start": 111.0,
+      "end": 112.0,
+      "text": "네",
+      "speaker": "speaker_1",
+      "confidence": -0.12334437165039265
+    },
+    {
+      "index": 54,
+      "start": 113.0,
+      "end": 115.0,
+      "text": "본인께서 타인에게 통장을 판매하거나",
+      "speaker": "speaker_1",
+      "confidence": -0.1255073097425622
+    },
+    {
+      "index": 55,
+      "start": 115.0,
+      "end": 117.0,
+      "text": "양도하신 사실이 있습니까?",
+      "speaker": "speaker_1",
+      "confidence": -0.1255073097425622
+    },
+    {
+      "index": 56,
+      "start": 117.0,
+      "end": 118.0,
+      "text": "아니요",
+      "speaker": "speaker_1",
+      "confidence": -0.1255073097425622
+    },
+    {
+      "index": 57,
+      "start": 118.0,
+      "end": 119.0,
+      "text": "전혀 없으세요?",
+      "speaker": "speaker_1",
+      "confidence": -0.1255073097425622
+    },
+    {
+      "index": 58,
+      "start": 119.0,
+      "end": 120.0,
+      "text": "네",
+      "speaker": "speaker_1",
+      "confidence": -0.1255073097425622
+    },
+    {
+      "index": 59,
+      "start": 120.0,
+      "end": 122.0,
+      "text": "일단 부터 현장에서",
+      "speaker": "speaker_1",
+      "confidence": -0.1255073097425622
+    },
+    {
+      "index": 60,
+      "start": 122.0,
+      "end": 124.0,
+      "text": "본인명의 계좌가 발견되다 보니",
+      "speaker": "speaker_1",
+      "confidence": -0.1255073097425622
+    },
+    {
+      "index": 61,
+      "start": 124.0,
+      "end": 127.0,
+      "text": "본인께서 피해자 입증을 받으셔야 되는 상황이에요",
+      "speaker": "speaker_1",
+      "confidence": -0.1255073097425622
+    },
+    {
+      "index": 62,
+      "start": 127.0,
+      "end": 128.0,
+      "text": "네",
+      "speaker": "speaker_1",
+      "confidence": -0.1255073097425622
+    },
+    {
+      "index": 63,
+      "start": 128.0,
+      "end": 131.0,
+      "text": "발견된 계좌가 본인과는 직관적 점으로",
+      "speaker": "speaker_1",
+      "confidence": -0.1255073097425622
+    },
+    {
+      "index": 64,
+      "start": 131.0,
+      "end": 133.0,
+      "text": "연관이 없다는 부분이 입증되셔야 됩니다",
+      "speaker": "speaker_1",
+      "confidence": -0.1255073097425622
+    },
+    {
+      "index": 65,
+      "start": 133.0,
+      "end": 134.0,
+      "text": "네",
+      "speaker": "speaker_1",
+      "confidence": -0.1255073097425622
+    },
+    {
+      "index": 66,
+      "start": 135.0,
+      "end": 139.0,
+      "text": "지금부터 통화 내용은 전반적인 목지상태로 진행될거에요",
+      "speaker": "speaker_1",
+      "confidence": -0.1255073097425622
+    },
+    {
+      "index": 67,
+      "start": 139.0,
+      "end": 141.0,
+      "text": "목지파일은 본인께서",
+      "speaker": "speaker_1",
+      "confidence": -0.1255073097425622
+    },
+    {
+      "index": 68,
+      "start": 141.0,
+      "end": 144.0,
+      "text": "피해자 입증 받는데 증거자료로 제출될겁니다",
+      "speaker": "speaker_1",
+      "confidence": -0.1940247219997448
+    },
+    {
+      "index": 69,
+      "start": 145.0,
+      "end": 146.0,
+      "text": "네",
+      "speaker": "speaker_1",
+      "confidence": -0.1940247219997448
+    },
+    {
+      "index": 70,
+      "start": 146.0,
+      "end": 148.0,
+      "text": "본인도 해야 녹취 진행해도 되겠습니까?",
+      "speaker": "speaker_1",
+      "confidence": -0.1940247219997448
+    },
+    {
+      "index": 71,
+      "start": 148.0,
+      "end": 149.0,
+      "text": "네",
+      "speaker": "speaker_1",
+      "confidence": -0.1940247219997448
+    },
+    {
+      "index": 72,
+      "start": 151.0,
+      "end": 153.0,
+      "text": "본인 확인부터 다시한번 할게요",
+      "speaker": "speaker_1",
+      "confidence": -0.1940247219997448
+    },
+    {
+      "index": 73,
+      "start": 153.0,
+      "end": 154.0,
+      "text": "통화자분이 성함이",
+      "speaker": "speaker_1",
+      "confidence": -0.1940247219997448
+    },
+    {
+      "index": 74,
+      "start": 155.0,
+      "end": 156.0,
+      "text": "맞습니까?",
+      "speaker": "speaker_1",
+      "confidence": -0.1940247219997448
+    },
+    {
+      "index": 75,
+      "start": 156.0,
+      "end": 157.0,
+      "text": "네",
+      "speaker": "speaker_1",
+      "confidence": -0.1940247219997448
+    },
+    {
+      "index": 76,
+      "start": 159.0,
+      "end": 160.0,
+      "text": "맞으세요?",
+      "speaker": "speaker_1",
+      "confidence": -0.1940247219997448
+    },
+    {
+      "index": 77,
+      "start": 160.0,
+      "end": 161.0,
+      "text": "아니요",
+      "speaker": "speaker_1",
+      "confidence": -0.1940247219997448
+    },
+    {
+      "index": 78,
+      "start": 165.0,
+      "end": 166.0,
+      "text": "아닙니까?",
+      "speaker": "speaker_1",
+      "confidence": -0.1940247219997448
+    },
+    {
+      "index": 79,
+      "start": 166.0,
+      "end": 167.0,
+      "text": "네",
+      "speaker": "speaker_1",
+      "confidence": -0.1940247219997448
+    }
+  ],
+  "engine": "faster-whisper-medium-float16-cuda",
+  "processed_at": 1758158787.080419,
+  "error": null
+}

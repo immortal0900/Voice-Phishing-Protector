@@ -1,0 +1,134 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "상담사1",
+                    "age": "20대",
+                    "gender": "남",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "고객1",
+                    "age": "40대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000167/0001.wav",
+                "duration": 2.845,
+                "text": "학습지원센터입니다. 무엇을 도와드릴까요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000167/0002.wav",
+                "duration": 4.861,
+                "text": "네 저기 상담받고 싶어서 그러는데요. 여기 신청하면 되나요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000167/0003.wav",
+                "duration": 2.232,
+                "text": "혹시 어떤 상담"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000167/0004.wav",
+                "duration": 3.054,
+                "text": "인강 상담하고 싶은데요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000167/0005.wav",
+                "duration": 4.099,
+                "text": "아 혹시 어떤 과목 인강 상담을 받고싶으신 걸까요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000167/0006.wav",
+                "duration": 3.411,
+                "text": "아 지금 중 (3)/(삼)학생 인데요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000167/0007.wav",
+                "duration": 3.488,
+                "text": "그 예비 고 (1)/(일) 그거를"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000167/0008.wav",
+                "duration": 8.701,
+                "text": "받고 싶은데 보니까 인터넷에 떠있는 게 있던데 정확하게 잘 내용이 잘 몰라서 이런 걸 전문으로 상담해주시는 분이 없나요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000167/0009.wav",
+                "duration": 13.39,
+                "text": "o/ 네 그래서 저희가 해당 부분 지금 상담 신청을 진행을 도와드릴 텐데 혹시 지금 학생회원분께서 현재 어떤 과목 이제 상담을 받고 싶으신 걸까요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000167/0010.wav",
+                "duration": 1.89,
+                "text": "영어 국어요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000167/0011.wav",
+                "duration": 2.813,
+                "text": "영어 국어 말씀하신 거 맞으실까요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000167/0012.wav",
+                "duration": 2.387,
+                "text": "잠시만 기다려주세요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000167/0013.wav",
+                "duration": 6.973,
+                "text": "혹시 그 영어랑 국어 과목 있어가지고 내신 상담을 받으시는 걸까요 아니면 수능상담 받으시는 걸까요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000167/0014.wav",
+                "duration": 5.691,
+                "text": "네 그러면 저희가 해당부분 이제 학습상담 신청을 진행을 도와드릴 거고요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000167/0015.wav",
+                "duration": 12.904,
+                "text": "o/ 이제 학습상담은 (1시)/(한 시)부터 상담업무가 진행되시고요. 이제 순차적으로 진행이 되시는 부분 있으시고요. 순차적으로 진행하다 보니까제 대기시간 있으실 수 있고요. 그리고 이제 저희가 했당 부분이 있어서"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000167/0016.wav",
+                "duration": 11.88,
+                "text": "네 시간 확인 하고 아 (1시)/(한 시)부터 진행되다 보니까 이제 회원님께서 (1시)/(한 시)이후로 저희 쪽으로 저희가 이제 연락을 가게 되면은 연락받으셔가지고 상담 진행 하시면되곘습"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000167/0017.wav",
+                "duration": 2.633,
+                "text": "네 알겠습니다."
+            }
+        ]
+    }
+}

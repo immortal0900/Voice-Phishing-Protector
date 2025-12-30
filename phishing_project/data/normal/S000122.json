@@ -1,0 +1,146 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "상담사1",
+                    "age": "20대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "고객1",
+                    "age": "40대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000122/0001.wav",
+                "duration": 3.752,
+                "text": "저 제가 회원 가입하고요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000122/0002.wav",
+                "duration": 8.451,
+                "text": "o/ 강좌는 안 들었는데 교재를 사고 싶어서 그러는데 핸드폰으로는 교재를 못 구입하나요? 핸드폰에 앱을 깔았거든요??"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000122/0003.wav",
+                "duration": 6.376,
+                "text": "o/ 보통 강 어 교재 구매는 저희가 강좌를 수강하셔야지 네 교재 구매가 가능하시고요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000122/0004.wav",
+                "duration": 6.531,
+                "text": "네 저희가 강좌 수강 없이 교재 구매 원하시면는 저희 사이트 내 비타민 교재라는"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000122/0005.wav",
+                "duration": 6.44,
+                "text": "o/ 페이지가 있습니다. 거기에서 구매하시면 강좌 수강 없이도 네 교재만 따로 구매 가능하세요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000122/0006.wav",
+                "duration": 6.579,
+                "text": "o/ 근데 제가 핸드폰에다 앱을 깔았는데 그 비타민 교재라는 게 안 뜨거든요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000122/0007.wav",
+                "duration": 3.709,
+                "text": "아 그럼 제가 (1번)/(한 번) 같이 확인해 봐드리겠습니다."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000122/0008.wav",
+                "duration": 5.581,
+                "text": "o/ 그 인터넷으로는 접속을 했더니 비타민 교재가 있어요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000122/0009.wav",
+                "duration": 5.629,
+                "text": "근데 핸드폰에 앱을 깔아가지고 핸드폰으로 신청을 하고 싶은데"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000122/0010.wav",
+                "duration": 3.907,
+                "text": "핸드폰 속에는 온라인 서점만 있고"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000122/0011.wav",
+                "duration": 2.632,
+                "text": "비타민 교재는 없거든요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000122/0012.wav",
+                "duration": 5.203,
+                "text": "그러면 잠시 기다려주시면 저희가 같이 (1번)/(한 번) 확인해 봐드릴게요. 잠시만 기다려주세요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000122/0013.wav",
+                "duration": 6.205,
+                "text": "어 저희가 확인을 해보니까 네 지금 저희 스마트 러닝 내에서는 비타민 교제 페이지가"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000122/0014.wav",
+                "duration": 4.109,
+                "text": "어 확인이 되지 않아서 저희가 인터넷에 검색해서"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000122/0015.wav",
+                "duration": 4.008,
+                "text": "번거로우시겠지만 그렇게 이용을 해주셔야 할 것 같습니다."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000122/0016.wav",
+                "duration": 2.317,
+                "text": "확인 가능하시거든요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000122/0017.wav",
+                "duration": 6.013,
+                "text": "아 그러면은 핸드폰으로 하는 거는 강좌를 들어야지만 살 수 있는 것들만 뜨나요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000122/0018.wav",
+                "duration": 5.731,
+                "text": "네 저희가 그렇게만은 구매 가능하세요. 지금 저희 (사) 앱 내에서는"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000122/0019.wav",
+                "duration": 3.283,
+                "text": "아 예예예. 알겠습니다."
+            }
+        ]
+    }
+}

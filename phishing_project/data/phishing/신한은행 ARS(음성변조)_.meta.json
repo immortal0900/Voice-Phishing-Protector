@@ -1,0 +1,28 @@
+{
+  "file": "신한은행 ARS(음성변조)_.mp3",
+  "rel_path": "신한은행 ARS(음성변조)_.mp3",
+  "language": "ko",
+  "text": "고급리 부채를 마이너스 통장 개설로 통합 가능하십니다. 마이너스 통장 발급 신청은 1번, 수신 거부는 9번을 눌러 주세요.",
+  "duration_sec": 14.315125,
+  "segments": [
+    {
+      "index": 0,
+      "start": 0.0,
+      "end": 5.0,
+      "text": "고급리 부채를 마이너스 통장 개설로 통합 가능하십니다.",
+      "speaker": "speaker_1",
+      "confidence": -0.3707932818394441
+    },
+    {
+      "index": 1,
+      "start": 5.0,
+      "end": 10.0,
+      "text": "마이너스 통장 발급 신청은 1번, 수신 거부는 9번을 눌러 주세요.",
+      "speaker": "speaker_1",
+      "confidence": -0.3707932818394441
+    }
+  ],
+  "engine": "faster-whisper-medium-float16-cuda",
+  "processed_at": 1758154964.0754797,
+  "error": null
+}

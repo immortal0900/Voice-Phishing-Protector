@@ -1,0 +1,104 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "고객1",
+                    "age": "40대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "상담사1",
+                    "age": "30대",
+                    "gender": "남",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000108/0001.wav",
+                "duration": 1.837,
+                "text": "n/ 네 여보세요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000108/0002.wav",
+                "duration": 2.18,
+                "text": "n/ 네 여보세요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000108/0003.wav",
+                "duration": 5.971,
+                "text": "n/ 아 저희 아이 그 이제 (()) 되면서"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000108/0004.wav",
+                "duration": 6.781,
+                "text": "o/ n/ 좀 상담 좀 하고 싶거든요. 학습 상담 (()) 예약 좀 할게요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000108/0005.wav",
+                "duration": 6.013,
+                "text": "혹시 어떤 부분으로 예약을 인제 받으실 문의를 하시는 걸까요? 수강권"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000108/0006.wav",
+                "duration": 3.454,
+                "text": "n/ 각 과목마다 (()) 저희"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000108/0007.wav",
+                "duration": 12.349,
+                "text": "n/ 아이들이 좀 재밌어 하는 선생님의 이제 강의라던가 그 막 모의고사 내신 관련돼서 어떻게 선생님들이 이제 그 뭐 좀 더 유익한 정보가 있는가"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000108/0008.wav",
+                "duration": 2.195,
+                "text": "n/ 네 저희 딸아이예요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000108/0009.wav",
+                "duration": 4.819,
+                "text": "어 혹시 학생분의 그럼 아이디나 핸드폰 번호 말씀 부탁 드리겠습니다."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000108/0010.wav",
+                "duration": 2.749,
+                "text": "잠시만 기다려 주세요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000108/0011.wav",
+                "duration": 19.133,
+                "text": "회원님 확인 되시고요. 저희가 이제 학습 상담 예약을 잡아드리게 되면은 오후 (1시)/(한 시)부터 상담이 진행이 되세요. 그래서 어제 직전에 이제 예약 예약이 먼저 있는 건들부터 진행이 되시느라 잠깐 내 대기 시간이 발생되실 수 있으시고요. 저희가 그 연락을 받으실 혹시 연락처는 어떻게 되실까요? 상담 진행하실"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000108/0012.wav",
+                "duration": 7.528,
+                "text": "n/ 네 그럼 저희가 학습 상담 예약 잡아드릴 거고요. (1시)/(한 시) 이후에 회원님 쪽으로 연락 드리실 거예요. 감사합니다."
+            }
+        ]
+    }
+}

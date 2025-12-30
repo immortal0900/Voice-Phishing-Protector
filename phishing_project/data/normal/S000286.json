@@ -1,0 +1,140 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "상담사1",
+                    "age": "20대",
+                    "gender": "남",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "고객1",
+                    "age": "40대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000286/0001.wav",
+                "duration": 1.523,
+                "text": "아 네. 안녕하세요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000286/0002.wav",
+                "duration": 3.645,
+                "text": "학습지원센터입니다. 예약콜 남겨 주셔서 연락 드렸습니다."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000286/0003.wav",
+                "duration": 5.256,
+                "text": "아 네. 제가 인제 거기 그 아이 등록하려고"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000286/0004.wav",
+                "duration": 5.662,
+                "text": "제가 학부모 가입 학부모 회원도 가입하고 자녀도 가입을 했는데"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000286/0005.wav",
+                "duration": 8.272,
+                "text": "그거를 인제 신청하려고 했더니 그 자녀한테 그게 인제 문자가 간다고 하더라고요. 자녀 등록해서"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000286/0006.wav",
+                "duration": 3.496,
+                "text": "o/ 근데 저희 아이한테 계속 문자가 안와요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000286/0007.wav",
+                "duration": 4.52,
+                "text": "o/ 예 안갔고 학생회원님 아이디 로그인하시고"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000286/0008.wav",
+                "duration": 2.515,
+                "text": "o/ 학생회원으로 로그인해요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000286/0009.wav",
+                "duration": 5.16,
+                "text": "o/ 네 로그인하시고 마이페이지 들어가시면 그 팝업창 (1)/(하나) 뜰 거예요. 그"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000286/0010.wav",
+                "duration": 3.688,
+                "text": "o/ 학부모 회원님이 승인 그 항. 자녀등록승인."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000286/0011.wav",
+                "duration": 2.932,
+                "text": "o/ 네 거기서 승인 확인 누르시면 됩니다."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000286/0012.wav",
+                "duration": 4.36,
+                "text": "o/ 아 학생으로 들어가서, 그러면 결제하고 하는 것도"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000286/0013.wav",
+                "duration": 1.96,
+                "text": "o/ 그렇게 해서 하면"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000286/0014.wav",
+                "duration": 3.965,
+                "text": "o/ 결제는 학생회원님 로그인만 무조건 해야 돼요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000286/0015.wav",
+                "duration": 3.976,
+                "text": "o/ 아 결제도 학생회원으로 아 그래서"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000286/0016.wav",
+                "duration": 3.309,
+                "text": "o/ 인제 카드는 당연히 부모님 걸로."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000286/0017.wav",
+                "duration": 2.557,
+                "text": "o/ 아 네 알겠습니다."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000286/0018.wav",
+                "duration": 1.704,
+                "text": "o/ 예 감사합니다."
+            }
+        ]
+    }
+}

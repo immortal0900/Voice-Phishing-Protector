@@ -1,0 +1,170 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "고객1",
+                    "age": "10대",
+                    "gender": "남",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "상담사1",
+                    "age": "20대",
+                    "gender": "남",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000006/0001.wav",
+                "duration": 4.237,
+                "text": "예. 혹시 제가 그 프리미엄 문학자료실에"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000006/0002.wav",
+                "duration": 5.952,
+                "text": "이게 다운로드가 (안) 다운로드가 서비스의 대상 그게 아니다 이렇게 떠가지고"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000006/0003.wav",
+                "duration": 4.833,
+                "text": "정확한 안내를 위해서 실례지만 아이디하고 성함 먼저 알 수 있을까요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000006/0004.wav",
+                "duration": 7.959,
+                "text": "o/ 네, 확인 감사합니다. 우선 말씀하신 게 국어 강좌 말씀하셨는데, 신사고 꺼하고 미래엔 꺼"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000006/0005.wav",
+                "duration": 4.947,
+                "text": "그 국어강좌 등록돼있는 거 확인됐는데 이거 (2)/(둘) 다 그러신 거세요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000006/0006.wav",
+                "duration": 11.192,
+                "text": "아니 그게 아니고 이거 (2)/(둘) 중 아무거나 들어도 프리미엄 문학 자유실 이용할 수 있는데 이게 그 다운로드가 서비스 대상이 아니라고 하시고 안되니까."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000006/0007.wav",
+                "duration": 2.936,
+                "text": "아 프리미엄 문학 문학자료실이요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000006/0008.wav",
+                "duration": 3.139,
+                "text": "예. 이거는 또 따로 해야 하는 거예요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000006/0009.wav",
+                "duration": 3.603,
+                "text": "o/ 그러시면 제가 한번 해당 내용 확인해보겠습니다."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000006/0010.wav",
+                "duration": 5.235,
+                "text": "기다려주셔서 감사합니다. 어 말씀하신 부분은 제가 좀 더 확인이 필요할 것 같아서요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000006/0011.wav",
+                "duration": 5.245,
+                "text": "확인한 후에 어 오늘 저녁 (9시)/(아홉 시)에서 (10시)/(열 시) 사이에 좀 연락을 드려도 될까요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000006/0012.wav",
+                "duration": 3.059,
+                "text": "아니시면 뭐 통화 가능하신 시간 있으실까요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000006/0013.wav",
+                "duration": 4.445,
+                "text": "예, 아니 그냥 저는 빨리 (()) 좋아 가지고"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000006/0014.wav",
+                "duration": 3.075,
+                "text": "o/ 아 빨리 알고 싶으셔서요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000006/0015.wav",
+                "duration": 3.72,
+                "text": "저희가 좀 통화가 좀 밀려있어서 시간이 쪼금"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000006/0016.wav",
+                "duration": 7.95,
+                "text": "o/ 확인하고 어 우선은 (9시)/(아홉 시)에서 (10시)/(열 시) 사이로 좀 안내해드리고요. 이제 좀 더 확인이 빨리 되면은 그전에 연락을 좀 드려도 될까요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000006/0017.wav",
+                "duration": 2.413,
+                "text": "o/ 제가 연락을 드리겠습니다."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000006/0018.wav",
+                "duration": 3.076,
+                "text": "o/ 네, 그러시면은 제가 연락드리고요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000006/0019.wav",
+                "duration": 3.722,
+                "text": "혹시 저희 인제 제가 인제 연락을 드릴 때"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000006/0020.wav",
+                "duration": 4.447,
+                "text": "회원님 핸드폰에서 수신 차단되어있으면요, 어"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000006/0021.wav",
+                "duration": 3.405,
+                "text": "전화가 안 갈 수도 있어요. 그래서 전화 끊으시면 혹시 뭐"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000006/0022.wav",
+                "duration": 3.571,
+                "text": "번호가 수신 차단되어있는지 (1번)/(한 번)만 확인 부탁드리겠습니다."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000006/0023.wav",
+                "duration": 1.93,
+                "text": "네. 감사합니다."
+            }
+        ]
+    }
+}

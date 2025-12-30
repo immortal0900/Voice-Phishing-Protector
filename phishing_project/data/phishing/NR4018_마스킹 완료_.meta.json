@@ -1,0 +1,476 @@
+{
+  "file": "NR4018_마스킹 완료_.mp3",
+  "rel_path": "NR4018_마스킹 완료_.mp3",
+  "language": "ko",
+  "text": "박진석 수사원입니다. 다름이 아니고요. 앞으로 연루된 사건때문에 확인 잘 났고요. 일단 본인 확인 하겠는데요. 맞습니까? 맞으시죠? 본인께서는 혹시 서울 출신이고요. 37세 남성입니다. 김강호 씨라고 하세요. 37세 남성이고요. 국민은행에 출근하시는 분 맞으시죠? 국민은행이 아니시라고요? 국민은행에 출근하시는 김강호 씨를 아시는 게 아니에요? 다른 김강호 씨를 아시는 거예요? 네, 알겠습니다. 일단 김강호 씨에 대해서 여쭤본 이유는 얼마 전 저희 지검에서 김강호를 주봉으로 된 금융범죄 사기단을 검거를 했습니다. 검거 현장에서 다름의 증거물품으로 참행계좌 현금 카드, 현금 등을 확보하였는데요. 그런데 그중에 지금 본인 명으로 되어있는 SC재련인과 대신 집권, CM의 계좌가 있어서 저희가 각 은행권 쪽으로 확인해본 결과 두 개다 모두 2017년 4월 7일경 서울 서초구 서초동 지점에서 모두 개설이 되었는데요. 본인께서 개설한 계좌들이 맞습니까? 모르겠는데. 얼마 전에 통장을 만들었고 만들었는데. 얼마 전에요? 4월 7일에 개설하신 거 맞습니까? 4월이요? 네, 4월 7일이고요. SC재련인과 대신 집권. 날짜는 뭐야? 아, 날짜는 기억이 나지 않으시고. 그런데 이런 거는 보통 그거는 안 날라와요? 종이 종이 종이. 아, 공문상으로요? 네. 아, 그건 차 후에 본인과 통화를 한 후에. 뭐가 아니시란 말씀이세요? 공문부터 보내세요. 네, 알겠습니다. 몇 번이나 전화하는지 모르겠네. 이런 걸로. 아, 그러세요? 네, 알겠습니다. 알겠어요. 밥 맛있게 드시고. 네, 좋은 하루 되세요.",
+  "duration_sec": 137.7408125,
+  "segments": [
+    {
+      "index": 0,
+      "start": 0.0,
+      "end": 2.0,
+      "text": "박진석 수사원입니다.",
+      "speaker": "speaker_1",
+      "confidence": -0.46875000619269036
+    },
+    {
+      "index": 1,
+      "start": 2.0,
+      "end": 4.0,
+      "text": "다름이 아니고요.",
+      "speaker": "speaker_1",
+      "confidence": -0.46875000619269036
+    },
+    {
+      "index": 2,
+      "start": 4.0,
+      "end": 6.0,
+      "text": "앞으로 연루된 사건때문에",
+      "speaker": "speaker_1",
+      "confidence": -0.46875000619269036
+    },
+    {
+      "index": 3,
+      "start": 6.0,
+      "end": 8.0,
+      "text": "확인 잘 났고요.",
+      "speaker": "speaker_1",
+      "confidence": -0.46875000619269036
+    },
+    {
+      "index": 4,
+      "start": 10.0,
+      "end": 12.0,
+      "text": "일단 본인 확인 하겠는데요.",
+      "speaker": "speaker_1",
+      "confidence": -0.46875000619269036
+    },
+    {
+      "index": 5,
+      "start": 14.0,
+      "end": 16.0,
+      "text": "맞습니까?",
+      "speaker": "speaker_1",
+      "confidence": -0.46875000619269036
+    },
+    {
+      "index": 6,
+      "start": 22.0,
+      "end": 24.0,
+      "text": "맞으시죠?",
+      "speaker": "speaker_1",
+      "confidence": -0.46875000619269036
+    },
+    {
+      "index": 7,
+      "start": 24.0,
+      "end": 26.0,
+      "text": "본인께서는 혹시",
+      "speaker": "speaker_1",
+      "confidence": -0.46875000619269036
+    },
+    {
+      "index": 8,
+      "start": 26.0,
+      "end": 28.0,
+      "text": "서울 출신이고요.",
+      "speaker": "speaker_1",
+      "confidence": -0.46875000619269036
+    },
+    {
+      "index": 9,
+      "start": 28.0,
+      "end": 30.0,
+      "text": "37세 남성입니다.",
+      "speaker": "speaker_1",
+      "confidence": -0.1285112386339166
+    },
+    {
+      "index": 10,
+      "start": 30.0,
+      "end": 32.0,
+      "text": "김강호 씨라고 하세요.",
+      "speaker": "speaker_1",
+      "confidence": -0.1285112386339166
+    },
+    {
+      "index": 11,
+      "start": 36.0,
+      "end": 38.0,
+      "text": "37세 남성이고요.",
+      "speaker": "speaker_1",
+      "confidence": -0.1285112386339166
+    },
+    {
+      "index": 12,
+      "start": 38.0,
+      "end": 40.0,
+      "text": "국민은행에 출근하시는 분 맞으시죠?",
+      "speaker": "speaker_1",
+      "confidence": -0.1285112386339166
+    },
+    {
+      "index": 13,
+      "start": 42.0,
+      "end": 44.0,
+      "text": "국민은행이 아니시라고요?",
+      "speaker": "speaker_1",
+      "confidence": -0.1285112386339166
+    },
+    {
+      "index": 14,
+      "start": 48.0,
+      "end": 50.0,
+      "text": "국민은행에 출근하시는",
+      "speaker": "speaker_1",
+      "confidence": -0.1285112386339166
+    },
+    {
+      "index": 15,
+      "start": 50.0,
+      "end": 52.0,
+      "text": "김강호 씨를 아시는 게 아니에요?",
+      "speaker": "speaker_1",
+      "confidence": -0.1285112386339166
+    },
+    {
+      "index": 16,
+      "start": 52.0,
+      "end": 54.0,
+      "text": "다른 김강호 씨를 아시는 거예요?",
+      "speaker": "speaker_1",
+      "confidence": -0.1285112386339166
+    },
+    {
+      "index": 17,
+      "start": 54.0,
+      "end": 56.0,
+      "text": "네, 알겠습니다.",
+      "speaker": "speaker_1",
+      "confidence": -0.2555259051846295
+    },
+    {
+      "index": 18,
+      "start": 56.0,
+      "end": 58.0,
+      "text": "일단 김강호 씨에 대해서",
+      "speaker": "speaker_1",
+      "confidence": -0.2555259051846295
+    },
+    {
+      "index": 19,
+      "start": 58.0,
+      "end": 60.0,
+      "text": "여쭤본 이유는 얼마 전 저희 지검에서",
+      "speaker": "speaker_1",
+      "confidence": -0.2555259051846295
+    },
+    {
+      "index": 20,
+      "start": 60.0,
+      "end": 62.0,
+      "text": "김강호를 주봉으로 된",
+      "speaker": "speaker_1",
+      "confidence": -0.2555259051846295
+    },
+    {
+      "index": 21,
+      "start": 62.0,
+      "end": 64.0,
+      "text": "금융범죄 사기단을 검거를 했습니다.",
+      "speaker": "speaker_1",
+      "confidence": -0.2555259051846295
+    },
+    {
+      "index": 22,
+      "start": 64.0,
+      "end": 66.0,
+      "text": "검거 현장에서 다름의 증거물품으로",
+      "speaker": "speaker_1",
+      "confidence": -0.2555259051846295
+    },
+    {
+      "index": 23,
+      "start": 66.0,
+      "end": 68.0,
+      "text": "참행계좌 현금 카드,",
+      "speaker": "speaker_1",
+      "confidence": -0.2555259051846295
+    },
+    {
+      "index": 24,
+      "start": 68.0,
+      "end": 70.0,
+      "text": "현금 등을 확보하였는데요.",
+      "speaker": "speaker_1",
+      "confidence": -0.2555259051846295
+    },
+    {
+      "index": 25,
+      "start": 70.0,
+      "end": 72.0,
+      "text": "그런데 그중에 지금",
+      "speaker": "speaker_1",
+      "confidence": -0.2555259051846295
+    },
+    {
+      "index": 26,
+      "start": 72.0,
+      "end": 74.0,
+      "text": "본인 명으로 되어있는 SC재련인과",
+      "speaker": "speaker_1",
+      "confidence": -0.2555259051846295
+    },
+    {
+      "index": 27,
+      "start": 74.0,
+      "end": 76.0,
+      "text": "대신 집권,",
+      "speaker": "speaker_1",
+      "confidence": -0.2555259051846295
+    },
+    {
+      "index": 28,
+      "start": 76.0,
+      "end": 78.0,
+      "text": "CM의 계좌가 있어서 저희가 각 은행권 쪽으로",
+      "speaker": "speaker_1",
+      "confidence": -0.2555259051846295
+    },
+    {
+      "index": 29,
+      "start": 78.0,
+      "end": 80.0,
+      "text": "확인해본 결과",
+      "speaker": "speaker_1",
+      "confidence": -0.2555259051846295
+    },
+    {
+      "index": 30,
+      "start": 80.0,
+      "end": 82.0,
+      "text": "두 개다 모두 2017년 4월 7일경",
+      "speaker": "speaker_1",
+      "confidence": -0.2555259051846295
+    },
+    {
+      "index": 31,
+      "start": 82.0,
+      "end": 84.0,
+      "text": "서울 서초구 서초동 지점에서",
+      "speaker": "speaker_1",
+      "confidence": -0.1956653231574643
+    },
+    {
+      "index": 32,
+      "start": 84.0,
+      "end": 86.0,
+      "text": "모두 개설이 되었는데요.",
+      "speaker": "speaker_1",
+      "confidence": -0.1956653231574643
+    },
+    {
+      "index": 33,
+      "start": 86.0,
+      "end": 88.0,
+      "text": "본인께서 개설한 계좌들이 맞습니까?",
+      "speaker": "speaker_1",
+      "confidence": -0.1956653231574643
+    },
+    {
+      "index": 34,
+      "start": 88.0,
+      "end": 90.0,
+      "text": "모르겠는데.",
+      "speaker": "speaker_1",
+      "confidence": -0.1956653231574643
+    },
+    {
+      "index": 35,
+      "start": 90.0,
+      "end": 92.0,
+      "text": "얼마 전에 통장을 만들었고 만들었는데.",
+      "speaker": "speaker_1",
+      "confidence": -0.1956653231574643
+    },
+    {
+      "index": 36,
+      "start": 92.0,
+      "end": 94.0,
+      "text": "얼마 전에요?",
+      "speaker": "speaker_1",
+      "confidence": -0.1956653231574643
+    },
+    {
+      "index": 37,
+      "start": 94.0,
+      "end": 96.0,
+      "text": "4월 7일에 개설하신 거 맞습니까?",
+      "speaker": "speaker_1",
+      "confidence": -0.1956653231574643
+    },
+    {
+      "index": 38,
+      "start": 96.0,
+      "end": 98.0,
+      "text": "4월이요?",
+      "speaker": "speaker_1",
+      "confidence": -0.1956653231574643
+    },
+    {
+      "index": 39,
+      "start": 98.0,
+      "end": 100.0,
+      "text": "네, 4월 7일이고요. SC재련인과 대신 집권.",
+      "speaker": "speaker_1",
+      "confidence": -0.1956653231574643
+    },
+    {
+      "index": 40,
+      "start": 100.0,
+      "end": 102.0,
+      "text": "날짜는 뭐야?",
+      "speaker": "speaker_1",
+      "confidence": -0.1956653231574643
+    },
+    {
+      "index": 41,
+      "start": 102.0,
+      "end": 104.0,
+      "text": "아, 날짜는 기억이 나지 않으시고.",
+      "speaker": "speaker_1",
+      "confidence": -0.1956653231574643
+    },
+    {
+      "index": 42,
+      "start": 104.0,
+      "end": 106.0,
+      "text": "그런데 이런 거는 보통",
+      "speaker": "speaker_1",
+      "confidence": -0.1956653231574643
+    },
+    {
+      "index": 43,
+      "start": 106.0,
+      "end": 108.0,
+      "text": "그거는 안 날라와요?",
+      "speaker": "speaker_1",
+      "confidence": -0.1956653231574643
+    },
+    {
+      "index": 44,
+      "start": 108.0,
+      "end": 110.0,
+      "text": "종이 종이 종이.",
+      "speaker": "speaker_1",
+      "confidence": -0.1956653231574643
+    },
+    {
+      "index": 45,
+      "start": 110.0,
+      "end": 112.0,
+      "text": "아, 공문상으로요?",
+      "speaker": "speaker_1",
+      "confidence": -0.18487278761061948
+    },
+    {
+      "index": 46,
+      "start": 112.0,
+      "end": 114.0,
+      "text": "네.",
+      "speaker": "speaker_1",
+      "confidence": -0.18487278761061948
+    },
+    {
+      "index": 47,
+      "start": 114.0,
+      "end": 116.0,
+      "text": "아, 그건 차 후에",
+      "speaker": "speaker_1",
+      "confidence": -0.18487278761061948
+    },
+    {
+      "index": 48,
+      "start": 116.0,
+      "end": 118.0,
+      "text": "본인과 통화를 한 후에.",
+      "speaker": "speaker_1",
+      "confidence": -0.18487278761061948
+    },
+    {
+      "index": 49,
+      "start": 118.0,
+      "end": 120.0,
+      "text": "뭐가 아니시란 말씀이세요?",
+      "speaker": "speaker_1",
+      "confidence": -0.18487278761061948
+    },
+    {
+      "index": 50,
+      "start": 120.0,
+      "end": 122.0,
+      "text": "공문부터 보내세요.",
+      "speaker": "speaker_1",
+      "confidence": -0.18487278761061948
+    },
+    {
+      "index": 51,
+      "start": 122.0,
+      "end": 124.0,
+      "text": "네, 알겠습니다.",
+      "speaker": "speaker_1",
+      "confidence": -0.18487278761061948
+    },
+    {
+      "index": 52,
+      "start": 124.0,
+      "end": 126.0,
+      "text": "몇 번이나 전화하는지 모르겠네.",
+      "speaker": "speaker_1",
+      "confidence": -0.18487278761061948
+    },
+    {
+      "index": 53,
+      "start": 126.0,
+      "end": 128.0,
+      "text": "이런 걸로.",
+      "speaker": "speaker_1",
+      "confidence": -0.18487278761061948
+    },
+    {
+      "index": 54,
+      "start": 128.0,
+      "end": 130.0,
+      "text": "아, 그러세요?",
+      "speaker": "speaker_1",
+      "confidence": -0.18487278761061948
+    },
+    {
+      "index": 55,
+      "start": 130.0,
+      "end": 132.0,
+      "text": "네, 알겠습니다.",
+      "speaker": "speaker_1",
+      "confidence": -0.18487278761061948
+    },
+    {
+      "index": 56,
+      "start": 132.0,
+      "end": 134.0,
+      "text": "알겠어요. 밥 맛있게 드시고.",
+      "speaker": "speaker_1",
+      "confidence": -0.18487278761061948
+    },
+    {
+      "index": 57,
+      "start": 134.0,
+      "end": 136.0,
+      "text": "네, 좋은 하루 되세요.",
+      "speaker": "speaker_1",
+      "confidence": -0.18487278761061948
+    }
+  ],
+  "engine": "faster-whisper-medium-float16-cuda",
+  "processed_at": 1758158787.080419,
+  "error": null
+}

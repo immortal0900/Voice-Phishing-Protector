@@ -1,0 +1,364 @@
+{
+  "file": "NR0083[검찰사칭_OO씨 명의로 된 대포통장이 발견되었다]_.mp3",
+  "rel_path": "NR0083[검찰사칭_OO씨 명의로 된 대포통장이 발견되었다]_.mp3",
+  "language": "ko",
+  "text": "네 네 다름이 아니고 오늘 그 본인과 연리된 명의도형 사건이 있어서 확인처 연락을 드렸어요 네 잠깐 통화 가능하시겠어요? 네 말씀하세요 네네 그 혹시 유경씨 본인께서 그 XX라는 사람 아시는 분입니까? 누구요? XX 아니에요? 네네 그 XX 출신인데 XX의 남성 전혀 모르시는 분입니까? 네 저희가 그 XX로 인한 금융범죄 사기단을 검거를 했는데 그 현장에서 대량의 신용카드와 대포 통장을 압수를 하면서 분명히 그 XX시 명의로 된 하나은행 통장과 농애분행 통장 이 두 개의 통장이 발견이 됐어요 네 근데 그 본인께서 이 두 개의 통장 개설에 대해서 아시는 분입니까? 아니에요 전혀 모르세요? 네 저희가 앞선 이 두 개의 통장을 해당은행 측하고 대조를 해본 결과 XX시 명의로 된 통장임이 확인이 돼서 전화를 드린 거구요 지금 전화 주신 데가 어디시라고요? 네 서울중앙지검 서울중앙지검이요? 네네 이거 가능하시면 적으세요 네네 네 서울중앙지검 첨단범죄수사 1팀 네 네 수사관 조상호 이구요 네 네네 혹시 최근 3년 사이에 수손이나 신분증, 여권, 개인정보가 이출될만한 물품을 분실하시거나 도난당하신 적 있으십니까? 아니요 그런 건 없구요 저기 제가 음행이랑 연락을 해볼게요 은행이 저기 언니가 근무하고 있어서요 네네네 관련된 거 알아보고 해서 뭐 네네 그리고 여기 그렇게 하셔도 됩니다 네네 경찰청에도 오빠가 있어서 연락해서 알아본 다음에 이쪽으로 전화를 드리던가 할게요 예 그렇게 해주십시오 네 알겠습니다 네",
+  "duration_sec": 126.4326875,
+  "segments": [
+    {
+      "index": 0,
+      "start": 0.0,
+      "end": 1.0,
+      "text": "네",
+      "speaker": "speaker_1",
+      "confidence": -0.15124999788072374
+    },
+    {
+      "index": 1,
+      "start": 1.0,
+      "end": 7.0,
+      "text": "네 다름이 아니고 오늘 그 본인과 연리된 명의도형 사건이 있어서 확인처 연락을 드렸어요",
+      "speaker": "speaker_1",
+      "confidence": -0.15124999788072374
+    },
+    {
+      "index": 2,
+      "start": 7.0,
+      "end": 8.0,
+      "text": "네",
+      "speaker": "speaker_1",
+      "confidence": -0.15124999788072374
+    },
+    {
+      "index": 3,
+      "start": 8.0,
+      "end": 9.0,
+      "text": "잠깐 통화 가능하시겠어요?",
+      "speaker": "speaker_1",
+      "confidence": -0.15124999788072374
+    },
+    {
+      "index": 4,
+      "start": 9.0,
+      "end": 11.0,
+      "text": "네 말씀하세요",
+      "speaker": "speaker_1",
+      "confidence": -0.15124999788072374
+    },
+    {
+      "index": 5,
+      "start": 11.0,
+      "end": 17.0,
+      "text": "네네 그 혹시 유경씨 본인께서 그 XX라는 사람 아시는 분입니까?",
+      "speaker": "speaker_1",
+      "confidence": -0.15124999788072374
+    },
+    {
+      "index": 6,
+      "start": 17.0,
+      "end": 18.0,
+      "text": "누구요?",
+      "speaker": "speaker_1",
+      "confidence": -0.15124999788072374
+    },
+    {
+      "index": 7,
+      "start": 19.0,
+      "end": 21.0,
+      "text": "XX 아니에요?",
+      "speaker": "speaker_1",
+      "confidence": -0.21380876526873335
+    },
+    {
+      "index": 8,
+      "start": 21.0,
+      "end": 26.0,
+      "text": "네네 그 XX 출신인데 XX의 남성 전혀 모르시는 분입니까?",
+      "speaker": "speaker_1",
+      "confidence": -0.21380876526873335
+    },
+    {
+      "index": 9,
+      "start": 26.0,
+      "end": 27.0,
+      "text": "네",
+      "speaker": "speaker_1",
+      "confidence": -0.21380876526873335
+    },
+    {
+      "index": 10,
+      "start": 29.0,
+      "end": 33.0,
+      "text": "저희가 그 XX로 인한 금융범죄 사기단을 검거를 했는데",
+      "speaker": "speaker_1",
+      "confidence": -0.21380876526873335
+    },
+    {
+      "index": 11,
+      "start": 33.0,
+      "end": 38.0,
+      "text": "그 현장에서 대량의 신용카드와 대포 통장을 압수를 하면서",
+      "speaker": "speaker_1",
+      "confidence": -0.21380876526873335
+    },
+    {
+      "index": 12,
+      "start": 38.0,
+      "end": 45.0,
+      "text": "분명히 그 XX시 명의로 된 하나은행 통장과 농애분행 통장 이 두 개의 통장이 발견이 됐어요",
+      "speaker": "speaker_1",
+      "confidence": -0.21380876526873335
+    },
+    {
+      "index": 13,
+      "start": 45.0,
+      "end": 46.0,
+      "text": "네",
+      "speaker": "speaker_1",
+      "confidence": -0.21380876526873335
+    },
+    {
+      "index": 14,
+      "start": 49.0,
+      "end": 55.0,
+      "text": "근데 그 본인께서 이 두 개의 통장 개설에 대해서 아시는 분입니까?",
+      "speaker": "speaker_1",
+      "confidence": -0.16447369003654422
+    },
+    {
+      "index": 15,
+      "start": 55.0,
+      "end": 56.0,
+      "text": "아니에요",
+      "speaker": "speaker_1",
+      "confidence": -0.16447369003654422
+    },
+    {
+      "index": 16,
+      "start": 56.0,
+      "end": 57.0,
+      "text": "전혀 모르세요?",
+      "speaker": "speaker_1",
+      "confidence": -0.16447369003654422
+    },
+    {
+      "index": 17,
+      "start": 57.0,
+      "end": 58.0,
+      "text": "네",
+      "speaker": "speaker_1",
+      "confidence": -0.16447369003654422
+    },
+    {
+      "index": 18,
+      "start": 60.0,
+      "end": 65.0,
+      "text": "저희가 앞선 이 두 개의 통장을 해당은행 측하고 대조를 해본 결과",
+      "speaker": "speaker_1",
+      "confidence": -0.16447369003654422
+    },
+    {
+      "index": 19,
+      "start": 65.0,
+      "end": 69.0,
+      "text": "XX시 명의로 된 통장임이 확인이 돼서 전화를 드린 거구요",
+      "speaker": "speaker_1",
+      "confidence": -0.16447369003654422
+    },
+    {
+      "index": 20,
+      "start": 69.0,
+      "end": 71.0,
+      "text": "지금 전화 주신 데가 어디시라고요?",
+      "speaker": "speaker_1",
+      "confidence": -0.16447369003654422
+    },
+    {
+      "index": 21,
+      "start": 71.0,
+      "end": 72.0,
+      "text": "네 서울중앙지검",
+      "speaker": "speaker_1",
+      "confidence": -0.16447369003654422
+    },
+    {
+      "index": 22,
+      "start": 72.0,
+      "end": 74.0,
+      "text": "서울중앙지검이요?",
+      "speaker": "speaker_1",
+      "confidence": -0.16447369003654422
+    },
+    {
+      "index": 23,
+      "start": 74.0,
+      "end": 75.0,
+      "text": "네네",
+      "speaker": "speaker_1",
+      "confidence": -0.16447369003654422
+    },
+    {
+      "index": 24,
+      "start": 75.0,
+      "end": 77.0,
+      "text": "이거 가능하시면 적으세요",
+      "speaker": "speaker_1",
+      "confidence": -0.16447369003654422
+    },
+    {
+      "index": 25,
+      "start": 77.0,
+      "end": 78.0,
+      "text": "네네",
+      "speaker": "speaker_1",
+      "confidence": -0.18063038844486762
+    },
+    {
+      "index": 26,
+      "start": 78.0,
+      "end": 82.0,
+      "text": "네 서울중앙지검 첨단범죄수사 1팀",
+      "speaker": "speaker_1",
+      "confidence": -0.18063038844486762
+    },
+    {
+      "index": 27,
+      "start": 82.0,
+      "end": 83.0,
+      "text": "네",
+      "speaker": "speaker_1",
+      "confidence": -0.18063038844486762
+    },
+    {
+      "index": 28,
+      "start": 83.0,
+      "end": 86.0,
+      "text": "네 수사관 조상호 이구요",
+      "speaker": "speaker_1",
+      "confidence": -0.18063038844486762
+    },
+    {
+      "index": 29,
+      "start": 86.0,
+      "end": 87.0,
+      "text": "네",
+      "speaker": "speaker_1",
+      "confidence": -0.18063038844486762
+    },
+    {
+      "index": 30,
+      "start": 87.0,
+      "end": 88.0,
+      "text": "네네",
+      "speaker": "speaker_1",
+      "confidence": -0.18063038844486762
+    },
+    {
+      "index": 31,
+      "start": 88.0,
+      "end": 99.0,
+      "text": "혹시 최근 3년 사이에 수손이나 신분증, 여권, 개인정보가 이출될만한 물품을 분실하시거나 도난당하신 적 있으십니까?",
+      "speaker": "speaker_1",
+      "confidence": -0.18063038844486762
+    },
+    {
+      "index": 32,
+      "start": 99.0,
+      "end": 101.0,
+      "text": "아니요 그런 건 없구요",
+      "speaker": "speaker_1",
+      "confidence": -0.18063038844486762
+    },
+    {
+      "index": 33,
+      "start": 101.0,
+      "end": 106.0,
+      "text": "저기 제가 음행이랑 연락을 해볼게요",
+      "speaker": "speaker_1",
+      "confidence": -0.18063038844486762
+    },
+    {
+      "index": 34,
+      "start": 106.0,
+      "end": 110.0,
+      "text": "은행이 저기 언니가 근무하고 있어서요",
+      "speaker": "speaker_1",
+      "confidence": -0.21280570765552315
+    },
+    {
+      "index": 35,
+      "start": 110.0,
+      "end": 111.0,
+      "text": "네네네",
+      "speaker": "speaker_1",
+      "confidence": -0.21280570765552315
+    },
+    {
+      "index": 36,
+      "start": 111.0,
+      "end": 113.0,
+      "text": "관련된 거 알아보고 해서 뭐",
+      "speaker": "speaker_1",
+      "confidence": -0.21280570765552315
+    },
+    {
+      "index": 37,
+      "start": 113.0,
+      "end": 114.0,
+      "text": "네네",
+      "speaker": "speaker_1",
+      "confidence": -0.21280570765552315
+    },
+    {
+      "index": 38,
+      "start": 114.0,
+      "end": 115.0,
+      "text": "그리고 여기",
+      "speaker": "speaker_1",
+      "confidence": -0.21280570765552315
+    },
+    {
+      "index": 39,
+      "start": 115.0,
+      "end": 116.0,
+      "text": "그렇게 하셔도 됩니다",
+      "speaker": "speaker_1",
+      "confidence": -0.21280570765552315
+    },
+    {
+      "index": 40,
+      "start": 116.0,
+      "end": 122.0,
+      "text": "네네 경찰청에도 오빠가 있어서 연락해서 알아본 다음에 이쪽으로 전화를 드리던가 할게요",
+      "speaker": "speaker_1",
+      "confidence": -0.21280570765552315
+    },
+    {
+      "index": 41,
+      "start": 122.0,
+      "end": 123.0,
+      "text": "예 그렇게 해주십시오",
+      "speaker": "speaker_1",
+      "confidence": -0.21280570765552315
+    },
+    {
+      "index": 42,
+      "start": 123.0,
+      "end": 124.0,
+      "text": "네 알겠습니다",
+      "speaker": "speaker_1",
+      "confidence": -0.21280570765552315
+    },
+    {
+      "index": 43,
+      "start": 124.0,
+      "end": 125.0,
+      "text": "네",
+      "speaker": "speaker_1",
+      "confidence": -0.21280570765552315
+    }
+  ],
+  "engine": "faster-whisper-medium-float16-cuda",
+  "processed_at": 1758158787.080419,
+  "error": null
+}

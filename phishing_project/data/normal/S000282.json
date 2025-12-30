@@ -1,0 +1,104 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "상담사1",
+                    "age": "20대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "고객1",
+                    "age": "40대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000282/0001.wav",
+                "duration": 3.355,
+                "text": "아 네 그 혹시"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000282/0002.wav",
+                "duration": 3.893,
+                "text": "o/ 그 아까 문의 (1번)/(한 번) 하긴 했었는데"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000282/0003.wav",
+                "duration": 2.973,
+                "text": "o/ 그 아이디 같은 경우에는"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000282/0004.wav",
+                "duration": 3.731,
+                "text": "그 네 (1회선)/(한 회선)만 되는 건가요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000282/0005.wav",
+                "duration": 5.373,
+                "text": "o/ 회선이란게 어떤 말씀을 하시는 걸까요? 그니까 뭐 기기 말씀하시는 거예요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000282/0006.wav",
+                "duration": 2.836,
+                "text": "o/ 동시접속 이런거 말씀하시는 거예요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000282/0007.wav",
+                "duration": 3.912,
+                "text": "o/ 네 어머니 저희 동시 접속은 안되시고 (1)/(하나)의"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000282/0008.wav",
+                "duration": 7.603,
+                "text": "아이디에서 사용 중인데 다른 아이디로 이제 동일한 아이디로 다른 데서 접속하면은 (1)/(하나)는 자동으로 로그아웃되게 되어 있으세요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000282/0009.wav",
+                "duration": 4.789,
+                "text": "o/ 아 그래요? 그 집에서도 만약에 예를 들어서"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000282/0010.wav",
+                "duration": 5.203,
+                "text": "(1)/(하나)의 기기로 뭐 컴퓨터로 하고 있다가 모바일로 이렇게"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000282/0011.wav",
+                "duration": 2.728,
+                "text": "o/ 접속을 하면 끊어지는 건가요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000282/0012.wav",
+                "duration": 3.784,
+                "text": "네 아 네 알겠습니다."
+            }
+        ]
+    }
+}

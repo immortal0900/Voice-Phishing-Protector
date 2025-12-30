@@ -1,0 +1,88 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "고객1",
+                    "age": "40대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "상담사1",
+                    "age": "20대",
+                    "gender": "남",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "3",
+                    "type": "고객2",
+                    "age": "10대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000084/0001.wav",
+                "duration": 9.171,
+                "text": "네 어제 저기 우리 그 이거 뭐지 지금 인강 신청을 (하려고)/(할려고) 했는데 무통장 입금을 해서 가상 계좌를 받았거든요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000084/0002.wav",
+                "duration": 8.349,
+                "text": "근데 (2번)/(두 번) 다 그게 이게 예금주가 그 계좌번호 안 맞다고 나와서 어제 입금을 못했어요. 왜 그런가 싶어서"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000084/0003.wav",
+                "duration": 2.622,
+                "text": "아이디 (1번)/(한 번) 불러주시겠어요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000084/0004.wav",
+                "duration": 2.667,
+                "text": "회원님 휴대폰 번호 말씀해주시겠어요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000084/0005.wav",
+                "duration": 6.003,
+                "text": "o/ 성함이 어떻게 되실까요? 지금 어떤 상품 구매를 하실 예정이셨어요."
+            },
+            {
+                "speaker": "3",
+                "audioPath": "D01/J01/S000084/0006.wav",
+                "duration": 5.213,
+                "text": "선생님인 리델로직 출석 패키지로 하려 했었어요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000084/0007.wav",
+                "duration": 2.365,
+                "text": "강좌 말씀하시는 거에요?"
+            },
+            {
+                "speaker": "3",
+                "audioPath": "D01/J01/S000084/0008.wav",
+                "duration": 3.155,
+                "text": "어 네 (2)/(둘) 다 같이 쓰고 있어요."
+            }
+        ]
+    }
+}

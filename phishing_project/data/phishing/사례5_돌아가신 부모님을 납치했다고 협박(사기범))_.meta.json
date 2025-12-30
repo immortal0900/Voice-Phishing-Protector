@@ -1,0 +1,28 @@
+{
+  "file": "사례5_돌아가신 부모님을 납치했다고 협박(사기범))_.mp3",
+  "rel_path": "사례5_돌아가신 부모님을 납치했다고 협박(사기범))_.mp3",
+  "language": "ko",
+  "text": "돈이 쪼값 필요해서 어머님 지하 창고에 잡아주고 있어 씨발 너 짭새한테 신고하거나 딴짓거려 하면 어머님 내 손꼬락 다 잘라버릴게 알겠어",
+  "duration_sec": 11.1020625,
+  "segments": [
+    {
+      "index": 0,
+      "start": 0.0,
+      "end": 5.0,
+      "text": "돈이 쪼값 필요해서 어머님 지하 창고에 잡아주고 있어",
+      "speaker": "speaker_1",
+      "confidence": -0.4660560432179221
+    },
+    {
+      "index": 1,
+      "start": 5.0,
+      "end": 11.0,
+      "text": "씨발 너 짭새한테 신고하거나 딴짓거려 하면 어머님 내 손꼬락 다 잘라버릴게 알겠어",
+      "speaker": "speaker_1",
+      "confidence": -0.4660560432179221
+    }
+  ],
+  "engine": "faster-whisper-medium-float16-cuda",
+  "processed_at": 1758154964.0754797,
+  "error": null
+}

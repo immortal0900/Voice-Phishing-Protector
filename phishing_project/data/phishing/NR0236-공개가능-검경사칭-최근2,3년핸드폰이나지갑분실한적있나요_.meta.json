@@ -1,0 +1,348 @@
+{
+  "file": "NR0236-공개가능-검경사칭-최근2,3년핸드폰이나지갑분실한적있나요_.mp3",
+  "rel_path": "NR0236-공개가능-검경사칭-최근2,3년핸드폰이나지갑분실한적있나요_.mp3",
+  "language": "ko",
+  "text": "이해소는 이번 본부가 3년간동안 후원을 받은 수준입니다. 또한 현장에서 다른 신인종 카드와 대포통장을 압수수색했고 그 과정에서 AXX 신인종 카드의 명의로 되어 있는 한왕은행구와 농료문행 통장이 발견된 겁니다. 그래서 저희 측에서는 그 사실을 여부로 확인자 본인 앞으로 이어 드렸고요. 네. 혹시 본인께서는 최근 2, 3년 사이에 핸드폰이나 지가 신분증을 전환당하시거나 분실하신 적이 있습니까? 아니요. 전혀 없습니까? 네. 네, 오늘 저희 측에서 본인 앞으로 이어 드린 부분은 본인께서 이 두 이 부분에 대해서 현재 저희 측에서 조사를 진행하고 있는 당입니다. 이해 되셨죠? 네. 네. 그래서 본인께서는 김종원 씨는 모르신다는 말씀이시고요. 네. 네. 제가 본인 앞으로 질문을 몇 가지 드리겠습니다. 그래서 본인께서는 성성히하게 저한테 답변만 해주시면 되겠고요. 네. 네. 지난 2015년에 김종원 씨는 김종원 씨의 네. 네. 제가 본인 앞으로 질문을 몇 가지 드리겠습니다. 그래서 본인께서는 성성히하게 저한테 답변만 해주시면 되겠고요. 네. 네. 지난 2015년 2월 10일자로. 네. 경기도 광명시 철산동 철산 지점에서 본인 명의로 되어 있는 하나한행과 농겨물행 통정을 사인으로 계산하신 적 있습니까? 네. 있는데요. 본인께서 직접 계산하셨습니다. 맞습니까? 네. 맞는데요. 네.",
+  "duration_sec": 73.299625,
+  "segments": [
+    {
+      "index": 0,
+      "start": 0.0,
+      "end": 3.94,
+      "text": "이해소는 이번 본부가 3년간동안 후원을 받은 수준입니다.",
+      "speaker": "speaker_1",
+      "confidence": -0.849294049068562
+    },
+    {
+      "index": 1,
+      "start": 3.94,
+      "end": 8.540000000000001,
+      "text": "또한 현장에서 다른 신인종 카드와 대포통장을 압수수색했고 그 과정에서",
+      "speaker": "speaker_1",
+      "confidence": -0.849294049068562
+    },
+    {
+      "index": 2,
+      "start": 8.540000000000001,
+      "end": 11.56,
+      "text": "AXX 신인종 카드의 명의로 되어 있는 한왕은행구와 농료문행 통장이 발견된",
+      "speaker": "speaker_1",
+      "confidence": -0.849294049068562
+    },
+    {
+      "index": 3,
+      "start": 11.56,
+      "end": 12.56,
+      "text": "겁니다.",
+      "speaker": "speaker_1",
+      "confidence": -0.849294049068562
+    },
+    {
+      "index": 4,
+      "start": 12.56,
+      "end": 15.120000000000001,
+      "text": "그래서 저희 측에서는 그 사실을 여부로 확인자 본인 앞으로 이어",
+      "speaker": "speaker_1",
+      "confidence": -0.849294049068562
+    },
+    {
+      "index": 5,
+      "start": 15.120000000000001,
+      "end": 16.12,
+      "text": "드렸고요.",
+      "speaker": "speaker_1",
+      "confidence": -0.849294049068562
+    },
+    {
+      "index": 6,
+      "start": 16.12,
+      "end": 17.12,
+      "text": "네.",
+      "speaker": "speaker_1",
+      "confidence": -0.849294049068562
+    },
+    {
+      "index": 7,
+      "start": 17.12,
+      "end": 18.94,
+      "text": "혹시 본인께서는 최근 2, 3년 사이에 핸드폰이나 지가 신분증을 전환당하시거나",
+      "speaker": "speaker_1",
+      "confidence": -0.849294049068562
+    },
+    {
+      "index": 8,
+      "start": 18.94,
+      "end": 19.94,
+      "text": "분실하신 적이 있습니까?",
+      "speaker": "speaker_1",
+      "confidence": -0.849294049068562
+    },
+    {
+      "index": 9,
+      "start": 19.94,
+      "end": 20.94,
+      "text": "아니요.",
+      "speaker": "speaker_1",
+      "confidence": -0.849294049068562
+    },
+    {
+      "index": 10,
+      "start": 20.94,
+      "end": 21.94,
+      "text": "전혀 없습니까?",
+      "speaker": "speaker_1",
+      "confidence": -0.849294049068562
+    },
+    {
+      "index": 11,
+      "start": 21.94,
+      "end": 22.94,
+      "text": "네.",
+      "speaker": "speaker_1",
+      "confidence": -0.849294049068562
+    },
+    {
+      "index": 12,
+      "start": 22.94,
+      "end": 26.94,
+      "text": "네, 오늘 저희 측에서 본인 앞으로 이어 드린 부분은 본인께서 이 두",
+      "speaker": "speaker_1",
+      "confidence": -0.849294049068562
+    },
+    {
+      "index": 13,
+      "start": 26.94,
+      "end": 30.94,
+      "text": "이 부분에 대해서 현재 저희 측에서 조사를 진행하고 있는 당입니다.",
+      "speaker": "speaker_1",
+      "confidence": -0.4495
+    },
+    {
+      "index": 14,
+      "start": 30.94,
+      "end": 31.94,
+      "text": "이해 되셨죠?",
+      "speaker": "speaker_1",
+      "confidence": -0.4495
+    },
+    {
+      "index": 15,
+      "start": 31.94,
+      "end": 32.94,
+      "text": "네.",
+      "speaker": "speaker_1",
+      "confidence": -0.4495
+    },
+    {
+      "index": 16,
+      "start": 32.94,
+      "end": 33.94,
+      "text": "네.",
+      "speaker": "speaker_1",
+      "confidence": -0.4495
+    },
+    {
+      "index": 17,
+      "start": 33.94,
+      "end": 36.94,
+      "text": "그래서 본인께서는 김종원 씨는 모르신다는 말씀이시고요.",
+      "speaker": "speaker_1",
+      "confidence": -0.4495
+    },
+    {
+      "index": 18,
+      "start": 36.94,
+      "end": 37.94,
+      "text": "네.",
+      "speaker": "speaker_1",
+      "confidence": -0.4495
+    },
+    {
+      "index": 19,
+      "start": 37.94,
+      "end": 38.94,
+      "text": "네.",
+      "speaker": "speaker_1",
+      "confidence": -0.4495
+    },
+    {
+      "index": 20,
+      "start": 38.94,
+      "end": 39.94,
+      "text": "제가 본인 앞으로 질문을 몇 가지 드리겠습니다.",
+      "speaker": "speaker_1",
+      "confidence": -0.4495
+    },
+    {
+      "index": 21,
+      "start": 39.94,
+      "end": 42.94,
+      "text": "그래서 본인께서는 성성히하게 저한테 답변만 해주시면 되겠고요.",
+      "speaker": "speaker_1",
+      "confidence": -0.4495
+    },
+    {
+      "index": 22,
+      "start": 42.94,
+      "end": 43.94,
+      "text": "네.",
+      "speaker": "speaker_1",
+      "confidence": -0.4495
+    },
+    {
+      "index": 23,
+      "start": 43.94,
+      "end": 44.94,
+      "text": "네.",
+      "speaker": "speaker_1",
+      "confidence": -0.4495
+    },
+    {
+      "index": 24,
+      "start": 44.94,
+      "end": 46.94,
+      "text": "지난 2015년에 김종원 씨는 김종원 씨의",
+      "speaker": "speaker_1",
+      "confidence": -0.4495
+    },
+    {
+      "index": 25,
+      "start": 47.94,
+      "end": 48.94,
+      "text": "네.",
+      "speaker": "speaker_1",
+      "confidence": -0.22140522797902426
+    },
+    {
+      "index": 26,
+      "start": 48.94,
+      "end": 49.94,
+      "text": "네.",
+      "speaker": "speaker_1",
+      "confidence": -0.22140522797902426
+    },
+    {
+      "index": 27,
+      "start": 49.94,
+      "end": 50.94,
+      "text": "제가 본인 앞으로 질문을 몇 가지 드리겠습니다.",
+      "speaker": "speaker_1",
+      "confidence": -0.22140522797902426
+    },
+    {
+      "index": 28,
+      "start": 50.94,
+      "end": 53.94,
+      "text": "그래서 본인께서는 성성히하게 저한테 답변만 해주시면 되겠고요.",
+      "speaker": "speaker_1",
+      "confidence": -0.22140522797902426
+    },
+    {
+      "index": 29,
+      "start": 53.94,
+      "end": 54.94,
+      "text": "네.",
+      "speaker": "speaker_1",
+      "confidence": -0.22140522797902426
+    },
+    {
+      "index": 30,
+      "start": 54.94,
+      "end": 55.94,
+      "text": "네.",
+      "speaker": "speaker_1",
+      "confidence": -0.22140522797902426
+    },
+    {
+      "index": 31,
+      "start": 55.94,
+      "end": 58.94,
+      "text": "지난 2015년 2월 10일자로.",
+      "speaker": "speaker_1",
+      "confidence": -0.22140522797902426
+    },
+    {
+      "index": 32,
+      "start": 58.94,
+      "end": 59.94,
+      "text": "네.",
+      "speaker": "speaker_1",
+      "confidence": -0.22140522797902426
+    },
+    {
+      "index": 33,
+      "start": 59.94,
+      "end": 63.94,
+      "text": "경기도 광명시 철산동 철산 지점에서 본인 명의로 되어 있는 하나한행과",
+      "speaker": "speaker_1",
+      "confidence": -0.22140522797902426
+    },
+    {
+      "index": 34,
+      "start": 63.94,
+      "end": 65.94,
+      "text": "농겨물행 통정을 사인으로 계산하신 적 있습니까?",
+      "speaker": "speaker_1",
+      "confidence": -0.22140522797902426
+    },
+    {
+      "index": 35,
+      "start": 65.94,
+      "end": 66.94,
+      "text": "네.",
+      "speaker": "speaker_1",
+      "confidence": -0.22140522797902426
+    },
+    {
+      "index": 36,
+      "start": 66.94,
+      "end": 67.94,
+      "text": "있는데요.",
+      "speaker": "speaker_1",
+      "confidence": -0.22140522797902426
+    },
+    {
+      "index": 37,
+      "start": 67.94,
+      "end": 68.94,
+      "text": "본인께서 직접 계산하셨습니다.",
+      "speaker": "speaker_1",
+      "confidence": -0.22140522797902426
+    },
+    {
+      "index": 38,
+      "start": 68.94,
+      "end": 69.94,
+      "text": "맞습니까?",
+      "speaker": "speaker_1",
+      "confidence": -0.22140522797902426
+    },
+    {
+      "index": 39,
+      "start": 69.94,
+      "end": 70.94,
+      "text": "네.",
+      "speaker": "speaker_1",
+      "confidence": -0.22140522797902426
+    },
+    {
+      "index": 40,
+      "start": 70.94,
+      "end": 71.94,
+      "text": "맞는데요.",
+      "speaker": "speaker_1",
+      "confidence": -0.22140522797902426
+    },
+    {
+      "index": 41,
+      "start": 71.94,
+      "end": 73.94,
+      "text": "네.",
+      "speaker": "speaker_1",
+      "confidence": -0.6730804443359375
+    }
+  ],
+  "engine": "faster-whisper-medium-float16-cuda",
+  "processed_at": 1758158787.080419,
+  "error": null
+}

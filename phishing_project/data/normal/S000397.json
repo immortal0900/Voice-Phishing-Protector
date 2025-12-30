@@ -1,0 +1,254 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "상담사1",
+                    "age": "20대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "고객1",
+                    "age": "40대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000397/0001.wav",
+                "duration": 3.795,
+                "text": "네 저기 요번에 중학교 (3학년)/(삼 학년)인데"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000397/0002.wav",
+                "duration": 2.536,
+                "text": "근데 듣고 싶어 해가지고"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000397/0003.wav",
+                "duration": 4.601,
+                "text": "아 그 강좌를 어떤 걸로 신청"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000397/0004.wav",
+                "duration": 11.197,
+                "text": "너무 많아가지고 중 (3)/(삼) 아이가 쉽게 개념을 이제 받아들일 수 있는 그 강좌로 어떤 걸 선택하는 게 좋은지 그것 좀 제가 도움 좀 받고 싶어서"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000397/0005.wav",
+                "duration": 8.979,
+                "text": "성적을 올려주는 (생명과) 생명과학 개념이나 제일 쉬운 게 학교 내신을 위한 개념완성 이부분"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000397/0006.wav",
+                "duration": 8.317,
+                "text": "그니까 아이가 중 (3)/(삼)이면은 쉽게 접할 수 있고 이해할 수 있는 게 혹시 학교 대신 위한 개념 완성 이건가요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000397/0007.wav",
+                "duration": 7.187,
+                "text": "o/ 이거 이시긴한데 저희가 정확하게는 학습전문 선생님께 제가 연결을 해드릴게요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000397/0008.wav",
+                "duration": 5.437,
+                "text": "o/ 어 아니요. 저희 그 학습지원센터 전문적인 학습 상담 선생님이"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000397/0009.wav",
+                "duration": 3.64,
+                "text": "그쪽으로 제가 연결을 해드리려고요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000397/0010.wav",
+                "duration": 2.475,
+                "text": "아 그러고 제가"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000397/0011.wav",
+                "duration": 2.92,
+                "text": "혹시 이거 결제를"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000397/0012.wav",
+                "duration": 7.045,
+                "text": "하면 이게 수강 그 강의가 끝날 때까지의 금액인가요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000397/0013.wav",
+                "duration": 6.099,
+                "text": "o/ 일단은 만약에 학교 그니까 내신 강좌를 들으시게 되면은"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000397/0014.wav",
+                "duration": 6.988,
+                "text": "잠시만요. 학교 내신을 위한 개념 완성 들으신다면 수강기간이 (86일)/(팔십 육 일)이세요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000397/0015.wav",
+                "duration": 2.394,
+                "text": "o/ 예 그렇게 써있더라고요. 예."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000397/0016.wav",
+                "duration": 3.159,
+                "text": "이 기간안에 다 들으시면 돼요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000397/0017.wav",
+                "duration": 9.341,
+                "text": "o/ 아 복습은 할 수 있다? 아 그리고 교재는 여기서 같이 제가 인제 주문하면 그 교재 안에 문제 유형들 다 있다는 얘기죠?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000397/0018.wav",
+                "duration": 8.275,
+                "text": "o/ 네 교재정보 부분 (ebook)/(이 북) 있으신데 그거 눌러보시면 교재 내용 볼 수 있어요. 간단하게라도"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000397/0019.wav",
+                "duration": 4.243,
+                "text": "그리고 주문하시면 이제 실물교재로 배송이 되시고요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000397/0020.wav",
+                "duration": 9.064,
+                "text": "아 그러면은 이 저기 커리큘럼은 이걸 보고 그 학습 담당하는 선생님하고 제가 통화를 해야 되는 게 맞죠? 그러면?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000397/0021.wav",
+                "duration": 9.179,
+                "text": "o/ 네 이제 커리큘럼대로 원래 수강을 해주시는 게 낫긴 한데 자세하게는 학습 (()) 선생님과 상의해주시는 게 나을 것 같아요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000397/0022.wav",
+                "duration": 3.457,
+                "text": "네 그러실래요. 그럼 그쪽으로 연결 좀 부탁드릴게요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000397/0023.wav",
+                "duration": 5.437,
+                "text": "o/ 혹시 만약에 연결 (하) 되다가 끊어지면 직통 전화번호는 어디로 하면 돼요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000397/0024.wav",
+                "duration": 2.813,
+                "text": "저희가 직통번호는 없고 다시"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000397/0025.wav",
+                "duration": 2.749,
+                "text": "번으로 연락 주셔서 상담"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000397/0026.wav",
+                "duration": 4.264,
+                "text": "이쪽으로 연락주셔서 재신청 해주시거나"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000397/0027.wav",
+                "duration": 4.581,
+                "text": "보통 상담 진행하면 (2번)/(두 번) 정도는 연락가실 거예요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000397/0028.wav",
+                "duration": 8.125,
+                "text": "o/ 아 그래요? 혹시 만약에 지금 (5월)/(오 월)달부터 하면은 아 그 학습지 선생님하고 통화를 (1번)/(한 번) 해볼게요. 연결 좀 부탁드릴게요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000397/0029.wav",
+                "duration": 2.889,
+                "text": "네 혹시 연락처 어떻게 되세요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000397/0030.wav",
+                "duration": 6.781,
+                "text": "예 연락 (주시고요)/(주시구요). b/ 혹시 제가 뭐 궁금해서 그러는데 이게 생명과학 하고"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000397/0031.wav",
+                "duration": 5.587,
+                "text": "지구과학하고 동시에 아이가 중 (3)/(삼)인데 수업하기에는 조금 버거운가요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000397/0032.wav",
+                "duration": 3.24,
+                "text": "회원님 하나하나 하시는 게 나을 것 같"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000397/0033.wav",
+                "duration": 5.949,
+                "text": "이게 (86일)/(팔십 육 일)이면 어 생명과학이 총 (30강)/(삼십 강)인가 그렇게 되있던 것 같은데"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000397/0034.wav",
+                "duration": 7.912,
+                "text": "o/ 아 그렇게 해서 끝낼 수 있다? 그러면은 이게 선생님이 수업 요일이 뭐 월, 수면은 월, 수만 이게 들을 수 있어요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000397/0035.wav",
+                "duration": 6.205,
+                "text": "이게 지금 완강 되어있는 강좌라서 시간 되실 때 보시면 돼요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000397/0036.wav",
+                "duration": 6.163,
+                "text": "o/ 아 그래요? 아 알겠습니다. 그럼 (1시)/(한 시) 이후에 전화 좀 부탁드릴게요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000397/0037.wav",
+                "duration": 4.136,
+                "text": "네 그러면 연결드릴게요. 네 감사합니다."
+            }
+        ]
+    }
+}

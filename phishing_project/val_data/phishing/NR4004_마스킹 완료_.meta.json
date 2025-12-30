@@ -1,0 +1,180 @@
+{
+  "file": "NR4004_마스킹 완료_.mp3",
+  "rel_path": "NR4004_마스킹 완료_.mp3",
+  "language": "ko",
+  "text": "통장 명의주는 확실해 그리고 통장 발급일은 2017년 3월 14일입니다 작년 3월 14일이고 화요일인데요 이 평일 날에 무엇을 하고 계신지 혹시 기억하세요? 제가 정책을 다시 전해서 알아볼게요 네 아니 왜 3월 14일은 본인 무엇을 했는지 왜 진술 못하고 계시는 거죠? 소리에 걸리는 게 있구나 기민실단 뭐 공무원이 살 수 있으신 거세요? 아니 지금 무슨 소리 하시는지 모르겠는데요? 아니요, 협조를 안 하시는 거세요? 만약에 경찰서에서 전화 왔으면 경찰서 번호를 왔겠죠? 핸드폰을 이렇게 안 하세요? 저 경찰서가 아니고요 저희는 서울중앙지방 검찰청이고 이게 개인 휴대폰이 아닙니다 수사할 때 전화해볼게요",
+  "duration_sec": 51.1768125,
+  "segments": [
+    {
+      "index": 0,
+      "start": 0.0,
+      "end": 2.0,
+      "text": "통장 명의주는 확실해",
+      "speaker": "speaker_1",
+      "confidence": -0.37559522447131927
+    },
+    {
+      "index": 1,
+      "start": 6.0,
+      "end": 8.0,
+      "text": "그리고 통장 발급일은",
+      "speaker": "speaker_1",
+      "confidence": -0.37559522447131927
+    },
+    {
+      "index": 2,
+      "start": 8.0,
+      "end": 10.0,
+      "text": "2017년 3월 14일입니다",
+      "speaker": "speaker_1",
+      "confidence": -0.37559522447131927
+    },
+    {
+      "index": 3,
+      "start": 10.0,
+      "end": 12.0,
+      "text": "작년 3월 14일이고 화요일인데요",
+      "speaker": "speaker_1",
+      "confidence": -0.37559522447131927
+    },
+    {
+      "index": 4,
+      "start": 12.0,
+      "end": 14.0,
+      "text": "이 평일 날에 무엇을 하고 계신지 혹시 기억하세요?",
+      "speaker": "speaker_1",
+      "confidence": -0.37559522447131927
+    },
+    {
+      "index": 5,
+      "start": 16.0,
+      "end": 18.0,
+      "text": "제가 정책을 다시 전해서 알아볼게요",
+      "speaker": "speaker_1",
+      "confidence": -0.37559522447131927
+    },
+    {
+      "index": 6,
+      "start": 20.0,
+      "end": 22.0,
+      "text": "네",
+      "speaker": "speaker_1",
+      "confidence": -0.37559522447131927
+    },
+    {
+      "index": 7,
+      "start": 22.0,
+      "end": 24.0,
+      "text": "아니 왜",
+      "speaker": "speaker_1",
+      "confidence": -0.37559522447131927
+    },
+    {
+      "index": 8,
+      "start": 24.0,
+      "end": 26.0,
+      "text": "3월 14일은 본인 무엇을 했는지 왜",
+      "speaker": "speaker_1",
+      "confidence": -0.37559522447131927
+    },
+    {
+      "index": 9,
+      "start": 26.0,
+      "end": 28.0,
+      "text": "진술 못하고 계시는 거죠?",
+      "speaker": "speaker_1",
+      "confidence": -0.37559522447131927
+    },
+    {
+      "index": 10,
+      "start": 28.0,
+      "end": 30.0,
+      "text": "소리에 걸리는 게 있구나",
+      "speaker": "speaker_1",
+      "confidence": -0.3072916596676364
+    },
+    {
+      "index": 11,
+      "start": 30.0,
+      "end": 32.0,
+      "text": "기민실단 뭐 공무원이 살 수 있으신 거세요?",
+      "speaker": "speaker_1",
+      "confidence": -0.3072916596676364
+    },
+    {
+      "index": 12,
+      "start": 34.0,
+      "end": 36.0,
+      "text": "아니 지금 무슨 소리 하시는지 모르겠는데요?",
+      "speaker": "speaker_1",
+      "confidence": -0.3072916596676364
+    },
+    {
+      "index": 13,
+      "start": 36.0,
+      "end": 38.0,
+      "text": "아니요, 협조를 안 하시는 거세요?",
+      "speaker": "speaker_1",
+      "confidence": -0.3072916596676364
+    },
+    {
+      "index": 14,
+      "start": 38.0,
+      "end": 40.0,
+      "text": "만약에 경찰서에서 전화 왔으면",
+      "speaker": "speaker_1",
+      "confidence": -0.3072916596676364
+    },
+    {
+      "index": 15,
+      "start": 40.0,
+      "end": 42.0,
+      "text": "경찰서 번호를 왔겠죠? 핸드폰을 이렇게 안 하세요?",
+      "speaker": "speaker_1",
+      "confidence": -0.3072916596676364
+    },
+    {
+      "index": 16,
+      "start": 42.0,
+      "end": 44.0,
+      "text": "저 경찰서가 아니고요",
+      "speaker": "speaker_1",
+      "confidence": -0.3072916596676364
+    },
+    {
+      "index": 17,
+      "start": 44.0,
+      "end": 46.0,
+      "text": "저희는 서울중앙지방 검찰청이고",
+      "speaker": "speaker_1",
+      "confidence": -0.3072916596676364
+    },
+    {
+      "index": 18,
+      "start": 46.0,
+      "end": 48.0,
+      "text": "이게 개인 휴대폰이 아닙니다",
+      "speaker": "speaker_1",
+      "confidence": -0.3072916596676364
+    },
+    {
+      "index": 19,
+      "start": 48.0,
+      "end": 50.0,
+      "text": "수사할 때",
+      "speaker": "speaker_1",
+      "confidence": -0.3072916596676364
+    },
+    {
+      "index": 20,
+      "start": 50.0,
+      "end": 52.0,
+      "text": "전화해볼게요",
+      "speaker": "speaker_1",
+      "confidence": -0.3072916596676364
+    }
+  ],
+  "engine": "faster-whisper-medium-float16-cuda",
+  "processed_at": 1758158787.080419,
+  "error": null
+}

@@ -1,0 +1,290 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "고객1",
+                    "age": "40대",
+                    "gender": "남",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "상담사1",
+                    "age": "20대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000011/0001.wav",
+                "duration": 4.52,
+                "text": "아 뭐 여쭤보려고 그러는데요. 아 그 수학 그"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000011/0002.wav",
+                "duration": 2.152,
+                "text": "신청하려고 그러는데"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000011/0003.wav",
+                "duration": 2.621,
+                "text": "그 뭐야 어 제가"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000011/0004.wav",
+                "duration": 7.464,
+                "text": "뭐야 저 학습 거기 요즘 바뀐 게 올라와서 지금 나이 먹고 다시 한번 (하려고)/(할려고) 그러는데 수학 공부 좀"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000011/0005.wav",
+                "duration": 5.757,
+                "text": "그 요즘이 바뀌었나요? 그게 뭐 선택으로 기하 뭐 벡터 이런 거? 확률?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000011/0006.wav",
+                "duration": 10.451,
+                "text": "o/ 일단은 저희가 이제 변경돼 그니까 수능 쪽도 그렇지만 커리큘럼 관련해서는 저희가 이제 학습 상담 쪽으로 진행해 드릴 수가 있는데 혹시 이쪽으로 예약 해드릴까요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000011/0007.wav",
+                "duration": 3.059,
+                "text": "o/ 아 그 그래요. 네."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000011/0008.wav",
+                "duration": 3.752,
+                "text": "o/ 그러시면 혹시 (()) 가입 하셨나요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000011/0009.wav",
+                "duration": 3.145,
+                "text": "아니요. 아니요. 아니요. 가입 안 했어요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000011/0010.wav",
+                "duration": 3.859,
+                "text": "어 일단 어 ((비회원이신)) 거고요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000011/0011.wav",
+                "duration": 3.091,
+                "text": "네. 가입 했나? 안 한 거 같은데"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000011/0012.wav",
+                "duration": 3.646,
+                "text": "혹시 성함이랑 생년월일이 혹시 어떻게n/ 되세요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000011/0013.wav",
+                "duration": 3.773,
+                "text": "저희 쪽으로 일단 회원 가입 되어 있거든요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000011/0014.wav",
+                "duration": 2.163,
+                "text": "o/ 어 언제 한 거예요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000011/0015.wav",
+                "duration": 5.416,
+                "text": "가입은n/ 올해 (5월)/(오 월) (15일)/(십 오 일)에 가입한 걸로 확인 되세요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000011/0016.wav",
+                "duration": 3.752,
+                "text": "아 아 맞어 맞어 했다. 아 예."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000011/0017.wav",
+                "duration": 5.565,
+                "text": "그러시면 일단 저희가 예약 쪽으로 진행을 해드릴 텐데 현재 학년이 혹시 어떻게 되세요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000011/0018.wav",
+                "duration": 4.072,
+                "text": "학년이요? 아니 학생 아니 어떤 학년 말하는 거죠?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000011/0019.wav",
+                "duration": 2.771,
+                "text": "그니까 지금은 이제 고등학생이"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000011/0020.wav",
+                "duration": 2.473,
+                "text": "((선생님)) 되시고요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000011/0021.wav",
+                "duration": 2.921,
+                "text": "저희가 예약 쪽으로 진행 맞으세요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000011/0022.wav",
+                "duration": 3.303,
+                "text": "(아) 아예 전체적으로 상담 그런 거?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000011/0023.wav",
+                "duration": 3.048,
+                "text": "o/ 전 과목 관련해서 말씀이실까요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000011/0024.wav",
+                "duration": 1.768,
+                "text": "아니요. 수학만"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000011/0025.wav",
+                "duration": 1.801,
+                "text": "수학 쪽만요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000011/0026.wav",
+                "duration": 11.24,
+                "text": "아 그러시면 저희가 이쪽으로 예약 진행 해드릴 거고요. 선생님 그니까 담당 선생님께서 이제 연락을 드릴텐데 지금 연락 주신 휴대폰 번호로 연락 드리면 괜찮으실까요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000011/0027.wav",
+                "duration": 8.573,
+                "text": "예 근데 제가 어 그게 몇 시까지 예요? 제가 일을 하기 때문에 예."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000011/0028.wav",
+                "duration": 3.709,
+                "text": "그러시면 혹시 통화가 조금 어려운 시간대가 따로"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000011/0029.wav",
+                "duration": 3.581,
+                "text": "아니 그니까 저녁 ((까)) 저녁 저녁 몇 시까지 예요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000011/0030.wav",
+                "duration": 3.581,
+                "text": "상담 자체는 이제 저녁 (9시)/(아홉 시)까지 가능한"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000011/0031.wav",
+                "duration": 4.062,
+                "text": "아 그러면 (6시)/(여섯 시) (6시)/(여섯 시) 이후 통화 가능한가요.?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000011/0032.wav",
+                "duration": 1.758,
+                "text": "(6시)/(여섯 시) 이후요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000011/0033.wav",
+                "duration": 4.925,
+                "text": "그러시면 일단 저녁 (6시)/(여섯 시) 이후로 예약 잡아 드릴 거고요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000011/0034.wav",
+                "duration": 3.069,
+                "text": "일단 이 번호로 연락 드리도록 전달해 (())."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000011/0035.wav",
+                "duration": 7.347,
+                "text": "네 선생님 알겠습니다. 예. (()) 어 그건 교재는 여기서 따로 신청해야 되죠? (())"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000011/0036.wav",
+                "duration": 4.478,
+                "text": "수강하시고 그 다음에 교재 구매 가능하시기 때문에 따로"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000011/0037.wav",
+                "duration": 10.131,
+                "text": "아 주로 뭘로 해요? 저기 학생들이 수학 (1)/(원), (2)/(투) 이렇게 뭐 공통 뭐 기하 이렇게 주로 하나요? b/ 주로 하는 편이"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000011/0038.wav",
+                "duration": 4.541,
+                "text": "o/ 조금 다르기 때문에 상담 쪽에서 이제 정확하게 안내 (받으)"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000011/0039.wav",
+                "duration": 6.888,
+                "text": "예 예. 그거는 이제 선택 사항이고 우선은 ((주로)) 주로 확률적으로 누가 더"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000011/0040.wav",
+                "duration": 8.957,
+                "text": "편향돼있는지 (()) 그 확률 수학 (1)/(원), (2)/(투) 뭐 이런 식으로 하는데 주로 학생들이 뭘로 선택해요? 편향적으로?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000011/0041.wav",
+                "duration": 3.432,
+                "text": "저희가 그 부분까지는 확인이 안되세요. 회원님"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000011/0042.wav",
+                "duration": 7.333,
+                "text": "o/ 아 그래요? b/ 어쨌든 그 기하, 벡터, 확률이 이거 선택으로 제가 알고 있거든요? (()) 올해 바뀐 게 개정이"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000011/0043.wav",
+                "duration": 4.669,
+                "text": "아 일단 아 아 예 알겠습니다."
+            }
+        ]
+    }
+}

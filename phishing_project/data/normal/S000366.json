@@ -1,0 +1,146 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "상담사1",
+                    "age": "20대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "고객1",
+                    "age": "40대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000366/0001.wav",
+                "duration": 3.347,
+                "text": "네, 오늘 오전에 통화했었는데요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000366/0002.wav",
+                "duration": 6.195,
+                "text": "어 그 뭐 신청 학습 신청 (상담을)/(상담의) (하려고요)/(할려고요)."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000366/0003.wav",
+                "duration": 8.467,
+                "text": "제가 회원님의 정보 먼저 확인해보도록 하겠습니다. b/ 실례지만 가입하신 학생분 핸드폰 번호 어떻게 되실까요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000366/0004.wav",
+                "duration": 4.443,
+                "text": "학생으로 안 했고 학부모로 했어요. 지금 이 번호로"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000366/0005.wav",
+                "duration": 11.475,
+                "text": "네, 가입되는 아이디 확인되셨고요. b/ 네, 저희가 회원님 근데 저희가 학부모님 아이디로는 결제가 되지가 않기 때문에요. 결제를 하실 때에는 학생 아이디로 로그인을 해주셔야 되세요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000366/0006.wav",
+                "duration": 3.688,
+                "text": "네, 학생은 아직 가입은 안 했는데"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000366/0007.wav",
+                "duration": 2.611,
+                "text": "상담을 원하신다는 말씀요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000366/0008.wav",
+                "duration": 4.883,
+                "text": "그게 (1달)/(한 달)에 (2번)/(두 번) 뭐 이렇게 된다고 들었거든요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000366/0009.wav",
+                "duration": 4.413,
+                "text": "네, (1달)/(한 달)에 (2번)/(두 번) 가능 달에 (2번)/(두 번) 가능하시고요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000366/0010.wav",
+                "duration": 2.675,
+                "text": "아 그리고 제가 궁금한 게."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000366/0011.wav",
+                "duration": 10.813,
+                "text": "o/ 지금 이거 말고 중학생들이 (한) (겨) 그거는 선생님이 매일매일 (게) (상) 해주시는 거 같거든 관리를 근데 고등학생은 없는 거예요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000366/0012.wav",
+                "duration": 2.525,
+                "text": "네, 고등학생은 없습니다."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000366/0013.wav",
+                "duration": 5.47,
+                "text": "아 그럼 그 학습상담 그것만 있는 거 그건 신청 어떻게 해요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000366/0014.wav",
+                "duration": 3.506,
+                "text": "저 혹시 저희 홈페이지 이용 가능하실까요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000366/0015.wav",
+                "duration": 2.707,
+                "text": "내 학습지원센터요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000366/0016.wav",
+                "duration": 21.341,
+                "text": "o/ 학습지원센터 들어가셔 가지고요. b/ 거기에서 이제 왼쪽에 보시면 학습 (서) 학습 입시 상담이라고 있습니다 거기에 들어가셔 가지고 학습 상담 클릭하셔 가지고요. 예약하기 클릭하셔서 (이제)/(제) 어머니께서 이제 상담 원하시는 내용이랑 날짜 연락처 남겨주시면은 네, 이제 담당"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000366/0017.wav",
+                "duration": 3.336,
+                "text": "전문 선생님께서 연락을 드리실 거세요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000366/0018.wav",
+                "duration": 5.331,
+                "text": "아 그러면은 그 상담을 받고 나서 결제해도 되는 거죠?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000366/0019.wav",
+                "duration": 2.781,
+                "text": "아 네, 알겠습니다."
+            }
+        ]
+    }
+}

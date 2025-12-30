@@ -1,0 +1,92 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "상담사1",
+                    "age": "20대",
+                    "gender": "남",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "고객1",
+                    "age": "40대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000306/0001.wav",
+                "duration": 2.589,
+                "text": "학습지원센터입니다. 무엇을 도와 드릴"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000306/0002.wav",
+                "duration": 7.165,
+                "text": "네, 안녕하세요. 여쭤볼게요. 저기 혹시 수시 모집 (아이) 수시 자료집 같은 게 있나요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000306/0003.wav",
+                "duration": 5.224,
+                "text": "음 네 어머니 죄송하지만 저희 홈페이지에는 그런 건 없으세요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000306/0004.wav",
+                "duration": 3.518,
+                "text": "아 자료집 같은 건 판매 같은 건 안 하시나요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000306/0005.wav",
+                "duration": 3.912,
+                "text": "네네 어머니 그런건 없으세요. 따로 판매하고 있지 않으세요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000306/0006.wav",
+                "duration": 2.901,
+                "text": "아 무료제공 그런 것도 없고요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000306/0007.wav",
+                "duration": 2.376,
+                "text": "작년에도 없었나요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000306/0008.wav",
+                "duration": 6.824,
+                "text": "o/ 네네 어머니, 이거는 뭐 저희가 따로 그런 건 없으셔 없으셨어요. 판매라든지 아니면 제공이라든지."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000306/0009.wav",
+                "duration": 3.394,
+                "text": "아 예. 알겠습니다."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000306/0010.wav",
+                "duration": 3.215,
+                "text": "예 감사합니다. 어머니. 좋은 하루 되세요."
+            }
+        ]
+    }
+}

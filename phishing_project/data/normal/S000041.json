@@ -1,0 +1,194 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "고객1",
+                    "age": "40대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "상담사1",
+                    "age": "30대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000041/0001.wav",
+                "duration": 4.541,
+                "text": "네 저기 시험 대비 심화 강좌라고"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000041/0002.wav",
+                "duration": 3.624,
+                "text": "예 거기에 인제 빠바라고 있어서요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000041/0003.wav",
+                "duration": 4.307,
+                "text": "그 제목이 개념 원리 뭐 블랙 라벨처럼"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000041/0004.wav",
+                "duration": 2.899,
+                "text": "빠바라고 있어요. 영어"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000041/0005.wav",
+                "duration": 2.526,
+                "text": "어느 선생님 강좌세요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000041/0006.wav",
+                "duration": 2.483,
+                "text": "그래서 그걸 찾으려고요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000041/0007.wav",
+                "duration": 2.761,
+                "text": "선생님 문의를 하시는 거예요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000041/0008.wav",
+                "duration": 3.689,
+                "text": "o/ 아이디랑 휴대폰 번호가 어떻게 되실까요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000041/0009.wav",
+                "duration": 2.109,
+                "text": "성함이 어떻게 되시는"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000041/0010.wav",
+                "duration": 1.917,
+                "text": "으로 돼있을 거예요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000041/0011.wav",
+                "duration": 10.611,
+                "text": "o/ 아 네 확인 되셨고 요 시험 대비 심화 강좌 영어 과목이시고 교재 과목명이 빠바 빠바라는 말씀이세요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000041/0012.wav",
+                "duration": 10.28,
+                "text": "o/ 예 왜냐하면 빠른 독해, 바른 독해 뭐 이 뜻이에요. 빠바 이렇게 되거든요. (()) 그거 갈색인데 그게 어디의 누구 어디 건지를 알고 싶어서"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000041/0013.wav",
+                "duration": 3.987,
+                "text": "어 잠시만요. 확인 한번 해드릴게요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000041/0014.wav",
+                "duration": 2.749,
+                "text": "아 회원님 그 영어"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000041/0015.wav",
+                "duration": 2.792,
+                "text": "선생님 강좌시네요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000041/0016.wav",
+                "duration": 3.901,
+                "text": "((선생님)) 그 어디 가서 찾아야 돼요? 어떻게 네 네."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000041/0017.wav",
+                "duration": 4.275,
+                "text": "o/ 하단에 고 (1)/(일), 고 (2)/(이), 고 (3)/(삼) 구분되어져 있고 그 밑에"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000041/0018.wav",
+                "duration": 2.664,
+                "text": "선생님 있는 거 보이십니까?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000041/0019.wav",
+                "duration": 4.937,
+                "text": "아 잠시만요. 저는 거기 클릭하라고 할 줄 알고 클릭했어요. 잠시만요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000041/0020.wav",
+                "duration": 2.493,
+                "text": "선생님 옆에"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000041/0021.wav",
+                "duration": 3.529,
+                "text": "작은 화살표 아래로 되어있는 거 보이실까요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000041/0022.wav",
+                "duration": 7.592,
+                "text": "네 그거 클릭해 보시면 과목 별 선생님들 쭉 나열되어 있으시고요. 여기서 영어 과목에"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000041/0023.wav",
+                "duration": 3.112,
+                "text": "네 그 하단에 보시면"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000041/0024.wav",
+                "duration": 3.763,
+                "text": "아 밑에서 다섯 번째요? (1)/(하나), (2)/(둘), (3)/(셋), (4)/(넷)"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000041/0025.wav",
+                "duration": 6.909,
+                "text": "o/ 네 맞으세요. 그 선생님 (()) 개설 강좌 들어가 보시면 그 해당 강좌에 있는 거 확인되실 거예요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000041/0026.wav",
+                "duration": 5.629,
+                "text": "o/ 음 아 네 그러네요. n/ 아 네 네. 감사해요. 선생님 네 네."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000041/0027.wav",
+                "duration": 2.344,
+                "text": "네 감사합니다."
+            }
+        ]
+    }
+}

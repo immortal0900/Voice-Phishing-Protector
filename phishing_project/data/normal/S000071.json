@@ -1,0 +1,248 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "상담사1",
+                    "age": "20대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "고객1",
+                    "age": "40대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000071/0001.wav",
+                "duration": 3.507,
+                "text": "학습지원센터입니다. 무엇을 도와드릴까요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000071/0002.wav",
+                "duration": 2.163,
+                "text": "아 네, 여보세요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000071/0003.wav",
+                "duration": 2.685,
+                "text": "아 뭐 좀 (여쭤보려고요)/(여쭤볼려고요)."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000071/0004.wav",
+                "duration": 4.532,
+                "text": "지금 어 지금 이거를 이용하고 있으면"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000071/0005.wav",
+                "duration": 6.525,
+                "text": "혹시 이게 노트북이나 이런 게 (다운을)/(따운을) 근까 인강을 (들으려고)/(들을려고) 하면"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000071/0006.wav",
+                "duration": 8.147,
+                "text": "o/ 어 학습 뭐 노트북에서도 (다운이)/(따운이) 되고 (다운로드한)/(따운로드한) 거를 들을 수도 있는 건가요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000071/0007.wav",
+                "duration": 6.152,
+                "text": "저희가 노트북이나 (PC)/(피씨)는 그냥 강의 재생 스트리밍만 가능하시고요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000071/0008.wav",
+                "duration": 2.504,
+                "text": "아 (스트리밍만)/(스티밍만) 가능하고"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000071/0009.wav",
+                "duration": 2.013,
+                "text": "태블릿이나 모바일"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000071/0010.wav",
+                "duration": 1.96,
+                "text": "네, 가능하세요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000071/0011.wav",
+                "duration": 5.171,
+                "text": "아 그러면 그건 아이디 (1)/(하나)당 (1)/(하나)만 등록이 가능한 거고요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000071/0012.wav",
+                "duration": 4.691,
+                "text": "네, 맞습니다. 아이디 하나당 (1기기)/(한 기기)만 지정해서 다운로드"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000071/0013.wav",
+                "duration": 2.397,
+                "text": "아 그렇구나."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000071/0014.wav",
+                "duration": 6.397,
+                "text": "그럼 아이가 인제 뭐 (1학년)/(일 학년) (2학년)/(이 학년)이면 탭이 하나만 있음 (1)/(하나)만 등록이 되는 거네요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000071/0015.wav",
+                "duration": 5.629,
+                "text": "o/ 네, (1아이디)/(한 아이디) 당 (1)/(한) 모바일 기기나 태블릿만 지정이 가능하세요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000071/0016.wav",
+                "duration": 3.443,
+                "text": "모바일 기기라는 건 핸드폰도 가능한 (거고요)/(거구요)?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000071/0017.wav",
+                "duration": 3.944,
+                "text": "어 네, 핸드폰이랑 뭐 태블릿 이런 기기만"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000071/0018.wav",
+                "duration": 2.013,
+                "text": "(1가지)/(한 가지)로만?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000071/0019.wav",
+                "duration": 4.033,
+                "text": "어 b/ 지금 만약에 고 (2)/(이)면"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000071/0020.wav",
+                "duration": 2.336,
+                "text": "어떻게 하는 거죠?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000071/0021.wav",
+                "duration": 4.104,
+                "text": "혹시 금액이 아 (40)/(사십) 얼마 나오는 그게 맞나요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000071/0022.wav",
+                "duration": 13.748,
+                "text": "어 네, 저희가 (43만원)/(사십 삼만 원)과 (63만원)/(육십 삼만 원)으로 구성되어있는데요. (43만원)/(사십 삼만 원)과 (63만원)/(육십 삼만 원)의 차이는 저희 교재 캐시 (20만원)/(이십만 원)이 예 포함되었느냐? 안되었느냐? 이 차이입니다. 어머니."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000071/0023.wav",
+                "duration": 4.723,
+                "text": "네, 그러면 그거를 한 지금 들으면 (12월)/(십 이 월)까지고요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000071/0024.wav",
+                "duration": 3.56,
+                "text": "네, (12월)/(십 이 월) (31일)/(삼십 일 일)까지 수강 가능하시고요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000071/0025.wav",
+                "duration": 8.317,
+                "text": "o/ 음 b/ 그렇구나. 이게 (1)/(하나)만 아이디가 되는 게 쪼금 아쉽네."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000071/0026.wav",
+                "duration": 12.541,
+                "text": "o/ 저희가 노트북이나 (PC)/(피씨)는 네 지정 따로 필요 없어서. 네. 겹치지만 않으면 네, 동시 접속은 (가) 동시에 (2분)/(두 분)이 들으실 순 있어요. 근데 겹치지 않게 접속하셔야"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000071/0027.wav",
+                "duration": 8.392,
+                "text": "어 네, 일단 알겠습니다. 그 혹시 이거는 환급 혜택 하는 그거는 고 (3)/(삼)만 해당이 되는 거죠?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000071/0028.wav",
+                "duration": 2.557,
+                "text": "네, 맞습니다. 고 (3)/(삼)만"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000071/0029.wav",
+                "duration": 6.547,
+                "text": "o/ 하는 거죠? 환급은n/ 어떤 식으로 해야지 아 그 대학에 갔을 경우?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000071/0030.wav",
+                "duration": 11.785,
+                "text": "o/ 네, 맞습니다. 진학을 하시면 네, 저희가 서류 제출하시고 저희 이제 서류가 통과되시면 저희가 이제 장학금을 환급을 해드리고 있습니다. 저희는 수강료 환급을 해드리고 있습니다."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000071/0031.wav",
+                "duration": 3.581,
+                "text": "어 그 대학은 어디 나오죠? 네, 네, 네."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000071/0032.wav",
+                "duration": 2.659,
+                "text": "어 혹시 지금 (PC)/(피씨) 이용 중이세요. 어머니?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000071/0033.wav",
+                "duration": 3.528,
+                "text": "쭉 하단으로 내리시면 저희가"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000071/0034.wav",
+                "duration": 6.009,
+                "text": "o/ 환급대상 학교 확인이라고 요렇게 따로 메뉴가 있거든요. 거기 밑에 보이시면"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000071/0035.wav",
+                "duration": 5.8,
+                "text": "아 의대, 치대, 약대 뭐 아 이렇게만."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000071/0036.wav",
+                "duration": 3.848,
+                "text": "아 네, 네, 알겠습니다."
+            }
+        ]
+    }
+}

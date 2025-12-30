@@ -1,0 +1,194 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "고객1",
+                    "age": "20대",
+                    "gender": "남",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "상담사1",
+                    "age": "20대",
+                    "gender": "남",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000353/0001.wav",
+                "duration": 3.689,
+                "text": "인강을 좀 (들으려고)/(들을려고) 하는데요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000353/0002.wav",
+                "duration": 8.733,
+                "text": "그 제가 그 뭐지 보건 환경 쪽 대학교 (생) 학생이다 보니까"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000353/0003.wav",
+                "duration": 4.732,
+                "text": "o/ 어떤 분야가 필요할지도 모르겠고"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000353/0004.wav",
+                "duration": 3.923,
+                "text": "대학교 강좌를 들어봤을 때는"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000353/0005.wav",
+                "duration": 3.832,
+                "text": "과목별로 다 배워야 될 것 같고"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000353/0006.wav",
+                "duration": 7.043,
+                "text": "o/ 아 어쨌든 고등 과정에서 인제 뭐 인제 이과 과정으로 좀 수강하고 싶으신 거 맞으세요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000353/0007.wav",
+                "duration": 5.192,
+                "text": "아 네. 그러시면은 저희가 학습상담 예약을 도와드리도록 할게요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000353/0008.wav",
+                "duration": 2.968,
+                "text": "o/ 아 지금 현재 대학생이신 거죠?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000353/0009.wav",
+                "duration": 4.527,
+                "text": "어 혹시 과목은 어떤 쪽으로 강좌 (()) 희망해드리면 될까요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000353/0010.wav",
+                "duration": 4.157,
+                "text": "o/ 아 보건 쪽이시면 뭐 생명과학이라든지 뭐 이런 거 있잖아요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000353/0011.wav",
+                "duration": 6.221,
+                "text": "네. 어떤 쪽으로 강좌를 그냥 과학적으로 그냥 강좌 추천 희망을 해드리면 될까요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000353/0012.wav",
+                "duration": 2.493,
+                "text": "과학도 그런데"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000353/0013.wav",
+                "duration": 8.024,
+                "text": "그 공중 보건학이라 하고 하는 게 보니까 한자랑 뭐 영어도 필요하고 뭐"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000353/0014.wav",
+                "duration": 5.084,
+                "text": "o/ 사회나 한국사 같은 거 그런 것도 다 있어야 되겠더라고요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000353/0015.wav",
+                "duration": 10.259,
+                "text": "o/ 그러고 뭐 따른 과목들도 뭐 영어나 뭐 수학이나 국어 같은 것도 있어야 되고 뭐 (눈) 논술 같은 거 (쓰) 쓸라 (하면)/(카면) 또"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000353/0016.wav",
+                "duration": 4.387,
+                "text": "n/ (학) 학술제 같은 거 그런 거 읽어보고"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000353/0017.wav",
+                "duration": 7.261,
+                "text": "그러면은 저희가 전 과목 고등과정 전 과목 추천 희망해서 그 재학생이신 그 회원님이신 거잖아요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000353/0018.wav",
+                "duration": 3.117,
+                "text": "전체적으로 추천 희망해서 b/"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000353/0019.wav",
+                "duration": 4.285,
+                "text": "저희 전문 (()) 학습 상담 선생님들이 계세요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000353/0020.wav",
+                "duration": 4.712,
+                "text": "순차적으로 연락드릴 거고 저녁 (8시)/(여덟 시)까지 연락드릴 거니깐요. b/"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000353/0021.wav",
+                "duration": 3.507,
+                "text": "연락처 (1)/(하나) 남겨주시면 저희가 상담 예약 도와드리고"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000353/0022.wav",
+                "duration": 3.128,
+                "text": "비용은 한 얼마나 나와요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000353/0023.wav",
+                "duration": 3.197,
+                "text": "o/ 그건 이제 문의하시고"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000353/0024.wav",
+                "duration": 3.807,
+                "text": "o/ 이제 하시는 거에 따라서 달라지시기 때문에"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000353/0025.wav",
+                "duration": 5.741,
+                "text": "o/ 근데 지금 좀 급한 게 (한) 한문인가 한자거든요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000353/0026.wav",
+                "duration": 5.715,
+                "text": "o/ 긍까 고 부분 (()) 저희가 예약 도와드리도록 할게요. 연락처 (1번)/(한 번) 남겨주시겠어요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000353/0027.wav",
+                "duration": 8.915,
+                "text": "네. 아 네. 그러면 제가 학습 상담 예약 도와드리고요. 순차적으로 연락드릴 거고 이 대표 번호로 문의가시는 점 참고해주시고 전화 받아주세요."
+            }
+        ]
+    }
+}

@@ -1,0 +1,302 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "상담사1",
+                    "age": "20대",
+                    "gender": "남",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "고객1",
+                    "age": "40대",
+                    "gender": "남",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000244/0001.wav",
+                "duration": 6.392,
+                "text": "o/ 그 인강 지금 저희 딸이 지금 고 (2)/(이)인데요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000244/0002.wav",
+                "duration": 6.22,
+                "text": "개별 과목으로 이렇게 사야 좋을지 그 상담 좀 좀 (받으려고)/(받을려고) 전화했거든요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000244/0003.wav",
+                "duration": 4.48,
+                "text": "o/ 지금 아이가 수학하고"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000244/0004.wav",
+                "duration": 2.592,
+                "text": "(사) 사탐 있잖아요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000244/0005.wav",
+                "duration": 3.0,
+                "text": "그 (2과목)/(두 과목)이 일단 필요해요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000244/0006.wav",
+                "duration": 3.704,
+                "text": "그래서 근데 여기 안에 보면 이게"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000244/0007.wav",
+                "duration": 7.277,
+                "text": "저기 그 뭐야 패스 패스도 이게 종류가 몇 가지 있고 그래서 패스로 사는 게 유리한지 아니면"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000244/0008.wav",
+                "duration": 4.584,
+                "text": "이게 수학하고 사탐만 이게 과목별로 이렇게 해서"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000244/0009.wav",
+                "duration": 3.912,
+                "text": "사는 게 유리한 지 그 저희가 n/ 알 수가 없어서"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000244/0010.wav",
+                "duration": 2.543,
+                "text": "일단은 수 (1)/(원)이라는데n/?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000244/0011.wav",
+                "duration": 4.376,
+                "text": "어 그러시지만 이제 이 부분 말씀드리면 이제"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000244/0012.wav",
+                "duration": 2.717,
+                "text": "아버님께서 말씀해주셨다시피"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000244/0013.wav",
+                "duration": 3.134,
+                "text": "수학 (1)/(원) 강좌로 말씀해 주셨잖아요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000244/0014.wav",
+                "duration": 4.227,
+                "text": "o/ 그러신데 이제 수학 (1)/(원) 강좌도 이제 여러 가지가 있으세요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000244/0015.wav",
+                "duration": 2.466,
+                "text": "o/ 만약에 강좌 (1개)/(한 개)만"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000244/0016.wav",
+                "duration": 2.252,
+                "text": "패스로 하는 게요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000244/0017.wav",
+                "duration": 4.008,
+                "text": "그럼 수학 (1과목)/(한 과목)만 보더라도 이렇게 뭐 저기"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000244/0018.wav",
+                "duration": 5.896,
+                "text": "그 커리큘럼으로 이렇게 (하) 하다보면 패스보다 비용이 훨씬 더 많이 나올 수 있나보죠?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000244/0019.wav",
+                "duration": 9.443,
+                "text": "o/ 네네 맞습니다. 패스보다 이제 수강 이제 패스보다 이제 수강하시는 강좌 비용이 좀 더 많이 부과가 되시기 때문에 이제 구매하실 때는"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000244/0020.wav",
+                "duration": 2.915,
+                "text": "이 패스도 보면 이게 뭐"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000244/0021.wav",
+                "duration": 4.157,
+                "text": "교재 요렇게 구입권이 들어간 패스가 있고"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000244/0022.wav",
+                "duration": 2.312,
+                "text": "그냥 패스가 있잖아요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000244/0023.wav",
+                "duration": 3.704,
+                "text": "그러면 이게 커리큘럼으로 이렇게 하다보면"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000244/0024.wav",
+                "duration": 3.837,
+                "text": "둘째는 따로 지금 구입을 (하려고)/(할려고) 그러는 거거든요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000244/0025.wav",
+                "duration": 4.387,
+                "text": "큰 애는 지금 고 (3)/(삼) 뭐 (()) 다시 수능 준비한다고 해서"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000244/0026.wav",
+                "duration": 4.413,
+                "text": "o/ 애가 지금 하고 있어요. 그 패스를 구입해가지고 근데"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000244/0027.wav",
+                "duration": 4.883,
+                "text": "둘째 애도 (하려고)/(할려고) 그랬더니 (2)/(둘)이 이게 같이 중복이 되면 안되더라고요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000244/0028.wav",
+                "duration": 3.027,
+                "text": "o/ 네네 저희 동시 접속은 되지 않으세요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000244/0029.wav",
+                "duration": 4.221,
+                "text": "o/ 아 그쵸? (그래서) 그래서 둘째 꺼 지금 구입하는 건데"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000244/0030.wav",
+                "duration": 5.712,
+                "text": "o/ 일단은 저기가 낫겠네요? 패스가 일단은 낫다는 말씀이시죠? 전체적으로 이렇게 하는"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000244/0031.wav",
+                "duration": 4.054,
+                "text": "네 패스로 구입해주시는 게 좀 더 경제적으로 효율적이긴 하세요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000244/0032.wav",
+                "duration": 5.448,
+                "text": "음 근데 패스 보니까 그 이용 기간 사용 기간이"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000244/0033.wav",
+                "duration": 2.968,
+                "text": "(11월)/(십 일 월) (30일)/(삼십 일)로 돼있던데"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000244/0034.wav",
+                "duration": 5.647,
+                "text": "o/ 그 연장은 또 가능한가요? 애가 (12월)/(십 이 월)달까지는 (2학년)/(이 학년)이잖아요? 예를 들면"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000244/0035.wav",
+                "duration": 4.67,
+                "text": "(이 학년 부분) (2학년)/(이 학년)이신 학년 분들은 올해 연말까지 이용 가능하세요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000244/0036.wav",
+                "duration": 2.024,
+                "text": "아 (2학년)/(이 학년)은요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000244/0037.wav",
+                "duration": 4.447,
+                "text": "네네. (저) 고 (1)/(일)과 고 (2)/(이)분들은 올해 연말까지 가능하시고요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000244/0038.wav",
+                "duration": 3.885,
+                "text": "o/ 고 (3)/(삼)분들은 이제 수능이 (11월)/(십 일 월)이시잖아요? 그러시다 보니까"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000244/0039.wav",
+                "duration": 2.925,
+                "text": "(11월)/(십 일 월) 말일까지 이용이 가능하신 겁니다."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000244/0040.wav",
+                "duration": 8.216,
+                "text": "아 그러면 지금 별도로 그럼 고 (2)/(이) 고 (3)/(삼)으로 또 따로 뭐 이렇게 들어가서 하는 건가요? 저는 고 (3)/(삼) 것만 (보) 봤나보네요. 제가"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000244/0041.wav",
+                "duration": 2.611,
+                "text": "예 알겠습니다."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000244/0042.wav",
+                "duration": 4.776,
+                "text": "(()) 바로가기 그럼 (2학년)/(이 학년)건 좀 (())? 고 (3)/(삼)보다?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000244/0043.wav",
+                "duration": 4.84,
+                "text": "n/ 어 이제 고 (3)/(삼) 보다 조금 더 금액이 좀 상승되신 부분이 있으시지만"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000244/0044.wav",
+                "duration": 3.449,
+                "text": "(()) (5만원)/(오만 원)에서 (4만원)/(사만 원) 정도 차이가 나실 겁니다."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000244/0045.wav",
+                "duration": 5.368,
+                "text": "아 알겠습니다. 애하고 좀 상의해서 할게요. 네 알겠습니다. 네 감사합니다."
+            }
+        ]
+    }
+}

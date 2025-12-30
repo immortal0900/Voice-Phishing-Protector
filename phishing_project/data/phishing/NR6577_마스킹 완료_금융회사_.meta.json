@@ -1,0 +1,644 @@
+{
+  "file": "NR6577_마스킹 완료_금융회사_.mp3",
+  "rel_path": "NR6577_마스킹 완료_금융회사_.mp3",
+  "language": "ko",
+  "text": "네 여보세요? 네 네 고객님 되시는 거죠? 네 네 안녕하세요 저희 좀 kb캐프탈 입니다 고객님 네 네 지금 전화 드린 게 다른 게 아니고요 지금 저희 쪽에서 1차 한도금액이 나오셔서 연락을 드렸어요 네 지금 잠시 통화 가능하세요 네 아 네 왜냐면 저희 쪽 같은 경우에는 신용대출이 아니시고 이제 정부 지원금이세요 장품 이름이 서민금융 나들목이라고 하시고요 그래서 최대 한도금액이 대환자금으로 3800만원에서 금리 이상에는 6.9% 되더라고요 네 그래서 간단하게 전산으로 확인을 해 보시고 지금 연락을 드렸어요 네 네 일단 고객님 지금 기존에 쓰고 있는 대출 지금 어디에서 얼마 정도 받고 있어요? 다시 한번 확인 좀 부탁 드릴게요 네 정확하게는 제가 지금 더 정확하게는 모르겠거든요 아 대량 쪽으로 네 대량 쪽으로 말씀해 주시고요 네 한 34,000 정도 되는 것 같아요 아 어디에서 얼마 정도 받았어요? 그니까 뭐 한 네 군데 정도 되거든요 네 네 군데 어디세요? 그니까 뭐 러시앤키시 사나머니 그 다음에 러시에서 얼마 받았어요? 거기 한 천만 원 정도 되는 것 같아요 네 사나머니에서 얼마 받았어요? 네 거기도 그 정도고요 네 그리고요? 그 다음에 오케이 캐피탈인가? 캐피탈에서 받았어요? 네 오케이 저쪽에 있는 것 같거든요 아 저쪽? 얼마 받으신 거예요? 거기도 그 정도입니다 네 그리고요? 그리고 한 군데 좀 기억이 잘 안 나요 제가 좀 봐야 될 것 같은데 아 아니면 이게 좀 봐주시고요 제가 한 5분 뒤에 다시 연락 드릴까요? 네 네 네 정확하게 그걸 알아야 되나요? 아 정확하게 그냥 대량 쪽으로 말씀해 주시면 되시는 거예요 어차피 저희 쪽에도 이제 간단하게 심사과랑 통화를 해봐야 되니까 거기가 심사과랑 통화를 해보실 때도 간단하게 말씀해 주시면 되시는 거고요 어차피 저희 쪽도 이제 정부 지원금이다 보시니까 전산에서 확인을 해 보시고 연락드린 거잖아요 네 그래서 이제 거기는 대량 쪽으로 얼마 정도 남아있는지도 말씀해 주시면 더 좋으신 거죠 네 근데 보통 조회하니까 그게 다 알고 계시던데요 조회를 하니까 저희 쪽은 아직 조회 같은 게 해본 적은 없는 거잖아요 네 아 네 알겠습니다 이따가 제가 한 5분 뒤에 다시 연락 드릴게요 네 네 네",
+  "duration_sec": 130.798,
+  "segments": [
+    {
+      "index": 0,
+      "start": 0.0,
+      "end": 3.0,
+      "text": "네 여보세요?",
+      "speaker": "speaker_1",
+      "confidence": -0.31479858813747286
+    },
+    {
+      "index": 1,
+      "start": 3.0,
+      "end": 4.0,
+      "text": "네",
+      "speaker": "speaker_1",
+      "confidence": -0.31479858813747286
+    },
+    {
+      "index": 2,
+      "start": 4.0,
+      "end": 5.0,
+      "text": "네",
+      "speaker": "speaker_1",
+      "confidence": -0.31479858813747286
+    },
+    {
+      "index": 3,
+      "start": 5.0,
+      "end": 6.5,
+      "text": "고객님 되시는 거죠?",
+      "speaker": "speaker_1",
+      "confidence": -0.31479858813747286
+    },
+    {
+      "index": 4,
+      "start": 6.5,
+      "end": 7.5,
+      "text": "네",
+      "speaker": "speaker_1",
+      "confidence": -0.31479858813747286
+    },
+    {
+      "index": 5,
+      "start": 7.5,
+      "end": 10.5,
+      "text": "네 안녕하세요 저희 좀 kb캐프탈 입니다 고객님",
+      "speaker": "speaker_1",
+      "confidence": -0.31479858813747286
+    },
+    {
+      "index": 6,
+      "start": 10.5,
+      "end": 11.5,
+      "text": "네",
+      "speaker": "speaker_1",
+      "confidence": -0.31479858813747286
+    },
+    {
+      "index": 7,
+      "start": 11.5,
+      "end": 13.0,
+      "text": "네 지금 전화 드린 게 다른 게 아니고요",
+      "speaker": "speaker_1",
+      "confidence": -0.31479858813747286
+    },
+    {
+      "index": 8,
+      "start": 13.0,
+      "end": 16.0,
+      "text": "지금 저희 쪽에서 1차 한도금액이 나오셔서 연락을 드렸어요",
+      "speaker": "speaker_1",
+      "confidence": -0.31479858813747286
+    },
+    {
+      "index": 9,
+      "start": 16.0,
+      "end": 17.0,
+      "text": "네",
+      "speaker": "speaker_1",
+      "confidence": -0.31479858813747286
+    },
+    {
+      "index": 10,
+      "start": 17.0,
+      "end": 18.0,
+      "text": "지금 잠시 통화 가능하세요",
+      "speaker": "speaker_1",
+      "confidence": -0.31479858813747286
+    },
+    {
+      "index": 11,
+      "start": 18.0,
+      "end": 19.0,
+      "text": "네",
+      "speaker": "speaker_1",
+      "confidence": -0.31479858813747286
+    },
+    {
+      "index": 12,
+      "start": 19.0,
+      "end": 20.0,
+      "text": "아 네",
+      "speaker": "speaker_1",
+      "confidence": -0.31479858813747286
+    },
+    {
+      "index": 13,
+      "start": 20.0,
+      "end": 22.0,
+      "text": "왜냐면 저희 쪽 같은 경우에는 신용대출이 아니시고",
+      "speaker": "speaker_1",
+      "confidence": -0.31479858813747286
+    },
+    {
+      "index": 14,
+      "start": 22.0,
+      "end": 24.0,
+      "text": "이제 정부 지원금이세요",
+      "speaker": "speaker_1",
+      "confidence": -0.31479858813747286
+    },
+    {
+      "index": 15,
+      "start": 24.0,
+      "end": 27.0,
+      "text": "장품 이름이 서민금융 나들목이라고 하시고요",
+      "speaker": "speaker_1",
+      "confidence": -0.31479858813747286
+    },
+    {
+      "index": 16,
+      "start": 27.0,
+      "end": 29.0,
+      "text": "그래서 최대 한도금액이 대환자금으로",
+      "speaker": "speaker_1",
+      "confidence": -0.31479858813747286
+    },
+    {
+      "index": 17,
+      "start": 29.0,
+      "end": 31.0,
+      "text": "3800만원에서 금리 이상에는",
+      "speaker": "speaker_1",
+      "confidence": -0.20893428808985612
+    },
+    {
+      "index": 18,
+      "start": 31.0,
+      "end": 33.0,
+      "text": "6.9% 되더라고요",
+      "speaker": "speaker_1",
+      "confidence": -0.20893428808985612
+    },
+    {
+      "index": 19,
+      "start": 33.0,
+      "end": 34.0,
+      "text": "네",
+      "speaker": "speaker_1",
+      "confidence": -0.20893428808985612
+    },
+    {
+      "index": 20,
+      "start": 34.0,
+      "end": 36.0,
+      "text": "그래서 간단하게 전산으로 확인을 해 보시고",
+      "speaker": "speaker_1",
+      "confidence": -0.20893428808985612
+    },
+    {
+      "index": 21,
+      "start": 36.0,
+      "end": 37.0,
+      "text": "지금 연락을 드렸어요",
+      "speaker": "speaker_1",
+      "confidence": -0.20893428808985612
+    },
+    {
+      "index": 22,
+      "start": 37.0,
+      "end": 38.0,
+      "text": "네",
+      "speaker": "speaker_1",
+      "confidence": -0.20893428808985612
+    },
+    {
+      "index": 23,
+      "start": 38.0,
+      "end": 39.0,
+      "text": "네",
+      "speaker": "speaker_1",
+      "confidence": -0.20893428808985612
+    },
+    {
+      "index": 24,
+      "start": 39.0,
+      "end": 41.0,
+      "text": "일단 고객님 지금 기존에 쓰고 있는 대출",
+      "speaker": "speaker_1",
+      "confidence": -0.20893428808985612
+    },
+    {
+      "index": 25,
+      "start": 41.0,
+      "end": 43.0,
+      "text": "지금 어디에서 얼마 정도 받고 있어요?",
+      "speaker": "speaker_1",
+      "confidence": -0.20893428808985612
+    },
+    {
+      "index": 26,
+      "start": 43.0,
+      "end": 44.0,
+      "text": "다시 한번 확인 좀 부탁 드릴게요",
+      "speaker": "speaker_1",
+      "confidence": -0.20893428808985612
+    },
+    {
+      "index": 27,
+      "start": 44.0,
+      "end": 47.0,
+      "text": "네 정확하게는 제가 지금 더 정확하게는 모르겠거든요",
+      "speaker": "speaker_1",
+      "confidence": -0.20893428808985612
+    },
+    {
+      "index": 28,
+      "start": 47.0,
+      "end": 48.0,
+      "text": "아",
+      "speaker": "speaker_1",
+      "confidence": -0.20893428808985612
+    },
+    {
+      "index": 29,
+      "start": 48.0,
+      "end": 49.0,
+      "text": "대량 쪽으로",
+      "speaker": "speaker_1",
+      "confidence": -0.20893428808985612
+    },
+    {
+      "index": 30,
+      "start": 49.0,
+      "end": 50.0,
+      "text": "네 대량 쪽으로 말씀해 주시고요",
+      "speaker": "speaker_1",
+      "confidence": -0.20893428808985612
+    },
+    {
+      "index": 31,
+      "start": 50.0,
+      "end": 52.0,
+      "text": "네 한 34,000 정도 되는 것 같아요",
+      "speaker": "speaker_1",
+      "confidence": -0.20893428808985612
+    },
+    {
+      "index": 32,
+      "start": 52.0,
+      "end": 54.0,
+      "text": "아 어디에서 얼마 정도 받았어요?",
+      "speaker": "speaker_1",
+      "confidence": -0.20893428808985612
+    },
+    {
+      "index": 33,
+      "start": 54.0,
+      "end": 57.0,
+      "text": "그니까 뭐 한 네 군데 정도 되거든요",
+      "speaker": "speaker_1",
+      "confidence": -0.20893428808985612
+    },
+    {
+      "index": 34,
+      "start": 58.0,
+      "end": 59.0,
+      "text": "네 네 군데 어디세요?",
+      "speaker": "speaker_1",
+      "confidence": -0.16285342625564053
+    },
+    {
+      "index": 35,
+      "start": 59.0,
+      "end": 61.0,
+      "text": "그니까 뭐 러시앤키시 사나머니",
+      "speaker": "speaker_1",
+      "confidence": -0.16285342625564053
+    },
+    {
+      "index": 36,
+      "start": 61.0,
+      "end": 62.0,
+      "text": "그 다음에",
+      "speaker": "speaker_1",
+      "confidence": -0.16285342625564053
+    },
+    {
+      "index": 37,
+      "start": 62.0,
+      "end": 63.0,
+      "text": "러시에서 얼마 받았어요?",
+      "speaker": "speaker_1",
+      "confidence": -0.16285342625564053
+    },
+    {
+      "index": 38,
+      "start": 63.0,
+      "end": 65.0,
+      "text": "거기 한 천만 원 정도 되는 것 같아요",
+      "speaker": "speaker_1",
+      "confidence": -0.16285342625564053
+    },
+    {
+      "index": 39,
+      "start": 65.0,
+      "end": 67.0,
+      "text": "네 사나머니에서 얼마 받았어요?",
+      "speaker": "speaker_1",
+      "confidence": -0.16285342625564053
+    },
+    {
+      "index": 40,
+      "start": 67.0,
+      "end": 68.0,
+      "text": "네 거기도 그 정도고요",
+      "speaker": "speaker_1",
+      "confidence": -0.16285342625564053
+    },
+    {
+      "index": 41,
+      "start": 68.0,
+      "end": 70.0,
+      "text": "네 그리고요?",
+      "speaker": "speaker_1",
+      "confidence": -0.16285342625564053
+    },
+    {
+      "index": 42,
+      "start": 70.0,
+      "end": 72.0,
+      "text": "그 다음에 오케이 캐피탈인가?",
+      "speaker": "speaker_1",
+      "confidence": -0.16285342625564053
+    },
+    {
+      "index": 43,
+      "start": 72.0,
+      "end": 73.0,
+      "text": "캐피탈에서 받았어요?",
+      "speaker": "speaker_1",
+      "confidence": -0.16285342625564053
+    },
+    {
+      "index": 44,
+      "start": 73.0,
+      "end": 76.0,
+      "text": "네 오케이 저쪽에 있는 것 같거든요",
+      "speaker": "speaker_1",
+      "confidence": -0.16285342625564053
+    },
+    {
+      "index": 45,
+      "start": 76.0,
+      "end": 77.0,
+      "text": "아 저쪽?",
+      "speaker": "speaker_1",
+      "confidence": -0.16285342625564053
+    },
+    {
+      "index": 46,
+      "start": 77.0,
+      "end": 78.0,
+      "text": "얼마 받으신 거예요?",
+      "speaker": "speaker_1",
+      "confidence": -0.16285342625564053
+    },
+    {
+      "index": 47,
+      "start": 78.0,
+      "end": 79.0,
+      "text": "거기도 그 정도입니다",
+      "speaker": "speaker_1",
+      "confidence": -0.16285342625564053
+    },
+    {
+      "index": 48,
+      "start": 79.0,
+      "end": 81.0,
+      "text": "네 그리고요?",
+      "speaker": "speaker_1",
+      "confidence": -0.16285342625564053
+    },
+    {
+      "index": 49,
+      "start": 81.0,
+      "end": 83.0,
+      "text": "그리고 한 군데 좀 기억이 잘 안 나요",
+      "speaker": "speaker_1",
+      "confidence": -0.16285342625564053
+    },
+    {
+      "index": 50,
+      "start": 83.0,
+      "end": 84.0,
+      "text": "제가 좀 봐야 될 것 같은데",
+      "speaker": "speaker_1",
+      "confidence": -0.16285342625564053
+    },
+    {
+      "index": 51,
+      "start": 84.0,
+      "end": 86.0,
+      "text": "아 아니면",
+      "speaker": "speaker_1",
+      "confidence": -0.16285342625564053
+    },
+    {
+      "index": 52,
+      "start": 86.0,
+      "end": 87.0,
+      "text": "이게 좀 봐주시고요",
+      "speaker": "speaker_1",
+      "confidence": -0.16208583691033973
+    },
+    {
+      "index": 53,
+      "start": 87.0,
+      "end": 89.0,
+      "text": "제가 한 5분 뒤에 다시 연락 드릴까요?",
+      "speaker": "speaker_1",
+      "confidence": -0.16208583691033973
+    },
+    {
+      "index": 54,
+      "start": 89.0,
+      "end": 91.0,
+      "text": "네 네 네",
+      "speaker": "speaker_1",
+      "confidence": -0.16208583691033973
+    },
+    {
+      "index": 55,
+      "start": 91.0,
+      "end": 92.0,
+      "text": "정확하게 그걸 알아야 되나요?",
+      "speaker": "speaker_1",
+      "confidence": -0.16208583691033973
+    },
+    {
+      "index": 56,
+      "start": 92.0,
+      "end": 94.0,
+      "text": "아 정확하게 그냥 대량 쪽으로",
+      "speaker": "speaker_1",
+      "confidence": -0.16208583691033973
+    },
+    {
+      "index": 57,
+      "start": 94.0,
+      "end": 95.0,
+      "text": "말씀해 주시면 되시는 거예요",
+      "speaker": "speaker_1",
+      "confidence": -0.16208583691033973
+    },
+    {
+      "index": 58,
+      "start": 95.0,
+      "end": 98.0,
+      "text": "어차피 저희 쪽에도 이제 간단하게",
+      "speaker": "speaker_1",
+      "confidence": -0.16208583691033973
+    },
+    {
+      "index": 59,
+      "start": 98.0,
+      "end": 100.0,
+      "text": "심사과랑 통화를 해봐야 되니까",
+      "speaker": "speaker_1",
+      "confidence": -0.16208583691033973
+    },
+    {
+      "index": 60,
+      "start": 100.0,
+      "end": 102.0,
+      "text": "거기가 심사과랑 통화를 해보실 때도",
+      "speaker": "speaker_1",
+      "confidence": -0.16208583691033973
+    },
+    {
+      "index": 61,
+      "start": 102.0,
+      "end": 104.0,
+      "text": "간단하게 말씀해 주시면 되시는 거고요",
+      "speaker": "speaker_1",
+      "confidence": -0.16208583691033973
+    },
+    {
+      "index": 62,
+      "start": 104.0,
+      "end": 107.0,
+      "text": "어차피 저희 쪽도 이제 정부 지원금이다",
+      "speaker": "speaker_1",
+      "confidence": -0.16208583691033973
+    },
+    {
+      "index": 63,
+      "start": 107.0,
+      "end": 109.0,
+      "text": "보시니까 전산에서 확인을 해 보시고",
+      "speaker": "speaker_1",
+      "confidence": -0.16208583691033973
+    },
+    {
+      "index": 64,
+      "start": 109.0,
+      "end": 110.0,
+      "text": "연락드린 거잖아요",
+      "speaker": "speaker_1",
+      "confidence": -0.16208583691033973
+    },
+    {
+      "index": 65,
+      "start": 110.0,
+      "end": 111.0,
+      "text": "네",
+      "speaker": "speaker_1",
+      "confidence": -0.16208583691033973
+    },
+    {
+      "index": 66,
+      "start": 111.0,
+      "end": 113.0,
+      "text": "그래서 이제 거기는 대량 쪽으로",
+      "speaker": "speaker_1",
+      "confidence": -0.16208583691033973
+    },
+    {
+      "index": 67,
+      "start": 113.0,
+      "end": 114.0,
+      "text": "얼마 정도 남아있는지도",
+      "speaker": "speaker_1",
+      "confidence": -0.16208583691033973
+    },
+    {
+      "index": 68,
+      "start": 114.0,
+      "end": 116.0,
+      "text": "말씀해 주시면 더 좋으신 거죠",
+      "speaker": "speaker_1",
+      "confidence": -0.1484375051326222
+    },
+    {
+      "index": 69,
+      "start": 116.0,
+      "end": 117.0,
+      "text": "네 근데 보통 조회하니까",
+      "speaker": "speaker_1",
+      "confidence": -0.1484375051326222
+    },
+    {
+      "index": 70,
+      "start": 117.0,
+      "end": 119.0,
+      "text": "그게 다 알고 계시던데요 조회를 하니까",
+      "speaker": "speaker_1",
+      "confidence": -0.1484375051326222
+    },
+    {
+      "index": 71,
+      "start": 119.0,
+      "end": 120.0,
+      "text": "저희 쪽은 아직 조회 같은 게",
+      "speaker": "speaker_1",
+      "confidence": -0.1484375051326222
+    },
+    {
+      "index": 72,
+      "start": 120.0,
+      "end": 122.0,
+      "text": "해본 적은 없는 거잖아요",
+      "speaker": "speaker_1",
+      "confidence": -0.1484375051326222
+    },
+    {
+      "index": 73,
+      "start": 122.0,
+      "end": 123.0,
+      "text": "네",
+      "speaker": "speaker_1",
+      "confidence": -0.1484375051326222
+    },
+    {
+      "index": 74,
+      "start": 123.0,
+      "end": 125.0,
+      "text": "아 네 알겠습니다",
+      "speaker": "speaker_1",
+      "confidence": -0.1484375051326222
+    },
+    {
+      "index": 75,
+      "start": 125.0,
+      "end": 126.0,
+      "text": "이따가 제가 한 5분 뒤에",
+      "speaker": "speaker_1",
+      "confidence": -0.1484375051326222
+    },
+    {
+      "index": 76,
+      "start": 126.0,
+      "end": 127.0,
+      "text": "다시 연락 드릴게요",
+      "speaker": "speaker_1",
+      "confidence": -0.1484375051326222
+    },
+    {
+      "index": 77,
+      "start": 127.0,
+      "end": 128.0,
+      "text": "네 네",
+      "speaker": "speaker_1",
+      "confidence": -0.1484375051326222
+    },
+    {
+      "index": 78,
+      "start": 128.0,
+      "end": 129.0,
+      "text": "네",
+      "speaker": "speaker_1",
+      "confidence": -0.1484375051326222
+    }
+  ],
+  "engine": "faster-whisper-medium-float16-cuda",
+  "processed_at": 1758154964.0754797,
+  "error": null
+}

@@ -1,0 +1,122 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "고객1",
+                    "age": "40대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "상담사1",
+                    "age": "20대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000036/0001.wav",
+                "duration": 2.429,
+                "text": "o/ 네 안녕하십니까?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000036/0002.wav",
+                "duration": 3.592,
+                "text": "인강 저희 애 듣고 있는데요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000036/0003.wav",
+                "duration": 6.845,
+                "text": "뭐 네 저희가 으 고등학교 (2학년)/(이 학년)이 있거든요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000036/0004.wav",
+                "duration": 7.272,
+                "text": "네 그리고 인제 (자) 재작년에는 제 고 (3)/(삼) 그니까는 저희 이제 큰 애 이름으로 등록을 했었었고"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000036/0005.wav",
+                "duration": 6.835,
+                "text": "네 인제 지금 저희가 지금 하여튼 정시가 지금 좀 확대가 됐다 하는데"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000036/0006.wav",
+                "duration": 13.485,
+                "text": "그래서 인제 보면 그 지금 한 정시를 b/ 뭐 어느 정도 벌써부터 지금 고 (2)/(이)가 지금 정시를 준비한다는 애가 있거든요. 학교 내신은 안 하고."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000036/0007.wav",
+                "duration": 2.59,
+                "text": "o/ 그게 바른 방법인지?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000036/0008.wav",
+                "duration": 4.956,
+                "text": "애 학교 선생님들은 그거를 추천을 안 하더라고요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000036/0009.wav",
+                "duration": 8.34,
+                "text": "o/ 저희 전문 선생님들께 이제 어 연락 요청을 하셔야 되세요. 그래서 혹시 지금 저희 사이트 이용 중이실까요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000036/0010.wav",
+                "duration": 11.848,
+                "text": "네 이쪽에서 이제 들어가 주시면 왼쪽에 회색 박스로 학습지원센터라고 나오시고요. b/ 두 번째 칸에 학습 입시 상담이라고 이제 코너가 따로 있습니다. b/"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000036/0011.wav",
+                "duration": 7.924,
+                "text": "o/ (()) 이쪽에 학습 상담 쪽으로 들어가셔서 글을 남겨주시면 저희 전문 선생님들께서 연락을 드려서 안내를 드리고 있어요. b/"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000036/0012.wav",
+                "duration": 10.13,
+                "text": "o/ 어머니께서 궁금하신 부분들 이쪽으로 이제 글을 남겨주시면 저희 전문가 선생님들께서 연락을 드려서 도움 드리도록 하겠습니다."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000036/0013.wav",
+                "duration": 3.112,
+                "text": "아 예 이렇게 전화로는 연결이 안 되고요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000036/0014.wav",
+                "duration": 10.179,
+                "text": "o/ 네 저희 전화로는 연결이 안 되시고요. b/ 우선은 지금 제가 말씀드렸던 페이지에 글을 남겨주시면 이제 그 시간까지 선택하실 수 있게 되어 있으세요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000036/0015.wav",
+                "duration": 2.861,
+                "text": "o/ 아 시간까지."
+            }
+        ]
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "고객1",
+                    "age": "50대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "상담사1",
+                    "age": "20대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000232/0001.wav",
+                "duration": 2.989,
+                "text": "n/ 학습지원센터입니다. 무엇을 도와 드릴까요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000232/0002.wav",
+                "duration": 4.461,
+                "text": "n/ 아 뭐 좀 종류를 잘 몰라서요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000232/0003.wav",
+                "duration": 3.512,
+                "text": "n/ 그 고 (1)/(일)거 가"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000232/0004.wav",
+                "duration": 6.864,
+                "text": "n/ 고 (1)/(일) 고 (2)/(이)부터 ((xxxx로)) 나뉘고 고 (1)/(일) 거는 그냥 통합과학인 건가요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000232/0005.wav",
+                "duration": 6.24,
+                "text": "n/ o/ 어 저희도 학습지원센터다 보니까 그 교과과정에 대해서는 안내가 조금 어렵고요. 어머니."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000232/0006.wav",
+                "duration": 8.136,
+                "text": "n/ o/ 만약에 교과과정에 대해서 이제 문의를 해주시고 싶으시면은 b/ 담당해주시는 선생님이 따로 있으세요. 혹시 안내 도와 드릴까요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000232/0007.wav",
+                "duration": 3.667,
+                "text": "n/ 어머니 혹시 지금 컴퓨터 사용 가능하세요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000232/0008.wav",
+                "duration": 4.328,
+                "text": "n/ 네 그 클릭하시면은 신청하기 (작은)/(짝은) 버튼 보이시죠?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000232/0009.wav",
+                "duration": 9.614,
+                "text": "o/ 그거 자녀분 아이디로 로그인하신 다음에요. b/ 여기다가 이제 원하시는 날짜랑 시간대 설정해 주시면은 담당 부서님께서 선생님께서 이제 연락드릴 거예요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000232/0010.wav",
+                "duration": 2.915,
+                "text": "n/ 아이 이름으로 로그인해야 된다고요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000232/0011.wav",
+                "duration": 3.293,
+                "text": "n/ 네 네 자녀분 걸로 로그인해주시면 되세요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000232/0012.wav",
+                "duration": 2.211,
+                "text": "n/ 제 거로 하면 안 되고요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000232/0013.wav",
+                "duration": 7.305,
+                "text": "o/ 어 학부모 아이디 같은 경우에는 자녀분 수강하신 용도로만 사용이 되는 거라서 학생 아이디로. n/ 네 네."
+            }
+        ]
+    }
+}

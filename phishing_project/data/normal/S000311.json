@@ -1,0 +1,224 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "고객1",
+                    "age": "40대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "상담사1",
+                    "age": "30대",
+                    "gender": "남",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000311/0001.wav",
+                "duration": 5.32,
+                "text": "네, 그 중간고사 대비 좀 (하려고)/(할려고) 하는데 이거 지금 그"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000311/0002.wav",
+                "duration": 3.446,
+                "text": "컴이나 그런 쿠폰 같은 것도 제공이 되나요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000311/0003.wav",
+                "duration": 2.493,
+                "text": "마스크 같은 쿠폰이요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000311/0004.wav",
+                "duration": 3.069,
+                "text": "죄송한데 그러면 다시 한번 말씀해 주시겠어요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000311/0005.wav",
+                "duration": 2.27,
+                "text": "그거는 따로 저희가 제공되"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000311/0006.wav",
+                "duration": 8.583,
+                "text": "아 그러면 이게 공지사항에 중간고사 그런 이렇게 시험은 대비할 수 있는 그런 게 뜨나요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000311/0007.wav",
+                "duration": 2.547,
+                "text": "중간고사 체험요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000311/0008.wav",
+                "duration": 5.832,
+                "text": "아 대비할 수 있는 그런 그런 그런 게 공지사항이 뜨나요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000311/0009.wav",
+                "duration": 3.709,
+                "text": "강좌에 말씀하시는 거예요? 사이트에 말씀"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000311/0010.wav",
+                "duration": 9.128,
+                "text": "강좌 강좌 별로 이렇게 대비할 수 있는 그런 선생님마다 그런 거 할 수 있는 게 지금"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000311/0011.wav",
+                "duration": 4.072,
+                "text": "o/ 공지가 뜨지 (않) 학생별로 선생님마다 내신 닷컴 안에서"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000311/0012.wav",
+                "duration": 5.266,
+                "text": "어 선생님마다 이렇게 자료실을 제가 더 저희가 들어가가지고 해야 되는 거예요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000311/0013.wav",
+                "duration": 10.247,
+                "text": "어 그러면 무슨 무슨 이렇게 비법노트라든지 그런 것들도 선생님마다 그냥 주는 건가요? 선생님마다"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000311/0014.wav",
+                "duration": 5.736,
+                "text": "구매를 하셔야 할 수 하셔야 될 수도 있고 그건 선생님마다 달라서 확인해주셔야 돼요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000311/0015.wav",
+                "duration": 6.578,
+                "text": "o/ 따로 이렇게 뭐 공지사항으로 전체적으로 뭐 중간고사 뭐 그런 거 하는 건 없고요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000311/0016.wav",
+                "duration": 7.272,
+                "text": "o/ 이 들어 자기가 이제 수강하면서 선생님이 이게 넣어주시는 건가요? 넣어주시면 프리로"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000311/0017.wav",
+                "duration": 3.571,
+                "text": "o/ 그건 선생님들 별로 (다르기)/(달르기) 때에 네, 네,"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000311/0019.wav",
+                "duration": 6.429,
+                "text": "그럼 뭐 업데이트가 수시로 되나요? 선생님들이 뭐 자료실 넣을 때마다"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000311/0020.wav",
+                "duration": 9.597,
+                "text": "o/ 선생님이 올려주실때마다 업데이트가 (되고요)/(되구요). 혹시 궁금하신 사항은 새소식에 올리시거든요. 새소식 선생님 사이트 안에서 새소식이라고"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000311/0021.wav",
+                "duration": 4.499,
+                "text": "이렇게 진행되는거 거기서 선생님들이 올려주시니까"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000311/0022.wav",
+                "duration": 4.392,
+                "text": "보통 중간고사 대비하면는 지금쯤 부터 올리는거죠?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000311/0023.wav",
+                "duration": 7.108,
+                "text": "음 그것도 정확하게 선생님 말씀드렸던 것 처럼 선생님별로 다 다르기 때문에"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000311/0024.wav",
+                "duration": 3.347,
+                "text": "o/ 중간고사면 인제 조금씩 올라오기 시작해야 되죠."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000311/0025.wav",
+                "duration": 2.283,
+                "text": "따로 그런게 없어요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000311/0026.wav",
+                "duration": 9.314,
+                "text": "기출문제 계속 풀 수 있는 그런 건 없나요? 그것도 선생님들이 올려주시는가요 ?기출문제가 따로 이렇게 뭐 사이트 (1)/(하나) 이렇게"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000311/0027.wav",
+                "duration": 5.236,
+                "text": "기출문제를 그럼 선생님이 올려주시는 거 그냥 프린트해가지고 저희가 풀어야 되는 거예요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000311/0028.wav",
+                "duration": 5.053,
+                "text": "네, 그럼 쿠폰같은 것을 제공을 하는가 싶어가지고"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000311/0029.wav",
+                "duration": 1.885,
+                "text": "어 아니에요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000311/0030.wav",
+                "duration": 6.323,
+                "text": "그럼 기출문제도 저희가 그냥 선생님 올려주신 거 그냥 프린트해가지고 해야 된다는 거죠?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000311/0031.wav",
+                "duration": 3.732,
+                "text": "관련해서 좀 문의해 주신거세요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000311/0032.wav",
+                "duration": 2.76,
+                "text": "아 알겠습니다. 그러면"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000311/0033.wav",
+                "duration": 1.971,
+                "text": "네, 감사합니다."
+            }
+        ]
+    }
+}

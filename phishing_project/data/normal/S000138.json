@@ -1,0 +1,212 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "상담사1",
+                    "age": "20대",
+                    "gender": "남",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "고객1",
+                    "age": "40대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000138/0001.wav",
+                "duration": 2.109,
+                "text": "아 여보세요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000138/0002.wav",
+                "duration": 3.656,
+                "text": "네, 회원님 언어와 매체 정답이요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000138/0003.wav",
+                "duration": 3.176,
+                "text": "n/ 어떤 선생님꺼 말씀하시는 걸까요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000138/0004.wav",
+                "duration": 2.237,
+                "text": "회원꺼 이고요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000138/0005.wav",
+                "duration": 4.328,
+                "text": "o/ 아 네, 그 교재 선생님 이름 말씀드린 거였거든요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000138/0006.wav",
+                "duration": 3.005,
+                "text": "아 아니요. (7월)/(칠 월) 모의고사요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000138/0007.wav",
+                "duration": 2.771,
+                "text": "모의 (7월)/(칠 월) 모의고사요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000138/0008.wav",
+                "duration": 4.605,
+                "text": "예, 아니l/ (7)/(칠) (7월)/(칠 월) 모의고사"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000138/0009.wav",
+                "duration": 3.687,
+                "text": "o/ 아 이번 (7월)/(칠 월) 모의고사 정답 (())"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000138/0010.wav",
+                "duration": 2.997,
+                "text": "(회) 회원가입은 해주신 거예요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000138/0011.wav",
+                "duration": 3.528,
+                "text": "가입하신 아이디나 핸드폰 번호 알 수 있을까요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000138/0012.wav",
+                "duration": 3.982,
+                "text": "조회가 안되시는데 혹시 핸드폰 번호 아실까요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000138/0013.wav",
+                "duration": 2.173,
+                "text": "자녀분 번호세요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000138/0014.wav",
+                "duration": 3.416,
+                "text": "이걸로도 확인이 안되시는데 저희 고등"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000138/0015.wav",
+                "duration": 2.653,
+                "text": "가입 하신 거는 맞으시죠n/?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000138/0016.wav",
+                "duration": 5.619,
+                "text": "o/ 그러시면 제가 그냥 경로만 간단하게 알려드릴게요. 혹시 어머니 지금 컴퓨터로 보고 계세요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000138/0017.wav",
+                "duration": 8.053,
+                "text": "홈페이지 위쪽에 보시면은 큰 글자로 이거 항목 (8개)/(여덟 개) 정도 있어요. 네 번째에 입시정보 혹시 보이세요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000138/0018.wav",
+                "duration": 3.069,
+                "text": "잠깐만요. 선생님."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000138/0019.wav",
+                "duration": 8.328,
+                "text": "그게 알집으로 되어있는 압축파일이 있더라고요. 그런데 거기에 언어만 매체는 빠져있던데요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000138/0020.wav",
+                "duration": 2.789,
+                "text": "아 경로는 알고 계신 거예요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000138/0021.wav",
+                "duration": 5.448,
+                "text": "아 아니 그 예, 근데 여기에 가면 언어와 매체가 없어요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000138/0022.wav",
+                "duration": 2.093,
+                "text": "언어와 매체가 없으시다고"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000138/0023.wav",
+                "duration": 4.317,
+                "text": "예, 선생님 알려주시는 방법으로 한번 해볼게요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000138/0024.wav",
+                "duration": 5.309,
+                "text": "저도 같은 경로 안내 (드리려고)/(드릴려고) 했던건데요. 잠시만 기다리 확인해볼게요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000138/0025.wav",
+                "duration": 2.216,
+                "text": "에서 찾았어요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000138/0026.wav",
+                "duration": 11.357,
+                "text": "o/ 죄송해요l/. 어머니 b/ 이게 지금 말씀하신것처럼 b/ 알집 파일에게 이게 문항지만 올라와 있고 정답지가 올라가있지가 않는 걸로 같애서 b/ 제가 전달해가지고 수정할 수 있도록 전달 바로 할게요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000138/0027.wav",
+                "duration": 2.6,
+                "text": "이미 제가 찾아버렸네요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000138/0028.wav",
+                "duration": 3.869,
+                "text": "o/ l/ 네, 감사합니다. 다른 문의 사항은 없으시고요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000138/0029.wav",
+                "duration": 2.056,
+                "text": "고맙습니다. 상담사"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000138/0030.wav",
+                "duration": 2.173,
+                "text": "((좋은 저녁)) 되세요."
+            }
+        ]
+    }
+}

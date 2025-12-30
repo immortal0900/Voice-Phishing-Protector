@@ -1,0 +1,182 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "고객1",
+                    "age": "40대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "상담사1",
+                    "age": "30대",
+                    "gender": "남",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000104/0001.wav",
+                "duration": 2.237,
+                "text": "네 수고하십니다."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000104/0002.wav",
+                "duration": 5.437,
+                "text": "그 제가 나이가 있는데 그 그 수능을 봐야 되갖고요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000104/0003.wav",
+                "duration": 2.963,
+                "text": "네 그래서 좀 물어보려고 (하려고)/(할려고)"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000104/0004.wav",
+                "duration": 7.528,
+                "text": "수능 국어, 수학, 영어, 탐구 영역 중에 (2개)/(두 개)의 영역 합이 (6등급)/(육 등급) 이내라고 하거든요. 조건이"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000104/0005.wav",
+                "duration": 4.797,
+                "text": "그럴 경우는 제가 원하는 것을 (()) 하면 되는 건가요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000104/0006.wav",
+                "duration": 4.19,
+                "text": "아 지금 프로그램에 대해서 (()) 주시는 겁니까?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000104/0007.wav",
+                "duration": 3.763,
+                "text": "아니 제가 이게 대학 들어가는데 조건이"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000104/0008.wav",
+                "duration": 8.296,
+                "text": "수능 국어, 수학, 영어, 탐구 영역 중에 (2개)/(두 개)의 영역 합이 (6등급)/(육 등급) 이내라면 합격할 수 있다 하거든요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000104/0009.wav",
+                "duration": 6.76,
+                "text": "그럴 경우는 제가 국어하고 뭐냐 그거 탐구 영역만 공부해도 된다 이 말인가요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000104/0010.wav",
+                "duration": 2.365,
+                "text": "그 부분 같은 경우는"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000104/0011.wav",
+                "duration": 2.408,
+                "text": "잠시만 기다려 주세요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000104/0012.wav",
+                "duration": 4.941,
+                "text": "o/ 아 네 기다려 주셔서 감사합니다. 저희가 확인을 해보려고 했는데요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000104/0013.wav",
+                "duration": 9.518,
+                "text": "n/ o/ 저희가 확인 해보려고 했는데요. 저희는 이제 일반 상담사입니다. 이제 (()) 전문적인 학습은"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000104/0014.wav",
+                "duration": 2.792,
+                "text": "(()) 보이실 거예요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000104/0015.wav",
+                "duration": 2.163,
+                "text": "가만 뭐라고예?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000104/0016.wav",
+                "duration": 2.408,
+                "text": "학습 지원 센터요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000104/0017.wav",
+                "duration": 2.323,
+                "text": "o/ 네 거기 들어가시면"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000104/0018.wav",
+                "duration": 2.846,
+                "text": "o/ ((그래서)) 학습 상담으로 할까요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000104/0019.wav",
+                "duration": 7.326,
+                "text": "o/ 네 학습 상담으로 해주시거나 아니면 예 입시 상담으로 해주시면 되겠습니다."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000104/0020.wav",
+                "duration": 3.645,
+                "text": "저희는 이제 학습에 대한"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000104/0021.wav",
+                "duration": 3.752,
+                "text": "o/ 환불이나 뭐 (()) 그런 기능"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000104/0022.wav",
+                "duration": 2.6,
+                "text": "아 알겠습니다. 제가"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000104/0023.wav",
+                "duration": 4.413,
+                "text": "o/ 입시 상담으로 입시 문의 주시는 게 나을 것 같습니다."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000104/0024.wav",
+                "duration": 2.387,
+                "text": "아 알겠습니다."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000104/0025.wav",
+                "duration": 2.931,
+                "text": "네 알겠습니다. 감사합니다."
+            }
+        ]
+    }
+}

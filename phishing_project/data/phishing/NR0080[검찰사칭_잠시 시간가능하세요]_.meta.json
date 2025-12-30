@@ -1,0 +1,100 @@
+{
+  "file": "NR0080[검찰사칭_잠시 시간가능하세요]_.mp3",
+  "rel_path": "NR0080[검찰사칭_잠시 시간가능하세요]_.mp3",
+  "language": "ko",
+  "text": "네 여보세요? 아 예 통화 가능하시죠? 어디세요? 전 서울중앙지검의 금융범죄예방수사기획1팀의 최호철 수사관이라고 합니다. 금융범죄요? 금융범죄예방기획수사1팀입니다. 중앙지검 소속이구요. 네 아 예 본인 개인정보 유출로 인한 명의동원 사건과 계좌 양도 혐의 때문에 몇가지 이렇게 연락을 드렸습니다. 개인정보가 유출됐다고요? 네 계좌 양도 혐이구요. 네 네 혹시 XXXX 출신 XXXX이자 남성 XXXX 출신인 사람 알고 계십니까? 모르는데 전혀 모르십니까? 네네 본인 혹시 XXXX 출신인 사람 알고 계십니까? 아까 모른 적 있잖아요 아 혹시 XXXX 출신 아니십니까? 아닌데요 아 그러시고요. 본인 지금 XXXX야 XXXX 본인 맞으시죠? 아닌데요 생일 XXXX nein십니까? XXX는 맞는데 생일 틀렸는데?",
+  "duration_sec": 67.6049375,
+  "segments": [
+    {
+      "index": 0,
+      "start": 0.0,
+      "end": 5.0,
+      "text": "네 여보세요? 아 예 통화 가능하시죠? 어디세요?",
+      "speaker": "speaker_1",
+      "confidence": -0.20280828145710197
+    },
+    {
+      "index": 1,
+      "start": 5.0,
+      "end": 12.5,
+      "text": "전 서울중앙지검의 금융범죄예방수사기획1팀의 최호철 수사관이라고 합니다. 금융범죄요?",
+      "speaker": "speaker_1",
+      "confidence": -0.20280828145710197
+    },
+    {
+      "index": 2,
+      "start": 12.5,
+      "end": 18.0,
+      "text": "금융범죄예방기획수사1팀입니다. 중앙지검 소속이구요. 네",
+      "speaker": "speaker_1",
+      "confidence": -0.20280828145710197
+    },
+    {
+      "index": 3,
+      "start": 18.0,
+      "end": 27.0,
+      "text": "아 예 본인 개인정보 유출로 인한 명의동원 사건과 계좌 양도 혐의 때문에 몇가지 이렇게 연락을 드렸습니다. 개인정보가 유출됐다고요?",
+      "speaker": "speaker_1",
+      "confidence": -0.20280828145710197
+    },
+    {
+      "index": 4,
+      "start": 27.0,
+      "end": 30.0,
+      "text": "네 계좌 양도 혐이구요. 네",
+      "speaker": "speaker_1",
+      "confidence": -0.2453286033315757
+    },
+    {
+      "index": 5,
+      "start": 30.0,
+      "end": 37.0,
+      "text": "네 혹시 XXXX 출신 XXXX이자 남성 XXXX 출신인 사람 알고 계십니까? 모르는데",
+      "speaker": "speaker_1",
+      "confidence": -0.2453286033315757
+    },
+    {
+      "index": 6,
+      "start": 37.0,
+      "end": 40.0,
+      "text": "전혀 모르십니까? 네네",
+      "speaker": "speaker_1",
+      "confidence": -0.2453286033315757
+    },
+    {
+      "index": 7,
+      "start": 42.0,
+      "end": 48.0,
+      "text": "본인 혹시 XXXX 출신인 사람 알고 계십니까? 아까 모른 적 있잖아요",
+      "speaker": "speaker_1",
+      "confidence": -0.2453286033315757
+    },
+    {
+      "index": 8,
+      "start": 48.0,
+      "end": 53.0,
+      "text": "아 혹시 XXXX 출신 아니십니까? 아닌데요",
+      "speaker": "speaker_1",
+      "confidence": -0.2453286033315757
+    },
+    {
+      "index": 9,
+      "start": 53.5,
+      "end": 62.0,
+      "text": "아 그러시고요. 본인 지금 XXXX야 XXXX 본인 맞으시죠? 아닌데요 생일",
+      "speaker": "speaker_1",
+      "confidence": -0.554999852180481
+    },
+    {
+      "index": 10,
+      "start": 62.0,
+      "end": 67.0,
+      "text": "XXXX nein십니까? XXX는 맞는데 생일 틀렸는데?",
+      "speaker": "speaker_1",
+      "confidence": -0.554999852180481
+    }
+  ],
+  "engine": "faster-whisper-medium-float16-cuda",
+  "processed_at": 1758158787.080419,
+  "error": null
+}

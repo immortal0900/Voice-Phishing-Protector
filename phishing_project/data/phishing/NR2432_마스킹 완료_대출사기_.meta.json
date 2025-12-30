@@ -1,0 +1,396 @@
+{
+  "file": "NR2432_마스킹 완료_대출사기_.mp3",
+  "rel_path": "NR2432_마스킹 완료_대출사기_.mp3",
+  "language": "ko",
+  "text": "안녕하세요. 네 안녕하세요. 오케이 저 손에 스톱버인이고요. 필요한 대출 있어도 연체 없으시면 가능하셔서 필요자금 대안자금 있으세요 우기님? 오케이. 아까 심장 부품하셨는데 그거 아닌 거 아니에요? 고객님 저희가 안내를 해드리는 거라서 지금 뭐 필요자금 있으신 거죠? 필요자금이요? 네. 그러면 이만큼은 있죠. 고객님 연체나 신용일 문제는 없으신 거죠? 아니요. 안타는 신용일은 없어요. 있어요? 없다고요. 아 그러면 대신 자꾸 다른 소리가 들렸어요 우기님. 그러면 지금 하시는 일은 직장 다이소에 개인 사업을 하시는 거예요? 네. 사회봉도 되세요? 네. 나이제한 마 있는데 몇 년생이시고요? OO이요. OO이요? 네. 군대는 다녀온 거죠? 네. 예? 네. 어떤 이유로 면죄받으신 거예요? 그런 것도 하시는 거예요. 아 그래도 면죄라고 하십니까? 네. 아 그러면 고객님 여기서 일하신 지는 몇 개월 정도 되신 거예요? 네. 3년. 고객님 뭐 한 달 안에 서류넣고 진행한 적은 없으신 거죠? 제가 먼저 다시 한 번 말씀드릴게요. 네? 다시 한 번 말씀해 주시면 저 어떤가요? 한 달 안에 서류넣고 진행한 적은 없으신 거죠? 뭘 진행하나요? 서류넣고 대출 받기 위해서 서류넣고 진행한 적은 없으신 거죠? 아니요 아니요. 예 그러면 되세요. 월 평균 수입은 대량 어느 정도 나오세요? 3백만이요. 3백이요? 네. 예. 성함은 어떻게 되시고요? OO. OO. 아휴 끊어요.",
+  "duration_sec": 82.68625,
+  "segments": [
+    {
+      "index": 0,
+      "start": 0.0,
+      "end": 4.4,
+      "text": "안녕하세요. 네 안녕하세요. 오케이 저 손에 스톱버인이고요.",
+      "speaker": "speaker_1",
+      "confidence": -0.5270468003568594
+    },
+    {
+      "index": 1,
+      "start": 4.4,
+      "end": 8.700000000000001,
+      "text": "필요한 대출 있어도 연체 없으시면 가능하셔서 필요자금 대안자금 있으세요 우기님?",
+      "speaker": "speaker_1",
+      "confidence": -0.5270468003568594
+    },
+    {
+      "index": 2,
+      "start": 8.700000000000001,
+      "end": 12.0,
+      "text": "오케이. 아까 심장 부품하셨는데 그거 아닌 거 아니에요?",
+      "speaker": "speaker_1",
+      "confidence": -0.5270468003568594
+    },
+    {
+      "index": 3,
+      "start": 12.0,
+      "end": 17.7,
+      "text": "고객님 저희가 안내를 해드리는 거라서 지금 뭐 필요자금 있으신 거죠?",
+      "speaker": "speaker_1",
+      "confidence": -0.5270468003568594
+    },
+    {
+      "index": 4,
+      "start": 17.7,
+      "end": 18.6,
+      "text": "필요자금이요?",
+      "speaker": "speaker_1",
+      "confidence": -0.5270468003568594
+    },
+    {
+      "index": 5,
+      "start": 18.6,
+      "end": 19.3,
+      "text": "네.",
+      "speaker": "speaker_1",
+      "confidence": -0.5270468003568594
+    },
+    {
+      "index": 6,
+      "start": 19.3,
+      "end": 20.6,
+      "text": "그러면 이만큼은 있죠.",
+      "speaker": "speaker_1",
+      "confidence": -0.5270468003568594
+    },
+    {
+      "index": 7,
+      "start": 20.6,
+      "end": 23.7,
+      "text": "고객님 연체나 신용일 문제는 없으신 거죠?",
+      "speaker": "speaker_1",
+      "confidence": -0.5270468003568594
+    },
+    {
+      "index": 8,
+      "start": 23.7,
+      "end": 25.2,
+      "text": "아니요. 안타는 신용일은 없어요.",
+      "speaker": "speaker_1",
+      "confidence": -0.5270468003568594
+    },
+    {
+      "index": 9,
+      "start": 25.2,
+      "end": 25.900000000000002,
+      "text": "있어요?",
+      "speaker": "speaker_1",
+      "confidence": -0.5270468003568594
+    },
+    {
+      "index": 10,
+      "start": 25.900000000000002,
+      "end": 26.6,
+      "text": "없다고요.",
+      "speaker": "speaker_1",
+      "confidence": -0.5270468003568594
+    },
+    {
+      "index": 11,
+      "start": 26.6,
+      "end": 29.6,
+      "text": "아 그러면 대신 자꾸 다른 소리가 들렸어요 우기님.",
+      "speaker": "speaker_1",
+      "confidence": -0.5270468003568594
+    },
+    {
+      "index": 12,
+      "start": 29.700000000000003,
+      "end": 34.0,
+      "text": "그러면 지금 하시는 일은 직장 다이소에 개인 사업을 하시는 거예요?",
+      "speaker": "speaker_1",
+      "confidence": -0.2699195902947097
+    },
+    {
+      "index": 13,
+      "start": 34.0,
+      "end": 34.9,
+      "text": "네.",
+      "speaker": "speaker_1",
+      "confidence": -0.2699195902947097
+    },
+    {
+      "index": 14,
+      "start": 34.9,
+      "end": 36.0,
+      "text": "사회봉도 되세요?",
+      "speaker": "speaker_1",
+      "confidence": -0.2699195902947097
+    },
+    {
+      "index": 15,
+      "start": 36.0,
+      "end": 36.800000000000004,
+      "text": "네.",
+      "speaker": "speaker_1",
+      "confidence": -0.2699195902947097
+    },
+    {
+      "index": 16,
+      "start": 36.800000000000004,
+      "end": 39.0,
+      "text": "나이제한 마 있는데 몇 년생이시고요?",
+      "speaker": "speaker_1",
+      "confidence": -0.2699195902947097
+    },
+    {
+      "index": 17,
+      "start": 39.0,
+      "end": 40.1,
+      "text": "OO이요.",
+      "speaker": "speaker_1",
+      "confidence": -0.2699195902947097
+    },
+    {
+      "index": 18,
+      "start": 40.1,
+      "end": 41.0,
+      "text": "OO이요?",
+      "speaker": "speaker_1",
+      "confidence": -0.2699195902947097
+    },
+    {
+      "index": 19,
+      "start": 41.0,
+      "end": 42.1,
+      "text": "네.",
+      "speaker": "speaker_1",
+      "confidence": -0.2699195902947097
+    },
+    {
+      "index": 20,
+      "start": 42.1,
+      "end": 43.5,
+      "text": "군대는 다녀온 거죠?",
+      "speaker": "speaker_1",
+      "confidence": -0.2699195902947097
+    },
+    {
+      "index": 21,
+      "start": 43.5,
+      "end": 44.5,
+      "text": "네.",
+      "speaker": "speaker_1",
+      "confidence": -0.2699195902947097
+    },
+    {
+      "index": 22,
+      "start": 44.5,
+      "end": 45.0,
+      "text": "예?",
+      "speaker": "speaker_1",
+      "confidence": -0.2699195902947097
+    },
+    {
+      "index": 23,
+      "start": 45.0,
+      "end": 45.8,
+      "text": "네.",
+      "speaker": "speaker_1",
+      "confidence": -0.2699195902947097
+    },
+    {
+      "index": 24,
+      "start": 45.8,
+      "end": 47.6,
+      "text": "어떤 이유로 면죄받으신 거예요?",
+      "speaker": "speaker_1",
+      "confidence": -0.2699195902947097
+    },
+    {
+      "index": 25,
+      "start": 47.6,
+      "end": 48.5,
+      "text": "그런 것도 하시는 거예요.",
+      "speaker": "speaker_1",
+      "confidence": -0.2699195902947097
+    },
+    {
+      "index": 26,
+      "start": 48.5,
+      "end": 50.6,
+      "text": "아 그래도 면죄라고 하십니까?",
+      "speaker": "speaker_1",
+      "confidence": -0.2699195902947097
+    },
+    {
+      "index": 27,
+      "start": 50.6,
+      "end": 51.1,
+      "text": "네.",
+      "speaker": "speaker_1",
+      "confidence": -0.2699195902947097
+    },
+    {
+      "index": 28,
+      "start": 51.1,
+      "end": 54.8,
+      "text": "아 그러면 고객님 여기서 일하신 지는 몇 개월 정도 되신 거예요?",
+      "speaker": "speaker_1",
+      "confidence": -0.2699195902947097
+    },
+    {
+      "index": 29,
+      "start": 54.8,
+      "end": 55.7,
+      "text": "네.",
+      "speaker": "speaker_1",
+      "confidence": -0.2699195902947097
+    },
+    {
+      "index": 30,
+      "start": 55.7,
+      "end": 56.8,
+      "text": "3년.",
+      "speaker": "speaker_1",
+      "confidence": -0.2699195902947097
+    },
+    {
+      "index": 31,
+      "start": 56.800000000000004,
+      "end": 59.50000000000001,
+      "text": "고객님 뭐 한 달 안에 서류넣고 진행한 적은 없으신 거죠?",
+      "speaker": "speaker_1",
+      "confidence": -0.2774671140470003
+    },
+    {
+      "index": 32,
+      "start": 59.50000000000001,
+      "end": 60.7,
+      "text": "제가 먼저 다시 한 번 말씀드릴게요.",
+      "speaker": "speaker_1",
+      "confidence": -0.2774671140470003
+    },
+    {
+      "index": 33,
+      "start": 60.7,
+      "end": 61.2,
+      "text": "네?",
+      "speaker": "speaker_1",
+      "confidence": -0.2774671140470003
+    },
+    {
+      "index": 34,
+      "start": 61.2,
+      "end": 62.400000000000006,
+      "text": "다시 한 번 말씀해 주시면 저 어떤가요?",
+      "speaker": "speaker_1",
+      "confidence": -0.2774671140470003
+    },
+    {
+      "index": 35,
+      "start": 62.400000000000006,
+      "end": 65.7,
+      "text": "한 달 안에 서류넣고 진행한 적은 없으신 거죠?",
+      "speaker": "speaker_1",
+      "confidence": -0.2774671140470003
+    },
+    {
+      "index": 36,
+      "start": 65.7,
+      "end": 66.7,
+      "text": "뭘 진행하나요?",
+      "speaker": "speaker_1",
+      "confidence": -0.2774671140470003
+    },
+    {
+      "index": 37,
+      "start": 66.7,
+      "end": 70.30000000000001,
+      "text": "서류넣고 대출 받기 위해서 서류넣고 진행한 적은 없으신 거죠?",
+      "speaker": "speaker_1",
+      "confidence": -0.2774671140470003
+    },
+    {
+      "index": 38,
+      "start": 70.30000000000001,
+      "end": 71.2,
+      "text": "아니요 아니요.",
+      "speaker": "speaker_1",
+      "confidence": -0.2774671140470003
+    },
+    {
+      "index": 39,
+      "start": 71.2,
+      "end": 72.30000000000001,
+      "text": "예 그러면 되세요.",
+      "speaker": "speaker_1",
+      "confidence": -0.2774671140470003
+    },
+    {
+      "index": 40,
+      "start": 72.30000000000001,
+      "end": 74.5,
+      "text": "월 평균 수입은 대량 어느 정도 나오세요?",
+      "speaker": "speaker_1",
+      "confidence": -0.2774671140470003
+    },
+    {
+      "index": 41,
+      "start": 74.5,
+      "end": 75.7,
+      "text": "3백만이요.",
+      "speaker": "speaker_1",
+      "confidence": -0.2774671140470003
+    },
+    {
+      "index": 42,
+      "start": 75.7,
+      "end": 76.30000000000001,
+      "text": "3백이요?",
+      "speaker": "speaker_1",
+      "confidence": -0.2774671140470003
+    },
+    {
+      "index": 43,
+      "start": 76.30000000000001,
+      "end": 77.0,
+      "text": "네.",
+      "speaker": "speaker_1",
+      "confidence": -0.2774671140470003
+    },
+    {
+      "index": 44,
+      "start": 77.0,
+      "end": 79.30000000000001,
+      "text": "예. 성함은 어떻게 되시고요?",
+      "speaker": "speaker_1",
+      "confidence": -0.2774671140470003
+    },
+    {
+      "index": 45,
+      "start": 79.30000000000001,
+      "end": 80.0,
+      "text": "OO.",
+      "speaker": "speaker_1",
+      "confidence": -0.2774671140470003
+    },
+    {
+      "index": 46,
+      "start": 80.0,
+      "end": 81.0,
+      "text": "OO.",
+      "speaker": "speaker_1",
+      "confidence": -0.2774671140470003
+    },
+    {
+      "index": 47,
+      "start": 81.0,
+      "end": 82.0,
+      "text": "아휴 끊어요.",
+      "speaker": "speaker_1",
+      "confidence": -0.2774671140470003
+    }
+  ],
+  "engine": "faster-whisper-medium-float16-cuda",
+  "processed_at": 1758154964.0754797,
+  "error": null
+}

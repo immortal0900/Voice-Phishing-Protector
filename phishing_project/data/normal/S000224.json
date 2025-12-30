@@ -1,0 +1,92 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "상담사1",
+                    "age": "20대",
+                    "gender": "남",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "고객1",
+                    "age": "40대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000224/0001.wav",
+                "duration": 3.5,
+                "text": "그거를 수강신청 (하려고)/(할려고) 그랬더니"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000224/0002.wav",
+                "duration": 3.837,
+                "text": "안됩니다. 학생 회원으로 가입해주셔서 진행해주셨"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000224/0003.wav",
+                "duration": 2.739,
+                "text": "o/ 이제 카드결제나 이런 것들이"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000224/0004.wav",
+                "duration": 7.528,
+                "text": "(상관없고요)/(상관없구요). 학생회원으로 가입하시고 로그인하신 다음에 결제하실 때는 학부모님 카드나 무통장입금 계좌 진행하시면 됩니다."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000224/0005.wav",
+                "duration": 5.352,
+                "text": "사이트 (이용하시려면)/(이용하실려면) 학생회원으로 가입되어 있으셔야 (되시고요)/(되시구요). 학부모 회원님은"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000224/0006.wav",
+                "duration": 2.952,
+                "text": "때문에 네 n/ 학부모 회원님들은"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000224/0007.wav",
+                "duration": 3.027,
+                "text": "o/ 제가 신청하거나 그럴 수는 없는거예요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000224/0008.wav",
+                "duration": 2.952,
+                "text": "제 온라인 결제로만 진행 가능합니다."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000224/0009.wav",
+                "duration": 3.421,
+                "text": "전화상으로는 결제를 받을 n/ 수 없어서요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000224/0010.wav",
+                "duration": 2.579,
+                "text": "o/ 아 예 (알겠습니다)/(알겠습니다아)."
+            }
+        ]
+    }
+}

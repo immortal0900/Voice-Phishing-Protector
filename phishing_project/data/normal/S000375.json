@@ -1,0 +1,134 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "상담사1",
+                    "age": "20대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "고객1",
+                    "age": "40대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000375/0001.wav",
+                "duration": 2.856,
+                "text": "n/ 학습지원센터입니다. 무엇을 도와드릴"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000375/0002.wav",
+                "duration": 7.603,
+                "text": "고등학교 (1학년)/(일 학년)인데요. 학습 무슨 (신청하려고)/(신청할려고) 하는데 어제 설명을 해주셨는데 못 찾아서요. 학습"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000375/0003.wav",
+                "duration": 5.992,
+                "text": "n/ o/ 선생님 같은 이 상담 학습상담 이런 게 있다고 해서 (신청하려고요)/(신청할려구요).."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000375/0004.wav",
+                "duration": 3.656,
+                "text": "그러시면 저희 쪽으로 혹시 가입하셨나요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000375/0005.wav",
+                "duration": 10.365,
+                "text": "n/ 지금 저만 가입했고 이제 딸이 가입을 해서 이제 (신) 해야 결제를 해야 되는데 하기 전에 그런 이야기를 쫌 듣고 (하려고)/(할려고) 하는데"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000375/0006.wav",
+                "duration": 5.096,
+                "text": "지금 확인이요. 해드리겠습니다. 자녀분 이랑 휴대폰 번호가 혹시 어떻게 되"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000375/0007.wav",
+                "duration": 2.845,
+                "text": "n/ 아직 안 했어요. 제 (것으로)/(껄로) 했어요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000375/0008.wav",
+                "duration": 3.72,
+                "text": "n/ o/ 지금 휴대폰 번호로 혹시 가입하신 거 맞으세요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000375/0009.wav",
+                "duration": 10.803,
+                "text": "o/ 학습상담 쪽으로 예약을 지금 자녀분 학년이 현재 고등학교 (1학년)/(일 학년) 맞으세 하신 부분이 혹시 전과목 관련해서 강좌를 어떤 강좌를 수강하셔야 될지"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000375/0010.wav",
+                "duration": 5.425,
+                "text": "담 해주시는 선생님한테 전달을 해드릴 거고 주신 어머니가"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000375/0011.wav",
+                "duration": 6.801,
+                "text": "알겠습니다. 그러시면 쪽에서 확인하시고 순차적으로 연락 가도록 전달해드리겠습"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000375/0012.wav",
+                "duration": 6.592,
+                "text": "n/ 아 시간은 언제쯤인지 알 수는 없는 건가요? 제가 근무 중이어 가지고"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000375/0013.wav",
+                "duration": 1.843,
+                "text": "(4시)/(네 시) 이전이 가"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000375/0014.wav",
+                "duration": 2.6,
+                "text": "n/ 시 이전에는 어려워요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000375/0015.wav",
+                "duration": 2.984,
+                "text": "(4시)/(네 시) 이전이 어려우시"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000375/0016.wav",
+                "duration": 4.819,
+                "text": "회원님 그러시면 (4시)/(네 시) 이후에 이제 연락을 드리도록 전달을"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000375/0017.wav",
+                "duration": 2.685,
+                "text": "n/ 음 네, 알겠습니다."
+            }
+        ]
+    }
+}

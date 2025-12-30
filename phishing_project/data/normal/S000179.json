@@ -1,0 +1,200 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "고객1",
+                    "age": "40대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "상담사1",
+                    "age": "20대",
+                    "gender": "남",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000179/0001.wav",
+                "duration": 3.123,
+                "text": "아 예. 선생님 수고하십니다. 문의 좀 드릴게요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000179/0002.wav",
+                "duration": 3.048,
+                "text": "n/ 그 뭐 수요일마다"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000179/0003.wav",
+                "duration": 4.184,
+                "text": "n/ 그 전화 상담전화가 왔다고 얘길 하더라고요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000179/0004.wav",
+                "duration": 4.872,
+                "text": "o/ 아 네. 저희가 먼저 확인을 위해서 학생 회원분의 아이디나 연락처 어떻게 되실까요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000179/0005.wav",
+                "duration": 3.577,
+                "text": "n/ 예. 저희가 확인을 해볼 텐데요. 잠시만 기다려주세요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000179/0006.wav",
+                "duration": 8.125,
+                "text": "o/ 네. 기다려주셔서 감사합니다. 지금 학생회원분께서 이제 그 사이트 이용 상담 부분 안내해주셨던 거 맞으실까요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000179/0007.wav",
+                "duration": 5.315,
+                "text": "n/ 어 예. 뭐 저야 인제 자세히 모르겠는데 거기서 그 상담"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000179/0008.wav",
+                "duration": 3.932,
+                "text": "n/ 전화가 수요일마다 온다고 얘기를 하시드라고요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000179/0009.wav",
+                "duration": 5.229,
+                "text": "n/ 그게 지금 음 그게 뭐 땜에 오는 건지 혹시 알 수 있을까요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000179/0010.wav",
+                "duration": 6.169,
+                "text": "o/ 학생 회원분께서 그 사이트 이용 상담 신청을 해주신 거 같으시거든요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000179/0011.wav",
+                "duration": 2.6,
+                "text": "n/ 아 저희 쪽에서요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000179/0012.wav",
+                "duration": 5.112,
+                "text": "n/ 아 그래서 지금 수요일마다 전화가 오는 건가요? 상담 전화가?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000179/0013.wav",
+                "duration": 4.131,
+                "text": "네. 지금 그런 부분으로 확인되시는데"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000179/0014.wav",
+                "duration": 2.259,
+                "text": "그런 부분으로 지금 확인이"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000179/0015.wav",
+                "duration": 6.92,
+                "text": "n/ 아 그래서 저 인제 애가 계속 전화가 왔는데 이 뭐 어제 전화가 안 왔다고 혹시 저한테 왔냐고 물어봐서"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000179/0016.wav",
+                "duration": 3.373,
+                "text": "n/ 그러면 그 상담 전화가 혹시"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000179/0017.wav",
+                "duration": 6.047,
+                "text": "n/ 저희가 알기로는 지금 저희가 이게 등록한 게 그 (()) 옆에 있잖아요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000179/0018.wav",
+                "duration": 3.795,
+                "text": "o/ 자녀 그거를 지금 등록이 돼있는데"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000179/0019.wav",
+                "duration": 2.627,
+                "text": "그거하곤 관련이 없는 건가요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000179/0020.wav",
+                "duration": 5.045,
+                "text": "어 지금 저희가 확인해봤을 때요. 잠시만 기다려주세요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000179/0021.wav",
+                "duration": 4.648,
+                "text": "n/ 지금 해당 부분이랑 좀 연관이 있으신 것 같아가지고요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000179/0022.wav",
+                "duration": 5.309,
+                "text": "o/ 그럼 저희가 해당 부분 (1번)/(한 번) 확인하고 연락을 드려도 괜찮으실까요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000179/0023.wav",
+                "duration": 7.923,
+                "text": "n/ 네 네. 그래서 저희 이게 뭐 거기 건설 그 협회에서 해가지고 등록한 거면 이게 뭐 수업 듣는데"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000179/0024.wav",
+                "duration": 4.627,
+                "text": "n/ 이 일반 듣는 거 그게 뭐가 또 다른 게 있는지"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000179/0025.wav",
+                "duration": 3.971,
+                "text": "n/ 그 연락받으실 연락처가 어떻게 되실까요? 잠시만요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000179/0026.wav",
+                "duration": 4.84,
+                "text": "o/ 네. 그럼 저희가 해당 부분 확인하고 연락을 드릴 수 있도록 하겠습니다."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000179/0027.wav",
+                "duration": 2.429,
+                "text": "n/ 아 네. 감사합니다."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000179/0028.wav",
+                "duration": 2.061,
+                "text": "o/ 좋은 하루 되세요."
+            }
+        ]
+    }
+}

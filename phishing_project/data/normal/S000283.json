@@ -1,0 +1,116 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "상담사1",
+                    "age": "20대",
+                    "gender": "남",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "고객1",
+                    "age": "40대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000283/0001.wav",
+                "duration": 5.779,
+                "text": "o/ 아 그 제가 애 강의를 사면서 저도 로그인을 하"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000283/0002.wav",
+                "duration": 4.093,
+                "text": "저도 회원가입을 하고 애도 회원가입을 했는데"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000283/0003.wav",
+                "duration": 2.792,
+                "text": "애가 강의를 들으려면"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000283/0004.wav",
+                "duration": 3.027,
+                "text": "본인 아이디로 로그인해야 되죠?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000283/0005.wav",
+                "duration": 2.141,
+                "text": "네네. 맞습니다."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000283/0006.wav",
+                "duration": 5.597,
+                "text": "그 그럼 저는 제 아이디는 상관이 없는 거죠?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000283/0007.wav",
+                "duration": 4.467,
+                "text": "네 학부모 회원님은 수강하실 수강하시는게 아니에요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000283/0008.wav",
+                "duration": 2.259,
+                "text": "그쵸. 아니니까."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000283/0009.wav",
+                "duration": 4.797,
+                "text": "네네 그냥 무조건 학생회원으로 이용하시는 거라고 생각하시면 됩"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000283/0010.wav",
+                "duration": 4.179,
+                "text": "모든 강의는 학생 본인 아이디드로"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000283/0011.wav",
+                "duration": 3.441,
+                "text": "o/ 어 강좌를 듣는 거다 그 말씀인거죠?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000283/0012.wav",
+                "duration": 5.075,
+                "text": "그럼 저는 그 학부 아니 아니 그건 뭐 상관이 없으니까 내가"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000283/0013.wav",
+                "duration": 2.707,
+                "text": "네네. 알겠습니다."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000283/0014.wav",
+                "duration": 2.185,
+                "text": "네 감사합니다."
+            }
+        ]
+    }
+}

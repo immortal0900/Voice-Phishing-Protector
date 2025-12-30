@@ -1,0 +1,134 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "고객1",
+                    "age": "30대",
+                    "gender": "남",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "상담사1",
+                    "age": "20대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000016/0001.wav",
+                "duration": 1.945,
+                "text": "아 여보세요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000016/0002.wav",
+                "duration": 1.886,
+                "text": "o/ 아니요. 못 받았어요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000016/0003.wav",
+                "duration": 6.409,
+                "text": "아 그러세요? 저희가 그 강사 관련해서는 저희가 문의하기 작성하는"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000016/0004.wav",
+                "duration": 7.101,
+                "text": "어 (겠) 문의하니 문의하기 따로 있으시거든요. 그래서 전화로는 확인이 어려우시고요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000016/0005.wav",
+                "duration": 2.365,
+                "text": "아 전화로 안돼요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000016/0006.wav",
+                "duration": 14.793,
+                "text": "네 네. 그래서 그 채용 정보에 강사 모집 클릭하시면요. 공지사항 아래쪽에 지원 분야 안내가 있어요. 거기에 오른쪽에 보시면 문의하기 버튼이 있으시거든요. 네 그쪽으로 문의 부탁 드릴게요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000016/0007.wav",
+                "duration": 2.237,
+                "text": "전화로 안돼요? ((전화로는))? n/"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000016/0008.wav",
+                "duration": 2.441,
+                "text": "o/ 전화로는 어려우세요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000016/0009.wav",
+                "duration": 3.091,
+                "text": "근데 왜 (()) 그게 규칙이에요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000016/0010.wav",
+                "duration": 10.121,
+                "text": "어 규칙이 아니라 저희가 따로 연결할 수 있는 부서가 없어서요. 이건 담당하시는 분이 문의하기를 통해서 안내를 도와드릴 거예요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000016/0011.wav",
+                "duration": 3.133,
+                "text": "아 담당하시는 분한테 전달해서 (())"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000016/0012.wav",
+                "duration": 2.237,
+                "text": "전달도 안되는 거예요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000016/0013.wav",
+                "duration": 2.941,
+                "text": "답변 전달 못 받는 거구나. 아"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000016/0014.wav",
+                "duration": 6.963,
+                "text": "아니 답변은 받으실 수 있으세요. 회원님께서 여기에 글 작성하시면 메일이나 그런 걸로 회신이 가실 거예요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000016/0015.wav",
+                "duration": 2.441,
+                "text": "아 그렇구나. 통화는 안되고?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000016/0016.wav",
+                "duration": 2.728,
+                "text": "통화로 안되고 그 글로만 된다는 거죠?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000016/0017.wav",
+                "duration": 1.981,
+                "text": "네 감사합니다."
+            }
+        ]
+    }
+}

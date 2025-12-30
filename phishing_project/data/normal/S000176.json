@@ -1,0 +1,134 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "상담사1",
+                    "age": "20대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "고객1",
+                    "age": "40대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000176/0001.wav",
+                "duration": 2.28,
+                "text": "무엇을 도와드릴까요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000176/0002.wav",
+                "duration": 3.261,
+                "text": "네 뭐 (여쭤보려고요)/(여쭤볼려구요)."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000176/0003.wav",
+                "duration": 4.136,
+                "text": "그 입시 수시 컨설팅도 하시나요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000176/0004.wav",
+                "duration": 4.712,
+                "text": "어 네 저희 입시상담 진행하고 있고요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000176/0005.wav",
+                "duration": 5.885,
+                "text": "o/ 홈페이지 내에서 이제 로고 밑에 보시면 학습지원센터 보이실 거거든요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000176/0006.wav",
+                "duration": 4.243,
+                "text": "왼쪽에 입시상담 눌러보시면"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000176/0007.wav",
+                "duration": 11.217,
+                "text": "o/ 신청하기 버튼 보이실 거거든요? 요거 누르셔가지고 신청해주시게 되면은 상담이라던지 입시 컨설 컨설팅하시는 분들이 연락드릴 거예요 연락 아니면"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000176/0008.wav",
+                "duration": 3.559,
+                "text": "아 방문해야 되는 거예요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000176/0009.wav",
+                "duration": 10.528,
+                "text": "o/ 아니 방문까지 필요없으시고 전화 아니면 게시판 상담으로 진행되기 때문에 네 여기 신청하기 버튼 눌러주신 다음에 진행해주시면 되세요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000176/0010.wav",
+                "duration": 3.687,
+                "text": "아 그러면 돈 지불하고 이런거"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000176/0011.wav",
+                "duration": 2.152,
+                "text": "네 따로 없고요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000176/0012.wav",
+                "duration": 9.917,
+                "text": "로그인하고 네 아 그러면은 컨설팅이라는 (()) 학과만약에 그 학점 학교 말고 내신에 따라서"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000176/0013.wav",
+                "duration": 5.288,
+                "text": "그 수시 지금 원하는 대학 뭐 이런 것도 알려주나요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000176/0014.wav",
+                "duration": 8.936,
+                "text": "어 일단 그부분 (1번)/(한 번) 요거 신청하기 버튼해가지고 상담을 남겨주신 다음에 상담받으실 때 알 수 있을 것 같아요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000176/0015.wav",
+                "duration": 4.584,
+                "text": "아 상담은 보통 얼마 정도 몇 분 정도"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000176/0016.wav",
+                "duration": 13.075,
+                "text": "o/ 그거는 개개인마다 다 달라서 시간이 딱 정해져 있진 않으신데 아마 이게 전화로 진행되면 하루에 (2통)/(두 통) 정도 전화가 갈 수 있으시거든요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000176/0017.wav",
+                "duration": 5.907,
+                "text": "o/ 번호 수신차단이라던지 스팸 차단 안되어있으신지 확인 (1번)/(한 번) 부탁드릴게요."
+            }
+        ]
+    }
+}

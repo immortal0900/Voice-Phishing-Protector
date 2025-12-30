@@ -1,0 +1,104 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "고객1",
+                    "age": "40대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "상담사1",
+                    "age": "20대",
+                    "gender": "남",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000074/0001.wav",
+                "duration": 2.723,
+                "text": "o/ 예 예 알아요. 제가 저기 내용 다"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000074/0002.wav",
+                "duration": 7.384,
+                "text": "아 네 그래서 첨삭 관련된 부분 (1회)/(일 회)당 (3만원)/(삼만 원) 총 (15만원)/(십 오만 원) 강좌 종료되면 환불받으실 수 있고요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000074/0003.wav",
+                "duration": 8.691,
+                "text": "o/ 아 회당 (3만원)/(삼만 원)씩 해가지고 (5회)/(오 회)해서 (15만원)/(십 오만 원)을 이제 환불은 받을 수가 있고 첨삭을 안 했으면"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000074/0004.wav",
+                "duration": 4.291,
+                "text": "네 네 그래서 강좌 종료되면 전화 한번 주시면 환불 도와드릴 거고"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000074/0005.wav",
+                "duration": 10.152,
+                "text": "o/ 관련해서 게시판에서 어 좀 답변이 느리다는 (이) 이거 말씀해 주셨는데 저희가 이 부분 인지하고 있어서 빠른 시일 내에 답변 진행되도록"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000074/0006.wav",
+                "duration": 2.365,
+                "text": "내용 전달해 드리겠습니다."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000074/0007.wav",
+                "duration": 6.157,
+                "text": "o/ 알겠습니다. 그러니깐요 제가 보니까 한참 전에 올렸는데 아직도 안 돼있어서"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000074/0008.wav",
+                "duration": 5.971,
+                "text": "o/ 사실 어 첨삭 이걸 올려도 언제 될지 모른다는 약간 생각이 있더라고요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000074/0009.wav",
+                "duration": 11.112,
+                "text": "o/ 저희도 지금 게시판에 쭉 보니까 그 자녀분께서 말씀하신 내용이 맞더라고요. 그래서 저희 팀에서도 관련 내용 인지하고 있어서 최대한 빠르고 정확하게 다시"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000074/0010.wav",
+                "duration": 2.291,
+                "text": "전달해 드리도록 하겠습니다."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000074/0011.wav",
+                "duration": 2.104,
+                "text": "네 알겠습니다."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000074/0012.wav",
+                "duration": 2.504,
+                "text": "네 감사합니다. 좋은 하루 되세요."
+            }
+        ]
+    }
+}

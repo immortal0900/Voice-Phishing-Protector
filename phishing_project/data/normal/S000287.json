@@ -1,0 +1,326 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "상담사1",
+                    "age": "20대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "고객1",
+                    "age": "40대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000287/0001.wav",
+                "duration": 2.109,
+                "text": "o/ 다름 아니고요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000287/0002.wav",
+                "duration": 4.211,
+                "text": "네 그 저희 애가 고 이제 그"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000287/0003.wav",
+                "duration": 3.901,
+                "text": "학습할 거 저기 등록을 했는데요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000287/0004.wav",
+                "duration": 4.84,
+                "text": "그 현금결제를 해서 카드결제로 변경을 할 수 있나 싶어서요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000287/0005.wav",
+                "duration": 6.792,
+                "text": "어 회원님 자녀분 아이디나 핸드폰번호 어떻게 되세요? 네. 네."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000287/0006.wav",
+                "duration": 6.963,
+                "text": "저는 ((시형은)) 저희 애가 회원가입했고요. 저는 엄마예요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000287/0007.wav",
+                "duration": 2.685,
+                "text": "어 아 그까 (370006)/(삼십 칠만 육)"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000287/0008.wav",
+                "duration": 2.093,
+                "text": "장바구니 들어가 있죠?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000287/0009.wav",
+                "duration": 3.416,
+                "text": "통장으로 하신거 말씀하시는 거죠?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000287/0010.wav",
+                "duration": 3.533,
+                "text": "o/ 네 맞아요. 그 (2과목)/(두 과목) 하고 ((패키지)) (2권)/(두 권)."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000287/0011.wav",
+                "duration": 4.344,
+                "text": "아 네, 그럼 저희가 요거 장바구니 다시 담아드릴 테니까"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000287/0012.wav",
+                "duration": 3.635,
+                "text": "o/ 네 카드로 다시 해 주시면 되고요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000287/0013.wav",
+                "duration": 3.595,
+                "text": "o/ 카드 제가 불러드리면 안돼요? 유선상으로?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000287/0014.wav",
+                "duration": 3.613,
+                "text": "네 카드결제를 대신해드릴 수가 없어서"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000287/0015.wav",
+                "duration": 4.04,
+                "text": "예 장바구니 담아드려서 지금 다시 해주시면 되세요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000287/0016.wav",
+                "duration": 3.987,
+                "text": "그러면은 저희 마이페이지 들어 가면 되는 거예요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000287/0017.wav",
+                "duration": 4.776,
+                "text": "네 마이페이지에서 가운데 보시면 장바구니라고 보이실 거예요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000287/0018.wav",
+                "duration": 3.548,
+                "text": "o/ 이제 글로 들어가셔서 이제 결제하시면 돼요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000287/0019.wav",
+                "duration": 6.295,
+                "text": "그 장바구니 들어가면은 이제 카드 결제하는 그 방법이 나와 있네요. 맞죠?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000287/0020.wav",
+                "duration": 7.997,
+                "text": "에 카드결제가 제일 앞에 있어요. 그래서 주문하기 누르고 결제 페이지 넘어가면은 카드결제가 맨 앞에 있거든요. 그냥 거 클릭하셔서"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000287/0021.wav",
+                "duration": 2.653,
+                "text": "o/ 누르면 누르면 되는 거죠?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000287/0022.wav",
+                "duration": 3.405,
+                "text": "o/ 네 그냥 인터넷 쇼핑 하시는 거랑 똑같아요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000287/0023.wav",
+                "duration": 2.557,
+                "text": "다시 바꿔 (놓은)/(논) 거는 맞죠?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000287/0024.wav",
+                "duration": 2.792,
+                "text": "에. 지금 넣어 드렸어요. 장바구니에."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000287/0025.wav",
+                "duration": 4.029,
+                "text": "카드 결제하기로 바꿔놓신거다? 맞죠? 네."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000287/0026.wav",
+                "duration": 3.976,
+                "text": "네 네 카드 결제 해 주시면 되세요. 네 감사합니다."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000287/0027.wav",
+                "duration": 6.333,
+                "text": "o/ 결제하고 나면은 현장에서 저희 애한테 전화 따로 오죠?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000287/0028.wav",
+                "duration": 3.587,
+                "text": "결제하고 전화가 가지는 않아요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000287/0029.wav",
+                "duration": 4.021,
+                "text": "o/ (왜냐하면)/(왜냐카면) 애가 처음 이제 이거를 이용을 해서"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000287/0030.wav",
+                "duration": 4.397,
+                "text": "뭐 어떻게 해야 되는지 좀 그 가이드를 받고 싶은데"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000287/0031.wav",
+                "duration": 3.997,
+                "text": "아 그거는 저희 홈페이지에"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000287/0032.wav",
+                "duration": 2.728,
+                "text": "o/ (그까) 학습상담이라 그래서"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000287/0033.wav",
+                "duration": 4.617,
+                "text": "o/ 예약 예약을 남겨주시면은 선생님이 전화를 드려요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000287/0034.wav",
+                "duration": 3.228,
+                "text": "o/ 그러면 자기가 신청했는"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000287/0035.wav",
+                "duration": 3.157,
+                "text": "o/ 그 과목 선생님이 전화 주신단 말이에요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000287/0036.wav",
+                "duration": 1.96,
+                "text": "o/ 담당 선생님이?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000287/0037.wav",
+                "duration": 5.405,
+                "text": "o/ 저희 그 공부 학습 선생님 담당 선생님이 따로 계셔서"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000287/0038.wav",
+                "duration": 4.189,
+                "text": "o/ 어 전화를 드리는데 그러면 지금"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000287/0039.wav",
+                "duration": 2.131,
+                "text": "o/ 예약해 주세요. 그냥."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000287/0040.wav",
+                "duration": 7.243,
+                "text": "예 ((아가씨한테)) 예약 좀 해주세요. 네 (1시)/(한 시)는 좀 (그렇고)/(글코) 내일 전화 주시면 안 될까요? 내일 오전에."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000287/0041.wav",
+                "duration": 4.808,
+                "text": "내일 혹시 몇 시에 괜찮으세요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000287/0042.wav",
+                "duration": 5.96,
+                "text": "오전 한 (11시)/(열 한 시) 반 (12시)/(열 두 시)에 좀 해주세요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000287/0043.wav",
+                "duration": 3.603,
+                "text": "저희가 (1시)/(한 시)부터 상담이 시작이 돼요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000287/0044.wav",
+                "duration": 3.325,
+                "text": "아 (1시)/(한 시)부터요? 내일 (1시)/(한 시)에 해주세요. 그러면."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000287/0045.wav",
+                "duration": 3.741,
+                "text": "o/ 오늘 (()) 볼일이 있어가지고 그 시간에는"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000287/0046.wav",
+                "duration": 2.984,
+                "text": "혹시 지금 학년이 어떻게 되세요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000287/0047.wav",
+                "duration": 2.376,
+                "text": "고등학교 (1학년)/(일 학년)이요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000287/0048.wav",
+                "duration": 3.656,
+                "text": "아 네네. 좀 그렇게 부탁 좀 드리겠습니다."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000287/0049.wav",
+                "duration": 2.152,
+                "text": "네 감사합니다."
+            }
+        ]
+    }
+}

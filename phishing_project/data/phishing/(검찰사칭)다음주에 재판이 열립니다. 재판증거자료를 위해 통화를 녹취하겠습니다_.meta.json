@@ -1,0 +1,668 @@
+{
+  "file": "(검찰사칭)다음주에 재판이 열립니다. 재판증거자료를 위해 통화를 녹취하겠습니다_.mp3",
+  "rel_path": "(검찰사칭)다음주에 재판이 열립니다. 재판증거자료를 위해 통화를 녹취하겠습니다_.mp3",
+  "language": "ko",
+  "text": "네, 본인께서는 조사를 받으셔야 되고요 네 알겠습니다 그럼 이어서 말씀드릴게요 앞으로의 조사 과정은 계속 말씀드리다시피 녹취 상태로 진행이 될 건데 녹취가 무슨 말인지는 알고 계시죠 본인께서도? 네 녹취하는 이유가 뭐냐면 뭐라고요? 어디서 전화하셨다고 그러셨죠? 서울중앙지검이요 계속 말을 끊으시는데 차라리 메모장이나 펜 같은 거 있으시면 좀 삐져놓으세요 내가 불러드릴 테니까 네 준비되시면 말씀을 하시고요 네, 이제 말씀해 주셔도 돼요 알겠습니다 서울중앙지검 네 참단범죄 수사 일부분 응? 네네 전화 보셨습니까? 네 알겠습니다 계속 말씀드릴 건데요 일단 다음 주에 재판이 열리거든요 이 재판날 본인께서 직접 출석할 수 있는 건 아니고 본인께서 이날 대신해서 키우자 입증을 가릴 만한 증거 자료를 저희가 만들기 위해서 녹취 좀 하게 될 거예요 됐었나요? 일단 그렇기 때문에 이 녹취 자료에는 제3자의 육성이나 기타 소음 또는 심한 잡음이 유입된다면 증거 자료로 채택이 불가능하고요 본인께서 좀 주의를 하셔야 돼요 그리고 현재 이 분께서는 피해자도 아닌 흥믹적인 신분인 조사자 신분이시기 때문에 이 사건에 대해 제3자에게 유포하시거나 SNR하시면 전혀 안 되시고요 네 여기까지 말씀드린 거 이해 되셨습니까? 네 알겠습니다 일단 이거 관련해서 질문 드렸겠는데 현재 계신 분 씨 뭐 직장이십니까? 아니면 자폐이십니까? 네, 저 직장인데 욕 빨리 말해 주시겠어요? 알겠습니다 일단 간단하게 진행하기 위해서 지금 말씀드리는 거니까 좀 빠르게 진행할게요 일단 저... 일단 직장 동료분이 옆에 주변에 있을 수도 있습니다 유종역 세만한 뭐 비상부나 계단 같은 곳으로 좀 이동해 주시고요 이동하실 때 방금 적은 내보적 오펜 좀 들고 지참하시고 이동 좀 해주세요 저 지금 그렇게 안 되는데요? 왜 안 된다는 거... 잠시 시간 안 마십니까? 다시 전화해 주신다고 그러셨죠? 그 분하고 통화할게요 그 분이 누구요? 검사님이요? 네 아니요, 다시 연락드리는데 아니라 녹취소사고 이간시켜드린다고요, 제가 네, 그럼요 너께 끊어지지 않은 상태다",
+  "duration_sec": 148.898,
+  "segments": [
+    {
+      "index": 0,
+      "start": 0.0,
+      "end": 3.92,
+      "text": "네, 본인께서는 조사를 받으셔야 되고요",
+      "speaker": "speaker_1",
+      "confidence": -0.3075787495440385
+    },
+    {
+      "index": 1,
+      "start": 3.92,
+      "end": 5.5200000000000005,
+      "text": "네",
+      "speaker": "speaker_1",
+      "confidence": -0.3075787495440385
+    },
+    {
+      "index": 2,
+      "start": 5.5200000000000005,
+      "end": 6.3,
+      "text": "알겠습니다",
+      "speaker": "speaker_1",
+      "confidence": -0.3075787495440385
+    },
+    {
+      "index": 3,
+      "start": 6.3,
+      "end": 8.68,
+      "text": "그럼 이어서 말씀드릴게요",
+      "speaker": "speaker_1",
+      "confidence": -0.3075787495440385
+    },
+    {
+      "index": 4,
+      "start": 8.68,
+      "end": 11.84,
+      "text": "앞으로의 조사 과정은 계속 말씀드리다시피",
+      "speaker": "speaker_1",
+      "confidence": -0.3075787495440385
+    },
+    {
+      "index": 5,
+      "start": 11.84,
+      "end": 13.540000000000001,
+      "text": "녹취 상태로 진행이 될 건데",
+      "speaker": "speaker_1",
+      "confidence": -0.3075787495440385
+    },
+    {
+      "index": 6,
+      "start": 13.540000000000001,
+      "end": 16.56,
+      "text": "녹취가 무슨 말인지는 알고 계시죠 본인께서도?",
+      "speaker": "speaker_1",
+      "confidence": -0.3075787495440385
+    },
+    {
+      "index": 7,
+      "start": 16.56,
+      "end": 17.96,
+      "text": "네",
+      "speaker": "speaker_1",
+      "confidence": -0.3075787495440385
+    },
+    {
+      "index": 8,
+      "start": 17.96,
+      "end": 20.2,
+      "text": "녹취하는 이유가 뭐냐면",
+      "speaker": "speaker_1",
+      "confidence": -0.3075787495440385
+    },
+    {
+      "index": 9,
+      "start": 20.2,
+      "end": 20.64,
+      "text": "뭐라고요?",
+      "speaker": "speaker_1",
+      "confidence": -0.3075787495440385
+    },
+    {
+      "index": 10,
+      "start": 20.64,
+      "end": 22.64,
+      "text": "어디서 전화하셨다고 그러셨죠?",
+      "speaker": "speaker_1",
+      "confidence": -0.3075787495440385
+    },
+    {
+      "index": 11,
+      "start": 22.64,
+      "end": 24.52,
+      "text": "서울중앙지검이요",
+      "speaker": "speaker_1",
+      "confidence": -0.3075787495440385
+    },
+    {
+      "index": 12,
+      "start": 24.52,
+      "end": 26.12,
+      "text": "계속 말을 끊으시는데",
+      "speaker": "speaker_1",
+      "confidence": -0.3075787495440385
+    },
+    {
+      "index": 13,
+      "start": 26.12,
+      "end": 30.28,
+      "text": "차라리 메모장이나 펜 같은 거 있으시면 좀 삐져놓으세요",
+      "speaker": "speaker_1",
+      "confidence": -0.4070444912728617
+    },
+    {
+      "index": 14,
+      "start": 30.28,
+      "end": 31.560000000000002,
+      "text": "내가 불러드릴 테니까",
+      "speaker": "speaker_1",
+      "confidence": -0.4070444912728617
+    },
+    {
+      "index": 15,
+      "start": 31.560000000000002,
+      "end": 33.36,
+      "text": "네",
+      "speaker": "speaker_1",
+      "confidence": -0.4070444912728617
+    },
+    {
+      "index": 16,
+      "start": 33.36,
+      "end": 35.36,
+      "text": "준비되시면 말씀을 하시고요",
+      "speaker": "speaker_1",
+      "confidence": -0.4070444912728617
+    },
+    {
+      "index": 17,
+      "start": 35.36,
+      "end": 37.480000000000004,
+      "text": "네, 이제 말씀해 주셔도 돼요",
+      "speaker": "speaker_1",
+      "confidence": -0.4070444912728617
+    },
+    {
+      "index": 18,
+      "start": 37.480000000000004,
+      "end": 38.6,
+      "text": "알겠습니다",
+      "speaker": "speaker_1",
+      "confidence": -0.4070444912728617
+    },
+    {
+      "index": 19,
+      "start": 38.6,
+      "end": 40.04,
+      "text": "서울중앙지검",
+      "speaker": "speaker_1",
+      "confidence": -0.4070444912728617
+    },
+    {
+      "index": 20,
+      "start": 40.04,
+      "end": 42.04,
+      "text": "네",
+      "speaker": "speaker_1",
+      "confidence": -0.4070444912728617
+    },
+    {
+      "index": 21,
+      "start": 42.04,
+      "end": 44.16,
+      "text": "참단범죄 수사 일부분",
+      "speaker": "speaker_1",
+      "confidence": -0.4070444912728617
+    },
+    {
+      "index": 22,
+      "start": 44.16,
+      "end": 45.68,
+      "text": "응?",
+      "speaker": "speaker_1",
+      "confidence": -0.4070444912728617
+    },
+    {
+      "index": 23,
+      "start": 46.88,
+      "end": 49.760000000000005,
+      "text": "네네",
+      "speaker": "speaker_1",
+      "confidence": -0.4070444912728617
+    },
+    {
+      "index": 24,
+      "start": 49.760000000000005,
+      "end": 50.760000000000005,
+      "text": "전화 보셨습니까?",
+      "speaker": "speaker_1",
+      "confidence": -0.4070444912728617
+    },
+    {
+      "index": 25,
+      "start": 50.760000000000005,
+      "end": 52.88,
+      "text": "네",
+      "speaker": "speaker_1",
+      "confidence": -0.4070444912728617
+    },
+    {
+      "index": 26,
+      "start": 52.88,
+      "end": 53.84,
+      "text": "알겠습니다",
+      "speaker": "speaker_1",
+      "confidence": -0.4070444912728617
+    },
+    {
+      "index": 27,
+      "start": 53.84,
+      "end": 55.96,
+      "text": "계속 말씀드릴 건데요",
+      "speaker": "speaker_1",
+      "confidence": -0.4070444912728617
+    },
+    {
+      "index": 28,
+      "start": 56.0,
+      "end": 57.96,
+      "text": "일단 다음 주에",
+      "speaker": "speaker_1",
+      "confidence": -0.2804330174439873
+    },
+    {
+      "index": 29,
+      "start": 57.96,
+      "end": 60.76,
+      "text": "재판이 열리거든요",
+      "speaker": "speaker_1",
+      "confidence": -0.2804330174439873
+    },
+    {
+      "index": 30,
+      "start": 60.76,
+      "end": 64.48,
+      "text": "이 재판날 본인께서 직접 출석할 수 있는 건 아니고",
+      "speaker": "speaker_1",
+      "confidence": -0.2804330174439873
+    },
+    {
+      "index": 31,
+      "start": 64.48,
+      "end": 66.24,
+      "text": "본인께서 이날 대신해서",
+      "speaker": "speaker_1",
+      "confidence": -0.2804330174439873
+    },
+    {
+      "index": 32,
+      "start": 66.24,
+      "end": 68.24000000000001,
+      "text": "키우자 입증을 가릴 만한 증거 자료를",
+      "speaker": "speaker_1",
+      "confidence": -0.2804330174439873
+    },
+    {
+      "index": 33,
+      "start": 68.24000000000001,
+      "end": 69.56,
+      "text": "저희가 만들기 위해서",
+      "speaker": "speaker_1",
+      "confidence": -0.2804330174439873
+    },
+    {
+      "index": 34,
+      "start": 69.56,
+      "end": 72.04,
+      "text": "녹취 좀 하게 될 거예요",
+      "speaker": "speaker_1",
+      "confidence": -0.2804330174439873
+    },
+    {
+      "index": 35,
+      "start": 72.04,
+      "end": 74.04,
+      "text": "됐었나요?",
+      "speaker": "speaker_1",
+      "confidence": -0.2804330174439873
+    },
+    {
+      "index": 36,
+      "start": 74.04,
+      "end": 75.32,
+      "text": "일단 그렇기 때문에",
+      "speaker": "speaker_1",
+      "confidence": -0.2804330174439873
+    },
+    {
+      "index": 37,
+      "start": 75.32,
+      "end": 76.44,
+      "text": "이 녹취 자료에는",
+      "speaker": "speaker_1",
+      "confidence": -0.2804330174439873
+    },
+    {
+      "index": 38,
+      "start": 76.44,
+      "end": 78.28,
+      "text": "제3자의 육성이나 기타 소음",
+      "speaker": "speaker_1",
+      "confidence": -0.2804330174439873
+    },
+    {
+      "index": 39,
+      "start": 78.28,
+      "end": 80.12,
+      "text": "또는 심한 잡음이 유입된다면",
+      "speaker": "speaker_1",
+      "confidence": -0.2804330174439873
+    },
+    {
+      "index": 40,
+      "start": 80.12,
+      "end": 82.96000000000001,
+      "text": "증거 자료로 채택이 불가능하고요",
+      "speaker": "speaker_1",
+      "confidence": -0.2804330174439873
+    },
+    {
+      "index": 41,
+      "start": 82.96000000000001,
+      "end": 85.76,
+      "text": "본인께서 좀 주의를 하셔야 돼요",
+      "speaker": "speaker_1",
+      "confidence": -0.2804330174439873
+    },
+    {
+      "index": 42,
+      "start": 85.76,
+      "end": 87.48,
+      "text": "그리고 현재 이 분께서는",
+      "speaker": "speaker_1",
+      "confidence": -0.32102273404598236
+    },
+    {
+      "index": 43,
+      "start": 87.48,
+      "end": 89.52000000000001,
+      "text": "피해자도 아닌",
+      "speaker": "speaker_1",
+      "confidence": -0.32102273404598236
+    },
+    {
+      "index": 44,
+      "start": 89.52000000000001,
+      "end": 92.12,
+      "text": "흥믹적인 신분인 조사자 신분이시기 때문에",
+      "speaker": "speaker_1",
+      "confidence": -0.32102273404598236
+    },
+    {
+      "index": 45,
+      "start": 92.12,
+      "end": 94.76,
+      "text": "이 사건에 대해 제3자에게 유포하시거나",
+      "speaker": "speaker_1",
+      "confidence": -0.32102273404598236
+    },
+    {
+      "index": 46,
+      "start": 94.76,
+      "end": 96.56,
+      "text": "SNR하시면 전혀 안 되시고요",
+      "speaker": "speaker_1",
+      "confidence": -0.32102273404598236
+    },
+    {
+      "index": 47,
+      "start": 96.56,
+      "end": 98.04,
+      "text": "네",
+      "speaker": "speaker_1",
+      "confidence": -0.32102273404598236
+    },
+    {
+      "index": 48,
+      "start": 98.04,
+      "end": 100.12,
+      "text": "여기까지 말씀드린 거 이해 되셨습니까?",
+      "speaker": "speaker_1",
+      "confidence": -0.32102273404598236
+    },
+    {
+      "index": 49,
+      "start": 100.12,
+      "end": 101.92,
+      "text": "네",
+      "speaker": "speaker_1",
+      "confidence": -0.32102273404598236
+    },
+    {
+      "index": 50,
+      "start": 101.92,
+      "end": 102.96000000000001,
+      "text": "알겠습니다",
+      "speaker": "speaker_1",
+      "confidence": -0.32102273404598236
+    },
+    {
+      "index": 51,
+      "start": 102.96000000000001,
+      "end": 104.16000000000001,
+      "text": "일단 이거 관련해서",
+      "speaker": "speaker_1",
+      "confidence": -0.32102273404598236
+    },
+    {
+      "index": 52,
+      "start": 104.16000000000001,
+      "end": 105.28,
+      "text": "질문 드렸겠는데",
+      "speaker": "speaker_1",
+      "confidence": -0.32102273404598236
+    },
+    {
+      "index": 53,
+      "start": 105.28,
+      "end": 107.08000000000001,
+      "text": "현재 계신 분 씨 뭐 직장이십니까?",
+      "speaker": "speaker_1",
+      "confidence": -0.32102273404598236
+    },
+    {
+      "index": 54,
+      "start": 107.08000000000001,
+      "end": 108.32000000000001,
+      "text": "아니면 자폐이십니까?",
+      "speaker": "speaker_1",
+      "confidence": -0.32102273404598236
+    },
+    {
+      "index": 55,
+      "start": 108.32000000000001,
+      "end": 109.36000000000001,
+      "text": "네, 저 직장인데",
+      "speaker": "speaker_1",
+      "confidence": -0.32102273404598236
+    },
+    {
+      "index": 56,
+      "start": 109.36000000000001,
+      "end": 111.88000000000001,
+      "text": "욕 빨리 말해 주시겠어요?",
+      "speaker": "speaker_1",
+      "confidence": -0.32102273404598236
+    },
+    {
+      "index": 57,
+      "start": 111.88000000000001,
+      "end": 112.68,
+      "text": "알겠습니다",
+      "speaker": "speaker_1",
+      "confidence": -0.32102273404598236
+    },
+    {
+      "index": 58,
+      "start": 112.68,
+      "end": 114.44,
+      "text": "일단 간단하게 진행하기 위해서",
+      "speaker": "speaker_1",
+      "confidence": -0.32102273404598236
+    },
+    {
+      "index": 59,
+      "start": 114.44,
+      "end": 115.72,
+      "text": "지금 말씀드리는 거니까",
+      "speaker": "speaker_1",
+      "confidence": -0.31065188107951996
+    },
+    {
+      "index": 60,
+      "start": 115.72,
+      "end": 117.2,
+      "text": "좀 빠르게 진행할게요",
+      "speaker": "speaker_1",
+      "confidence": -0.31065188107951996
+    },
+    {
+      "index": 61,
+      "start": 117.2,
+      "end": 118.28,
+      "text": "일단 저...",
+      "speaker": "speaker_1",
+      "confidence": -0.31065188107951996
+    },
+    {
+      "index": 62,
+      "start": 118.28,
+      "end": 119.56,
+      "text": "일단 직장 동료분이",
+      "speaker": "speaker_1",
+      "confidence": -0.31065188107951996
+    },
+    {
+      "index": 63,
+      "start": 119.56,
+      "end": 121.32,
+      "text": "옆에 주변에 있을 수도 있습니다",
+      "speaker": "speaker_1",
+      "confidence": -0.31065188107951996
+    },
+    {
+      "index": 64,
+      "start": 121.32,
+      "end": 122.52,
+      "text": "유종역 세만한",
+      "speaker": "speaker_1",
+      "confidence": -0.31065188107951996
+    },
+    {
+      "index": 65,
+      "start": 122.52,
+      "end": 124.2,
+      "text": "뭐 비상부나 계단 같은 곳으로",
+      "speaker": "speaker_1",
+      "confidence": -0.31065188107951996
+    },
+    {
+      "index": 66,
+      "start": 124.2,
+      "end": 125.67999999999999,
+      "text": "좀 이동해 주시고요",
+      "speaker": "speaker_1",
+      "confidence": -0.31065188107951996
+    },
+    {
+      "index": 67,
+      "start": 125.67999999999999,
+      "end": 127.12,
+      "text": "이동하실 때 방금 적은",
+      "speaker": "speaker_1",
+      "confidence": -0.31065188107951996
+    },
+    {
+      "index": 68,
+      "start": 127.12,
+      "end": 128.92,
+      "text": "내보적 오펜 좀 들고",
+      "speaker": "speaker_1",
+      "confidence": -0.31065188107951996
+    },
+    {
+      "index": 69,
+      "start": 128.92,
+      "end": 130.64,
+      "text": "지참하시고 이동 좀 해주세요",
+      "speaker": "speaker_1",
+      "confidence": -0.31065188107951996
+    },
+    {
+      "index": 70,
+      "start": 130.64,
+      "end": 132.88,
+      "text": "저 지금 그렇게 안 되는데요?",
+      "speaker": "speaker_1",
+      "confidence": -0.31065188107951996
+    },
+    {
+      "index": 71,
+      "start": 132.88,
+      "end": 133.84,
+      "text": "왜 안 된다는 거...",
+      "speaker": "speaker_1",
+      "confidence": -0.31065188107951996
+    },
+    {
+      "index": 72,
+      "start": 133.84,
+      "end": 135.32,
+      "text": "잠시 시간 안 마십니까?",
+      "speaker": "speaker_1",
+      "confidence": -0.31065188107951996
+    },
+    {
+      "index": 73,
+      "start": 135.32,
+      "end": 136.36,
+      "text": "다시 전화해 주신다고 그러셨죠?",
+      "speaker": "speaker_1",
+      "confidence": -0.31065188107951996
+    },
+    {
+      "index": 74,
+      "start": 136.36,
+      "end": 138.6,
+      "text": "그 분하고 통화할게요",
+      "speaker": "speaker_1",
+      "confidence": -0.31065188107951996
+    },
+    {
+      "index": 75,
+      "start": 138.6,
+      "end": 139.52,
+      "text": "그 분이 누구요?",
+      "speaker": "speaker_1",
+      "confidence": -0.31065188107951996
+    },
+    {
+      "index": 76,
+      "start": 139.52,
+      "end": 140.32,
+      "text": "검사님이요?",
+      "speaker": "speaker_1",
+      "confidence": -0.31065188107951996
+    },
+    {
+      "index": 77,
+      "start": 140.32,
+      "end": 141.64,
+      "text": "네",
+      "speaker": "speaker_1",
+      "confidence": -0.31065188107951996
+    },
+    {
+      "index": 78,
+      "start": 141.64,
+      "end": 143.2,
+      "text": "아니요, 다시 연락드리는데 아니라",
+      "speaker": "speaker_1",
+      "confidence": -0.31065188107951996
+    },
+    {
+      "index": 79,
+      "start": 143.24,
+      "end": 146.00000000000003,
+      "text": "녹취소사고 이간시켜드린다고요, 제가",
+      "speaker": "speaker_1",
+      "confidence": -0.5954392085204253
+    },
+    {
+      "index": 80,
+      "start": 146.00000000000003,
+      "end": 146.48000000000002,
+      "text": "네, 그럼요",
+      "speaker": "speaker_1",
+      "confidence": -0.5954392085204253
+    },
+    {
+      "index": 81,
+      "start": 146.48000000000002,
+      "end": 147.68,
+      "text": "너께 끊어지지 않은 상태다",
+      "speaker": "speaker_1",
+      "confidence": -0.5954392085204253
+    }
+  ],
+  "engine": "faster-whisper-medium-float16-cuda",
+  "processed_at": 1758158787.080419,
+  "error": null
+}

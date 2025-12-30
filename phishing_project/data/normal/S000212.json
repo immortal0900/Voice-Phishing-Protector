@@ -1,0 +1,194 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "고객1",
+                    "age": "40대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "상담사1",
+                    "age": "30대",
+                    "gender": "남",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000212/0001.wav",
+                "duration": 2.579,
+                "text": "한번 들어보고 싶은데요"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000212/0002.wav",
+                "duration": 6.443,
+                "text": "아이가 시중문제지로 (2번)/(두 번) 정도는 풀어봤었어요. 지금 고 (1)/(일)이고요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000212/0003.wav",
+                "duration": 5.98,
+                "text": "네, 그러면은 뭘로 시작하는 게 나은 거예요. 뉴런인가요? 아님 시발점인가요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000212/0004.wav",
+                "duration": 5.557,
+                "text": "우선은 어 혹시 이 처음 수강을 하시는 건가요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000212/0005.wav",
+                "duration": 9.539,
+                "text": "제가 좀 안내드리긴 어려울 것 같아요. 그래서 그 기본적으로 다 수준이랑 추천을 좀 받으셔야 될 것 같아요. 수준 파악이랑 그 다음에"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000212/0006.wav",
+                "duration": 2.451,
+                "text": "추천을 좀 받으셔야 될 것 같아요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000212/0007.wav",
+                "duration": 5.651,
+                "text": "o/ 고 (1)/(일) 학생은 저희가 보통 시발점 수학 상 하거든요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000212/0008.wav",
+                "duration": 4.904,
+                "text": "상 하는 이미 그건 안하고 그냥 수 (1)/(원)"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000212/0009.wav",
+                "duration": 3.012,
+                "text": "수 (1)/(원)만 (보려고)/(볼라고) 하는데"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000212/0010.wav",
+                "duration": 3.048,
+                "text": "시발점이 기본개념이고요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000212/0011.wav",
+                "duration": 2.963,
+                "text": "실전개념이 어떤 부분이죠?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000212/0012.wav",
+                "duration": 3.176,
+                "text": "실전개념이 어떤 부분이란 말씀이신가"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000212/0013.wav",
+                "duration": 2.707,
+                "text": "약간 심화된 개념인가요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000212/0014.wav",
+                "duration": 3.219,
+                "text": "아니요. 그거는 인제 더 위에 단계"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000212/0015.wav",
+                "duration": 4.968,
+                "text": "아 그럼 중간정도 단계라고 보면 될까요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000212/0016.wav",
+                "duration": 3.859,
+                "text": "아 뉴러닝 중하 정도예요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000212/0017.wav",
+                "duration": 3.88,
+                "text": "시발점은 그럼 이제 아 예 맨 처음"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000212/0018.wav",
+                "duration": 5.992,
+                "text": "아예 밑이고 맨 처음이고 아 그럼 뉴런 정 뉴런 다음에 그면 개념이 어떤 거예요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000212/0019.wav",
+                "duration": 3.475,
+                "text": "아 수분감에도 개념이 들어가 있나요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000212/0020.wav",
+                "duration": 5.846,
+                "text": "아 혹시 이거 (그러면)/(그면) 상담을 혹시 다 받고 나서 결정을 그니까"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000212/0021.wav",
+                "duration": 5.032,
+                "text": "하셔도 되시고요. 그 어머님 번호 한번 남겨주시면 제가 (13시)/(십 삼 시)부터"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000212/0022.wav",
+                "duration": 5.736,
+                "text": "(20시)/(이십 시)까지 학습상담생님들의 예약진행 중에 (())"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000212/0023.wav",
+                "duration": 3.123,
+                "text": "때문에 오늘 중에 연락을 드릴 거고요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000212/0024.wav",
+                "duration": 3.091,
+                "text": "오늘 중에 주실 거라고요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000212/0025.wav",
+                "duration": 4.669,
+                "text": "수학 강좌 추전이랑 해서 (8시)/(여덟 시) 안쪽으로 드릴테니깐요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000212/0026.wav",
+                "duration": 5.736,
+                "text": "o/ 생명과학이랑 수학 강좌 ((프로에서)) 예약 도와드리도록 하겠습니다."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000212/0027.wav",
+                "duration": 2.974,
+                "text": "네, 네, 감사합니다."
+            }
+        ]
+    }
+}

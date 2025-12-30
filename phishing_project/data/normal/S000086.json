@@ -1,0 +1,104 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "고객1",
+                    "age": "40대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "상담사1",
+                    "age": "20대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000086/0001.wav",
+                "duration": 7.579,
+                "text": "o/ 예 마스크를 쓰고 근무를 하고 있어 가지고요. 어머니 다름이 아니라 이거 담당 부서 확인을 해봤는데요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000086/0002.wav",
+                "duration": 19.752,
+                "text": "o/ 고 (1)/(일) (10000점)/(만 점) 올 패키지 이 패키지 상품 같은 경우에는 한국사 문제풀이가 제외된 지금 개념 학습 (2개)/(두 개) 통합 사회라 한국사 그다음에 통합사회 문제풀이로 구성되어있는 패키지 상품이고 근데 이게 이제 이벤트성 상품이다 보니까. 예 그래서 이 강좌에"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000086/0003.wav",
+                "duration": 9.5,
+                "text": "o/ 한국사 문제 풀이를 (원하) 추가적으로 원하신다면 단과에 있는 한국사 문제 풀이 강좌를 추가적으로 이용을 해주셔야 된다."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000086/0004.wav",
+                "duration": 2.728,
+                "text": "그런데 그거를 찾아보니까."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000086/0005.wav",
+                "duration": 3.613,
+                "text": "대상이 고 (3)/(삼) (N)/(엔) 수생이던데."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000086/0006.wav",
+                "duration": 4.723,
+                "text": "그 한국사 문제 풀이가 정확하게 제목이 뭘까요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000086/0007.wav",
+                "duration": 3.132,
+                "text": "탁월한 한국사 문제풀이요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000086/0008.wav",
+                "duration": 3.219,
+                "text": "o/ 잠시만요. 좀 확인 좀 해볼게요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000086/0009.wav",
+                "duration": 3.279,
+                "text": "(알겠습니) 이거밖에 없는 거죠?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000086/0010.wav",
+                "duration": 4.776,
+                "text": "o/ 네, 네, 어머니 문제 풀이는 이제 따로 구성이 되어있는 게."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000086/0011.wav",
+                "duration": 5.651,
+                "text": "그 학습 상담 요청을 했다면요. 그쪽에서 이제 답변을 그렇게 주신 거여서."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000086/0012.wav",
+                "duration": 8.728,
+                "text": "o/ 월요일 날 이제 그 학습 상담 예약까지는 필요가 없으시다고 해주셔가 주고 네 예약은 안 했어요. 어머님"
+            }
+        ]
+    }
+}

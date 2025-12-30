@@ -1,0 +1,218 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "고객1",
+                    "age": "30대",
+                    "gender": "남",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "상담사1",
+                    "age": "30대",
+                    "gender": "남",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000361/0001.wav",
+                "duration": 6.248,
+                "text": "n/ 아 네. 안녕하세요. 저 음 늦은 나이에 수능 다시 (준비하려고)/(준비할려고) 하는데"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000361/0002.wav",
+                "duration": 3.117,
+                "text": "그 혹시 이과"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000361/0003.wav",
+                "duration": 5.363,
+                "text": "n/ 지금은 통합이라서 그런 게 크게 나눠져 있지는"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000361/0004.wav",
+                "duration": 5.436,
+                "text": "o/ 아 그래요? 저 (()) (10년)/(십 년)만에 다시 하는 거라서"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000361/0005.wav",
+                "duration": 2.362,
+                "text": "o/ 잘 (모르겠거든요)/(몰르겠거든요)."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000361/0006.wav",
+                "duration": 3.142,
+                "text": "o/ 다 통합이 됐어요. 긍까 옛날엔 (())"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000361/0007.wav",
+                "duration": 2.365,
+                "text": "이제 가형 나형이 없어요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000361/0008.wav",
+                "duration": 3.955,
+                "text": "그쵸. 뭐 가형 나형이라 하면 인제 문과 이과 이런 거"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000361/0009.wav",
+                "duration": 4.264,
+                "text": "o/ 잠시만 기다려주세요. 잠시만 기다려주세요. 확인 도와드릴게요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000361/0010.wav",
+                "duration": 4.531,
+                "text": "저희가 이전 같았으면 인제 수강권이 문과 이과 따로 나눠져 있었는데"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000361/0011.wav",
+                "duration": 4.024,
+                "text": "아니 그게 아니라 수능 보는 과목 자체가"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000361/0012.wav",
+                "duration": 6.397,
+                "text": "수능 특강이라는 책이 있는데 예를 들면은 뭐 기하와 벡터 확률과 통계 다 나눠져 있잖아요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000361/0013.wav",
+                "duration": 7.176,
+                "text": "o/ 제 (얼피) 얼핏 듣기로는 뭐 (()) 선택 과목 (()) 식으로 들었는데 그게 아닌 거죠? 다 해야 되는 거죠?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000361/0014.wav",
+                "duration": 5.192,
+                "text": "아 그 수 (1)/(원) 뭐 수 (2)/(투) 뭐 기하 미적분 (()) 확통 뭐 이런 식으로 말씀하시는 거죠?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000361/0015.wav",
+                "duration": 5.128,
+                "text": "그렇고 b/ 어 저희 만약에 의대를 (가려면)/(갈려면)"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000361/0016.wav",
+                "duration": 3.363,
+                "text": "무조건 올 (1등급)/(일 등급) 받아야 되나요? 아니면은 (())"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000361/0017.wav",
+                "duration": 4.28,
+                "text": "약대 (()) 좀 쉬워졌을지 그런 게 좀 궁금한데"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000361/0018.wav",
+                "duration": 4.253,
+                "text": "n/ 그런 부분은 학습상담 예약을 좀 받아보셔야 될 것"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000361/0019.wav",
+                "duration": 5.779,
+                "text": "아 뭐 예를 들면 지금 뭐 의대 생각하고 계신 건지"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000361/0020.wav",
+                "duration": 2.365,
+                "text": "o/ 의대 생각하고 있는데"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000361/0021.wav",
+                "duration": 5.053,
+                "text": "o/ 저 사실 직장인이거든요. 제가 그래서 의대 아님 안 갈 것 같긴 한데 예."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000361/0022.wav",
+                "duration": 3.283,
+                "text": "예. 할 수 있다고 할 수 있어 가지고 왜냐면"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000361/0023.wav",
+                "duration": 5.165,
+                "text": "o/ 그 회사서 원체 워라밸이 좋아서 공부가 가능하거든요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000361/0024.wav",
+                "duration": 10.952,
+                "text": "o/ 네 네 네. 그러면은 의대 (()) 추천 강좌 아 강좌 추천 희망으로 해서 일단 예약을 도와드릴게요. (()) 전화 학습 (상) 상담을"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000361/0025.wav",
+                "duration": 2.509,
+                "text": "o/ 학습 상담이요? 아"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000361/0026.wav",
+                "duration": 2.285,
+                "text": "알겠습니다. 감사합니다."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000361/0027.wav",
+                "duration": 5.539,
+                "text": "네. 그러시면은 그 연락받으실 저희가 순차적으로 연락드릴 건데요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000361/0028.wav",
+                "duration": 4.131,
+                "text": "o/ 아 (1시)/(한 시)부터 (8시)/(여덟 시)까지 연락을 드릴 거예요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000361/0029.wav",
+                "duration": 4.168,
+                "text": "n/ 네. 그래서 혹시 연락받으실 전화 (1번)/(한 번) 남겨주시겠어요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000361/0030.wav",
+                "duration": 3.827,
+                "text": "그 강좌 추천 희망해서 그 의대 진학하시는"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000361/0031.wav",
+                "duration": 3.597,
+                "text": "일단은 연락을 드리도록 할게요. (())"
+            }
+        ]
+    }
+}

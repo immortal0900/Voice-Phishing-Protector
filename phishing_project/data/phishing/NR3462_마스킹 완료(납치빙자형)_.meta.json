@@ -1,0 +1,612 @@
+{
+  "file": "NR3462_마스킹 완료(납치빙자형)_.mp3",
+  "rel_path": "NR3462_마스킹 완료(납치빙자형)_.mp3",
+  "language": "ko",
+  "text": "여보세요? 여보세요? 여보세요? 아줌마 주위에 누구야? 아니 지금 귓거리에요! 여보세요? 그래 바꿔요 빨리! 아줌마 내가 말했지 조용한 곳에서 전화 받으라고 어떡해 여보세요? 여보세요? 아줌마 조용한 곳에서 전화 받아 울거나 그러면 차근코 돈이고 고급도 없다 왜 이렇게 억울해요? 그건 알 필요 없고 나한테 얼마 해줄 수 있어 묻는 말에만 대답해 여보세요? 여보세요? 아줌마 내가 울지 말라 했지 계속 울면 난 전화 끊는다 아니 근데 어딘데요? 어떻게 알아듣는데요? 그건 알 필요 없고 아줌마 나한테 돈 얼마 해줄 수 있나? 묻는 말에만 대답해 얼마 해줄 수 있어? 얼마 해줄 수 있어? 여보세요? 여보세요? 아줌마 똑똑하게 행동해 허튼 수작 부리면 난 전화 끊는다 계속 버텨주라고요! 아줌마 계속 울거야 난 그냥 전화 끊는다 어디에요 거기? 그건 알 필요 없고 나한테 얼마 해줄 수 있냐고 아니 얼마를 해달라는 건데요 지금 내가 원하는 그거가 3000만원이다 뭐라고요? 내가 원하는 그거가 3000만원이라고 아줌마 지금 주위에 사람들 있지? 아니 애 다쳤어? 지금 머리 다쳤다고 아까 그러는 거 같은데 그게 안 다쳤고 그냥 잠깐 꽃피가 났는데 오받더는 거니까 얼마 해줄 수 있냐고 그게 안 다쳤다고 묻는 말에만 대답해 애 때렸어요? 그렇게 안 때렸어 그러니까 아줌마가 생각할 정도로 아니니까 아니 애가 다쳤다는데 그럼 내가 말했지 돈만 안전하게 받으면 애는 해치지 않습니다 그건 약속할게요 알았죠? 잠깐 애 좀 바꿔주면 안 돼요? 아줌마가 나한테 해준 게 뭐가 있는데 계속 바꿔달라고 해 아줌마 내가 말했지 이런 목소리를 들어봐야 될 거 아니에요 주위 사람들 없는 곳에도 전화 받으라고 없다고요 아줌마 나한테 얼마 해줄 수 있어 묻는 말에 먼저 대답해 아줌마 내가 말했지 울지 말라고 이제 뭐 한번 더 울면 난 전화 끊고 애 죽입니다 네? 아줌마 똑똑하게 행동하세요 아줌마가 똑똑하게만 행동하면 애는 다치지 않고 애는 다치지 않고 안전하게 돌려 보내줄 테니까 나한테 얼마 해줄 수 있어요 아니 일단 애 목소리만 들어보면 안 돼 누가 하는 일은 안 할 거 아니에요 아줌마 내가 말했지 앞서 나가지 말고 나한테 얼마 해줄 수 있냐고 아줌마 통자에 돈 얼마 있어 저는 아무것도 없어요 신용카드는 몇 개 써 그럼? 나한테 돈 어떻게 해줄 건데 어떻게 해줄 건데 아줌마가 돈이 없으면 거래가 안 된다는 거잖아 그치 누구세요?",
+  "duration_sec": 233.59275,
+  "segments": [
+    {
+      "index": 0,
+      "start": 0.0,
+      "end": 2.0,
+      "text": "여보세요? 여보세요?",
+      "speaker": "speaker_1",
+      "confidence": -0.36201922595500946
+    },
+    {
+      "index": 1,
+      "start": 2.0,
+      "end": 4.0,
+      "text": "여보세요? 아줌마 주위에 누구야?",
+      "speaker": "speaker_1",
+      "confidence": -0.36201922595500946
+    },
+    {
+      "index": 2,
+      "start": 4.0,
+      "end": 6.0,
+      "text": "아니 지금 귓거리에요! 여보세요?",
+      "speaker": "speaker_1",
+      "confidence": -0.36201922595500946
+    },
+    {
+      "index": 3,
+      "start": 6.0,
+      "end": 8.0,
+      "text": "그래 바꿔요 빨리!",
+      "speaker": "speaker_1",
+      "confidence": -0.36201922595500946
+    },
+    {
+      "index": 4,
+      "start": 8.0,
+      "end": 12.0,
+      "text": "아줌마 내가 말했지 조용한 곳에서 전화 받으라고",
+      "speaker": "speaker_1",
+      "confidence": -0.36201922595500946
+    },
+    {
+      "index": 5,
+      "start": 12.0,
+      "end": 14.0,
+      "text": "어떡해",
+      "speaker": "speaker_1",
+      "confidence": -0.36201922595500946
+    },
+    {
+      "index": 6,
+      "start": 14.0,
+      "end": 16.0,
+      "text": "여보세요?",
+      "speaker": "speaker_1",
+      "confidence": -0.36201922595500946
+    },
+    {
+      "index": 7,
+      "start": 16.0,
+      "end": 18.0,
+      "text": "여보세요?",
+      "speaker": "speaker_1",
+      "confidence": -0.36201922595500946
+    },
+    {
+      "index": 8,
+      "start": 18.0,
+      "end": 20.0,
+      "text": "아줌마 조용한 곳에서 전화 받아",
+      "speaker": "speaker_1",
+      "confidence": -0.36201922595500946
+    },
+    {
+      "index": 9,
+      "start": 20.0,
+      "end": 22.0,
+      "text": "울거나 그러면 차근코 돈이고 고급도 없다",
+      "speaker": "speaker_1",
+      "confidence": -0.36201922595500946
+    },
+    {
+      "index": 10,
+      "start": 22.0,
+      "end": 24.0,
+      "text": "왜 이렇게 억울해요?",
+      "speaker": "speaker_1",
+      "confidence": -0.36201922595500946
+    },
+    {
+      "index": 11,
+      "start": 24.0,
+      "end": 28.0,
+      "text": "그건 알 필요 없고 나한테 얼마 해줄 수 있어",
+      "speaker": "speaker_1",
+      "confidence": -0.36201922595500946
+    },
+    {
+      "index": 12,
+      "start": 28.0,
+      "end": 32.0,
+      "text": "묻는 말에만 대답해",
+      "speaker": "speaker_1",
+      "confidence": -0.16413984617384353
+    },
+    {
+      "index": 13,
+      "start": 32.0,
+      "end": 34.0,
+      "text": "여보세요?",
+      "speaker": "speaker_1",
+      "confidence": -0.16413984617384353
+    },
+    {
+      "index": 14,
+      "start": 34.0,
+      "end": 36.0,
+      "text": "여보세요?",
+      "speaker": "speaker_1",
+      "confidence": -0.16413984617384353
+    },
+    {
+      "index": 15,
+      "start": 36.0,
+      "end": 38.0,
+      "text": "아줌마 내가 울지 말라 했지",
+      "speaker": "speaker_1",
+      "confidence": -0.16413984617384353
+    },
+    {
+      "index": 16,
+      "start": 38.0,
+      "end": 42.0,
+      "text": "계속 울면 난 전화 끊는다",
+      "speaker": "speaker_1",
+      "confidence": -0.16413984617384353
+    },
+    {
+      "index": 17,
+      "start": 42.0,
+      "end": 46.0,
+      "text": "아니 근데 어딘데요? 어떻게 알아듣는데요?",
+      "speaker": "speaker_1",
+      "confidence": -0.16413984617384353
+    },
+    {
+      "index": 18,
+      "start": 46.0,
+      "end": 50.0,
+      "text": "그건 알 필요 없고 아줌마 나한테 돈 얼마 해줄 수 있나?",
+      "speaker": "speaker_1",
+      "confidence": -0.16413984617384353
+    },
+    {
+      "index": 19,
+      "start": 50.0,
+      "end": 54.0,
+      "text": "묻는 말에만 대답해",
+      "speaker": "speaker_1",
+      "confidence": -0.16413984617384353
+    },
+    {
+      "index": 20,
+      "start": 54.0,
+      "end": 56.0,
+      "text": "얼마 해줄 수 있어?",
+      "speaker": "speaker_1",
+      "confidence": -0.16413984617384353
+    },
+    {
+      "index": 21,
+      "start": 56.0,
+      "end": 58.0,
+      "text": "얼마 해줄 수 있어?",
+      "speaker": "speaker_1",
+      "confidence": -0.1748991893424142
+    },
+    {
+      "index": 22,
+      "start": 58.0,
+      "end": 60.0,
+      "text": "여보세요?",
+      "speaker": "speaker_1",
+      "confidence": -0.1748991893424142
+    },
+    {
+      "index": 23,
+      "start": 60.0,
+      "end": 62.0,
+      "text": "여보세요?",
+      "speaker": "speaker_1",
+      "confidence": -0.1748991893424142
+    },
+    {
+      "index": 24,
+      "start": 62.0,
+      "end": 66.0,
+      "text": "아줌마 똑똑하게 행동해 허튼 수작 부리면 난 전화 끊는다",
+      "speaker": "speaker_1",
+      "confidence": -0.1748991893424142
+    },
+    {
+      "index": 25,
+      "start": 66.0,
+      "end": 70.0,
+      "text": "계속 버텨주라고요!",
+      "speaker": "speaker_1",
+      "confidence": -0.1748991893424142
+    },
+    {
+      "index": 26,
+      "start": 70.0,
+      "end": 72.0,
+      "text": "아줌마 계속 울거야",
+      "speaker": "speaker_1",
+      "confidence": -0.1748991893424142
+    },
+    {
+      "index": 27,
+      "start": 72.0,
+      "end": 74.0,
+      "text": "난 그냥 전화 끊는다",
+      "speaker": "speaker_1",
+      "confidence": -0.1748991893424142
+    },
+    {
+      "index": 28,
+      "start": 74.0,
+      "end": 76.0,
+      "text": "어디에요 거기?",
+      "speaker": "speaker_1",
+      "confidence": -0.1748991893424142
+    },
+    {
+      "index": 29,
+      "start": 76.0,
+      "end": 80.0,
+      "text": "그건 알 필요 없고 나한테 얼마 해줄 수 있냐고",
+      "speaker": "speaker_1",
+      "confidence": -0.1748991893424142
+    },
+    {
+      "index": 30,
+      "start": 80.0,
+      "end": 82.0,
+      "text": "아니 얼마를 해달라는 건데요 지금",
+      "speaker": "speaker_1",
+      "confidence": -0.1748991893424142
+    },
+    {
+      "index": 31,
+      "start": 82.0,
+      "end": 84.0,
+      "text": "내가 원하는 그거가 3000만원이다",
+      "speaker": "speaker_1",
+      "confidence": -0.1748991893424142
+    },
+    {
+      "index": 32,
+      "start": 84.0,
+      "end": 85.0,
+      "text": "뭐라고요?",
+      "speaker": "speaker_1",
+      "confidence": -0.1748991893424142
+    },
+    {
+      "index": 33,
+      "start": 85.0,
+      "end": 89.0,
+      "text": "내가 원하는 그거가 3000만원이라고",
+      "speaker": "speaker_1",
+      "confidence": -0.19882812884946663
+    },
+    {
+      "index": 34,
+      "start": 89.0,
+      "end": 91.0,
+      "text": "아줌마",
+      "speaker": "speaker_1",
+      "confidence": -0.19882812884946663
+    },
+    {
+      "index": 35,
+      "start": 91.0,
+      "end": 93.0,
+      "text": "지금 주위에 사람들 있지?",
+      "speaker": "speaker_1",
+      "confidence": -0.19882812884946663
+    },
+    {
+      "index": 36,
+      "start": 93.0,
+      "end": 95.0,
+      "text": "아니 애 다쳤어? 지금 머리 다쳤다고 아까 그러는 거 같은데",
+      "speaker": "speaker_1",
+      "confidence": -0.19882812884946663
+    },
+    {
+      "index": 37,
+      "start": 95.0,
+      "end": 101.0,
+      "text": "그게 안 다쳤고 그냥 잠깐 꽃피가 났는데 오받더는 거니까",
+      "speaker": "speaker_1",
+      "confidence": -0.19882812884946663
+    },
+    {
+      "index": 38,
+      "start": 101.0,
+      "end": 105.0,
+      "text": "얼마 해줄 수 있냐고 그게 안 다쳤다고",
+      "speaker": "speaker_1",
+      "confidence": -0.19882812884946663
+    },
+    {
+      "index": 39,
+      "start": 105.0,
+      "end": 107.0,
+      "text": "묻는 말에만 대답해",
+      "speaker": "speaker_1",
+      "confidence": -0.19882812884946663
+    },
+    {
+      "index": 40,
+      "start": 107.0,
+      "end": 109.0,
+      "text": "애 때렸어요?",
+      "speaker": "speaker_1",
+      "confidence": -0.19882812884946663
+    },
+    {
+      "index": 41,
+      "start": 109.0,
+      "end": 111.0,
+      "text": "그렇게 안 때렸어",
+      "speaker": "speaker_1",
+      "confidence": -0.19882812884946663
+    },
+    {
+      "index": 42,
+      "start": 111.0,
+      "end": 113.0,
+      "text": "그러니까 아줌마가 생각할 정도로 아니니까",
+      "speaker": "speaker_1",
+      "confidence": -0.19882812884946663
+    },
+    {
+      "index": 43,
+      "start": 113.0,
+      "end": 115.0,
+      "text": "아니 애가 다쳤다는데 그럼",
+      "speaker": "speaker_1",
+      "confidence": -0.11573561735912762
+    },
+    {
+      "index": 44,
+      "start": 115.0,
+      "end": 119.0,
+      "text": "내가 말했지 돈만 안전하게 받으면 애는 해치지 않습니다",
+      "speaker": "speaker_1",
+      "confidence": -0.11573561735912762
+    },
+    {
+      "index": 45,
+      "start": 119.0,
+      "end": 121.0,
+      "text": "그건 약속할게요",
+      "speaker": "speaker_1",
+      "confidence": -0.11573561735912762
+    },
+    {
+      "index": 46,
+      "start": 123.0,
+      "end": 125.0,
+      "text": "알았죠?",
+      "speaker": "speaker_1",
+      "confidence": -0.11573561735912762
+    },
+    {
+      "index": 47,
+      "start": 125.0,
+      "end": 127.0,
+      "text": "잠깐 애 좀 바꿔주면 안 돼요?",
+      "speaker": "speaker_1",
+      "confidence": -0.11573561735912762
+    },
+    {
+      "index": 48,
+      "start": 127.0,
+      "end": 131.0,
+      "text": "아줌마가 나한테 해준 게 뭐가 있는데 계속 바꿔달라고 해",
+      "speaker": "speaker_1",
+      "confidence": -0.11573561735912762
+    },
+    {
+      "index": 49,
+      "start": 133.0,
+      "end": 135.0,
+      "text": "아줌마 내가 말했지",
+      "speaker": "speaker_1",
+      "confidence": -0.11573561735912762
+    },
+    {
+      "index": 50,
+      "start": 135.0,
+      "end": 139.0,
+      "text": "이런 목소리를 들어봐야 될 거 아니에요",
+      "speaker": "speaker_1",
+      "confidence": -0.11573561735912762
+    },
+    {
+      "index": 51,
+      "start": 139.0,
+      "end": 141.0,
+      "text": "주위 사람들 없는 곳에도 전화 받으라고",
+      "speaker": "speaker_1",
+      "confidence": -0.11573561735912762
+    },
+    {
+      "index": 52,
+      "start": 141.0,
+      "end": 143.0,
+      "text": "없다고요",
+      "speaker": "speaker_1",
+      "confidence": -0.1199448531603112
+    },
+    {
+      "index": 53,
+      "start": 143.0,
+      "end": 145.0,
+      "text": "아줌마",
+      "speaker": "speaker_1",
+      "confidence": -0.1199448531603112
+    },
+    {
+      "index": 54,
+      "start": 145.0,
+      "end": 147.0,
+      "text": "나한테 얼마 해줄 수 있어",
+      "speaker": "speaker_1",
+      "confidence": -0.1199448531603112
+    },
+    {
+      "index": 55,
+      "start": 147.0,
+      "end": 149.0,
+      "text": "묻는 말에 먼저 대답해",
+      "speaker": "speaker_1",
+      "confidence": -0.1199448531603112
+    },
+    {
+      "index": 56,
+      "start": 153.0,
+      "end": 155.0,
+      "text": "아줌마 내가 말했지 울지 말라고",
+      "speaker": "speaker_1",
+      "confidence": -0.1199448531603112
+    },
+    {
+      "index": 57,
+      "start": 157.0,
+      "end": 161.0,
+      "text": "이제 뭐 한번 더 울면 난 전화 끊고 애 죽입니다",
+      "speaker": "speaker_1",
+      "confidence": -0.1199448531603112
+    },
+    {
+      "index": 58,
+      "start": 161.0,
+      "end": 163.0,
+      "text": "네?",
+      "speaker": "speaker_1",
+      "confidence": -0.1199448531603112
+    },
+    {
+      "index": 59,
+      "start": 165.0,
+      "end": 167.0,
+      "text": "아줌마 똑똑하게 행동하세요",
+      "speaker": "speaker_1",
+      "confidence": -0.1199448531603112
+    },
+    {
+      "index": 60,
+      "start": 167.0,
+      "end": 169.0,
+      "text": "아줌마가 똑똑하게만 행동하면 애는 다치지 않고",
+      "speaker": "speaker_1",
+      "confidence": -0.1199448531603112
+    },
+    {
+      "index": 61,
+      "start": 169.0,
+      "end": 173.0,
+      "text": "애는 다치지 않고 안전하게 돌려 보내줄 테니까",
+      "speaker": "speaker_1",
+      "confidence": -0.18561920965159381
+    },
+    {
+      "index": 62,
+      "start": 175.0,
+      "end": 177.0,
+      "text": "나한테 얼마 해줄 수 있어요",
+      "speaker": "speaker_1",
+      "confidence": -0.18561920965159381
+    },
+    {
+      "index": 63,
+      "start": 179.0,
+      "end": 181.0,
+      "text": "아니 일단 애 목소리만 들어보면 안 돼",
+      "speaker": "speaker_1",
+      "confidence": -0.18561920965159381
+    },
+    {
+      "index": 64,
+      "start": 181.0,
+      "end": 183.0,
+      "text": "누가 하는 일은 안 할 거 아니에요",
+      "speaker": "speaker_1",
+      "confidence": -0.18561920965159381
+    },
+    {
+      "index": 65,
+      "start": 183.0,
+      "end": 185.0,
+      "text": "아줌마 내가 말했지 앞서 나가지 말고",
+      "speaker": "speaker_1",
+      "confidence": -0.18561920965159381
+    },
+    {
+      "index": 66,
+      "start": 185.0,
+      "end": 187.0,
+      "text": "나한테 얼마 해줄 수 있냐고",
+      "speaker": "speaker_1",
+      "confidence": -0.18561920965159381
+    },
+    {
+      "index": 67,
+      "start": 191.0,
+      "end": 193.0,
+      "text": "아줌마 통자에 돈 얼마 있어",
+      "speaker": "speaker_1",
+      "confidence": -0.18561920965159381
+    },
+    {
+      "index": 68,
+      "start": 193.0,
+      "end": 195.0,
+      "text": "저는 아무것도 없어요",
+      "speaker": "speaker_1",
+      "confidence": -0.18561920965159381
+    },
+    {
+      "index": 69,
+      "start": 195.0,
+      "end": 197.0,
+      "text": "신용카드는 몇 개 써 그럼?",
+      "speaker": "speaker_1",
+      "confidence": -0.18561920965159381
+    },
+    {
+      "index": 70,
+      "start": 197.0,
+      "end": 199.0,
+      "text": "나한테 돈 어떻게 해줄 건데",
+      "speaker": "speaker_1",
+      "confidence": -0.17317708333333334
+    },
+    {
+      "index": 71,
+      "start": 203.0,
+      "end": 205.0,
+      "text": "어떻게 해줄 건데",
+      "speaker": "speaker_1",
+      "confidence": -0.17317708333333334
+    },
+    {
+      "index": 72,
+      "start": 209.0,
+      "end": 211.0,
+      "text": "아줌마가 돈이 없으면",
+      "speaker": "speaker_1",
+      "confidence": -0.17317708333333334
+    },
+    {
+      "index": 73,
+      "start": 213.0,
+      "end": 215.0,
+      "text": "거래가 안 된다는 거잖아 그치",
+      "speaker": "speaker_1",
+      "confidence": -0.17317708333333334
+    },
+    {
+      "index": 74,
+      "start": 227.0,
+      "end": 229.0,
+      "text": "누구세요?",
+      "speaker": "speaker_1",
+      "confidence": -0.09554036582509677
+    }
+  ],
+  "engine": "faster-whisper-medium-float16-cuda",
+  "processed_at": 1758154964.0754797,
+  "error": null
+}

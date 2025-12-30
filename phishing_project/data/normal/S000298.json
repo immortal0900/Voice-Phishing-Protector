@@ -1,0 +1,62 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "상담사1",
+                    "age": "20대",
+                    "gender": "남",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "고객1",
+                    "age": "40대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000298/0001.wav",
+                "duration": 4.019,
+                "text": "o/ 아 그냥 개인이 듣고 싶은 강좌 골라가지고 듣는 건가요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000298/0002.wav",
+                "duration": 4.221,
+                "text": "아 그 탭도 따로 별도로 나오는 건 없죠?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000298/0003.wav",
+                "duration": 6.621,
+                "text": "o/ 네 그냥 일반 컴퓨터나 노트북 그 다음에 뭐 태블릿 피씨나 핸드폰으로 수강 가능하세요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000298/0004.wav",
+                "duration": 2.344,
+                "text": "네 알겠습니다."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000298/0005.wav",
+                "duration": 2.029,
+                "text": "네 감사합니다."
+            }
+        ]
+    }
+}

@@ -1,0 +1,620 @@
+{
+  "file": "NR6310_마스킹 완료_방금까지 외근나갔다고 했는데 퇴사했다고 말 바꿈_.mp3",
+  "rel_path": "NR6310_마스킹 완료_방금까지 외근나갔다고 했는데 퇴사했다고 말 바꿈_.mp3",
+  "language": "ko",
+  "text": "네 감사합니다 우리 최지혜 대리 있나요? 아 최지혜 대리요? 네 아 연결이요? 최지혜 잠시 외근 나가셨는데 어떤거 때문에 그러세요? 아니 사기 신고 당해서요 사기를 당했다고요? 네 무슨 사기요? 보이스피싱이 사기 당했다고 해서 지금 경찰 신고 그거 하고 왔거든요 경찰에 신고를 했다고요? 무슨 사기 당하셨어요? 대포통장으로 이용됐다고 하던데요 어떻게 하라고 그렇게 되셨어요? 최지혜 대리가 알겠죠 그거는 최지혜 대리 없으신데 여기에? 오늘 날짜로 퇴사하셨어요 오늘 날짜로 퇴사하셨다고요? 네 오늘 날짜로 나가셨어요 그만두셨어요 일을요 어떤거 때문에 그러세요? 아 그분이 어제 대출을 그거 사준다고 하면서 통장거래 유도했거든요 통장거래요? 그 통장 줬어요? 아니 통장 주진 않았는데 한도가 안나오니까 그 한도가 나오려면 거래를 사야된다고 하더라구요 네네네 그래서 그 거래 좀 받으려고 그 사람이 입금을 하면 그거를 출금을 해서 고객님 출금하셨어요? 네 출금을 해서 수건팀한테 전해주라고 하더라구요 아 인출팀한테요? 그래서 돈 건네줬어요? 얼마를 총? 총 얼마인지는 잘 생각이 안나구요 근데 아까 외금 나가셨다고 하셨잖아요 아 근데 외금 나가셨다고 그만두셨는데 일단 외금 나가셨다고 말씀을 드리는게 맞다고 생각이 들어서 말씀을 드린거거든요 경찰서에서 뭘 하세요? 경찰서에서 우선 지급정지 시켜놨거든요 고객님도 청와를 받으신대죠 저는 그거 뭐냐 아직 그거 안나왔고 우선은 이제 기다려보자고 저도 어떻게 보면 피해자니까 아 근데 피해자라고 하더라도 고객님이 돈을 뺏어둔거잖아요 그쵸? 제가요? 저희 경찰이랑 얘기해보니까 좀 기다리라고 하더라구요 고객님도 이거 인출책으로 아마 경찰서 가셔서 아마 벌금은 모르겠지만 징역할 수도 있어요 우선은 기다려보라고 하더라구요 친구 들어왔어요 일단은? 네 친구 들어와서 제가 일하다가 간거거든요 경찰서랑 아 그러셨어요? 근데 이거 전화를 끊었는데 왜 전화를 안받으셨어요? 계속 끊기던데 전화 안끊었는데요? 아침에 전화가 나서 연결해준다고 해놓고 계속 연결 안되던데요 아 그러세요? 채재대리가 연락도 안되고 지금 퇴사하셨거든요 연락이 안되진다고요?",
+  "duration_sec": 159.0335,
+  "segments": [
+    {
+      "index": 0,
+      "start": 0.0,
+      "end": 2.0,
+      "text": "네 감사합니다",
+      "speaker": "speaker_1",
+      "confidence": -0.20141266643592756
+    },
+    {
+      "index": 1,
+      "start": 2.0,
+      "end": 4.0,
+      "text": "우리 최지혜 대리 있나요?",
+      "speaker": "speaker_1",
+      "confidence": -0.20141266643592756
+    },
+    {
+      "index": 2,
+      "start": 4.0,
+      "end": 6.0,
+      "text": "아 최지혜 대리요?",
+      "speaker": "speaker_1",
+      "confidence": -0.20141266643592756
+    },
+    {
+      "index": 3,
+      "start": 6.0,
+      "end": 8.0,
+      "text": "네",
+      "speaker": "speaker_1",
+      "confidence": -0.20141266643592756
+    },
+    {
+      "index": 4,
+      "start": 8.0,
+      "end": 10.0,
+      "text": "아 연결이요?",
+      "speaker": "speaker_1",
+      "confidence": -0.20141266643592756
+    },
+    {
+      "index": 5,
+      "start": 10.0,
+      "end": 12.0,
+      "text": "최지혜 잠시 외근 나가셨는데 어떤거 때문에 그러세요?",
+      "speaker": "speaker_1",
+      "confidence": -0.20141266643592756
+    },
+    {
+      "index": 6,
+      "start": 12.0,
+      "end": 14.0,
+      "text": "아니 사기 신고 당해서요",
+      "speaker": "speaker_1",
+      "confidence": -0.20141266643592756
+    },
+    {
+      "index": 7,
+      "start": 14.0,
+      "end": 16.0,
+      "text": "사기를 당했다고요?",
+      "speaker": "speaker_1",
+      "confidence": -0.20141266643592756
+    },
+    {
+      "index": 8,
+      "start": 16.0,
+      "end": 18.0,
+      "text": "네",
+      "speaker": "speaker_1",
+      "confidence": -0.20141266643592756
+    },
+    {
+      "index": 9,
+      "start": 18.0,
+      "end": 20.0,
+      "text": "무슨 사기요?",
+      "speaker": "speaker_1",
+      "confidence": -0.20141266643592756
+    },
+    {
+      "index": 10,
+      "start": 20.0,
+      "end": 22.0,
+      "text": "보이스피싱이 사기 당했다고 해서 지금 경찰 신고 그거 하고 왔거든요",
+      "speaker": "speaker_1",
+      "confidence": -0.20141266643592756
+    },
+    {
+      "index": 11,
+      "start": 22.0,
+      "end": 24.0,
+      "text": "경찰에 신고를 했다고요?",
+      "speaker": "speaker_1",
+      "confidence": -0.20141266643592756
+    },
+    {
+      "index": 12,
+      "start": 24.0,
+      "end": 26.0,
+      "text": "무슨 사기 당하셨어요?",
+      "speaker": "speaker_1",
+      "confidence": -0.20141266643592756
+    },
+    {
+      "index": 13,
+      "start": 26.0,
+      "end": 28.0,
+      "text": "대포통장으로 이용됐다고 하던데요",
+      "speaker": "speaker_1",
+      "confidence": -0.20141266643592756
+    },
+    {
+      "index": 14,
+      "start": 28.0,
+      "end": 30.0,
+      "text": "어떻게 하라고 그렇게 되셨어요?",
+      "speaker": "speaker_1",
+      "confidence": -0.12558740825581372
+    },
+    {
+      "index": 15,
+      "start": 32.0,
+      "end": 34.0,
+      "text": "최지혜 대리가 알겠죠 그거는",
+      "speaker": "speaker_1",
+      "confidence": -0.12558740825581372
+    },
+    {
+      "index": 16,
+      "start": 34.0,
+      "end": 36.0,
+      "text": "최지혜 대리 없으신데 여기에?",
+      "speaker": "speaker_1",
+      "confidence": -0.12558740825581372
+    },
+    {
+      "index": 17,
+      "start": 36.0,
+      "end": 38.0,
+      "text": "오늘 날짜로 퇴사하셨어요",
+      "speaker": "speaker_1",
+      "confidence": -0.12558740825581372
+    },
+    {
+      "index": 18,
+      "start": 40.0,
+      "end": 42.0,
+      "text": "오늘 날짜로 퇴사하셨다고요?",
+      "speaker": "speaker_1",
+      "confidence": -0.12558740825581372
+    },
+    {
+      "index": 19,
+      "start": 42.0,
+      "end": 44.0,
+      "text": "네 오늘 날짜로 나가셨어요",
+      "speaker": "speaker_1",
+      "confidence": -0.12558740825581372
+    },
+    {
+      "index": 20,
+      "start": 44.0,
+      "end": 46.0,
+      "text": "그만두셨어요 일을요",
+      "speaker": "speaker_1",
+      "confidence": -0.12558740825581372
+    },
+    {
+      "index": 21,
+      "start": 46.0,
+      "end": 48.0,
+      "text": "어떤거 때문에 그러세요?",
+      "speaker": "speaker_1",
+      "confidence": -0.12558740825581372
+    },
+    {
+      "index": 22,
+      "start": 48.0,
+      "end": 50.0,
+      "text": "아 그분이 어제",
+      "speaker": "speaker_1",
+      "confidence": -0.12558740825581372
+    },
+    {
+      "index": 23,
+      "start": 50.0,
+      "end": 52.0,
+      "text": "대출을 그거 사준다고 하면서",
+      "speaker": "speaker_1",
+      "confidence": -0.12558740825581372
+    },
+    {
+      "index": 24,
+      "start": 52.0,
+      "end": 54.0,
+      "text": "통장거래 유도했거든요",
+      "speaker": "speaker_1",
+      "confidence": -0.12558740825581372
+    },
+    {
+      "index": 25,
+      "start": 54.0,
+      "end": 56.0,
+      "text": "통장거래요? 그 통장 줬어요?",
+      "speaker": "speaker_1",
+      "confidence": -0.12558740825581372
+    },
+    {
+      "index": 26,
+      "start": 56.0,
+      "end": 58.0,
+      "text": "아니 통장 주진 않았는데",
+      "speaker": "speaker_1",
+      "confidence": -0.1808774885752343
+    },
+    {
+      "index": 27,
+      "start": 58.0,
+      "end": 60.0,
+      "text": "한도가 안나오니까 그 한도가 나오려면",
+      "speaker": "speaker_1",
+      "confidence": -0.1808774885752343
+    },
+    {
+      "index": 28,
+      "start": 60.0,
+      "end": 62.0,
+      "text": "거래를 사야된다고 하더라구요",
+      "speaker": "speaker_1",
+      "confidence": -0.1808774885752343
+    },
+    {
+      "index": 29,
+      "start": 62.0,
+      "end": 64.0,
+      "text": "네네네",
+      "speaker": "speaker_1",
+      "confidence": -0.1808774885752343
+    },
+    {
+      "index": 30,
+      "start": 64.0,
+      "end": 66.0,
+      "text": "그래서 그 거래 좀 받으려고 그 사람이 입금을 하면",
+      "speaker": "speaker_1",
+      "confidence": -0.1808774885752343
+    },
+    {
+      "index": 31,
+      "start": 66.0,
+      "end": 68.0,
+      "text": "그거를 출금을 해서",
+      "speaker": "speaker_1",
+      "confidence": -0.1808774885752343
+    },
+    {
+      "index": 32,
+      "start": 68.0,
+      "end": 70.0,
+      "text": "고객님 출금하셨어요?",
+      "speaker": "speaker_1",
+      "confidence": -0.1808774885752343
+    },
+    {
+      "index": 33,
+      "start": 70.0,
+      "end": 72.0,
+      "text": "네 출금을 해서",
+      "speaker": "speaker_1",
+      "confidence": -0.1808774885752343
+    },
+    {
+      "index": 34,
+      "start": 72.0,
+      "end": 74.0,
+      "text": "수건팀한테 전해주라고 하더라구요",
+      "speaker": "speaker_1",
+      "confidence": -0.1808774885752343
+    },
+    {
+      "index": 35,
+      "start": 74.0,
+      "end": 76.0,
+      "text": "아 인출팀한테요?",
+      "speaker": "speaker_1",
+      "confidence": -0.1808774885752343
+    },
+    {
+      "index": 36,
+      "start": 76.0,
+      "end": 78.0,
+      "text": "그래서 돈 건네줬어요?",
+      "speaker": "speaker_1",
+      "confidence": -0.1808774885752343
+    },
+    {
+      "index": 37,
+      "start": 78.0,
+      "end": 80.0,
+      "text": "얼마를 총?",
+      "speaker": "speaker_1",
+      "confidence": -0.1808774885752343
+    },
+    {
+      "index": 38,
+      "start": 80.0,
+      "end": 82.0,
+      "text": "총 얼마인지는 잘 생각이 안나구요",
+      "speaker": "speaker_1",
+      "confidence": -0.1808774885752343
+    },
+    {
+      "index": 39,
+      "start": 82.0,
+      "end": 84.0,
+      "text": "근데 아까 외금 나가셨다고 하셨잖아요",
+      "speaker": "speaker_1",
+      "confidence": -0.1808774885752343
+    },
+    {
+      "index": 40,
+      "start": 84.0,
+      "end": 86.0,
+      "text": "아 근데 외금 나가셨다고",
+      "speaker": "speaker_1",
+      "confidence": -0.17167338094403667
+    },
+    {
+      "index": 41,
+      "start": 86.0,
+      "end": 88.0,
+      "text": "그만두셨는데 일단 외금 나가셨다고",
+      "speaker": "speaker_1",
+      "confidence": -0.17167338094403667
+    },
+    {
+      "index": 42,
+      "start": 88.0,
+      "end": 90.0,
+      "text": "말씀을 드리는게 맞다고",
+      "speaker": "speaker_1",
+      "confidence": -0.17167338094403667
+    },
+    {
+      "index": 43,
+      "start": 90.0,
+      "end": 92.0,
+      "text": "생각이 들어서 말씀을 드린거거든요",
+      "speaker": "speaker_1",
+      "confidence": -0.17167338094403667
+    },
+    {
+      "index": 44,
+      "start": 92.0,
+      "end": 94.0,
+      "text": "경찰서에서 뭘 하세요?",
+      "speaker": "speaker_1",
+      "confidence": -0.17167338094403667
+    },
+    {
+      "index": 45,
+      "start": 94.0,
+      "end": 96.0,
+      "text": "경찰서에서 우선 지급정지 시켜놨거든요",
+      "speaker": "speaker_1",
+      "confidence": -0.17167338094403667
+    },
+    {
+      "index": 46,
+      "start": 96.0,
+      "end": 98.0,
+      "text": "고객님도 청와를 받으신대죠",
+      "speaker": "speaker_1",
+      "confidence": -0.17167338094403667
+    },
+    {
+      "index": 47,
+      "start": 98.0,
+      "end": 100.0,
+      "text": "저는 그거 뭐냐",
+      "speaker": "speaker_1",
+      "confidence": -0.17167338094403667
+    },
+    {
+      "index": 48,
+      "start": 100.0,
+      "end": 102.0,
+      "text": "아직 그거 안나왔고",
+      "speaker": "speaker_1",
+      "confidence": -0.17167338094403667
+    },
+    {
+      "index": 49,
+      "start": 102.0,
+      "end": 104.0,
+      "text": "우선은 이제 기다려보자고",
+      "speaker": "speaker_1",
+      "confidence": -0.17167338094403667
+    },
+    {
+      "index": 50,
+      "start": 104.0,
+      "end": 106.0,
+      "text": "저도 어떻게 보면 피해자니까",
+      "speaker": "speaker_1",
+      "confidence": -0.17167338094403667
+    },
+    {
+      "index": 51,
+      "start": 106.0,
+      "end": 108.0,
+      "text": "아 근데 피해자라고 하더라도 고객님이 돈을",
+      "speaker": "speaker_1",
+      "confidence": -0.17167338094403667
+    },
+    {
+      "index": 52,
+      "start": 108.0,
+      "end": 110.0,
+      "text": "뺏어둔거잖아요 그쵸?",
+      "speaker": "speaker_1",
+      "confidence": -0.17167338094403667
+    },
+    {
+      "index": 53,
+      "start": 110.0,
+      "end": 112.0,
+      "text": "제가요?",
+      "speaker": "speaker_1",
+      "confidence": -0.17167338094403667
+    },
+    {
+      "index": 54,
+      "start": 112.0,
+      "end": 114.0,
+      "text": "저희 경찰이랑 얘기해보니까",
+      "speaker": "speaker_1",
+      "confidence": -0.21730769242231662
+    },
+    {
+      "index": 55,
+      "start": 114.0,
+      "end": 116.0,
+      "text": "좀 기다리라고 하더라구요",
+      "speaker": "speaker_1",
+      "confidence": -0.21730769242231662
+    },
+    {
+      "index": 56,
+      "start": 116.0,
+      "end": 118.0,
+      "text": "고객님도 이거 인출책으로 아마",
+      "speaker": "speaker_1",
+      "confidence": -0.21730769242231662
+    },
+    {
+      "index": 57,
+      "start": 118.0,
+      "end": 120.0,
+      "text": "경찰서 가셔서 아마",
+      "speaker": "speaker_1",
+      "confidence": -0.21730769242231662
+    },
+    {
+      "index": 58,
+      "start": 120.0,
+      "end": 122.0,
+      "text": "벌금은 모르겠지만",
+      "speaker": "speaker_1",
+      "confidence": -0.21730769242231662
+    },
+    {
+      "index": 59,
+      "start": 122.0,
+      "end": 124.0,
+      "text": "징역할 수도 있어요",
+      "speaker": "speaker_1",
+      "confidence": -0.21730769242231662
+    },
+    {
+      "index": 60,
+      "start": 124.0,
+      "end": 126.0,
+      "text": "우선은 기다려보라고 하더라구요",
+      "speaker": "speaker_1",
+      "confidence": -0.21730769242231662
+    },
+    {
+      "index": 61,
+      "start": 126.0,
+      "end": 128.0,
+      "text": "친구 들어왔어요 일단은?",
+      "speaker": "speaker_1",
+      "confidence": -0.21730769242231662
+    },
+    {
+      "index": 62,
+      "start": 128.0,
+      "end": 130.0,
+      "text": "네 친구 들어와서",
+      "speaker": "speaker_1",
+      "confidence": -0.21730769242231662
+    },
+    {
+      "index": 63,
+      "start": 130.0,
+      "end": 132.0,
+      "text": "제가 일하다가 간거거든요 경찰서랑",
+      "speaker": "speaker_1",
+      "confidence": -0.21730769242231662
+    },
+    {
+      "index": 64,
+      "start": 132.0,
+      "end": 134.0,
+      "text": "아 그러셨어요?",
+      "speaker": "speaker_1",
+      "confidence": -0.21730769242231662
+    },
+    {
+      "index": 65,
+      "start": 134.0,
+      "end": 136.0,
+      "text": "근데 이거 전화를 끊었는데",
+      "speaker": "speaker_1",
+      "confidence": -0.21730769242231662
+    },
+    {
+      "index": 66,
+      "start": 136.0,
+      "end": 138.0,
+      "text": "왜 전화를 안받으셨어요?",
+      "speaker": "speaker_1",
+      "confidence": -0.21730769242231662
+    },
+    {
+      "index": 67,
+      "start": 138.0,
+      "end": 140.0,
+      "text": "계속 끊기던데",
+      "speaker": "speaker_1",
+      "confidence": -0.21730769242231662
+    },
+    {
+      "index": 68,
+      "start": 140.0,
+      "end": 142.0,
+      "text": "전화 안끊었는데요?",
+      "speaker": "speaker_1",
+      "confidence": -0.20195312798023224
+    },
+    {
+      "index": 69,
+      "start": 142.0,
+      "end": 144.0,
+      "text": "아침에 전화가 나서",
+      "speaker": "speaker_1",
+      "confidence": -0.20195312798023224
+    },
+    {
+      "index": 70,
+      "start": 144.0,
+      "end": 146.0,
+      "text": "연결해준다고 해놓고",
+      "speaker": "speaker_1",
+      "confidence": -0.20195312798023224
+    },
+    {
+      "index": 71,
+      "start": 146.0,
+      "end": 148.0,
+      "text": "계속 연결 안되던데요",
+      "speaker": "speaker_1",
+      "confidence": -0.20195312798023224
+    },
+    {
+      "index": 72,
+      "start": 148.0,
+      "end": 150.0,
+      "text": "아 그러세요?",
+      "speaker": "speaker_1",
+      "confidence": -0.20195312798023224
+    },
+    {
+      "index": 73,
+      "start": 150.0,
+      "end": 152.0,
+      "text": "채재대리가 연락도 안되고",
+      "speaker": "speaker_1",
+      "confidence": -0.20195312798023224
+    },
+    {
+      "index": 74,
+      "start": 152.0,
+      "end": 154.0,
+      "text": "지금 퇴사하셨거든요",
+      "speaker": "speaker_1",
+      "confidence": -0.20195312798023224
+    },
+    {
+      "index": 75,
+      "start": 156.0,
+      "end": 158.0,
+      "text": "연락이 안되진다고요?",
+      "speaker": "speaker_1",
+      "confidence": -0.20195312798023224
+    }
+  ],
+  "engine": "faster-whisper-medium-float16-cuda",
+  "processed_at": 1758154964.0754797,
+  "error": null
+}

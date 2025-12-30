@@ -1,0 +1,212 @@
+{
+  "file": "NR6652_마스킹 완료_대포통장 모집_.mp3",
+  "rel_path": "NR6652_마스킹 완료_대포통장 모집_.mp3",
+  "language": "ko",
+  "text": "여보세요? 여보세요? 네, ㅅㅂ 많으신가요? 네네 네, 안녕하세요 여기 스포츠 토토 사이트인데요 네 아, 다름이 아니고요 그 사장님께서 혹시 안서시는 겨자가 있으시면 저희가 월 400에서 450만원까지 선지급 해드리고 임대받고 있어서 연락드렸습니다 어, 저는 토토 안 하는데 어떻게 제 번호 알게 되셨죠? 아, 뭐 혹시 온라인에서 가입하신 적은 없으세요? 네, 가입하신 적 없는데 아... 돈 만약에 하면 어떻게 받으세요? 저희는 그 손님들 게임머니 환경으로 사용하는 겁니다 아, 제가 400에서 600만원 아, 그러니까 사장님께서 혹시 안서시는 통장 있으시면 월 400에서 450만원까지 선지급 해드리고 고객님께서 해주실 시간 있으시면 혹시 무슨 사이트인지 알 수 있을까요? 스포츠 토토 사이트요 네, 그러면 생각해보고 나중에 연락드릴게요 네, 알겠습니다 네",
+  "duration_sec": 66.951875,
+  "segments": [
+    {
+      "index": 0,
+      "start": 0.0,
+      "end": 1.0,
+      "text": "여보세요?",
+      "speaker": "speaker_1",
+      "confidence": -0.31208882480859756
+    },
+    {
+      "index": 1,
+      "start": 1.0,
+      "end": 2.0,
+      "text": "여보세요?",
+      "speaker": "speaker_1",
+      "confidence": -0.31208882480859756
+    },
+    {
+      "index": 2,
+      "start": 2.6,
+      "end": 4.3,
+      "text": "네, ㅅㅂ 많으신가요?",
+      "speaker": "speaker_1",
+      "confidence": -0.31208882480859756
+    },
+    {
+      "index": 3,
+      "start": 4.3,
+      "end": 5.3,
+      "text": "네네",
+      "speaker": "speaker_1",
+      "confidence": -0.31208882480859756
+    },
+    {
+      "index": 4,
+      "start": 5.5,
+      "end": 8.0,
+      "text": "네, 안녕하세요 여기 스포츠 토토 사이트인데요",
+      "speaker": "speaker_1",
+      "confidence": -0.31208882480859756
+    },
+    {
+      "index": 5,
+      "start": 8.0,
+      "end": 9.0,
+      "text": "네",
+      "speaker": "speaker_1",
+      "confidence": -0.31208882480859756
+    },
+    {
+      "index": 6,
+      "start": 9.0,
+      "end": 10.0,
+      "text": "아, 다름이 아니고요",
+      "speaker": "speaker_1",
+      "confidence": -0.31208882480859756
+    },
+    {
+      "index": 7,
+      "start": 10.0,
+      "end": 13.0,
+      "text": "그 사장님께서 혹시 안서시는 겨자가 있으시면",
+      "speaker": "speaker_1",
+      "confidence": -0.31208882480859756
+    },
+    {
+      "index": 8,
+      "start": 13.0,
+      "end": 17.0,
+      "text": "저희가 월 400에서 450만원까지 선지급 해드리고",
+      "speaker": "speaker_1",
+      "confidence": -0.31208882480859756
+    },
+    {
+      "index": 9,
+      "start": 17.0,
+      "end": 19.0,
+      "text": "임대받고 있어서 연락드렸습니다",
+      "speaker": "speaker_1",
+      "confidence": -0.31208882480859756
+    },
+    {
+      "index": 10,
+      "start": 19.0,
+      "end": 23.0,
+      "text": "어, 저는 토토 안 하는데 어떻게 제 번호 알게 되셨죠?",
+      "speaker": "speaker_1",
+      "confidence": -0.31208882480859756
+    },
+    {
+      "index": 11,
+      "start": 24.5,
+      "end": 27.5,
+      "text": "아, 뭐 혹시 온라인에서 가입하신 적은 없으세요?",
+      "speaker": "speaker_1",
+      "confidence": -0.31208882480859756
+    },
+    {
+      "index": 12,
+      "start": 27.5,
+      "end": 29.0,
+      "text": "네, 가입하신 적 없는데",
+      "speaker": "speaker_1",
+      "confidence": -0.31208882480859756
+    },
+    {
+      "index": 13,
+      "start": 30.0,
+      "end": 31.0,
+      "text": "아...",
+      "speaker": "speaker_1",
+      "confidence": -0.27730854513408904
+    },
+    {
+      "index": 14,
+      "start": 31.0,
+      "end": 33.0,
+      "text": "돈 만약에 하면 어떻게 받으세요?",
+      "speaker": "speaker_1",
+      "confidence": -0.27730854513408904
+    },
+    {
+      "index": 15,
+      "start": 33.0,
+      "end": 38.0,
+      "text": "저희는 그 손님들 게임머니 환경으로 사용하는 겁니다",
+      "speaker": "speaker_1",
+      "confidence": -0.27730854513408904
+    },
+    {
+      "index": 16,
+      "start": 38.0,
+      "end": 41.0,
+      "text": "아, 제가 400에서 600만원",
+      "speaker": "speaker_1",
+      "confidence": -0.27730854513408904
+    },
+    {
+      "index": 17,
+      "start": 41.0,
+      "end": 46.0,
+      "text": "아, 그러니까 사장님께서 혹시 안서시는 통장 있으시면",
+      "speaker": "speaker_1",
+      "confidence": -0.27730854513408904
+    },
+    {
+      "index": 18,
+      "start": 46.0,
+      "end": 51.0,
+      "text": "월 400에서 450만원까지 선지급 해드리고",
+      "speaker": "speaker_1",
+      "confidence": -0.27730854513408904
+    },
+    {
+      "index": 19,
+      "start": 51.0,
+      "end": 54.0,
+      "text": "고객님께서 해주실 시간 있으시면",
+      "speaker": "speaker_1",
+      "confidence": -0.27730854513408904
+    },
+    {
+      "index": 20,
+      "start": 55.0,
+      "end": 57.0,
+      "text": "혹시 무슨 사이트인지 알 수 있을까요?",
+      "speaker": "speaker_1",
+      "confidence": -0.27730854513408904
+    },
+    {
+      "index": 21,
+      "start": 57.0,
+      "end": 58.5,
+      "text": "스포츠 토토 사이트요",
+      "speaker": "speaker_1",
+      "confidence": -0.27730854513408904
+    },
+    {
+      "index": 22,
+      "start": 59.5,
+      "end": 63.5,
+      "text": "네, 그러면 생각해보고 나중에 연락드릴게요",
+      "speaker": "speaker_1",
+      "confidence": -0.20957880046056665
+    },
+    {
+      "index": 23,
+      "start": 63.5,
+      "end": 64.5,
+      "text": "네, 알겠습니다",
+      "speaker": "speaker_1",
+      "confidence": -0.20957880046056665
+    },
+    {
+      "index": 24,
+      "start": 64.5,
+      "end": 65.5,
+      "text": "네",
+      "speaker": "speaker_1",
+      "confidence": -0.20957880046056665
+    }
+  ],
+  "engine": "faster-whisper-medium-float16-cuda",
+  "processed_at": 1758154964.0754797,
+  "error": null
+}

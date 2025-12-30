@@ -1,0 +1,254 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "상담사1",
+                    "age": "20대",
+                    "gender": "남",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "고객1",
+                    "age": "40대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000394/0001.wav",
+                "duration": 5.207,
+                "text": "제가 여기 시스템 잘 모르겠는데 혹시 단과도"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000394/0002.wav",
+                "duration": 3.999,
+                "text": "과학을 하고 싶은데 그렇게도 할 수 있나 해서요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000394/0003.wav",
+                "duration": 2.654,
+                "text": "어 네 단과도 가능하세요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000394/0004.wav",
+                "duration": 3.347,
+                "text": "예 예 예 과학하고 싶어서"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000394/0005.wav",
+                "duration": 6.185,
+                "text": "그거 (워) 그거 그래서 얼만지 이런 거랑 좀 (물어보려고요)/(물어보려구요)."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000394/0006.wav",
+                "duration": 2.813,
+                "text": "일단 단과 같은 경우는"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000394/0007.wav",
+                "duration": 4.776,
+                "text": "과학같은 경우 물리학도 있고 화학도있고 뭐 생명과학 지구과학 통학과학"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000394/0008.wav",
+                "duration": 6.013,
+                "text": "그 안에서도 선생님 그리고 인제 말씀드렸던 대로 그 인제 과학도 강좌별로"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000394/0009.wav",
+                "duration": 7.573,
+                "text": "o/ 금액이 다 다르고 저희가 단과라는 게 그 과목의 그 선생님 과목에 (1)/(하나)의 강좌예요. 말 그대로"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000394/0010.wav",
+                "duration": 8.941,
+                "text": "o/ 단과라는 게 그 선생님 모든 물리학 강좌가 아니라 물리학 그 뭐 예를 들면 뭐 (a)/(에이) 선생님의 물리학 강좌에서도 여러 가지가 있잖아요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000394/0011.wav",
+                "duration": 5.498,
+                "text": "o/ 거기서 (1)/(하나)를 단과 강좌라고 해요. 그래서 금액이 너무 천차만별이어서"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000394/0012.wav",
+                "duration": 5.885,
+                "text": "그걸 애가 어떻게 알고 그걸 신청을 하죠? 그렇게 (복잡하) 복잡하면"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000394/0013.wav",
+                "duration": 5.821,
+                "text": "o/ 음 그러면은 제일 좋은 거는 학습 상담을 저희가 도와드리는 거예요. 에약을"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000394/0014.wav",
+                "duration": 2.72,
+                "text": "o/ 저희 상담 전문 선생님들이 있기 때문에"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000394/0015.wav",
+                "duration": 5.539,
+                "text": "o/ 네 그럼 학년을 말씀해주시고 뭐 과학도 뭐 과학중에서도 어떤 과학에 이제"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000394/0016.wav",
+                "duration": 7.978,
+                "text": "o/ 따라서 이제 말씀을 해주시면 돼요. 오후 (1시)/(한 시)부터 저녁 (8시)/(여덟 시) 사이에 선생님들이 네 상담 진행하시니까요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000394/0017.wav",
+                "duration": 2.408,
+                "text": "o/ 연락을 드릴 거예요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000394/0018.wav",
+                "duration": 4.371,
+                "text": "제가 과학 학원을 이제 고 (1)/(일)이고요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000394/0019.wav",
+                "duration": 4.648,
+                "text": "과학학원을 한 (4)/(사) (3개월)/(삼 개월) 정도 (다녔고요)/(다녔구요)"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000394/0020.wav",
+                "duration": 5.629,
+                "text": "네 기말고사 시험 중간고사는 안 들어가더라고요. 과학이"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000394/0021.wav",
+                "duration": 6.971,
+                "text": "그래가지고 상담은 (4월)/(사 월) (30일)/(삼십 일)날 했으면 좋겠고 어든요? 그 중간고사 끝난 날이 (4월)/(사 월) (30)/(삼십)이고"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000394/0022.wav",
+                "duration": 10.579,
+                "text": "o/ 근데 이게 좀 그니까 소위 말해서 (심 심 어) 깊은 정도는 아니에요. 그래서 간단하게 강좌를 미리 추천을 받으시는 거지 저희가"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000394/0023.wav",
+                "duration": 2.621,
+                "text": "o/ 아 전화 (1번)/(한 번) 더 드려야 되나요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000394/0024.wav",
+                "duration": 5.437,
+                "text": "o/ 네네 저희가 순차적으로 원래 연락을 드리는 거기 때문에 오늘 예약하시면 오늘 중에 연락을 드리는거"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000394/0025.wav",
+                "duration": 6.177,
+                "text": "아 그러면 이게 (1달)/(한 달)분 이런 식으로 도는 건가요? 어떻게"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000394/0026.wav",
+                "duration": 2.689,
+                "text": "o/ 아니요. 그 강좌 단과 강좌는"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000394/0027.wav",
+                "duration": 4.309,
+                "text": "강좌별로 수강기간이 다 달라요. 그래서 금액도 다른 (거고요)/(거구요)."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000394/0028.wav",
+                "duration": 10.749,
+                "text": "o/ 수강량이 적으면 그만큼 기간도 적을거고 금액도 적을 거고 수강량이 많으면 네 금액도 그만큼 위로 올라가고 수강기간도 그만큼 길고"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000394/0029.wav",
+                "duration": 3.711,
+                "text": "o/ 어 알겠습니다. (그러) 그러면 대략"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000394/0030.wav",
+                "duration": 2.173,
+                "text": "얼마 정도 할까요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000394/0031.wav",
+                "duration": 9.427,
+                "text": "o/ 그거를 제가 예측을 못해요. 말씀드렸던 것 처럼 뭐 생명과학 물리학 지구과학 선생님들도 너무 다 달라서 강좌가 정말 많아요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000394/0032.wav",
+                "duration": 3.123,
+                "text": "o/ 아 알겠어요. 아 어"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000394/0033.wav",
+                "duration": 4.797,
+                "text": "o/ 그러면은 이제 예약을 도와드릴까요? 아니면 어머니 (1번)/(한 번) 다시 전화주시겠어요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000394/0034.wav",
+                "duration": 5.162,
+                "text": "어 중간고사 끝나고 전화주시면 (조) 좋을 것 같아요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000394/0035.wav",
+                "duration": 4.607,
+                "text": "o/ 아니요. 그니까 어머님이 그때 전화를 주시겠어요? 저희가 순차적으로 연락"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000394/0036.wav",
+                "duration": 2.813,
+                "text": "o/ 그러면 그때 전화 드릴게요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000394/0037.wav",
+                "duration": 2.986,
+                "text": "o/ 그때 예약을 도와드리도록 할게요."
+            }
+        ]
+    }
+}

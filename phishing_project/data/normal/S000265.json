@@ -1,0 +1,74 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "고객1",
+                    "age": "40대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "상담사1",
+                    "age": "20대",
+                    "gender": "남",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000265/0001.wav",
+                "duration": 5.096,
+                "text": "n/ 상담실에서 연락이 왔는데 제가 일하고 있는 중이여가지고 못 받았어요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000265/0002.wav",
+                "duration": 3.848,
+                "text": "아 혹시 학습상담 예약을 진행을 하셨나요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000265/0003.wav",
+                "duration": 3.16,
+                "text": "학생회원님 아이디 (1번)/(한 번) 말씀해 주시겠어요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000265/0004.wav",
+                "duration": 4.504,
+                "text": "학부모 회원이고요. 학부모 회원으로 가입을 했고요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000265/0005.wav",
+                "duration": 8.584,
+                "text": "아 그러면은 그 저희가 부재이신 경우에는 그 상담 선생님들이 (1번)/(한 번) 순차적으로 다시 연락드릴 거거든요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000265/0006.wav",
+                "duration": 2.307,
+                "text": "o/ 좀 더 기다리면 될까요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000265/0007.wav",
+                "duration": 2.27,
+                "text": "네 네 그때 (1번)/(한 번) 연락 받아"
+            }
+        ]
+    }
+}

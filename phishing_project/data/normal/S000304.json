@@ -1,0 +1,140 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "상담사1",
+                    "age": "20대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "고객1",
+                    "age": "10대",
+                    "gender": "남",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000304/0001.wav",
+                "duration": 7.339,
+                "text": "그 그 할인된 가격으로 그 안 떠있어가지고 이럴 때 어떻게 해야 되는지"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000304/0002.wav",
+                "duration": 6.182,
+                "text": "아 네 회원님 그러시면 저희 정확한 안내를 위해서 회원님 아이디 확인 (1번)/(한 번) 부탁 드리겠습니다."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000304/0003.wav",
+                "duration": 2.567,
+                "text": "(1)/(일) 숫자 (1)/(일)이요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000304/0004.wav",
+                "duration": 9.064,
+                "text": "네 그리고 회원님 성함과 생년월일은 혹시 어떻게 되실까요? 부분은 저희가 이제 학생 학원 재원생 인증이 필요해요. 회원님."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000304/0005.wav",
+                "duration": 4.288,
+                "text": "잠시만 기다려 주시면 메시지 발송 바로 해 드리겠습니다."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000304/0006.wav",
+                "duration": 4.797,
+                "text": "네 회원님 방금 메시지 발송해 드렸는데 받으신 후 말씀해 주세요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000304/0007.wav",
+                "duration": 1.971,
+                "text": "네, 확인했어요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000304/0008.wav",
+                "duration": 7.517,
+                "text": "네 거기 그 링크로 접속하셔서 네 제 이제 재원생이신 거 인증하시면 네 확인 가능하세요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000304/0009.wav",
+                "duration": 2.741,
+                "text": "아 이거 근데 저번에"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000304/0010.wav",
+                "duration": 2.105,
+                "text": "(1번)/(한 번) 했었는데"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000304/0011.wav",
+                "duration": 4.239,
+                "text": "그 수정이 안 돼갖고 전화드린 거거든요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000304/0012.wav",
+                "duration": 2.941,
+                "text": "o/ 이걸로 해보고 안되면"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000304/0013.wav",
+                "duration": 2.429,
+                "text": "또 다시 전화드려야 될까요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000304/0014.wav",
+                "duration": 11.239,
+                "text": "어 네 (1번)/(한 번) 방금 보내드린 링크로 네 해 봐 주시고 만약에 저희가 일단 인증을 이제 인 이제 요청을 하시면 저희가 이제 바로 되시진 않으시고 저희가"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000304/0015.wav",
+                "duration": 6.536,
+                "text": "인증하시고 시점에서부터 이제 서버 반영까지 최대 (5시간)/(다섯 시간) 정도 소요되는 점"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000304/0016.wav",
+                "duration": 3.908,
+                "text": "참고하셔서 네 신청 부탁드리겠습니다."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000304/0017.wav",
+                "duration": 5.075,
+                "text": "아 네 해 보시고 네 또 안되시면 다시 재문의 부탁드리겠습니다."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000304/0018.wav",
+                "duration": 3.134,
+                "text": "네 감사합니다. 좋은 하루 되세요."
+            }
+        ]
+    }
+}

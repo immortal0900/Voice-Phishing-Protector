@@ -1,0 +1,176 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "상담사1",
+                    "age": "30대",
+                    "gender": "남",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "고객1",
+                    "age": "40대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000166/0001.wav",
+                "duration": 5.7,
+                "text": "네 그 상담 신청좀 (하려고)/(할라구) 하는데요. 오늘 되나요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000166/0002.wav",
+                "duration": 2.647,
+                "text": "학습상담 말씀하시는 거예요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000166/0003.wav",
+                "duration": 2.515,
+                "text": "회원님 회원가입은 해주셨을까요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000166/0004.wav",
+                "duration": 3.816,
+                "text": "아니요. 회원가입도 (아) 아직 안 돼있는데"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000166/0005.wav",
+                "duration": 8.531,
+                "text": "어 회원가입 먼저 진행을 해주시고 다시 (1번)/(한 번) 문의주시겠어요? 학습상담 자체가 일단 아이디가 있어야지 저희가 접수를 좀 도움을 드릴 수 있어서요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000166/0006.wav",
+                "duration": 4.541,
+                "text": "아 그럼 처음인데 로그인을 해야 되는 거예요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000166/0007.wav",
+                "duration": 3.038,
+                "text": "네 회원가입부터 진행을 해주셔야 되세요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000166/0008.wav",
+                "duration": 5.043,
+                "text": "o/ 아 회원가입 먼저 하고 그 때문에 상담을 하면 되는 거예요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000166/0009.wav",
+                "duration": 3.07,
+                "text": "저희쪽으로 똑같이 전화 주시면은"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000166/0010.wav",
+                "duration": 2.088,
+                "text": "음 아마 학습의"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000166/0011.wav",
+                "duration": 4.202,
+                "text": "금액 아 그렇게 해야 되는 거구나"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000166/0012.wav",
+                "duration": 3.24,
+                "text": "혹시 그니까 뭐 (1)/(하나)만 여쭤볼게요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000166/0013.wav",
+                "duration": 4.904,
+                "text": "이게 그 전과목을 들으려고 하는데요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000166/0014.wav",
+                "duration": 12.776,
+                "text": "그 전과목을 들으면 그 좀 선생님이 조금 저기하신 그니까 조금 어 금액적으로 조금 높으신 선생님껄 들으려면 이 전과목도 다 이게 저기가 들어오나요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000166/0015.wav",
+                "duration": 3.718,
+                "text": "어 회원님 말씀을 제대로 잘 이해를 못했는데"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000166/0016.wav",
+                "duration": 5.907,
+                "text": "o/ 어 그러니까 이게 어떻게 이용을 하는지 잘 몰라서"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000166/0017.wav",
+                "duration": 7.619,
+                "text": "o/ 수강 가능 하신거고 어 일단은 그 기간 일자는 이제 다 다르기 때문에 혹시 학년이 어떻게 되실까요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000166/0018.wav",
+                "duration": 2.262,
+                "text": "(2학년)/(이 학년) 고 (2)/(이)요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000166/0019.wav",
+                "duration": 13.779,
+                "text": "고 (2)/(이) (하) 고 (1)/(일) (2)/(이) (3)/(삼) 모두 다 강좌 수강 가능하시고 다만 이제 첨삭강좌나 아니면 진로 적성 검사같이 이제 조금 추가로 비용이 발생하는 강좌는 좀 제외되시고 나머지 그냥 일반 강좌는 모두 다 수강 가능하시고요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000166/0020.wav",
+                "duration": 9.696,
+                "text": "o/ 어 (그) 그러면 전과목을 해도 일반 강좌만 들고 특수강좌는 못 듣는 거예요? 그건 금액적으로 돈을 더 내야지 들을 수 있는 건가요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000166/0021.wav",
+                "duration": 4.518,
+                "text": "어떤 패스든 상관없이 똑같이 (()) 해주셔야 되시는 거세요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000166/0022.wav",
+                "duration": 16.637,
+                "text": "o/ 아 그렇구나 그 전과목 이게 금액을 내도 특수강의는 돈을 따로 내야 된다 그 말씀이신 거죠?어 그게 모든 그 아이들한테 다 해당되는 건가요 전과목 듣는 아이들한테 특수강의는 무조건 돈을 아"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000166/0023.wav",
+                "duration": 2.819,
+                "text": "우선 알겠습니다."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000166/0024.wav",
+                "duration": 2.569,
+                "text": "네 감사합니다. 좋은 하루 되세요."
+            }
+        ]
+    }
+}

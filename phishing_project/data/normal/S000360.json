@@ -1,0 +1,98 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "고객1",
+                    "age": "50대",
+                    "gender": "남",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "상담사1",
+                    "age": "20대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000360/0001.wav",
+                "duration": 2.171,
+                "text": "요청했는데요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000360/0002.wav",
+                "duration": 4.628,
+                "text": "그 이제 좀 아까 전화가 오긴 왔었는데 전화를"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000360/0003.wav",
+                "duration": 2.544,
+                "text": "음 통화가 안됐거든요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000360/0004.wav",
+                "duration": 4.179,
+                "text": "아 네. 회원님 혹시 가입하신 아이디가 있으신가요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000360/0005.wav",
+                "duration": 3.635,
+                "text": "o/ 그 학부모 회원님으로 되어있으시네요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000360/0006.wav",
+                "duration": 3.325,
+                "text": "o/ 네 네 네 네. 예. 맞아요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000360/0007.wav",
+                "duration": 5.213,
+                "text": "o/ 아 네. 이쪽으로 그러면 다시 전화 요청드리도록 하겠습니다."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000360/0008.wav",
+                "duration": 3.923,
+                "text": "네. 지금 다 통화가 가능하신가요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000360/0009.wav",
+                "duration": 7.619,
+                "text": "o/ 어 일단 저희가 전달해보고 확인이 가능한데 아마 오래 걸리진 않으실 거 (같아요)/(같애요)."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000360/0010.wav",
+                "duration": 3.672,
+                "text": "o/ 아 왜그러냐면 제가 또 오후에 일정이 있어서"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000360/0011.wav",
+                "duration": 3.955,
+                "text": "o/ 아 네. 좀 최대한 빨리 전화드리라고 할게요."
+            }
+        ]
+    }
+}

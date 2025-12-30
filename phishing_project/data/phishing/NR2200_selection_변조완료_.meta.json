@@ -1,0 +1,356 @@
+{
+  "file": "NR2200_selection_변조완료_.mp3",
+  "rel_path": "NR2200_selection_변조완료_.mp3",
+  "language": "ko",
+  "text": "잠시 자리 이동하셔가지고 통화는 가능하세요? 네 지금 이동해서 통화 중입니다. 일단 본인께서 피해자인지 가해자인지 사건 조사를 하기 위해서 간단하게 몇 가지 질문을 드릴 건데 질문의 전반 조사 과정은 녹취 상태로 진행되기 때문에 진술을 하시거나 숨겨서만 안 되시고요. 네. 당사자 본인은 91년 7월 21일 생 조윤식 씨 맞습니까? 네. 42세된 남성 김명식을 전혀 모르시는 거고요. 네. 만난 적이나 들어보신 적도 전혀 없으시고 네. 지난 2016년 11월 23일입니다. 네. 광명시 철선 지점으로부터 국민은행 통장과 농협은행 통장을 개설한 사실이 있습니까? 아니요. 일단은 불법연장에서 압수되었기 때문에 본인이 실제로 개설을 하셨던지 아니면 도용을 당하셨던지 이미 동결 처리 치시었고요. 그 안에 들어있던 불법 자원 같은 경우에는 꼭꼬로 환수처리가 되었어요. 이 점 알아두시고요. 네. 저희가 이제 김명식은 검거를 했지만 네. 공모자들은 다 검거를 못했습니다. 네. 네. 일단은 본인 사건 경위나 본인 앞으로 발생되는 피해 부분 네. 성적적인 부분에 있어서는 자세하게 검사님 앞으로 배정 받으셔가지고 들으실 수 있는데 네. 잠시만 기다려주시고요. 제가 바로 내 손번호로 연결해드리겠습니다. 네. 네. 잠시만요. 네. 네.",
+  "duration_sec": 86.256,
+  "segments": [
+    {
+      "index": 0,
+      "start": 0.0,
+      "end": 2.32,
+      "text": "잠시 자리 이동하셔가지고 통화는 가능하세요?",
+      "speaker": "speaker_1",
+      "confidence": -0.3671371040805694
+    },
+    {
+      "index": 1,
+      "start": 3.2,
+      "end": 4.9,
+      "text": "네 지금 이동해서 통화 중입니다.",
+      "speaker": "speaker_1",
+      "confidence": -0.3671371040805694
+    },
+    {
+      "index": 2,
+      "start": 5.78,
+      "end": 8.540000000000001,
+      "text": "일단 본인께서 피해자인지 가해자인지",
+      "speaker": "speaker_1",
+      "confidence": -0.3671371040805694
+    },
+    {
+      "index": 3,
+      "start": 8.540000000000001,
+      "end": 12.26,
+      "text": "사건 조사를 하기 위해서 간단하게 몇 가지 질문을 드릴 건데",
+      "speaker": "speaker_1",
+      "confidence": -0.3671371040805694
+    },
+    {
+      "index": 4,
+      "start": 12.26,
+      "end": 15.88,
+      "text": "질문의 전반 조사 과정은 녹취 상태로 진행되기 때문에",
+      "speaker": "speaker_1",
+      "confidence": -0.3671371040805694
+    },
+    {
+      "index": 5,
+      "start": 15.88,
+      "end": 18.3,
+      "text": "진술을 하시거나 숨겨서만 안 되시고요.",
+      "speaker": "speaker_1",
+      "confidence": -0.3671371040805694
+    },
+    {
+      "index": 6,
+      "start": 18.3,
+      "end": 18.8,
+      "text": "네.",
+      "speaker": "speaker_1",
+      "confidence": -0.3671371040805694
+    },
+    {
+      "index": 7,
+      "start": 18.8,
+      "end": 23.28,
+      "text": "당사자 본인은 91년 7월 21일 생 조윤식 씨 맞습니까?",
+      "speaker": "speaker_1",
+      "confidence": -0.3671371040805694
+    },
+    {
+      "index": 8,
+      "start": 23.28,
+      "end": 24.28,
+      "text": "네.",
+      "speaker": "speaker_1",
+      "confidence": -0.3671371040805694
+    },
+    {
+      "index": 9,
+      "start": 24.28,
+      "end": 27.42,
+      "text": "42세된 남성 김명식을 전혀 모르시는 거고요.",
+      "speaker": "speaker_1",
+      "confidence": -0.3671371040805694
+    },
+    {
+      "index": 10,
+      "start": 27.42,
+      "end": 27.92,
+      "text": "네.",
+      "speaker": "speaker_1",
+      "confidence": -0.3671371040805694
+    },
+    {
+      "index": 11,
+      "start": 28.700000000000003,
+      "end": 31.32,
+      "text": "만난 적이나 들어보신 적도 전혀 없으시고",
+      "speaker": "speaker_1",
+      "confidence": -0.2827904826738465
+    },
+    {
+      "index": 12,
+      "start": 31.32,
+      "end": 31.82,
+      "text": "네.",
+      "speaker": "speaker_1",
+      "confidence": -0.2827904826738465
+    },
+    {
+      "index": 13,
+      "start": 32.32,
+      "end": 35.72,
+      "text": "지난 2016년 11월 23일입니다.",
+      "speaker": "speaker_1",
+      "confidence": -0.2827904826738465
+    },
+    {
+      "index": 14,
+      "start": 35.72,
+      "end": 36.22,
+      "text": "네.",
+      "speaker": "speaker_1",
+      "confidence": -0.2827904826738465
+    },
+    {
+      "index": 15,
+      "start": 36.22,
+      "end": 38.56,
+      "text": "광명시 철선 지점으로부터",
+      "speaker": "speaker_1",
+      "confidence": -0.2827904826738465
+    },
+    {
+      "index": 16,
+      "start": 38.56,
+      "end": 42.08,
+      "text": "국민은행 통장과 농협은행 통장을 개설한 사실이 있습니까?",
+      "speaker": "speaker_1",
+      "confidence": -0.2827904826738465
+    },
+    {
+      "index": 17,
+      "start": 42.08,
+      "end": 42.58,
+      "text": "아니요.",
+      "speaker": "speaker_1",
+      "confidence": -0.2827904826738465
+    },
+    {
+      "index": 18,
+      "start": 43.620000000000005,
+      "end": 46.28,
+      "text": "일단은 불법연장에서 압수되었기 때문에",
+      "speaker": "speaker_1",
+      "confidence": -0.2827904826738465
+    },
+    {
+      "index": 19,
+      "start": 46.28,
+      "end": 48.58,
+      "text": "본인이 실제로 개설을 하셨던지",
+      "speaker": "speaker_1",
+      "confidence": -0.2827904826738465
+    },
+    {
+      "index": 20,
+      "start": 48.58,
+      "end": 50.620000000000005,
+      "text": "아니면 도용을 당하셨던지",
+      "speaker": "speaker_1",
+      "confidence": -0.2827904826738465
+    },
+    {
+      "index": 21,
+      "start": 50.620000000000005,
+      "end": 52.72,
+      "text": "이미 동결 처리 치시었고요.",
+      "speaker": "speaker_1",
+      "confidence": -0.2827904826738465
+    },
+    {
+      "index": 22,
+      "start": 52.72,
+      "end": 55.02,
+      "text": "그 안에 들어있던 불법 자원 같은 경우에는",
+      "speaker": "speaker_1",
+      "confidence": -0.2827904826738465
+    },
+    {
+      "index": 23,
+      "start": 55.02,
+      "end": 56.42,
+      "text": "꼭꼬로 환수처리가 되었어요.",
+      "speaker": "speaker_1",
+      "confidence": -0.25729790490544485
+    },
+    {
+      "index": 24,
+      "start": 56.42,
+      "end": 57.52,
+      "text": "이 점 알아두시고요.",
+      "speaker": "speaker_1",
+      "confidence": -0.25729790490544485
+    },
+    {
+      "index": 25,
+      "start": 57.52,
+      "end": 58.02,
+      "text": "네.",
+      "speaker": "speaker_1",
+      "confidence": -0.25729790490544485
+    },
+    {
+      "index": 26,
+      "start": 58.720000000000006,
+      "end": 61.02,
+      "text": "저희가 이제 김명식은 검거를 했지만",
+      "speaker": "speaker_1",
+      "confidence": -0.25729790490544485
+    },
+    {
+      "index": 27,
+      "start": 61.02,
+      "end": 61.52,
+      "text": "네.",
+      "speaker": "speaker_1",
+      "confidence": -0.25729790490544485
+    },
+    {
+      "index": 28,
+      "start": 61.52,
+      "end": 63.52,
+      "text": "공모자들은 다 검거를 못했습니다.",
+      "speaker": "speaker_1",
+      "confidence": -0.25729790490544485
+    },
+    {
+      "index": 29,
+      "start": 63.52,
+      "end": 64.02000000000001,
+      "text": "네.",
+      "speaker": "speaker_1",
+      "confidence": -0.25729790490544485
+    },
+    {
+      "index": 30,
+      "start": 64.02000000000001,
+      "end": 64.52000000000001,
+      "text": "네.",
+      "speaker": "speaker_1",
+      "confidence": -0.25729790490544485
+    },
+    {
+      "index": 31,
+      "start": 64.52000000000001,
+      "end": 68.42,
+      "text": "일단은 본인 사건 경위나 본인 앞으로 발생되는 피해 부분",
+      "speaker": "speaker_1",
+      "confidence": -0.25729790490544485
+    },
+    {
+      "index": 32,
+      "start": 68.42,
+      "end": 68.92,
+      "text": "네.",
+      "speaker": "speaker_1",
+      "confidence": -0.25729790490544485
+    },
+    {
+      "index": 33,
+      "start": 68.92,
+      "end": 70.22,
+      "text": "성적적인 부분에 있어서는",
+      "speaker": "speaker_1",
+      "confidence": -0.25729790490544485
+    },
+    {
+      "index": 34,
+      "start": 70.22,
+      "end": 73.62,
+      "text": "자세하게 검사님 앞으로 배정 받으셔가지고 들으실 수 있는데",
+      "speaker": "speaker_1",
+      "confidence": -0.25729790490544485
+    },
+    {
+      "index": 35,
+      "start": 73.62,
+      "end": 74.12,
+      "text": "네.",
+      "speaker": "speaker_1",
+      "confidence": -0.25729790490544485
+    },
+    {
+      "index": 36,
+      "start": 74.12,
+      "end": 75.32000000000001,
+      "text": "잠시만 기다려주시고요.",
+      "speaker": "speaker_1",
+      "confidence": -0.25729790490544485
+    },
+    {
+      "index": 37,
+      "start": 75.32000000000001,
+      "end": 77.82000000000001,
+      "text": "제가 바로 내 손번호로 연결해드리겠습니다.",
+      "speaker": "speaker_1",
+      "confidence": -0.25729790490544485
+    },
+    {
+      "index": 38,
+      "start": 77.82000000000001,
+      "end": 78.32000000000001,
+      "text": "네.",
+      "speaker": "speaker_1",
+      "confidence": -0.25729790490544485
+    },
+    {
+      "index": 39,
+      "start": 78.72,
+      "end": 79.22,
+      "text": "네.",
+      "speaker": "speaker_1",
+      "confidence": -0.25729790490544485
+    },
+    {
+      "index": 40,
+      "start": 79.22,
+      "end": 80.02000000000001,
+      "text": "잠시만요.",
+      "speaker": "speaker_1",
+      "confidence": -0.25729790490544485
+    },
+    {
+      "index": 41,
+      "start": 80.02000000000001,
+      "end": 80.52000000000001,
+      "text": "네.",
+      "speaker": "speaker_1",
+      "confidence": -0.25729790490544485
+    },
+    {
+      "index": 42,
+      "start": 85.02,
+      "end": 86.52,
+      "text": "네.",
+      "speaker": "speaker_1",
+      "confidence": -0.95234375
+    }
+  ],
+  "engine": "faster-whisper-medium-float16-cuda",
+  "processed_at": 1758158787.080419,
+  "error": null
+}

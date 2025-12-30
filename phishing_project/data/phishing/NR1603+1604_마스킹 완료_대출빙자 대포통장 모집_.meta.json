@@ -1,0 +1,508 @@
+{
+  "file": "NR1603+1604_마스킹 완료_대출빙자 대포통장 모집_.mp3",
+  "rel_path": "NR1603+1604_마스킹 완료_대출빙자 대포통장 모집_.mp3",
+  "language": "ko",
+  "text": "믿고 진행합니다 그러면 아 그러니까 아무 문제 없는거죠? 고객님께서 저희 말 잘 따라주시면 아무런 문제가 없으세요 아 네 알겠습니다 고객님 포장은 다 하셨어요? 네네네 어 포장은 다 하셨어요? 네네네 어? 책에다가 카드 꽂고 그 책을 박스에 넣고 테이프로 포장하셨어요? 어디다 놓냐고요? 카드 있잖아요 체크카드 체크카드를 퀵서비스 직원한테 그냥 떨렁 건네지만 그 퀵서비스 직원한테 카드 주진 않을 거 아니에요 포장을 하셨냐고요? 책에다가 종이 봉투? 책이 없는데? 책 책 그러니까 책이 없는데? 책이 없으면 노트나 공책 카달로그 잡지 약간의 무게감이 있어야 돼요 아 네 알겠습니다 알겠죠? 네 알겠습니다 박스에다가 적당히 책 같은 거 넣고 그 책 사이에 카드 껴서 테이프로 포장하고 지금 포장 다 하셨다고요? 네네네 퀵서비스 직원 보내 드릴테니까 자넥을 뺏지 놓으시면 안 됩니다 고객님 그러니까 믿을게요 네 믿으세요 저를 믿지 마시고 최진성 상담사를 믿으세요 저보다 연배가 있으신 분이시니까 책임감 있게 해드릴 수 있으세요 예 알겠습니다 예예 절대로 얘기하시면 안 되고 중요한 서류라고 하면서 전달해 주셔야 돼요 아 네 알겠습니다 네 비율범 맞으시고요 아 네네네 자넥은 다 빼셨고요 네네 네 알겠습니다 고객님 네 아 월요일날 제가 한도 체크 위해서 아침에 전화 한번 드릴 거예요 또 어떤가요? 한도 체크 인출 한도 체크 아 그거 천만원 있는데 보니까 ARS로 통화 해봤어요? 아 근데 제가 얼마 전에 올려놨거든요 혹시 모르시니까 한 번만 더 확인해 주세요 ARS로 전화하셔서 상담사 연결을 하시고 ATM기기 1일 입출금 한도 네네네 알겠습니다 네",
+  "duration_sec": 112.4078125,
+  "segments": [
+    {
+      "index": 0,
+      "start": 0.0,
+      "end": 2.0,
+      "text": "믿고 진행합니다 그러면",
+      "speaker": "speaker_1",
+      "confidence": -0.1910768027406141
+    },
+    {
+      "index": 1,
+      "start": 2.0,
+      "end": 4.0,
+      "text": "아 그러니까 아무 문제 없는거죠?",
+      "speaker": "speaker_1",
+      "confidence": -0.1910768027406141
+    },
+    {
+      "index": 2,
+      "start": 4.0,
+      "end": 7.0,
+      "text": "고객님께서 저희 말 잘 따라주시면",
+      "speaker": "speaker_1",
+      "confidence": -0.1910768027406141
+    },
+    {
+      "index": 3,
+      "start": 7.0,
+      "end": 9.0,
+      "text": "아무런 문제가 없으세요",
+      "speaker": "speaker_1",
+      "confidence": -0.1910768027406141
+    },
+    {
+      "index": 4,
+      "start": 9.0,
+      "end": 10.0,
+      "text": "아 네 알겠습니다",
+      "speaker": "speaker_1",
+      "confidence": -0.1910768027406141
+    },
+    {
+      "index": 5,
+      "start": 10.0,
+      "end": 12.0,
+      "text": "고객님 포장은 다 하셨어요?",
+      "speaker": "speaker_1",
+      "confidence": -0.1910768027406141
+    },
+    {
+      "index": 6,
+      "start": 12.0,
+      "end": 13.0,
+      "text": "네네네",
+      "speaker": "speaker_1",
+      "confidence": -0.1910768027406141
+    },
+    {
+      "index": 7,
+      "start": 13.0,
+      "end": 14.0,
+      "text": "어 포장은 다 하셨어요?",
+      "speaker": "speaker_1",
+      "confidence": -0.1910768027406141
+    },
+    {
+      "index": 8,
+      "start": 14.0,
+      "end": 15.0,
+      "text": "네네네",
+      "speaker": "speaker_1",
+      "confidence": -0.1910768027406141
+    },
+    {
+      "index": 9,
+      "start": 15.0,
+      "end": 17.0,
+      "text": "어? 책에다가 카드 꽂고",
+      "speaker": "speaker_1",
+      "confidence": -0.1910768027406141
+    },
+    {
+      "index": 10,
+      "start": 17.0,
+      "end": 20.0,
+      "text": "그 책을 박스에 넣고 테이프로 포장하셨어요?",
+      "speaker": "speaker_1",
+      "confidence": -0.1910768027406141
+    },
+    {
+      "index": 11,
+      "start": 20.0,
+      "end": 22.0,
+      "text": "어디다 놓냐고요?",
+      "speaker": "speaker_1",
+      "confidence": -0.1910768027406141
+    },
+    {
+      "index": 12,
+      "start": 22.0,
+      "end": 24.0,
+      "text": "카드 있잖아요 체크카드",
+      "speaker": "speaker_1",
+      "confidence": -0.1910768027406141
+    },
+    {
+      "index": 13,
+      "start": 24.0,
+      "end": 26.0,
+      "text": "체크카드를 퀵서비스 직원한테",
+      "speaker": "speaker_1",
+      "confidence": -0.1910768027406141
+    },
+    {
+      "index": 14,
+      "start": 26.0,
+      "end": 27.0,
+      "text": "그냥 떨렁 건네지만",
+      "speaker": "speaker_1",
+      "confidence": -0.1910768027406141
+    },
+    {
+      "index": 15,
+      "start": 27.0,
+      "end": 29.0,
+      "text": "그 퀵서비스 직원한테",
+      "speaker": "speaker_1",
+      "confidence": -0.1910768027406141
+    },
+    {
+      "index": 16,
+      "start": 29.0,
+      "end": 31.0,
+      "text": "카드 주진 않을 거 아니에요",
+      "speaker": "speaker_1",
+      "confidence": -0.13033773588097614
+    },
+    {
+      "index": 17,
+      "start": 31.0,
+      "end": 32.0,
+      "text": "포장을 하셨냐고요?",
+      "speaker": "speaker_1",
+      "confidence": -0.13033773588097614
+    },
+    {
+      "index": 18,
+      "start": 32.0,
+      "end": 34.0,
+      "text": "책에다가",
+      "speaker": "speaker_1",
+      "confidence": -0.13033773588097614
+    },
+    {
+      "index": 19,
+      "start": 34.0,
+      "end": 35.0,
+      "text": "종이 봉투?",
+      "speaker": "speaker_1",
+      "confidence": -0.13033773588097614
+    },
+    {
+      "index": 20,
+      "start": 35.0,
+      "end": 36.0,
+      "text": "책이 없는데?",
+      "speaker": "speaker_1",
+      "confidence": -0.13033773588097614
+    },
+    {
+      "index": 21,
+      "start": 36.0,
+      "end": 37.0,
+      "text": "책 책",
+      "speaker": "speaker_1",
+      "confidence": -0.13033773588097614
+    },
+    {
+      "index": 22,
+      "start": 37.0,
+      "end": 39.0,
+      "text": "그러니까 책이 없는데?",
+      "speaker": "speaker_1",
+      "confidence": -0.13033773588097614
+    },
+    {
+      "index": 23,
+      "start": 39.0,
+      "end": 41.0,
+      "text": "책이 없으면 노트나 공책",
+      "speaker": "speaker_1",
+      "confidence": -0.13033773588097614
+    },
+    {
+      "index": 24,
+      "start": 41.0,
+      "end": 42.0,
+      "text": "카달로그 잡지",
+      "speaker": "speaker_1",
+      "confidence": -0.13033773588097614
+    },
+    {
+      "index": 25,
+      "start": 42.0,
+      "end": 44.0,
+      "text": "약간의 무게감이 있어야 돼요",
+      "speaker": "speaker_1",
+      "confidence": -0.13033773588097614
+    },
+    {
+      "index": 26,
+      "start": 44.0,
+      "end": 47.0,
+      "text": "아 네 알겠습니다",
+      "speaker": "speaker_1",
+      "confidence": -0.13033773588097614
+    },
+    {
+      "index": 27,
+      "start": 47.0,
+      "end": 48.0,
+      "text": "알겠죠?",
+      "speaker": "speaker_1",
+      "confidence": -0.13033773588097614
+    },
+    {
+      "index": 28,
+      "start": 48.0,
+      "end": 50.0,
+      "text": "네 알겠습니다",
+      "speaker": "speaker_1",
+      "confidence": -0.13033773588097614
+    },
+    {
+      "index": 29,
+      "start": 50.0,
+      "end": 52.0,
+      "text": "박스에다가 적당히 책 같은 거 넣고",
+      "speaker": "speaker_1",
+      "confidence": -0.13033773588097614
+    },
+    {
+      "index": 30,
+      "start": 52.0,
+      "end": 54.0,
+      "text": "그 책 사이에 카드 껴서 테이프로 포장하고",
+      "speaker": "speaker_1",
+      "confidence": -0.13033773588097614
+    },
+    {
+      "index": 31,
+      "start": 54.0,
+      "end": 55.0,
+      "text": "지금 포장 다 하셨다고요?",
+      "speaker": "speaker_1",
+      "confidence": -0.13033773588097614
+    },
+    {
+      "index": 32,
+      "start": 55.0,
+      "end": 56.0,
+      "text": "네네네",
+      "speaker": "speaker_1",
+      "confidence": -0.13033773588097614
+    },
+    {
+      "index": 33,
+      "start": 56.0,
+      "end": 58.0,
+      "text": "퀵서비스 직원 보내 드릴테니까",
+      "speaker": "speaker_1",
+      "confidence": -0.13033773588097614
+    },
+    {
+      "index": 34,
+      "start": 58.0,
+      "end": 60.0,
+      "text": "자넥을 뺏지 놓으시면 안 됩니다 고객님",
+      "speaker": "speaker_1",
+      "confidence": -0.2242879752494112
+    },
+    {
+      "index": 35,
+      "start": 60.0,
+      "end": 62.0,
+      "text": "그러니까 믿을게요",
+      "speaker": "speaker_1",
+      "confidence": -0.2242879752494112
+    },
+    {
+      "index": 36,
+      "start": 62.0,
+      "end": 64.0,
+      "text": "네 믿으세요 저를 믿지 마시고",
+      "speaker": "speaker_1",
+      "confidence": -0.2242879752494112
+    },
+    {
+      "index": 37,
+      "start": 64.0,
+      "end": 66.0,
+      "text": "최진성 상담사를 믿으세요",
+      "speaker": "speaker_1",
+      "confidence": -0.2242879752494112
+    },
+    {
+      "index": 38,
+      "start": 66.0,
+      "end": 68.0,
+      "text": "저보다 연배가 있으신 분이시니까",
+      "speaker": "speaker_1",
+      "confidence": -0.2242879752494112
+    },
+    {
+      "index": 39,
+      "start": 68.0,
+      "end": 70.0,
+      "text": "책임감 있게 해드릴 수 있으세요",
+      "speaker": "speaker_1",
+      "confidence": -0.2242879752494112
+    },
+    {
+      "index": 40,
+      "start": 70.0,
+      "end": 71.0,
+      "text": "예 알겠습니다",
+      "speaker": "speaker_1",
+      "confidence": -0.2242879752494112
+    },
+    {
+      "index": 41,
+      "start": 71.0,
+      "end": 73.0,
+      "text": "예예",
+      "speaker": "speaker_1",
+      "confidence": -0.2242879752494112
+    },
+    {
+      "index": 42,
+      "start": 73.0,
+      "end": 75.0,
+      "text": "절대로 얘기하시면 안 되고",
+      "speaker": "speaker_1",
+      "confidence": -0.2242879752494112
+    },
+    {
+      "index": 43,
+      "start": 75.0,
+      "end": 77.0,
+      "text": "중요한 서류라고 하면서 전달해 주셔야 돼요",
+      "speaker": "speaker_1",
+      "confidence": -0.2242879752494112
+    },
+    {
+      "index": 44,
+      "start": 77.0,
+      "end": 78.0,
+      "text": "아 네 알겠습니다",
+      "speaker": "speaker_1",
+      "confidence": -0.2242879752494112
+    },
+    {
+      "index": 45,
+      "start": 78.0,
+      "end": 80.0,
+      "text": "네 비율범 맞으시고요",
+      "speaker": "speaker_1",
+      "confidence": -0.2242879752494112
+    },
+    {
+      "index": 46,
+      "start": 80.0,
+      "end": 81.0,
+      "text": "아 네네네",
+      "speaker": "speaker_1",
+      "confidence": -0.2242879752494112
+    },
+    {
+      "index": 47,
+      "start": 81.0,
+      "end": 83.0,
+      "text": "자넥은 다 빼셨고요",
+      "speaker": "speaker_1",
+      "confidence": -0.2242879752494112
+    },
+    {
+      "index": 48,
+      "start": 83.0,
+      "end": 84.0,
+      "text": "네네",
+      "speaker": "speaker_1",
+      "confidence": -0.2242879752494112
+    },
+    {
+      "index": 49,
+      "start": 84.0,
+      "end": 85.0,
+      "text": "네 알겠습니다 고객님",
+      "speaker": "speaker_1",
+      "confidence": -0.2242879752494112
+    },
+    {
+      "index": 50,
+      "start": 85.0,
+      "end": 86.0,
+      "text": "네",
+      "speaker": "speaker_1",
+      "confidence": -0.2242879752494112
+    },
+    {
+      "index": 51,
+      "start": 86.0,
+      "end": 89.0,
+      "text": "아 월요일날 제가 한도 체크 위해서 아침에 전화 한번 드릴 거예요 또",
+      "speaker": "speaker_1",
+      "confidence": -0.19050480241958911
+    },
+    {
+      "index": 52,
+      "start": 89.0,
+      "end": 90.0,
+      "text": "어떤가요?",
+      "speaker": "speaker_1",
+      "confidence": -0.19050480241958911
+    },
+    {
+      "index": 53,
+      "start": 90.0,
+      "end": 92.0,
+      "text": "한도 체크 인출 한도 체크",
+      "speaker": "speaker_1",
+      "confidence": -0.19050480241958911
+    },
+    {
+      "index": 54,
+      "start": 92.0,
+      "end": 95.0,
+      "text": "아 그거 천만원 있는데 보니까",
+      "speaker": "speaker_1",
+      "confidence": -0.19050480241958911
+    },
+    {
+      "index": 55,
+      "start": 95.0,
+      "end": 97.0,
+      "text": "ARS로 통화 해봤어요?",
+      "speaker": "speaker_1",
+      "confidence": -0.19050480241958911
+    },
+    {
+      "index": 56,
+      "start": 97.0,
+      "end": 99.0,
+      "text": "아 근데 제가 얼마 전에 올려놨거든요",
+      "speaker": "speaker_1",
+      "confidence": -0.19050480241958911
+    },
+    {
+      "index": 57,
+      "start": 99.0,
+      "end": 102.0,
+      "text": "혹시 모르시니까 한 번만 더 확인해 주세요",
+      "speaker": "speaker_1",
+      "confidence": -0.19050480241958911
+    },
+    {
+      "index": 58,
+      "start": 102.0,
+      "end": 105.0,
+      "text": "ARS로 전화하셔서 상담사 연결을 하시고",
+      "speaker": "speaker_1",
+      "confidence": -0.19050480241958911
+    },
+    {
+      "index": 59,
+      "start": 105.0,
+      "end": 108.0,
+      "text": "ATM기기 1일 입출금 한도",
+      "speaker": "speaker_1",
+      "confidence": -0.19050480241958911
+    },
+    {
+      "index": 60,
+      "start": 108.0,
+      "end": 109.0,
+      "text": "네네네 알겠습니다",
+      "speaker": "speaker_1",
+      "confidence": -0.19050480241958911
+    },
+    {
+      "index": 61,
+      "start": 109.0,
+      "end": 111.0,
+      "text": "네",
+      "speaker": "speaker_1",
+      "confidence": -0.19050480241958911
+    }
+  ],
+  "engine": "faster-whisper-medium-float16-cuda",
+  "processed_at": 1758154964.0754797,
+  "error": null
+}

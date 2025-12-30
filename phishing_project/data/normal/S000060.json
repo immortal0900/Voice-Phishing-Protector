@@ -1,0 +1,170 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "고객1",
+                    "age": "40대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "상담사1",
+                    "age": "20대",
+                    "gender": "남",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000060/0001.wav",
+                "duration": 2.264,
+                "text": "문의 좀 할까 하는데요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000060/0002.wav",
+                "duration": 5.987,
+                "text": "거기 혹시 그 과학만 따로 뭐 강의 수강 할 수 있어요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000060/0003.wav",
+                "duration": 4.405,
+                "text": "네 저희 단과 강좌로도 과학 따로 수강 가능하십니다"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000060/0004.wav",
+                "duration": 2.441,
+                "text": "어 얼마예요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000060/0005.wav",
+                "duration": 7.437,
+                "text": "저희가 이제 각 강좌마다 선생님들 여러분이 진행을 하고 계셔서 그 강좌마다 가격이나 기간이 차이가 있으세요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000060/0006.wav",
+                "duration": 6.753,
+                "text": "평균적으로 한 (100일)/(백 일) 정도 수강을 하실 수 있는 강좌들 비용 금액대가 (100000원)/(십만 원) 전후반대시거든요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000060/0007.wav",
+                "duration": 6.824,
+                "text": "o/ 아 어 그러면 어휴 이거는 어떻게 해야 되는 건지 몰라 가지고"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000060/0008.wav",
+                "duration": 5.475,
+                "text": "고등학교 (1학년)/(일 학년) 화학을 신청 수강을 좀 해보려고 하는데"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000060/0009.wav",
+                "duration": 9.933,
+                "text": "가장 뭐 잘 뭐 아 그 온라인 상에서 가장 그 선택을 많이 하는 선생님이 어떤 선생님인지?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000060/0010.wav",
+                "duration": 3.032,
+                "text": "화학이라고 하셨나요. 회원님? 과학?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000060/0011.wav",
+                "duration": 4.938,
+                "text": "o/ 아니면은 고 (1)/(일) 탐구 과학인가?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000060/0012.wav",
+                "duration": 2.03,
+                "text": "통합 과학이요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000060/0013.wav",
+                "duration": 10.355,
+                "text": "아니시면 제가 요거 그 학습 저희 지금 상담을 도와드리는 저 같은 경우는 강좌 뭐 결제나 환불 배송 같은 일반 상담을 도와드리고 있고요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000060/0014.wav",
+                "duration": 9.725,
+                "text": "o/ 회원님 그 이제 강좌 추천을 받거나 학습 계획 수립하는 부분으로 별도 상담 부서가 있으셔서 학습 상담으로 저 예약을 잡아드리면 도움이 되실 것 같으세요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000060/0015.wav",
+                "duration": 2.099,
+                "text": "아니요. 그렇진 않아요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000060/0016.wav",
+                "duration": 3.757,
+                "text": "회원님께서 고 (2)/(이)신 거죠? 고 (2)/(이) 학생 회원 분."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000060/0017.wav",
+                "duration": 1.976,
+                "text": "고 (1)/(일)이신 거세요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000060/0018.wav",
+                "duration": 7.971,
+                "text": "그러시면 제가 학습 상담 예약을 잡아드릴 거고요. 어 요거 예약이 진행되시면 저희 쪽에서 회원님께 전화를 드려서 안내를 도와드릴 거예요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000060/0019.wav",
+                "duration": 3.203,
+                "text": "혹시 받으실 연락처 (1)/(하나) 남겨주시겠어요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000060/0020.wav",
+                "duration": 7.284,
+                "text": "예약 진행해드릴 거고요. 저희가 이제 앞전에 다른 예약 건 있으면 그걸 먼저 진행되시고 나서 회원님 순서 때 전화 드릴 거예요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000060/0021.wav",
+                "duration": 5.313,
+                "text": "연락드리실 거라서 보고 받으셔서 이제 필요하신 내용 상담 받으시면 되십니다."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000060/0022.wav",
+                "duration": 2.739,
+                "text": "n/ o/ 오늘 전화 오나요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000060/0023.wav",
+                "duration": 2.467,
+                "text": "예약 진행해 드리겠습니다."
+            }
+        ]
+    }
+}

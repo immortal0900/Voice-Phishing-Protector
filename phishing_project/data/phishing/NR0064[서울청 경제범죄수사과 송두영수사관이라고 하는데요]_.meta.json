@@ -1,0 +1,460 @@
+{
+  "file": "NR0064[서울청 경제범죄수사과 송두영수사관이라고 하는데요]_.mp3",
+  "rel_path": "NR0064[서울청 경제범죄수사과 송두영수사관이라고 하는데요]_.mp3",
+  "language": "ko",
+  "text": "선배입니다 네 여보세요 네 네 하...씨 되십니까 네 아 예 수고하십니다 서울지방경찰청이구요 네 경제범죄수삭과의 송두형 경사라고 합니다 잠시만요 예예 아 예 저기 경제 경제범죄수삭과 범죄수삭과 네 송두형이라고 합니다 송두영... 예예 형사님? 예예 예 그 될 때가 아니고요 예 좀 같은 씨한테 몇 가지만 네 그렇게 좀 있어서 연락을 주는 건데 그 혹시 그 나이는 72년생인데 이름은 *** *** 여성분이구요 네 출신은 *** 출신인데 혹시 본인들이랑 좀 아시는 거 아니겠습니까? 모르는 사람인데요? 뭐 이름도 들어보신 적도 없으신가요? 그렇죠. 그 다름이 아니고 저희가 왜 XXX를 하냐고 열차받냐면요. 저희 수사팀에서 저희가 올해 5월 29일경에 저희가 서울시 강압구 일대에서 금융불법이 있을 수 있지 XXX를 검거를 했습니다. 은행권에서 나오는 것을 저희가 검거를 했는데 이 검거 현장에서 저희가 증거물품을 압수하는 과정에서 대략의 통장과 개인신무증, 대략의 피포먼스가 90년 전에 나가고 있는 거니까 그래서 지금 XXX의 명의로 된 SSE 스탠라드의 통장과 아직 발견이 돼야 하거든요. 그다음에 저희가 이불 한번 걸어내고 그거를 해봤어요. 그래서 5월 18일날 육주를 짓을 때 발견됐습니다. 거기서 이거 이제 모니터링까지 잘 모르는데 뭐, 스탠라드 아니지 그러면? 근데 잘 모르겠네요. 저기 거기가 어디라고요? 서울지방경찰청",
+  "duration_sec": 116.7935,
+  "segments": [
+    {
+      "index": 0,
+      "start": 0.0,
+      "end": 2.32,
+      "text": "선배입니다",
+      "speaker": "speaker_1",
+      "confidence": -0.7974708531083179
+    },
+    {
+      "index": 1,
+      "start": 2.32,
+      "end": 2.9,
+      "text": "네 여보세요",
+      "speaker": "speaker_1",
+      "confidence": -0.7974708531083179
+    },
+    {
+      "index": 2,
+      "start": 2.9,
+      "end": 3.58,
+      "text": "네",
+      "speaker": "speaker_1",
+      "confidence": -0.7974708531083179
+    },
+    {
+      "index": 3,
+      "start": 3.58,
+      "end": 5.78,
+      "text": "네 하...씨 되십니까",
+      "speaker": "speaker_1",
+      "confidence": -0.7974708531083179
+    },
+    {
+      "index": 4,
+      "start": 5.78,
+      "end": 6.98,
+      "text": "네",
+      "speaker": "speaker_1",
+      "confidence": -0.7974708531083179
+    },
+    {
+      "index": 5,
+      "start": 6.98,
+      "end": 8.56,
+      "text": "아 예 수고하십니다",
+      "speaker": "speaker_1",
+      "confidence": -0.7974708531083179
+    },
+    {
+      "index": 6,
+      "start": 8.56,
+      "end": 10.120000000000001,
+      "text": "서울지방경찰청이구요",
+      "speaker": "speaker_1",
+      "confidence": -0.7974708531083179
+    },
+    {
+      "index": 7,
+      "start": 10.120000000000001,
+      "end": 10.66,
+      "text": "네",
+      "speaker": "speaker_1",
+      "confidence": -0.7974708531083179
+    },
+    {
+      "index": 8,
+      "start": 10.66,
+      "end": 13.96,
+      "text": "경제범죄수삭과의 송두형 경사라고 합니다",
+      "speaker": "speaker_1",
+      "confidence": -0.7974708531083179
+    },
+    {
+      "index": 9,
+      "start": 13.96,
+      "end": 15.44,
+      "text": "잠시만요",
+      "speaker": "speaker_1",
+      "confidence": -0.7974708531083179
+    },
+    {
+      "index": 10,
+      "start": 15.44,
+      "end": 16.8,
+      "text": "예예",
+      "speaker": "speaker_1",
+      "confidence": -0.7974708531083179
+    },
+    {
+      "index": 11,
+      "start": 16.8,
+      "end": 18.88,
+      "text": "아 예 저기",
+      "speaker": "speaker_1",
+      "confidence": -0.7974708531083179
+    },
+    {
+      "index": 12,
+      "start": 18.88,
+      "end": 21.8,
+      "text": "경제",
+      "speaker": "speaker_1",
+      "confidence": -0.7974708531083179
+    },
+    {
+      "index": 13,
+      "start": 21.8,
+      "end": 23.8,
+      "text": "경제범죄수삭과",
+      "speaker": "speaker_1",
+      "confidence": -0.7974708531083179
+    },
+    {
+      "index": 14,
+      "start": 23.8,
+      "end": 25.8,
+      "text": "범죄수삭과",
+      "speaker": "speaker_1",
+      "confidence": -0.7974708531083179
+    },
+    {
+      "index": 15,
+      "start": 25.8,
+      "end": 28.42,
+      "text": "네 송두형이라고 합니다",
+      "speaker": "speaker_1",
+      "confidence": -0.7974708531083179
+    },
+    {
+      "index": 16,
+      "start": 28.42,
+      "end": 30.42,
+      "text": "송두영...",
+      "speaker": "speaker_1",
+      "confidence": -1.0283423514261734
+    },
+    {
+      "index": 17,
+      "start": 30.720000000000002,
+      "end": 31.220000000000002,
+      "text": "예예",
+      "speaker": "speaker_1",
+      "confidence": -1.0283423514261734
+    },
+    {
+      "index": 18,
+      "start": 31.220000000000002,
+      "end": 32.82,
+      "text": "형사님?",
+      "speaker": "speaker_1",
+      "confidence": -1.0283423514261734
+    },
+    {
+      "index": 19,
+      "start": 32.82,
+      "end": 33.300000000000004,
+      "text": "예예",
+      "speaker": "speaker_1",
+      "confidence": -1.0283423514261734
+    },
+    {
+      "index": 20,
+      "start": 33.300000000000004,
+      "end": 34.1,
+      "text": "예",
+      "speaker": "speaker_1",
+      "confidence": -1.0283423514261734
+    },
+    {
+      "index": 21,
+      "start": 34.1,
+      "end": 35.620000000000005,
+      "text": "그 될 때가 아니고요",
+      "speaker": "speaker_1",
+      "confidence": -1.0283423514261734
+    },
+    {
+      "index": 22,
+      "start": 35.620000000000005,
+      "end": 36.120000000000005,
+      "text": "예",
+      "speaker": "speaker_1",
+      "confidence": -1.0283423514261734
+    },
+    {
+      "index": 23,
+      "start": 36.120000000000005,
+      "end": 38.660000000000004,
+      "text": "좀 같은 씨한테 몇 가지만",
+      "speaker": "speaker_1",
+      "confidence": -1.0283423514261734
+    },
+    {
+      "index": 24,
+      "start": 38.660000000000004,
+      "end": 39.160000000000004,
+      "text": "네",
+      "speaker": "speaker_1",
+      "confidence": -1.0283423514261734
+    },
+    {
+      "index": 25,
+      "start": 39.160000000000004,
+      "end": 40.92,
+      "text": "그렇게 좀 있어서 연락을 주는 건데",
+      "speaker": "speaker_1",
+      "confidence": -1.0283423514261734
+    },
+    {
+      "index": 26,
+      "start": 40.92,
+      "end": 42.46,
+      "text": "그 혹시",
+      "speaker": "speaker_1",
+      "confidence": -1.0283423514261734
+    },
+    {
+      "index": 27,
+      "start": 42.46,
+      "end": 45.660000000000004,
+      "text": "그 나이는 72년생인데",
+      "speaker": "speaker_1",
+      "confidence": -1.0283423514261734
+    },
+    {
+      "index": 28,
+      "start": 45.660000000000004,
+      "end": 46.5,
+      "text": "이름은",
+      "speaker": "speaker_1",
+      "confidence": -1.0283423514261734
+    },
+    {
+      "index": 29,
+      "start": 46.5,
+      "end": 48.86,
+      "text": "*** *** 여성분이구요",
+      "speaker": "speaker_1",
+      "confidence": -1.0283423514261734
+    },
+    {
+      "index": 30,
+      "start": 48.86,
+      "end": 49.36,
+      "text": "네",
+      "speaker": "speaker_1",
+      "confidence": -1.0283423514261734
+    },
+    {
+      "index": 31,
+      "start": 49.36,
+      "end": 51.36,
+      "text": "출신은 *** 출신인데",
+      "speaker": "speaker_1",
+      "confidence": -1.0283423514261734
+    },
+    {
+      "index": 32,
+      "start": 51.36,
+      "end": 53.36,
+      "text": "혹시 본인들이랑 좀 아시는 거 아니겠습니까?",
+      "speaker": "speaker_1",
+      "confidence": -1.0283423514261734
+    },
+    {
+      "index": 33,
+      "start": 53.36,
+      "end": 55.36,
+      "text": "모르는 사람인데요?",
+      "speaker": "speaker_1",
+      "confidence": -1.0283423514261734
+    },
+    {
+      "index": 34,
+      "start": 55.36,
+      "end": 57.52,
+      "text": "뭐 이름도 들어보신 적도 없으신가요?",
+      "speaker": "speaker_1",
+      "confidence": -1.0283423514261734
+    },
+    {
+      "index": 35,
+      "start": 57.52,
+      "end": 60.080000000000005,
+      "text": "그렇죠.",
+      "speaker": "speaker_1",
+      "confidence": -0.3290929203539823
+    },
+    {
+      "index": 36,
+      "start": 60.080000000000005,
+      "end": 64.0,
+      "text": "그 다름이 아니고 저희가 왜 XXX를 하냐고 열차받냐면요.",
+      "speaker": "speaker_1",
+      "confidence": -0.3290929203539823
+    },
+    {
+      "index": 37,
+      "start": 64.0,
+      "end": 68.8,
+      "text": "저희 수사팀에서 저희가 올해 5월 29일경에",
+      "speaker": "speaker_1",
+      "confidence": -0.3290929203539823
+    },
+    {
+      "index": 38,
+      "start": 68.8,
+      "end": 74.84,
+      "text": "저희가 서울시 강압구 일대에서 금융불법이 있을 수 있지 XXX를 검거를 했습니다.",
+      "speaker": "speaker_1",
+      "confidence": -0.3290929203539823
+    },
+    {
+      "index": 39,
+      "start": 74.84,
+      "end": 78.12,
+      "text": "은행권에서 나오는 것을 저희가 검거를 했는데",
+      "speaker": "speaker_1",
+      "confidence": -0.3290929203539823
+    },
+    {
+      "index": 40,
+      "start": 78.12,
+      "end": 82.52000000000001,
+      "text": "이 검거 현장에서 저희가 증거물품을 압수하는 과정에서",
+      "speaker": "speaker_1",
+      "confidence": -0.3290929203539823
+    },
+    {
+      "index": 41,
+      "start": 83.2,
+      "end": 86.96,
+      "text": "대략의 통장과 개인신무증, 대략의 피포먼스가",
+      "speaker": "speaker_1",
+      "confidence": -0.18355300691392687
+    },
+    {
+      "index": 42,
+      "start": 86.96,
+      "end": 89.44,
+      "text": "90년 전에 나가고 있는 거니까",
+      "speaker": "speaker_1",
+      "confidence": -0.18355300691392687
+    },
+    {
+      "index": 43,
+      "start": 89.44,
+      "end": 92.67999999999999,
+      "text": "그래서 지금 XXX의 명의로 된",
+      "speaker": "speaker_1",
+      "confidence": -0.8240740519982798
+    },
+    {
+      "index": 44,
+      "start": 92.67999999999999,
+      "end": 95.88,
+      "text": "SSE 스탠라드의 통장과",
+      "speaker": "speaker_1",
+      "confidence": -0.8240740519982798
+    },
+    {
+      "index": 45,
+      "start": 95.88,
+      "end": 98.88,
+      "text": "아직 발견이 돼야 하거든요.",
+      "speaker": "speaker_1",
+      "confidence": -0.8240740519982798
+    },
+    {
+      "index": 46,
+      "start": 98.88,
+      "end": 100.88,
+      "text": "그다음에 저희가 이불 한번 걸어내고",
+      "speaker": "speaker_1",
+      "confidence": -0.8240740519982798
+    },
+    {
+      "index": 47,
+      "start": 100.88,
+      "end": 102.36,
+      "text": "그거를 해봤어요.",
+      "speaker": "speaker_1",
+      "confidence": -0.8240740519982798
+    },
+    {
+      "index": 48,
+      "start": 102.36,
+      "end": 104.36,
+      "text": "그래서 5월 18일날",
+      "speaker": "speaker_1",
+      "confidence": -0.8240740519982798
+    },
+    {
+      "index": 49,
+      "start": 104.36,
+      "end": 106.36,
+      "text": "육주를 짓을 때 발견됐습니다.",
+      "speaker": "speaker_1",
+      "confidence": -0.8240740519982798
+    },
+    {
+      "index": 50,
+      "start": 106.36,
+      "end": 107.32,
+      "text": "거기서",
+      "speaker": "speaker_1",
+      "confidence": -0.8240740519982798
+    },
+    {
+      "index": 51,
+      "start": 107.32,
+      "end": 109.32,
+      "text": "이거 이제 모니터링까지 잘 모르는데",
+      "speaker": "speaker_1",
+      "confidence": -0.8240740519982798
+    },
+    {
+      "index": 52,
+      "start": 109.32,
+      "end": 111.32,
+      "text": "뭐, 스탠라드 아니지 그러면?",
+      "speaker": "speaker_1",
+      "confidence": -0.8240740519982798
+    },
+    {
+      "index": 53,
+      "start": 112.12,
+      "end": 113.52,
+      "text": "근데 잘 모르겠네요.",
+      "speaker": "speaker_1",
+      "confidence": -0.8240740519982798
+    },
+    {
+      "index": 54,
+      "start": 113.52,
+      "end": 115.52,
+      "text": "저기 거기가 어디라고요?",
+      "speaker": "speaker_1",
+      "confidence": -0.8240740519982798
+    },
+    {
+      "index": 55,
+      "start": 115.52,
+      "end": 117.52,
+      "text": "서울지방경찰청",
+      "speaker": "speaker_1",
+      "confidence": -0.8240740519982798
+    }
+  ],
+  "engine": "faster-whisper-medium-float16-cuda",
+  "processed_at": 1758158787.080419,
+  "error": null
+}

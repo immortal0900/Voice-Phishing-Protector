@@ -1,0 +1,154 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "고객1",
+                    "age": "10대",
+                    "gender": "남",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "상담사1",
+                    "age": "20대",
+                    "gender": "남",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "3",
+                    "type": "고객2",
+                    "age": "40대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000057/0001.wav",
+                "duration": 4.44,
+                "text": "어 제가 방금 전에 연락을 드렸었는데"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000057/0002.wav",
+                "duration": 5.496,
+                "text": "전화를 못 받았거든요. 그니까 상담 관련해 가지고 그분이 답변을 주신다고 했는데."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000057/0003.wav",
+                "duration": 8.152,
+                "text": "어떤 여성 여성분께서 전화 받으셔 가지고 그렇게 말씀하셨는데 제가 (알) 그거를 전화를 못 받았어요. 그래서 어떻게 해야 되는지?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000057/0004.wav",
+                "duration": 4.691,
+                "text": "아 네 저희가 확인을 위해서 학생 회원분의 아이디나 연락처 어떻게 되실까요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000057/0005.wav",
+                "duration": 8.044,
+                "text": "o/ 아 네 지금 회원님께서 혹시 수시 지원 전략에 대해서 (이십) 입시 상담 문의 주신 거 맞으실까요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000057/0006.wav",
+                "duration": 3.331,
+                "text": "네네네네 그 답변 주신다고 했는데"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000057/0007.wav",
+                "duration": 2.483,
+                "text": "제가 전화를 못 받아 가지고"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000057/0008.wav",
+                "duration": 3.389,
+                "text": "아 네 저희가 해당 부분 안내를 드리자면요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000057/0009.wav",
+                "duration": 3.24,
+                "text": "잠시만 기다려주세요. 예 기다려 주셔서 감사합니다."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000057/0010.wav",
+                "duration": 10.111,
+                "text": "o/ 지금 학습 상담 같은 경우에는 저희가 (1시)/(한 시)부터 진행이 되시고 순차적으로 진행하다 보니까 대기 시간 소요될 수 있는 부분 참고해 주시면 되겠고요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000057/0011.wav",
+                "duration": 4.392,
+                "text": "근데 저 수시 전략 그거 말씀하시는 거 맞죠?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000057/0012.wav",
+                "duration": 6.951,
+                "text": "o/ 네네 회원님께서 그거 관해서 학습 상담과 문의 주신 거 맞으시지 않으신가요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000057/0013.wav",
+                "duration": 5.082,
+                "text": "네네 맞아요. 지원 전략 관련해 가지고 신청을 하고 싶다고 했는데."
+            },
+            {
+                "speaker": "3",
+                "audioPath": "D01/J01/S000057/0014.wav",
+                "duration": 6.099,
+                "text": "o/ 그 예예 학습 전략이 아니라 수시 지원 전략 컨설팅 받으려고"
+            },
+            {
+                "speaker": "3",
+                "audioPath": "D01/J01/S000057/0015.wav",
+                "duration": 4.675,
+                "text": "그 인제 전용 회선은 계속 통화 중이더라고요. 전화 연결이 안되고."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000057/0016.wav",
+                "duration": 4.041,
+                "text": "o/ 네네 아 그 지금 저희가 확인해 봤는데요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000057/0017.wav",
+                "duration": 7.171,
+                "text": "o/ 상담해 주셨던 그 상담사 님께서 이제 연락 주신다 하셔 가지고 저희가 (()) 곧 연락 드릴 수 있도록 하겠습니다."
+            },
+            {
+                "speaker": "3",
+                "audioPath": "D01/J01/S000057/0018.wav",
+                "duration": 5.341,
+                "text": "아니 그분이 연락을 주셨었거든요. 근데 다시 주신다는 말씀이세요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000057/0019.wav",
+                "duration": 2.883,
+                "text": "네네 지금 바로 연락 드릴 수 있도록 하겠습니다."
+            }
+        ]
+    }
+}

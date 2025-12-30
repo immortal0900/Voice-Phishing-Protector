@@ -1,0 +1,260 @@
+{
+  "file": "NR6021_마스킹 완료(개인계좌로 상환하라는 금융회사)_.mp3",
+  "rel_path": "NR6021_마스킹 완료(개인계좌로 상환하라는 금융회사)_.mp3",
+  "language": "ko",
+  "text": "네 말씀해주세요 네 신한은행이구요 하나하나공 네 한번 불러보시겠어요? 아 제가 녹음을 시켰거든요 아 녹음을 시켰다고요? 아 네네네 아 그러세요? 어 그 입금자 성함은 김... 법인 팀장님으로 나오실거구요 속으로 처리하시면 저희 팀장님께서 자금 대기를 해놓으셨다가 한 번에도 제가 안내해드렸듯이 별도의 서류첨부나 심사필요없이 저희 자금 쓰셨던 그대로 반환 처리가 가능하신거고 반환 가능하신 그 고객님 그 처리하실 때 빠른 처리 위해서 어느 은행에서 누구명이로 하시는거죠? 김... 아 그러세요? 시간은 얼마나 걸리실까요? 한 5분도 안걸릴거 같아요 네 알겠습니다 제가 이 부분 바로 촬영 찍어가지고 보내드릴거고 저희 쪽에서는 바로 확인이 되십니다 그니까 처리하시고 하나조 측 쪽에 전화를 하셔가지고요 전산되기만 조금 해달라고 요청해주시겠어요? 네 알겠습니다 네 감사합니다",
+  "duration_sec": 66.7341875,
+  "segments": [
+    {
+      "index": 0,
+      "start": 0.0,
+      "end": 2.0,
+      "text": "네 말씀해주세요",
+      "speaker": "speaker_1",
+      "confidence": -0.3341346254142431
+    },
+    {
+      "index": 1,
+      "start": 2.0,
+      "end": 4.0,
+      "text": "네 신한은행이구요",
+      "speaker": "speaker_1",
+      "confidence": -0.3341346254142431
+    },
+    {
+      "index": 2,
+      "start": 4.0,
+      "end": 6.0,
+      "text": "하나하나공",
+      "speaker": "speaker_1",
+      "confidence": -0.3341346254142431
+    },
+    {
+      "index": 3,
+      "start": 10.0,
+      "end": 12.0,
+      "text": "네 한번 불러보시겠어요?",
+      "speaker": "speaker_1",
+      "confidence": -0.3341346254142431
+    },
+    {
+      "index": 4,
+      "start": 12.0,
+      "end": 14.0,
+      "text": "아 제가 녹음을 시켰거든요",
+      "speaker": "speaker_1",
+      "confidence": -0.3341346254142431
+    },
+    {
+      "index": 5,
+      "start": 14.0,
+      "end": 16.0,
+      "text": "아 녹음을 시켰다고요?",
+      "speaker": "speaker_1",
+      "confidence": -0.3341346254142431
+    },
+    {
+      "index": 6,
+      "start": 16.0,
+      "end": 18.0,
+      "text": "아 네네네",
+      "speaker": "speaker_1",
+      "confidence": -0.3341346254142431
+    },
+    {
+      "index": 7,
+      "start": 18.0,
+      "end": 20.0,
+      "text": "아 그러세요?",
+      "speaker": "speaker_1",
+      "confidence": -0.3341346254142431
+    },
+    {
+      "index": 8,
+      "start": 20.0,
+      "end": 22.0,
+      "text": "어 그 입금자 성함은",
+      "speaker": "speaker_1",
+      "confidence": -0.3341346254142431
+    },
+    {
+      "index": 9,
+      "start": 22.0,
+      "end": 24.0,
+      "text": "김...",
+      "speaker": "speaker_1",
+      "confidence": -0.3341346254142431
+    },
+    {
+      "index": 10,
+      "start": 24.0,
+      "end": 26.0,
+      "text": "법인 팀장님으로 나오실거구요",
+      "speaker": "speaker_1",
+      "confidence": -0.3341346254142431
+    },
+    {
+      "index": 11,
+      "start": 26.0,
+      "end": 28.0,
+      "text": "속으로 처리하시면",
+      "speaker": "speaker_1",
+      "confidence": -0.3341346254142431
+    },
+    {
+      "index": 12,
+      "start": 28.0,
+      "end": 30.0,
+      "text": "저희 팀장님께서 자금 대기를 해놓으셨다가",
+      "speaker": "speaker_1",
+      "confidence": -0.2237723202755054
+    },
+    {
+      "index": 13,
+      "start": 30.0,
+      "end": 32.0,
+      "text": "한 번에도 제가 안내해드렸듯이",
+      "speaker": "speaker_1",
+      "confidence": -0.2237723202755054
+    },
+    {
+      "index": 14,
+      "start": 32.0,
+      "end": 34.0,
+      "text": "별도의 서류첨부나 심사필요없이",
+      "speaker": "speaker_1",
+      "confidence": -0.2237723202755054
+    },
+    {
+      "index": 15,
+      "start": 34.0,
+      "end": 36.0,
+      "text": "저희 자금 쓰셨던 그대로 반환 처리가 가능하신거고",
+      "speaker": "speaker_1",
+      "confidence": -0.2237723202755054
+    },
+    {
+      "index": 16,
+      "start": 36.0,
+      "end": 38.0,
+      "text": "반환 가능하신 그",
+      "speaker": "speaker_1",
+      "confidence": -0.2237723202755054
+    },
+    {
+      "index": 17,
+      "start": 38.0,
+      "end": 40.0,
+      "text": "고객님 그 처리하실 때",
+      "speaker": "speaker_1",
+      "confidence": -0.2237723202755054
+    },
+    {
+      "index": 18,
+      "start": 40.0,
+      "end": 42.0,
+      "text": "빠른 처리 위해서 어느 은행에서",
+      "speaker": "speaker_1",
+      "confidence": -0.2237723202755054
+    },
+    {
+      "index": 19,
+      "start": 42.0,
+      "end": 44.0,
+      "text": "누구명이로 하시는거죠?",
+      "speaker": "speaker_1",
+      "confidence": -0.2237723202755054
+    },
+    {
+      "index": 20,
+      "start": 44.0,
+      "end": 46.0,
+      "text": "김...",
+      "speaker": "speaker_1",
+      "confidence": -0.2237723202755054
+    },
+    {
+      "index": 21,
+      "start": 46.0,
+      "end": 48.0,
+      "text": "아 그러세요? 시간은 얼마나 걸리실까요?",
+      "speaker": "speaker_1",
+      "confidence": -0.2237723202755054
+    },
+    {
+      "index": 22,
+      "start": 48.0,
+      "end": 50.0,
+      "text": "한 5분도 안걸릴거 같아요",
+      "speaker": "speaker_1",
+      "confidence": -0.2237723202755054
+    },
+    {
+      "index": 23,
+      "start": 50.0,
+      "end": 52.0,
+      "text": "네 알겠습니다 제가 이 부분 바로",
+      "speaker": "speaker_1",
+      "confidence": -0.2237723202755054
+    },
+    {
+      "index": 24,
+      "start": 52.0,
+      "end": 54.0,
+      "text": "촬영 찍어가지고 보내드릴거고",
+      "speaker": "speaker_1",
+      "confidence": -0.2237723202755054
+    },
+    {
+      "index": 25,
+      "start": 54.0,
+      "end": 56.0,
+      "text": "저희 쪽에서는 바로 확인이 되십니다",
+      "speaker": "speaker_1",
+      "confidence": -0.2237723202755054
+    },
+    {
+      "index": 26,
+      "start": 56.0,
+      "end": 58.0,
+      "text": "그니까 처리하시고",
+      "speaker": "speaker_1",
+      "confidence": -0.2570312625169754
+    },
+    {
+      "index": 27,
+      "start": 58.0,
+      "end": 60.0,
+      "text": "하나조 측 쪽에 전화를 하셔가지고요",
+      "speaker": "speaker_1",
+      "confidence": -0.2570312625169754
+    },
+    {
+      "index": 28,
+      "start": 60.0,
+      "end": 62.0,
+      "text": "전산되기만 조금 해달라고 요청해주시겠어요?",
+      "speaker": "speaker_1",
+      "confidence": -0.2570312625169754
+    },
+    {
+      "index": 29,
+      "start": 62.0,
+      "end": 64.0,
+      "text": "네 알겠습니다",
+      "speaker": "speaker_1",
+      "confidence": -0.2570312625169754
+    },
+    {
+      "index": 30,
+      "start": 64.0,
+      "end": 66.0,
+      "text": "네 감사합니다",
+      "speaker": "speaker_1",
+      "confidence": -0.2570312625169754
+    }
+  ],
+  "engine": "faster-whisper-medium-float16-cuda",
+  "processed_at": 1758154964.0754797,
+  "error": null
+}

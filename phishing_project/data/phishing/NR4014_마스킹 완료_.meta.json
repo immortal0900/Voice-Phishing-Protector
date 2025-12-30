@@ -1,0 +1,76 @@
+{
+  "file": "NR4014_마스킹 완료_.mp3",
+  "rel_path": "NR4014_마스킹 완료_.mp3",
+  "language": "ko",
+  "text": "안녕하세요? 여보세요? 네 네. XXXX이 되십니까? 누구세요? 아 안녕하세요? 서울정합지음이고요 저는 천담험재사팀의 박진삭 수장원입니다 아 네 전 잘못 꼬셨어요",
+  "duration_sec": 16.2075625,
+  "segments": [
+    {
+      "index": 0,
+      "start": 0.0,
+      "end": 0.84,
+      "text": "안녕하세요?",
+      "speaker": "speaker_1",
+      "confidence": -1.1234690359660557
+    },
+    {
+      "index": 1,
+      "start": 0.84,
+      "end": 1.34,
+      "text": "여보세요?",
+      "speaker": "speaker_1",
+      "confidence": -1.1234690359660557
+    },
+    {
+      "index": 2,
+      "start": 1.34,
+      "end": 1.84,
+      "text": "네",
+      "speaker": "speaker_1",
+      "confidence": -1.1234690359660557
+    },
+    {
+      "index": 3,
+      "start": 2.9,
+      "end": 4.48,
+      "text": "네. XXXX이 되십니까?",
+      "speaker": "speaker_1",
+      "confidence": -1.1234690359660557
+    },
+    {
+      "index": 4,
+      "start": 4.48,
+      "end": 5.2,
+      "text": "누구세요?",
+      "speaker": "speaker_1",
+      "confidence": -1.1234690359660557
+    },
+    {
+      "index": 5,
+      "start": 5.2,
+      "end": 8.0,
+      "text": "아 안녕하세요? 서울정합지음이고요",
+      "speaker": "speaker_1",
+      "confidence": -1.1234690359660557
+    },
+    {
+      "index": 6,
+      "start": 8.0,
+      "end": 11.4,
+      "text": "저는 천담험재사팀의 박진삭 수장원입니다",
+      "speaker": "speaker_1",
+      "confidence": -1.1234690359660557
+    },
+    {
+      "index": 7,
+      "start": 12.8,
+      "end": 14.38,
+      "text": "아 네 전 잘못 꼬셨어요",
+      "speaker": "speaker_1",
+      "confidence": -1.1234690359660557
+    }
+  ],
+  "engine": "faster-whisper-medium-float16-cuda",
+  "processed_at": 1758158787.080419,
+  "error": null
+}

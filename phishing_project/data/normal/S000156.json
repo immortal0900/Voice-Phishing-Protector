@@ -1,0 +1,80 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "고객1",
+                    "age": "50대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "상담사1",
+                    "age": "30대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000156/0001.wav",
+                "duration": 4.595,
+                "text": "예 이게 구매하기가 그냥 구매가 안되네요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000156/0002.wav",
+                "duration": 5.885,
+                "text": "o/ 아 어머니 혹시 지금 로그인하신 저희 계정 학부모 회원님 계정으로 로그인하신 건가요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000156/0003.wav",
+                "duration": 5.101,
+                "text": "아 어머니 저희가 학부모 회원님은 이제 자녀 관리만 가능하시고"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000156/0004.wav",
+                "duration": 4.665,
+                "text": "o/ 결제나 수강은 이제 학생 회원님 계정만 가능하세요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000156/0005.wav",
+                "duration": 3.757,
+                "text": "o/ 지금 어떻게 들어가서 해야 되는 건가요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000156/0006.wav",
+                "duration": 6.626,
+                "text": "이제 어머님께서 이제 학생 회원님 아이디랑 패스워드 입력하셔서 로그인하셔가지고"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000156/0007.wav",
+                "duration": 4.488,
+                "text": "결제를 진행해 주시면 이제 학생 회원님께서 수강이 가능하시거든요. 어머님."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000156/0008.wav",
+                "duration": 2.749,
+                "text": "n/ o/ 감사합니다. 좋은 하루 되세요."
+            }
+        ]
+    }
+}

@@ -1,0 +1,134 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "고객1",
+                    "age": "40대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "상담사1",
+                    "age": "20대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000048/0001.wav",
+                "duration": 3.924,
+                "text": "학습지원센터입니다. 무엇을 도와드릴까요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000048/0002.wav",
+                "duration": 2.325,
+                "text": "네 수고 많으세요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000048/0003.wav",
+                "duration": 4.659,
+                "text": "네 인터넷에서 좀 찾아보다가 궁금한 게 생겨서 연락 드렸는데요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000048/0004.wav",
+                "duration": 5.544,
+                "text": "애초에 선생님 이름을 (()) 하시면 선생님 홈페이지 같은 게 나와요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000048/0005.wav",
+                "duration": 3.624,
+                "text": "o/ 죄송한데 좀 천천히 천천히 말씀해 주시겠어요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000048/0006.wav",
+                "duration": 8.945,
+                "text": "o/ 네네 선생님 이름 자체를 클릭을 해주시면요. 선생님 페이지 홈페이지처럼 나와요. 창이"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000048/0007.wav",
+                "duration": 5.885,
+                "text": "혹시 그러면 그 지금 질문을 하신다는 게 수업에 대한 질문을 말씀하시는 건가요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000048/0008.wav",
+                "duration": 6.87,
+                "text": "예예 수업을 하다가 뭐 질문을 예예 질문을 하고 싶은데 아 그럼 창에 그게 뜬다는 거예요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000048/0009.wav",
+                "duration": 6.089,
+                "text": "o/ 그쵸. (()) 거기다 강좌도 어떤 게 있는지 다 확인을 하실 수가 있는 거고요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000048/0010.wav",
+                "duration": 9.064,
+                "text": "o/ 일단 그 게시판을 학습 (Q&A)/(큐앤에이)라고 있는데 그쪽에서 질문을 다 하시는 거세요. 클린 학습 (Q&A)/(큐앤에이)라고."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000048/0011.wav",
+                "duration": 4.477,
+                "text": "아 그러면 이걸 이제 따로 뭐 ((xx사항)) 이라든가"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000048/0012.wav",
+                "duration": 3.08,
+                "text": "그런 식으로는 질문을 할 수가 없고요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000048/0013.wav",
+                "duration": 10.621,
+                "text": "o/ 네네 일단은 수업에 대한 질문만 가능하신 거고요. 일단 질문을 하시려면 기본적으로 강좌랑 교재 구매는 하셔야 되시고 다 하시지는 않고 출강하시는 경우는"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000048/0014.wav",
+                "duration": 4.451,
+                "text": "여기서 뭐 가까운 그 출강하시는 그런 학원이 있어요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000048/0015.wav",
+                "duration": 12.462,
+                "text": "o/ 지금 저희가 출강하시는 학원 같은 경우에는 지금 프로필 상에서 확인이 가능하시거든요. 선생님 그 (()) 홈페이지 들어가시면 여기 선생님 사진 밑에 프로필이 있어요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000048/0016.wav",
+                "duration": 11.743,
+                "text": "o/ 거기 들어 클릭해보시면 선생님이 어디 출강을 하고 계시는지 출강을 안 하시면 아예 적혀있지 않고요. 출강하시는 학원 계시면은 어디서 출강하시는지 나와있어요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000048/0017.wav",
+                "duration": 2.334,
+                "text": "아 네네 잘 알겠습니다."
+            }
+        ]
+    }
+}

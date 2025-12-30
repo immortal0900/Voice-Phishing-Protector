@@ -1,0 +1,152 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "상담사1",
+                    "age": "20대",
+                    "gender": "남",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "고객1",
+                    "age": "40대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000333/0001.wav",
+                "duration": 13.213,
+                "text": "o/ 아 먼저 회원가입을 해주실 때 이제 학생 회원이랑 이제 뭐 학부모 회원이 있는데요. 학생 회원으로 가입을 해주셔야지만이 강의 수강이나 이제 신청이 가능하셔서"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000333/0002.wav",
+                "duration": 19.453,
+                "text": "o/ 학생회원으로 이제 회원가입을 해주시고 이제는 뭐 강좌 같은 경우에는 저희가 단과 강좌나 단과 강좌가 한 (2)/(두) (3개)/(세 개) 정도 묶여있는 패키지 강좌가 있고요. 이 패키지 강좌 외에도 이 (3가지)/(세 가지) 유형 중에서 (1가지)/(한 가지)를 선택해 주셔가지고 수강 신청하신 후에 이제 강의와 또 이제"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000333/0003.wav",
+                "duration": 2.867,
+                "text": "어 강의를 수강하실 수 있으세요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000333/0004.wav",
+                "duration": 4.957,
+                "text": "안된다고요? (()) 어떤 걸로 되있는 건가요? 아 인강 사이트로요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000333/0005.wav",
+                "duration": 3.2,
+                "text": "회사 안에 중등이고 이제"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000333/0006.wav",
+                "duration": 5.501,
+                "text": "o/ 고등을 이렇게 따로 운영이 되고 있고 뭐 서비스센터도 따로 운영이 되고 있어요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000333/0007.wav",
+                "duration": 2.463,
+                "text": "아 따로 돼 있는 거예요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000333/0008.wav",
+                "duration": 5.848,
+                "text": "네 학원으로 그럼 등록이 안되있는 거다 그죠? 아 네 알겠습니다."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000333/0009.wav",
+                "duration": 2.307,
+                "text": "네 감사합니다."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000333/0010.wav",
+                "duration": 2.769,
+                "text": "네 여보세요? 잠시만요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000333/0011.wav",
+                "duration": 11.267,
+                "text": "저희가 확인 한번 해볼게요. 무통장입금이나 이제 뭐 신용카드 뭐 (ARS)/(에이알에스) 신용카드 결제나 인터넷 계좌이체를 통해서만이 결제가 가능하세요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000333/0012.wav",
+                "duration": 5.421,
+                "text": "거기 위에 적힌 뭐 캐시라는 (()) 어 따른 건가요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000333/0013.wav",
+                "duration": 4.381,
+                "text": "네 그거는 똑같이 그냥 현금으로 똑같이 충전해서 쓰는 건가요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000333/0014.wav",
+                "duration": 4.253,
+                "text": "캐시를 사용하는 방법에 대해서 말씀하시는 걸까요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000333/0015.wav",
+                "duration": 2.378,
+                "text": "충전하는 방법요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000333/0016.wav",
+                "duration": 4.595,
+                "text": "아 충전하는 방법은 b/ 사이트에 들어가신 다음에"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000333/0017.wav",
+                "duration": 4.253,
+                "text": "o/ 피씨에 보시면은 이제 마이페이지가 있으세요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000333/0018.wav",
+                "duration": 6.84,
+                "text": "o/ 그 마이페이지에 이제 캐시라는 버튼이 있거든요? 그 충전하기 버튼을 클릭하셔가지고 충전이 가능하세요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000333/0019.wav",
+                "duration": 4.935,
+                "text": "o/ 아 고렇게요? 아 네 알겠습니다. 고맙습니다."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000333/0020.wav",
+                "duration": 1.839,
+                "text": "예 감사합니다."
+            }
+        ]
+    }
+}

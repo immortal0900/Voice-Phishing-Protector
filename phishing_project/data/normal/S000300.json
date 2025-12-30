@@ -1,0 +1,290 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "상담사1",
+                    "age": "20대",
+                    "gender": "남",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "고객1",
+                    "age": "40대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000300/0001.wav",
+                "duration": 1.811,
+                "text": "무엇을 도와 드릴까요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000300/0002.wav",
+                "duration": 3.837,
+                "text": "선생님 생명 (1)/(원) 수업을 듣고 있는데"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000300/0003.wav",
+                "duration": 6.097,
+                "text": "그 기본 개념을 듣고 있고 그 다음에 상크스 라는게 있던데 그 상크스가 뭡니까?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000300/0004.wav",
+                "duration": 3.88,
+                "text": "강의마다 상크스 상크스 이야기하던데"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000300/0005.wav",
+                "duration": 2.653,
+                "text": "샹크스 말씀하시는 건가요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000300/0006.wav",
+                "duration": 7.639,
+                "text": "어 네 일단은 제가 (1번)/(한 번) 들어가서 확인을 해볼게요. 잠시만. 그 어머님께서 말씀하신 그 상크스라고 말씀 말씀을 해주셨는데"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000300/0007.wav",
+                "duration": 2.121,
+                "text": "지금 확인해보니까"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000300/0008.wav",
+                "duration": 5.961,
+                "text": "해당 강좌는 상위권을 위한 크리티컬 스킬이란 강좌이신 거 같거든요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000300/0009.wav",
+                "duration": 2.109,
+                "text": "줄임말인것 같습니다."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000300/0010.wav",
+                "duration": 6.227,
+                "text": "o/ 줄임말인것 같습니다. 상위권을 위한 크리티컬 스킬 줄임말이 상크스인거"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000300/0011.wav",
+                "duration": 4.147,
+                "text": "아 그게 그면 생명과학 (1)/(원)입니까?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000300/0012.wav",
+                "duration": 5.789,
+                "text": "o/ 아 그렇구나. 그러면 애가 고 (2)/(이)인데 지금 이제"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000300/0013.wav",
+                "duration": 4.712,
+                "text": "기본개념을 듣고 그걸 듣는 게 괜찮습니까? 어떻습니까?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000300/0014.wav",
+                "duration": 6.888,
+                "text": "o/ 어 일단 확인을 해봐야 되는데 ((잠시만)) 고 (2)/(이)라고 하셨는데요. 이 강좌 목적을 확인해 보니까"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000300/0015.wav",
+                "duration": 7.124,
+                "text": "o/ 생명 과학 (1)/(원)에 필요한 모든 스킬을 총정리한 가 강의라서 (10000점)/(만 점)과 (1등)/(일 등)을 원한다면 수강을 하셔야 되는데"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000300/0016.wav",
+                "duration": 6.941,
+                "text": "o/ 일단 고난도 스킬 (14가지)/(열 네 가지) 학습에 대한 내용 이루어지고 아마 이전 같은 문제나 뭐"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000300/0017.wav",
+                "duration": 5.502,
+                "text": "o/ 것들에 대한 좀 고난이도에 대한 스킬들을 강의해 주시는 것 같으세요. 그래서"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000300/0018.wav",
+                "duration": 5.096,
+                "text": "o/ 그러면 그거는 어 그거 책도 있습니까? 문제집?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000300/0019.wav",
+                "duration": 2.504,
+                "text": "o/ 그 책도 사야 돼죠?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000300/0020.wav",
+                "duration": 5.416,
+                "text": "그러면 아까 다시 (1번)/(한 번)만 더 불러주 그 문자로 (1)/(하나)만 그 제가 지금 밖이라"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000300/0021.wav",
+                "duration": 6.224,
+                "text": "o/ 최상위권을 위한 뭐라고요? 좀 (1)/(하나)만 보내주실 수 없어요? ((손에 적는 게)) 없어가지고."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000300/0022.wav",
+                "duration": 2.679,
+                "text": "아 네 회원님 우선은 그"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000300/0023.wav",
+                "duration": 5.415,
+                "text": "o/ 강좌 내용에 보시면은 그 내용 및 특징이 나와있거든요. 그래서"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000300/0024.wav",
+                "duration": 5.809,
+                "text": "o/ 따로 뭐 적어드릴 필요는 없으실 (없어 없을) 거는 같고요. 사이트 들어가서"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000300/0025.wav",
+                "duration": 7.229,
+                "text": "o/ 페이지에 들어가시면 강좌 제목이 뉴 (2022)/(이천 이십 이) 상위권을 위한 크리티컬 스킬이라는 강좌예요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000300/0026.wav",
+                "duration": 3.785,
+                "text": "상위권을 위한 크리티킬 컬 스킬"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000300/0027.wav",
+                "duration": 2.963,
+                "text": "o/ 네, 맞습니다. 강좌 제목이 그렇습니다."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000300/0028.wav",
+                "duration": 3.816,
+                "text": "o/ 아 잠깐만요. (1번)/(한 번) 다시 (1번)/(한 번)만 할게요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000300/0029.wav",
+                "duration": 3.165,
+                "text": "다시 (1번)/(한 번)만 (1번)/(한 번)만 다시 (1번)/(한 번) 불러주시겠어요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000300/0030.wav",
+                "duration": 2.995,
+                "text": "어머니 그러면 제가 문자로 보내 드리겠습니다."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000300/0031.wav",
+                "duration": 3.763,
+                "text": "아 네 감사하겠습니다. 요 문자로 (1)/(하나)만 좀 불러주"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000300/0032.wav",
+                "duration": 4.637,
+                "text": "o/ 네네 그러면 지금 전화 주신 번호로 문자 (1)/(하나) 보내 드릴게요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000300/0033.wav",
+                "duration": 4.213,
+                "text": "그럼 책을 이거 구매하면 언제 받을 수 있습니까?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000300/0034.wav",
+                "duration": 4.614,
+                "text": "o/ 어 책을 구매를 하시면은 일단 주말이 껴 있기 때문에"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000300/0035.wav",
+                "duration": 5.256,
+                "text": "o/ 지금 주문한다고 해도 이번 주에 받으시기는 조금 힘드실 수도 있고요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000300/0036.wav",
+                "duration": 4.371,
+                "text": "o/ 어 아마 빠르면은 다음 주 초쯤 받으실 수 있을 것 같습니다."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000300/0037.wav",
+                "duration": 5.501,
+                "text": "아 오늘 만약에 지금 지금 주문하면 이번 주 금요일이나 토요일 못 받습니까?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000300/0038.wav",
+                "duration": 7.218,
+                "text": "o/ 어 네 오늘 금요일이기 때문에 알 아시다시피 주말에는 택배사들이 작업을 하지 않고요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000300/0039.wav",
+                "duration": 5.92,
+                "text": "아 그럼 빨리 살 수 있는 방법은 어떻게 해야지 빨리 살 수 있습니까? 여기 경기도인데."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000300/0040.wav",
+                "duration": 6.096,
+                "text": "o/ 어 일단은 지금 주문하고 나서 기다려주시는 방법 밖에는 없고요. 일단 저희가 최대한"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000300/0041.wav",
+                "duration": 7.688,
+                "text": "o/ 빠르게 보내드리고 있긴 한데 요즘 워낙 그 물량 교재 물량이 많아서 네 일단은 기다려 주셔야 될 거 같고요. 제가"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000300/0042.wav",
+                "duration": 4.125,
+                "text": "o/ 책 강좌 제목이랑 책 제목 다 보내드릴게요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000300/0043.wav",
+                "duration": 3.08,
+                "text": "예. 감사합니다. 예."
+            }
+        ]
+    }
+}

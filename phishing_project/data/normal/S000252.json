@@ -1,0 +1,224 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "상담사1",
+                    "age": "20대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "고객1",
+                    "age": "40대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000252/0001.wav",
+                "duration": 4.82,
+                "text": "지금 그 수업 진행 상황이나 이런 거를 좀 알 수 있을까요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000252/0002.wav",
+                "duration": 6.749,
+                "text": "아 네 어머니 그러시면 일단n/ 저희 정확한 안내를 위해서 회원님 아이디 확인 (1번)/(한 번) 가능하실까요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000252/0003.wav",
+                "duration": 4.584,
+                "text": "네 회원님 성함과 생년월일 혹시 어떻게 되실까요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000252/0004.wav",
+                "duration": 6.48,
+                "text": "o/ 소중한 정보 확인 감사합니다. 어 혹시 지금 말씀하신 저희 자녀분 학습"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000252/0005.wav",
+                "duration": 4.317,
+                "text": "지금 진행 상황이 궁금하시다고 문의를 주셨는데"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000252/0006.wav",
+                "duration": 4.553,
+                "text": "혹시 어떤 강좌를 몇 분 정도 공부했는지"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000252/0007.wav",
+                "duration": 3.54,
+                "text": "지금은 듣고 있는지"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000252/0008.wav",
+                "duration": 2.845,
+                "text": "그런 것 좀 알고 싶었서요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000252/0009.wav",
+                "duration": 7.203,
+                "text": "n/ o/ 아 네 그러면 잠시만 기다려주시면 제가 (1번)/(한 번) 확인해 봐드릴게요. 어머니 죄송하지만 잠시만 기다려주세요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000252/0010.wav",
+                "duration": 5.112,
+                "text": "o/ 어 네 어머님 기다려주셔서 감사합니다. 저희가 문의주신 부분 확인을 해보니까"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000252/0011.wav",
+                "duration": 4.813,
+                "text": "o/ 지금 학생 회원님께서 일단 뭐 생명 과학 같은 경우에는"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000252/0012.wav",
+                "duration": 4.483,
+                "text": "o/ 뭐 총 수강 시간이 지금 한 (335분)/(삼백 삼십 오 분) 정도 되시고요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000252/0013.wav",
+                "duration": 2.397,
+                "text": "n/ 그럼 어느 정도 되는 거죠?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000252/0014.wav",
+                "duration": 2.909,
+                "text": "(6시간)/(여섯 시간) 반 정도?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000252/0015.wav",
+                "duration": 3.933,
+                "text": "그리고 일단 지구 과학 같은 경우에도 지금"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000252/0016.wav",
+                "duration": 4.696,
+                "text": "보니까 한 (12시간)/(열 두 시간) 넘게 학습을 해주셨고요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000252/0017.wav",
+                "duration": 3.245,
+                "text": "네 언제 이게 (())?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000252/0018.wav",
+                "duration": 5.096,
+                "text": "어 일단 지구 과학 마지막으로 수강하신 건 (6월)/(유 월) (19일)/(십 구 일)에 마지막으로 수강하셨어요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000252/0019.wav",
+                "duration": 3.021,
+                "text": "n/ 그럼 꾸준히 하고는 있는 거네요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000252/0020.wav",
+                "duration": 8.201,
+                "text": "o/ 거 어 네 지금 보니까 학습량이 아예 없진 않으세요. 다 한 강좌마다 어 수강 이력이 못해도 (4시간)/(네 시간)씩은 있으세요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000252/0021.wav",
+                "duration": 2.349,
+                "text": "아 최근에도요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000252/0022.wav",
+                "duration": 4.637,
+                "text": "n/ 어 네 (마지) 가장 마지막에 수강하신 건 (6월)/(유 월) (25일)/(이십 오 일)이에요. 어머니."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000252/0023.wav",
+                "duration": 6.28,
+                "text": "n/ 아 그러면 그래도 b/ 좀 꾸준히는 조금씩 하고는 있는 거네요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000252/0024.wav",
+                "duration": 3.779,
+                "text": "어 네 저 보니까 아예 안 하진 않으셨어요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000252/0025.wav",
+                "duration": 3.784,
+                "text": "n/ 아예 안하지 않았고 그래도 열심히 한 건 아니네?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000252/0026.wav",
+                "duration": 3.171,
+                "text": "(()) 제가 그거를 제가 아 제가 이게"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000252/0027.wav",
+                "duration": 4.024,
+                "text": "n/ o/ 제가 그걸 판단해서 말씀드리긴 어렵고 보니까 일단"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000252/0028.wav",
+                "duration": 8.387,
+                "text": "n/ o/ 전과목마다 지금 학습량이 (()) 꽤 많으시거든요? 지금 못해도 (4시간)/(네 시간) 뭐 (6시간)/(여섯 시간) 뭐 이렇게 다 들으셨어요. (1강좌)/(한 강좌)마다"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000252/0029.wav",
+                "duration": 7.091,
+                "text": "n/ o/ 아니 전 지금 꾸준히 하고 있나 그런 것도 좀 궁금해가지고 물어보면 되게 싫어해가지고"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000252/0030.wav",
+                "duration": 2.845,
+                "text": "n/ o/ 본인이 알아서 하는데"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000252/0031.wav",
+                "duration": 3.555,
+                "text": "n/ o/ 네 알겠습니다. 고맙습니다."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000252/0032.wav",
+                "duration": 2.125,
+                "text": "n/ o/ 좋은 하루 되세요."
+            }
+        ]
+    }
+}

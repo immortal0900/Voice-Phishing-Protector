@@ -1,0 +1,158 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "고객1",
+                    "age": "40대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "상담사1",
+                    "age": "30대",
+                    "gender": "남",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000142/0001.wav",
+                "duration": 9.113,
+                "text": "네 그거를 지금 고 (2)/(이)인데 들으려 그러는데 그 듣는 혹시 뭐 순서나 그 뭐 그 난이도 그 순위 어떻게 혹시 되는 건가요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000142/0002.wav",
+                "duration": 3.874,
+                "text": "회원님 아이디 한번 불러주시겠어요? 성함이 어떻게 되실까요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000142/0003.wav",
+                "duration": 5.005,
+                "text": "o/ 회원님 혹시 커리큘럼 같은 거 영상 같은 거 보신 적 있으세요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000142/0004.wav",
+                "duration": 3.539,
+                "text": "예 지금 오티를 보기는 보고 있는데"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000142/0005.wav",
+                "duration": 8.771,
+                "text": "그 그 뭐지 강사님 의도가 어떤 게 먼저 들어야 되는지 그게 커리큘럼이 있는지 그게 궁금해가지고 여러 개가 있어서"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000142/0006.wav",
+                "duration": 2.366,
+                "text": "지금 컴퓨터 보고 계세요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000142/0007.wav",
+                "duration": 3.059,
+                "text": "아니요. 그냥 셀폰으로 보고 있었거든요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000142/0008.wav",
+                "duration": 4.301,
+                "text": "n/ o/ 지금 그냥 모바일 웹으로 접속 중이세요? 아니면 어플로 이용중이세요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000142/0009.wav",
+                "duration": 2.168,
+                "text": "o/ 웹으로 접속중이세"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000142/0010.wav",
+                "duration": 4.896,
+                "text": "o/ 그냥 그 뭐지 (애) 앱 앱 말고 그냥 검색해서 들어가 있거든요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000142/0011.wav",
+                "duration": 5.843,
+                "text": "n/ o/ 그 아마 밑에 쭉 내려보시면은 피씨 버전으로 변환하는게 있을 거예요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000142/0012.wav",
+                "duration": 2.205,
+                "text": "키보드 변환이요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000142/0013.wav",
+                "duration": 2.67,
+                "text": "아니요. 피씨버전이요. 피씨버전."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000142/0014.wav",
+                "duration": 2.553,
+                "text": "네 피씨버전. 예 있어요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000142/0015.wav",
+                "duration": 2.808,
+                "text": "n/ 그걸로 변경을 한번 해주시고요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000142/0016.wav",
+                "duration": 2.329,
+                "text": "들어가 보시면은요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000142/0017.wav",
+                "duration": 5.904,
+                "text": "사진 나오고 오른 왼쪽 위에 보시면은 커리큘럼이라고 보이실까요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000142/0018.wav",
+                "duration": 4.176,
+                "text": "n/ 그거 클릭해 주시면은 표로 대충 나와있어요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000142/0019.wav",
+                "duration": 2.561,
+                "text": "순서대로 나와있거든요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000142/0020.wav",
+                "duration": 7.085,
+                "text": "o/ 진행을 해주시면 될 것 같고 그래도 궁금하신 (()) 그 밑에 커리큘럼 영상도 있기 때문에 그거 한번 들어"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000142/0021.wav",
+                "duration": 2.499,
+                "text": "o/ 네 알겠습니다."
+            }
+        ]
+    }
+}

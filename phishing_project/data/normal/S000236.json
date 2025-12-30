@@ -1,0 +1,296 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "고객1",
+                    "age": "40대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "상담사1",
+                    "age": "20대",
+                    "gender": "남",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000236/0001.wav",
+                "duration": 2.62,
+                "text": "책을 오늘 주문했는데요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000236/0002.wav",
+                "duration": 2.952,
+                "text": "어 언제쯤 도착하나 (해갖고요)/(해갖구요)."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000236/0003.wav",
+                "duration": 6.899,
+                "text": "o/ 아 네 저희가 먼저 확인을 위해서 학생회원분의 아이디랑 연락처 어떻게 되실까요? 이제 입금해주신 부분은 확인되셨고요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000236/0004.wav",
+                "duration": 7.507,
+                "text": "이제 해당 교재 있어가지고는 현재 b/ 지금 택배사로 아직 넘어가신 상황은 아니시고"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000236/0005.wav",
+                "duration": 8.6,
+                "text": "o/ 입금만 되어있는 상황이시고요. b/ 그리고 이제 택배사 부분에 있어가지고 b/ 배송 진행 부분이 b/ 어 그 유"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000236/0006.wav",
+                "duration": 2.248,
+                "text": "며칠 정도 걸려요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000236/0007.wav",
+                "duration": 11.593,
+                "text": "o/ 한 (3일)/(삼 일) 정도 소요가 진행되시고요. b/ 이 택배사의 상황이라든지 b/ 이제 물량에 따라서 b/ 이제 기간은 기간과 시간은 좀 상이할 수 있는 부분 있으세요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000236/0008.wav",
+                "duration": 2.499,
+                "text": "어 (3일)/(삼 일)정도요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000236/0009.wav",
+                "duration": 3.971,
+                "text": "국어는 지금 뭐 문학이나 비문학은"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000236/0010.wav",
+                "duration": 7.909,
+                "text": "지금 저희가 확인해봤을 때는 이제 b/ 그 (2)/(두) 선생님 다 많이 다들 수강을 진행하고 계시고요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000236/0011.wav",
+                "duration": 10.541,
+                "text": "o/ 이제 학생회원분들마다 b/ 이제 (하) 선생님의 강의 스타일에 어떤 선생님 더 맞느냐에 따라서 b/ 수강 진행하시는 부분들이 차이가 있는 걸로 확인이 되세요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000236/0012.wav",
+                "duration": 5.992,
+                "text": "o/ 고 (1)/(일) (2)/(이)가 (정말)/(정알) 듣나요? 어떠나요? 수강하는 그 나이대가. 학년대가."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000236/0013.wav",
+                "duration": 7.693,
+                "text": "어 (2)/(두) 선생님 다 이제 고등학교 (1)/(일) (2학년)/(이 학년)보다는 이제 수능 대비로 많이 수강을 진행하고 계세요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000236/0014.wav",
+                "duration": 5.075,
+                "text": "고 (3)/(삼) 그 수능대비 쪽으로 더 많이 해준다는 거죠?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000236/0015.wav",
+                "duration": 10.221,
+                "text": "그 저기 뭐지 비문학 단기적으로 하는 것도 많이들 듣나요? (7일)/(칠 일)에 뭐 이렇게 (7번)/(일곱 번) (7회)/(칠 회) 뭐 이렇게 듣는 거. 방학특강으로."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000236/0016.wav",
+                "duration": 4.835,
+                "text": "아니시면은 저희가 학습상담을 신청을 진행을 도와드릴까요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000236/0017.wav",
+                "duration": 2.323,
+                "text": "아 그래 주실래요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000236/0018.wav",
+                "duration": 4.279,
+                "text": "o/ 네 네 그럼 저희가 해당 부분 진행을 도와 드릴 텐데요. 잠시만 기다려주세요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000236/0019.wav",
+                "duration": 4.749,
+                "text": "네 지금 그러면은 이제 학생 회원분이 현재"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000236/0020.wav",
+                "duration": 3.992,
+                "text": "o/ 말고 저 한테로요. 엄마 핸드폰 번호 드릴게요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000236/0021.wav",
+                "duration": 2.936,
+                "text": "학생 회원분의 생년월일이 어떻게 되실까요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000236/0022.wav",
+                "duration": 5.885,
+                "text": "o/ 확인 감사합니다. 지금 어 회원님께서 고등학교 (2학년)/(이 학년) 회원 맞으시죠?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000236/0023.wav",
+                "duration": 6.541,
+                "text": "o/ 네 그러면은 b/ 현재 지금 상담 (받으시려는)/(받으실려는) 그 과목이 국어 과목이시고"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000236/0024.wav",
+                "duration": 5.363,
+                "text": "국어 국어하고 국영수 그 다음에 생윤."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000236/0025.wav",
+                "duration": 4.552,
+                "text": "o/ 국어 영어 수학이랑 생활과 윤리 ((방금)) 말씀하신 ((거세요))?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000236/0026.wav",
+                "duration": 4.642,
+                "text": "수능 대비 강좌 상담 (본) 받으시는 거 맞으실까요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000236/0027.wav",
+                "duration": 2.691,
+                "text": "수능하고 내신?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000236/0028.wav",
+                "duration": 3.379,
+                "text": "o/ 아 수능과 내신 (2)/(둘) 다 말씀하신 거 맞으시고요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000236/0029.wav",
+                "duration": 3.865,
+                "text": "o/ 저희 학습상담은 이제 (1시)/(한 시)부터 업무가 진행이 되시고요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000236/0030.wav",
+                "duration": 5.987,
+                "text": "o/ 진행되다 보니까 대기시간 소요 (할) 소요될 수 있는 부분들은 b/ 참고해주시면 되겠습니다"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000236/0031.wav",
+                "duration": 6.84,
+                "text": "n/ 네 이제 선생님 (하) 학생회원분들마다 좀 b/ 선호하시는 그 스타일에 따라서 좀 차이가 있으세요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000236/0032.wav",
+                "duration": 4.797,
+                "text": "수는 더 많죠? 강의는 더 많이 듣죠 저희 국어 중에서는."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000236/0033.wav",
+                "duration": 8.083,
+                "text": "어 저희가n/ 해당 부분에 있어서는 b/ 지금 수강은 저희가 정확한 안내 드리기 좀 어려운 부분이 있어가지고요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000236/0034.wav",
+                "duration": 6.344,
+                "text": "o/ 그럼 학습상담 신청을 진행을 도와드렸고요. 이제 회원님께서 (1시)/(한 시) 이후에 b/ 연락 오시면"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000236/0035.wav",
+                "duration": 3.096,
+                "text": "네 네 전화로 저희가 연락을 드릴 거예요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000236/0036.wav",
+                "duration": 3.677,
+                "text": "(1분)/(한 분)이 다 국영수 생윤 다 해주시나요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000236/0037.wav",
+                "duration": 5.848,
+                "text": "이제 상황에 따라서 좀 차이가 있는 부분이 있으셔가지고요. 그 부분 참고하시면 되겠습니다."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000236/0038.wav",
+                "duration": 5.325,
+                "text": "알겠습니다. 그러면 제가 난이도나 뭐 이런건 다 여쭤보면 되겠네요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000236/0039.wav",
+                "duration": 3.198,
+                "text": "o/ 네 네. 질문 진행해 주시면 되세요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000236/0040.wav",
+                "duration": 2.675,
+                "text": "아 알겠습니다."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000236/0041.wav",
+                "duration": 4.424,
+                "text": "o/ (3일)/(삼 일)정도 걸린다는 거죠? (3일)/(삼 일)이요? 배송이."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000236/0042.wav",
+                "duration": 7.293,
+                "text": "배송은 보통 한 (3일)/(삼 일)에서 b/ 이제 택배사에 (3일)/(삼 일) 정도 소요가 되시는데 이 택배사의 물량이라든지"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000236/0043.wav",
+                "duration": 2.461,
+                "text": "n/ 네 수고하세요. 예."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000236/0044.wav",
+                "duration": 1.859,
+                "text": "좋은 하루 되세요."
+            }
+        ]
+    }
+}

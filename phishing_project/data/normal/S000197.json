@@ -1,0 +1,188 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "상담사1",
+                    "age": "20대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "고객1",
+                    "age": "50대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000197/0001.wav",
+                "duration": 2.901,
+                "text": "네 수고 많으십니다."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000197/0002.wav",
+                "duration": 6.589,
+                "text": "o/ 지금 그 고등학교 예비 고 등학교 고등학생인데요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000197/0003.wav",
+                "duration": 2.696,
+                "text": "그 듣고 싶은데"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000197/0004.wav",
+                "duration": 8.605,
+                "text": "그 교재가 워낙에 많아서 어떤 걸 해야 될지 몰라서 좀 추천 좀 부탁하려고요. 네, 네, 네"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000197/0005.wav",
+                "duration": 4.563,
+                "text": "예 그러시면 혹시 가입하신 학생분의 핸드폰 번호가 어떻게 되실까요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000197/0006.wav",
+                "duration": 2.909,
+                "text": "성함은 어떻게 되실까요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000197/0007.wav",
+                "duration": 2.664,
+                "text": "소중한 정보확인 감사합니다."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000197/0008.wav",
+                "duration": 6.324,
+                "text": "선생님 강좌 수강을 하고 싶으신데 b/ 어떤 강좌를 수강을 해야 하는지를 문의주시는 거 맞으실까요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000197/0009.wav",
+                "duration": 4.167,
+                "text": "네, 네 그 그 강사는"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000197/0010.wav",
+                "duration": 1.832,
+                "text": "들을 건데요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000197/0011.wav",
+                "duration": 4.404,
+                "text": "예 책 교재를 어떻게 해야 될지 몰라서"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000197/0012.wav",
+                "duration": 4.999,
+                "text": "o/ 아 교재요? 저희 홈페이지 혹시 지금 이용 가능하실까요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000197/0013.wav",
+                "duration": 6.024,
+                "text": "홈페이지 켜놓고 전화해야지 빠를까요? 지금 안 켜놓고 그냥 전화했는데"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000197/0014.wav",
+                "duration": 6.056,
+                "text": "그러실까요? 저희 그 선생님마다 (()) 선생님께서 커리큘럼 올려주신 게 있으세요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000197/0015.wav",
+                "duration": 5.395,
+                "text": "커리큘럼 한번 보시고 이용을 해주시는 게 가장 좋으실 것 같으세요. 어머니"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000197/0016.wav",
+                "duration": 3.709,
+                "text": "아 그거 커리큘럼 다 읽어봤제?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000197/0017.wav",
+                "duration": 2.821,
+                "text": "이 다 읽어봤는데 모르겠다는데요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000197/0018.wav",
+                "duration": 7.795,
+                "text": "o/ 아 그러실까요? 그러시면요. 어머니 저희 혹시 홈페이지에 보시면은 저희 학습지원센터라고 있습니다"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000197/0019.wav",
+                "duration": 9.181,
+                "text": "o/ 거기에 들어가시면은 왼쪽에 전화학습 상담인 (전화상) 아니 학습상담이라고 있는데요. 이쪽에다가 이제 문의 글 남겨주시면은요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000197/0020.wav",
+                "duration": 6.696,
+                "text": "저희 전문적으로 상담해주시는 학습컨설턴드분께서 어머니께 다시 한번 연락을 드리실 거세요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000197/0021.wav",
+                "duration": 4.062,
+                "text": "학습지원센터라는 배너가 있습니다."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000197/0022.wav",
+                "duration": 2.461,
+                "text": "학습 지원센타아"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000197/0023.wav",
+                "duration": 3.187,
+                "text": "o/ 네, 네, 네 거기에 그러면 질의응답"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000197/0024.wav",
+                "duration": 9.491,
+                "text": "왼쪽에 보시면 학습상담이라고 있는데요. b/ 이쪽으로 문의 글 남겨주시면 저희가 이제 전문적으로 상담해주시는 컨설턴트분께서 연락을 드리실 거세요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000197/0025.wav",
+                "duration": 3.187,
+                "text": "아 네, 네 잘 알겠습니다."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000197/0026.wav",
+                "duration": 2.333,
+                "text": "좋은 하루 되세요."
+            }
+        ]
+    }
+}

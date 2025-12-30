@@ -1,0 +1,404 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "고객1",
+                    "age": "40대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "상담사1",
+                    "age": "30대",
+                    "gender": "남",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000228/0001.wav",
+                "duration": 7.101,
+                "text": "아 그게 그 기에 맞는 학습 프로그램서 상담을 해 주신다고 해 가지고 전화를 했는데요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000228/0002.wav",
+                "duration": 8.531,
+                "text": "지금 인강 인강은 결정을 하고 장바구니에 (넣어놓) 넣어놓은 상탠데"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000228/0003.wav",
+                "duration": 7.265,
+                "text": "문의 좀 l/ (하려고요)/(할려고요). 지금 이제 저희 아이가 고등학교 (이 학년) (2학년)/(이 학년)이거든요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000228/0004.wav",
+                "duration": 2.48,
+                "text": "o/ (1학기)/(일 학기)는 이제 끝"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000228/0005.wav",
+                "duration": 4.521,
+                "text": "그래서 인강을 지금 (1학기)/(일 학기)가 끝났는데"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000228/0006.wav",
+                "duration": 5.096,
+                "text": "어 (2학기)/(이 학기)부터 들어야 되잖아요. 인강을 그니까 말하자면"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000228/0007.wav",
+                "duration": 4.136,
+                "text": "근데 지금 예를 들어서 생명과학"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000228/0008.wav",
+                "duration": 9.929,
+                "text": "그분은 어 (끊으려고)/(끊을려고) 했더니 (1학기)/(일 학기) 거 까지 해서 다 그거를 전액 결제를 해야지만 들을 수 있게 돼 (있더라고요)/(있더라구요)."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000228/0009.wav",
+                "duration": 6.16,
+                "text": "혹시 이거를 뭐 이렇게 (1학기)/(일 학기)는 빼고 뭐 (2학기)/(이 학기)를 뭐 이렇게 든다거나 그런"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000228/0010.wav",
+                "duration": 5.459,
+                "text": "프로그램이 있는지요. l/ 어 애매 애매해서"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000228/0011.wav",
+                "duration": 5.992,
+                "text": "확인을 하셨을때 없으시면 없는 거예요. 그 아예 전 범위가"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000228/0012.wav",
+                "duration": 3.082,
+                "text": "그래서 그러면은"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000228/0013.wav",
+                "duration": 6.751,
+                "text": "지금 이제 지금 들어야 되는데 그거를 (1학기)/(일 학기) 거까지 다 끊어야 되는 게 맞는"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000228/0014.wav",
+                "duration": 6.013,
+                "text": "(1학기)/(일 학기) 거까지 다 결제를 해서 들어야 되는 건지 아 어떻게 되는 건지"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000228/0015.wav",
+                "duration": 2.45,
+                "text": "강좌명이 어떻게 되시는 거세요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000228/0016.wav",
+                "duration": 2.536,
+                "text": "o/ 개념완성 맞으세요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000228/0017.wav",
+                "duration": 2.664,
+                "text": "개념완성 맞으세요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000228/0018.wav",
+                "duration": 12.211,
+                "text": "철두철미 뭐지 개념 뭐지 그게 철두철미 잠깐만 철두철미 뭐지 잠깐만요. 철두철미 어 그냥 철두철미인데요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000228/0019.wav",
+                "duration": 2.951,
+                "text": "네 철두철미 뭐 개념완성"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000228/0020.wav",
+                "duration": 3.454,
+                "text": "개념 완성 완성인지 예예"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000228/0021.wav",
+                "duration": 6.098,
+                "text": "o/ 개념완성이면 그 철두 (2022)/(이 공 이 이) 철두철미 개념 완성은 (1)/(일)이랑 (2)/(이)로 나눠져 있거든요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000228/0022.wav",
+                "duration": 2.813,
+                "text": "네, 네, (1)/(일)하고 (2)/(이)하고"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000228/0023.wav",
+                "duration": 3.294,
+                "text": "(1)/(일)이 (1학기)/(일 학기)이고 (2)/(이)가 (2학기)/(이 학기)예요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000228/0024.wav",
+                "duration": 2.233,
+                "text": "o/ 아 나눠져 있어요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000228/0025.wav",
+                "duration": 3.475,
+                "text": "생명 과학 (2)/(투)가 아닌데 생명과학 (1)/(원)인데"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000228/0026.wav",
+                "duration": 4.179,
+                "text": "지금 혹시 어떤 강좌명을 정확히 모르"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000228/0027.wav",
+                "duration": 9.627,
+                "text": "봐볼래 아 뭔지 모르겠네. 어 제가 철두철미에 아 어 생명과학 (1)/(원)인데요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000228/0028.wav",
+                "duration": 3.32,
+                "text": "어 생명과학 (1)/(원)에"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000228/0029.wav",
+                "duration": 9.017,
+                "text": "철두철미 치면은 그니까 생명과학 (1)/(원)에 그니까 생명과학 (1)/(원)이에요. (1)/(원)만 치면 나오지 않나요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000228/0030.wav",
+                "duration": 3.027,
+                "text": "o/ (2학기)/(이 학기)는 생명과학 (2)/(투)기 때문에"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000228/0031.wav",
+                "duration": 3.629,
+                "text": "o/ 아 (2학기)/(이 학기) 때는 생명과학 (2)/(투)예요? (1)/(원)이 (아니고요)/(아니구요)?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000228/0032.wav",
+                "duration": 2.61,
+                "text": "아 (1)/(원)으로 배운대요. 다"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000228/0033.wav",
+                "duration": 2.27,
+                "text": "(1)/(원)으로 배운다고요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000228/0034.wav",
+                "duration": 4.628,
+                "text": "아니라는데 생명과학 (2)/(투)로 배운다는데 (2학기)/(이 학기)가 책 받았니 교재?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000228/0035.wav",
+                "duration": 4.364,
+                "text": "아니래요. 생명과학 (1)/(원) 갖다가 (2학년)/(이 학년)을 끝낸대요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000228/0036.wav",
+                "duration": 7.571,
+                "text": "이 부분은 저 학습 상담을 좀 받아보셔야 될 것 같아요. 저희 쪽에서 안내해드리는 건 좀 제한이 많아서"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000228/0037.wav",
+                "duration": 7.222,
+                "text": "네. 연락처 남겨주시면 저희가 (1시)/(한 시)부터 저녁 (8시)/(여덟 시)까지 순차적으로 예약한 순서대로 연락드리거든요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000228/0038.wav",
+                "duration": 8.68,
+                "text": "o/ 네, 그럼 제가 학습상담 예약 도와드릴게요. 그래서 전화 오는 거 받으주시고 예 상담 선생님하고 전화상담 진행해주시면"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000228/0039.wav",
+                "duration": 5.091,
+                "text": "(1가지)/(한 가지) 여쭤볼게요. 이거를 제가 이제 결제를 했어요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000228/0040.wav",
+                "duration": 2.892,
+                "text": "프로그램을 결제를 해놓고"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000228/0041.wav",
+                "duration": 6.956,
+                "text": "이거를 뭐 나중에 (3학년)/(삼 학년)때 돼도 이 프로그램을 다운로드해 놓으면 (3학년)/(삼 학년) 때도 볼 수 있나요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000228/0042.wav",
+                "duration": 5.181,
+                "text": "(3학년)/(삼 학년)이요? 아니요. 그 저희 (저) 정해져 있는 단과는 수강기간이 있기 때문에"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000228/0043.wav",
+                "duration": 5.093,
+                "text": "그럼 그거를 제가 그냥 어 노트북에다가 다운로드해놓으면"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000228/0044.wav",
+                "duration": 3.367,
+                "text": "평생 보지 못하는 거죠? 그니까"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000228/0045.wav",
+                "duration": 3.944,
+                "text": "노트북에 다운이 안돼요. 그리고 노트북이나 컴퓨터는"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000228/0046.wav",
+                "duration": 4.989,
+                "text": "저희는 강좌 영구적으로 되는 게 하나도 없어요. 영구적으로 보관"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000228/0047.wav",
+                "duration": 7.548,
+                "text": "아 그게 기간이 있으면 다 삭제가 다 되는 거죠? 그니까 어떻게 뭐 이렇게 내가 만약 (3학년)/(삼 학년) 때"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000228/0048.wav",
+                "duration": 3.091,
+                "text": "이거를 이 자료를 보고 싶다 해서 못 보는"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000228/0049.wav",
+                "duration": 2.335,
+                "text": "o/ 다시 구매하셔야죠."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000228/0050.wav",
+                "duration": 2.531,
+                "text": "다시 구매를 해야 되는거예요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000228/0051.wav",
+                "duration": 3.581,
+                "text": "저희는 강좌별로 다 수강기간이 있기 때문에"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000228/0052.wav",
+                "duration": 5.459,
+                "text": "몇 년 동안 가지고 선생님들은 당연히 그거에 머물러 있겠죠."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000228/0053.wav",
+                "duration": 4.563,
+                "text": "교재를요 교재를 이게 사야 되는 건가요? 항상?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000228/0054.wav",
+                "duration": 4.432,
+                "text": "필요하시면은 구매하시면 (되시고요)/(되시구요). 필수는 아니에요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000228/0055.wav",
+                "duration": 5.416,
+                "text": "네, 교재 구매하시려면 강좌는 필수로 결제하시거나 수강하셔야 해요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000228/0056.wav",
+                "duration": 5.47,
+                "text": "o/ 네, 보니까 교재값은 따로 돼있더라고요. 강좌 별도 교재 따로 해 가지고"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000228/0057.wav",
+                "duration": 3.912,
+                "text": "일단 강좌 먼저 선택하셔야 해요. 교재 결제"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000228/0058.wav",
+                "duration": 4.371,
+                "text": "o/ 아 강좌 먼저 (설) 아 강좌 하고"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000228/0059.wav",
+                "duration": 6.007,
+                "text": "o/ 교재는 할 건지 말건지는 나중에 해도 상관이 없는 거죠? 자유롭게"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000228/0060.wav",
+                "duration": 4.072,
+                "text": "아 네, 일단 알겠습니다. 고맙습니다. 네."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000228/0061.wav",
+                "duration": 2.707,
+                "text": "네, 네, 안녕히 계세요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000228/0062.wav",
+                "duration": 3.56,
+                "text": "플록완성이라고? 개념완성이라고?"
+            }
+        ]
+    }
+}

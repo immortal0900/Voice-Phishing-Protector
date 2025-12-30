@@ -1,0 +1,80 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "고객1",
+                    "age": "10대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "상담사1",
+                    "age": "20대",
+                    "gender": "남",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000347/0001.wav",
+                "duration": 2.879,
+                "text": "아 아이디 (1번)/(한 번) 불러주시겠어요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000347/0002.wav",
+                "duration": 3.928,
+                "text": "그 (()) 강좌에서 숨김 처리하시면은"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000347/0003.wav",
+                "duration": 2.233,
+                "text": "o/ 숨기는 것까진 가능하세요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000347/0004.wav",
+                "duration": 3.464,
+                "text": "아 그럼 그 숨김 처리를 어떻게 하는지 알 수 있을까요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000347/0005.wav",
+                "duration": 4.371,
+                "text": "지금 혹시 사이트 들어가 계시나요? 혹시 들어가실 수 있으세요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000347/0006.wav",
+                "duration": 2.067,
+                "text": "네. 들어왔어요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000347/0007.wav",
+                "duration": 5.544,
+                "text": "o/ 내 강의실에서 수강 강좌 전체 보기 하시면 (2개)/(두 개) 뜨잖아요. 거기 옆에 별표 있고"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000347/0008.wav",
+                "duration": 2.664,
+                "text": "o/ 아 네. 알겠습니다."
+            }
+        ]
+    }
+}

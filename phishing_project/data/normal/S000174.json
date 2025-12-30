@@ -1,0 +1,116 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "상담사1",
+                    "age": "30대",
+                    "gender": "남",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "고객1",
+                    "age": "40대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000174/0001.wav",
+                "duration": 4.484,
+                "text": "네 아 네 뭐 좀 여쭤보고 싶어서 전화를 드렸습니다."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000174/0002.wav",
+                "duration": 2.995,
+                "text": "어 네 다시 (1번)/(한 번) 말씀해주시겠어요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000174/0003.wav",
+                "duration": 1.597,
+                "text": "o/ 뭐 여쭤보려고"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000174/0004.wav",
+                "duration": 2.877,
+                "text": "고등학교 (1학년)/(일 학년) 학생인데요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000174/0005.wav",
+                "duration": 5.672,
+                "text": "네 그 지금 인강을 들었으면 하는데"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000174/0006.wav",
+                "duration": 5.779,
+                "text": "뭐 어떻게 하는지 뭔지 몰라서 (1번)/(한 번) 여쭤보려고 전화를 드렸거든요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000174/0007.wav",
+                "duration": 13.181,
+                "text": "o/ 아 그러시면 혹시 학습상담 예약 도와드려도 괜찮으실까요? 네 학습지원이고 만약에 좀 이제 학생회원님이 아 이제 공부를 진행하시는 데 있어서 좀 도움받기를 원하시면 제가 학습상담 선생님들이 계세요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000174/0008.wav",
+                "duration": 8.211,
+                "text": "o/ 네 네 네 그래서 어 혹시 뭐 (천) 좀 고 (1)/(일) 학생 좀 전과목으로 저희가 인제 예약을 좀 도와드리면 괜찮으실까요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000174/0009.wav",
+                "duration": 6.653,
+                "text": "o/ 네 그렇게 해주세요. 그렇게 지금 이제 처음 시작을 하는데 어떻게 어떤 거를 선택을 해갖고 수업을 듣는게 좋은지"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000174/0010.wav",
+                "duration": 5.31,
+                "text": "그거에 대해서 이제 궁금하신 거죠? 예 학습상담 예약 진행 도와드릴 (거고요)/(거구요)."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000174/0011.wav",
+                "duration": 12.627,
+                "text": "o/ 네네 어 저희가 어 (8시)/(여덟 시)까지 (1시)/(한 시)부터 (8시)/(여덟 시)까지 상담을 진행합니다. 그래서 오늘 중에 아마 상담 가능하실 것 같고요. 순차적으로 저희가 연락드린 점 참고해주시고"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000174/0012.wav",
+                "duration": 6.013,
+                "text": "네 전화 가시면은 받아주셔서 상담 선생님하고 상담 진행해주시면 되겠습니다. 전화상담입니다."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000174/0013.wav",
+                "duration": 2.398,
+                "text": "아 네 알겠습니다. 고맙습니다."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000174/0014.wav",
+                "duration": 2.183,
+                "text": "o/ 네 감사합니다."
+            }
+        ]
+    }
+}

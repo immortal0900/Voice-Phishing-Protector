@@ -1,0 +1,25 @@
+# HuggingFace GGUF 모델을 기반으로 커스텀 Ollama 모델을 정의합니다.
+# 모델: jeonsworld/Upstage-SOLAR-10.7B-Instruct-v1.0-GGUF
+# 양자화 버전: Q4_K_M (품질과 성능의 균형)
+FROM ./models/solar-10.7b-instruct-v1.0.Q4_K_M.gguf
+
+# 모델의 기본 프롬프트 템플릿을 설정합니다.
+# SOLAR 모델은 ### User: 와 ### Assistant: 형식을 사용합니다.
+TEMPLATE """{{- if .System }}
+### System:
+{{ .System }}
+{{- end }}
+
+### User:
+{{ .Prompt }}
+
+### Assistant:
+"""
+
+# 시스템 프롬프트 기본값을 설정합니다.
+SYSTEM """You are a helpful assistant."""
+
+# 모델 파라미터 설정
+PARAMETER stop "### User:"
+PARAMETER stop "### Assistant:"
+PARAMETER stop "<|endoftext|>"

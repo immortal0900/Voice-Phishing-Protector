@@ -1,0 +1,236 @@
+{
+  "file": "사례4_부모_납치_협박(사기범)_.mp3",
+  "rel_path": "사례4_부모_납치_협박(사기범)_.mp3",
+  "language": "ko",
+  "text": "여기 지금 지하 창고인데 내가 며칠 전에 깜빡에서 나왔는데 돈이 조금 필요해서 어머님 지하 창고에 잡아주고 있어 지금 여보세요? 전화기 끊고 경찰한테 신고하거나 뭐 딴짓거리 하면 네 엄마 내 손가락 다 잘라버릴거야 알겠어요? 여보세요? 지금 내 말 듣고 있는거야? 나 동철아 어르신 끄고 나가 일단 손가락 잘라버려 지금 네 어르신이요 내가 금방 말하면 금방 금방 대답해 여보세요? 그 어르신 끊으려는거야 어르신 넌 내가 뺄 년 생겨났는데 맞아? 여보세요? 너 지금 차 안 타고 잘 안되는거 같은데 아야 내가 어르신 니 엄마 지금 잠깐 지하 창고에 간검에 가있다고 무슨 말인지 알겠어? 내가 지금 단지 필요하기 지금 돈이지 니 엄마 목숨 아니야? 어디에요 지금? 목숨 아니야? 어디에요 지금? 삐짱이에요? 이 씨발 전화 끊어",
+  "duration_sec": 58.1746875,
+  "segments": [
+    {
+      "index": 0,
+      "start": 0.0,
+      "end": 2.1,
+      "text": "여기 지금 지하 창고인데",
+      "speaker": "speaker_1",
+      "confidence": -0.43392857369922455
+    },
+    {
+      "index": 1,
+      "start": 2.1,
+      "end": 5.2,
+      "text": "내가 며칠 전에 깜빡에서 나왔는데",
+      "speaker": "speaker_1",
+      "confidence": -0.43392857369922455
+    },
+    {
+      "index": 2,
+      "start": 5.2,
+      "end": 6.72,
+      "text": "돈이 조금 필요해서",
+      "speaker": "speaker_1",
+      "confidence": -0.43392857369922455
+    },
+    {
+      "index": 3,
+      "start": 6.72,
+      "end": 8.64,
+      "text": "어머님 지하 창고에 잡아주고 있어 지금",
+      "speaker": "speaker_1",
+      "confidence": -0.43392857369922455
+    },
+    {
+      "index": 4,
+      "start": 10.64,
+      "end": 11.6,
+      "text": "여보세요?",
+      "speaker": "speaker_1",
+      "confidence": -0.43392857369922455
+    },
+    {
+      "index": 5,
+      "start": 11.6,
+      "end": 14.32,
+      "text": "전화기 끊고 경찰한테 신고하거나",
+      "speaker": "speaker_1",
+      "confidence": -0.43392857369922455
+    },
+    {
+      "index": 6,
+      "start": 14.32,
+      "end": 16.240000000000002,
+      "text": "뭐 딴짓거리 하면",
+      "speaker": "speaker_1",
+      "confidence": -0.43392857369922455
+    },
+    {
+      "index": 7,
+      "start": 16.240000000000002,
+      "end": 18.52,
+      "text": "네 엄마 내 손가락 다 잘라버릴거야 알겠어요?",
+      "speaker": "speaker_1",
+      "confidence": -0.43392857369922455
+    },
+    {
+      "index": 8,
+      "start": 20.28,
+      "end": 20.88,
+      "text": "여보세요?",
+      "speaker": "speaker_1",
+      "confidence": -0.43392857369922455
+    },
+    {
+      "index": 9,
+      "start": 23.240000000000002,
+      "end": 24.76,
+      "text": "지금 내 말 듣고 있는거야?",
+      "speaker": "speaker_1",
+      "confidence": -0.43392857369922455
+    },
+    {
+      "index": 10,
+      "start": 25.76,
+      "end": 27.16,
+      "text": "나 동철아",
+      "speaker": "speaker_1",
+      "confidence": -0.5721725931479817
+    },
+    {
+      "index": 11,
+      "start": 27.16,
+      "end": 29.32,
+      "text": "어르신 끄고 나가 일단 손가락 잘라버려 지금",
+      "speaker": "speaker_1",
+      "confidence": -0.5721725931479817
+    },
+    {
+      "index": 12,
+      "start": 29.32,
+      "end": 30.32,
+      "text": "네 어르신이요",
+      "speaker": "speaker_1",
+      "confidence": -0.5721725931479817
+    },
+    {
+      "index": 13,
+      "start": 30.32,
+      "end": 33.72,
+      "text": "내가 금방 말하면 금방 금방 대답해",
+      "speaker": "speaker_1",
+      "confidence": -0.5721725931479817
+    },
+    {
+      "index": 14,
+      "start": 33.72,
+      "end": 34.72,
+      "text": "여보세요?",
+      "speaker": "speaker_1",
+      "confidence": -0.5721725931479817
+    },
+    {
+      "index": 15,
+      "start": 34.72,
+      "end": 36.2,
+      "text": "그 어르신 끊으려는거야",
+      "speaker": "speaker_1",
+      "confidence": -0.5721725931479817
+    },
+    {
+      "index": 16,
+      "start": 36.2,
+      "end": 38.6,
+      "text": "어르신 넌 내가 뺄 년 생겨났는데 맞아?",
+      "speaker": "speaker_1",
+      "confidence": -0.5721725931479817
+    },
+    {
+      "index": 17,
+      "start": 38.6,
+      "end": 39.6,
+      "text": "여보세요?",
+      "speaker": "speaker_1",
+      "confidence": -0.5721725931479817
+    },
+    {
+      "index": 18,
+      "start": 39.6,
+      "end": 41.6,
+      "text": "너 지금 차 안 타고 잘 안되는거 같은데 아야",
+      "speaker": "speaker_1",
+      "confidence": -0.5721725931479817
+    },
+    {
+      "index": 19,
+      "start": 41.6,
+      "end": 43.6,
+      "text": "내가 어르신 니 엄마 지금 잠깐",
+      "speaker": "speaker_1",
+      "confidence": -0.5721725931479817
+    },
+    {
+      "index": 20,
+      "start": 43.6,
+      "end": 46.6,
+      "text": "지하 창고에 간검에 가있다고 무슨 말인지 알겠어?",
+      "speaker": "speaker_1",
+      "confidence": -0.5721725931479817
+    },
+    {
+      "index": 21,
+      "start": 46.6,
+      "end": 49.6,
+      "text": "내가 지금 단지 필요하기 지금 돈이지",
+      "speaker": "speaker_1",
+      "confidence": -0.5721725931479817
+    },
+    {
+      "index": 22,
+      "start": 49.6,
+      "end": 51.6,
+      "text": "니 엄마 목숨 아니야?",
+      "speaker": "speaker_1",
+      "confidence": -0.5721725931479817
+    },
+    {
+      "index": 23,
+      "start": 51.6,
+      "end": 52.6,
+      "text": "어디에요 지금?",
+      "speaker": "speaker_1",
+      "confidence": -0.5721725931479817
+    },
+    {
+      "index": 24,
+      "start": 52.64,
+      "end": 53.64,
+      "text": "목숨 아니야?",
+      "speaker": "speaker_1",
+      "confidence": -0.6491477272727273
+    },
+    {
+      "index": 25,
+      "start": 53.64,
+      "end": 55.64,
+      "text": "어디에요 지금?",
+      "speaker": "speaker_1",
+      "confidence": -0.6491477272727273
+    },
+    {
+      "index": 26,
+      "start": 55.64,
+      "end": 56.64,
+      "text": "삐짱이에요?",
+      "speaker": "speaker_1",
+      "confidence": -0.6491477272727273
+    },
+    {
+      "index": 27,
+      "start": 56.64,
+      "end": 58.64,
+      "text": "이 씨발 전화 끊어",
+      "speaker": "speaker_1",
+      "confidence": -0.6491477272727273
+    }
+  ],
+  "engine": "faster-whisper-medium-float16-cuda",
+  "processed_at": 1758154964.0754797,
+  "error": null
+}

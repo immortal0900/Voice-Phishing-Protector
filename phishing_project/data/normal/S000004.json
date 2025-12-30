@@ -1,0 +1,116 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "고객1",
+                    "age": "40대",
+                    "gender": "남",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "상담사1",
+                    "age": "20대",
+                    "gender": "남",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000004/0001.wav",
+                "duration": 6.717,
+                "text": "네 그 (3시)/(세 시)에 상담 약속을 했는데 제가 전화하는 거죠? 네 네. 지금 상담 되나요? 그럼요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000004/0002.wav",
+                "duration": 3.325,
+                "text": "그 상담 약속을 하셨는데"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000004/0003.wav",
+                "duration": 6.004,
+                "text": "o/ 저희 쪽에서 학습 상담 관련이면 저희 쪽에서 예약을 받고 연락을 드리는 거"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000004/0004.wav",
+                "duration": 6.995,
+                "text": "아 그래요? 그러면은 아직도 그 (3시)/(세 시) 한 (3)/(삼), (4분)/(사 분)까지 기다리다 전화가 안 와서 제가 전화 한 거거든요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000004/0005.wav",
+                "duration": 6.611,
+                "text": "어 아니요. 좀 (기다리실) 기다려주셔야 되시고요. 저희 순차적으로 연락 드리는 거라서"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000004/0006.wav",
+                "duration": 2.773,
+                "text": "네 네. (5월)/(오 월) (11일)/(십 일 일) (3시)/(세 시)에"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000004/0007.wav",
+                "duration": 5.747,
+                "text": "o/ 아 네 네 네. 저희가 그렇게 시간을 정확하게 안내해드리진 않을텐데 어쨌든"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000004/0008.wav",
+                "duration": 2.685,
+                "text": "(3시)/(세 시) 타임이라고 이렇게 (())"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000004/0009.wav",
+                "duration": 3.87,
+                "text": "네 네 네. 그럼 순차적으로 연락 드리니깐요. 그거 참고해n/ 주시고"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000004/0010.wav",
+                "duration": 3.539,
+                "text": "o/ 네 고등학생 관련 상담 맞으시죠?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000004/0011.wav",
+                "duration": 3.368,
+                "text": "o/ 그쵸. 지금 예 고등학생이죠. 예"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000004/0012.wav",
+                "duration": 2.953,
+                "text": "네 네 네. 그럼 기다려 주시고 네."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000004/0013.wav",
+                "duration": 2.707,
+                "text": "전화 오시면 받아주시면 되겠습니다."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000004/0014.wav",
+                "duration": 2.045,
+                "text": "네 감사합니다."
+            }
+        ]
+    }
+}

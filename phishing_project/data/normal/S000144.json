@@ -1,0 +1,152 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "고객1",
+                    "age": "50대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "상담사1",
+                    "age": "20대",
+                    "gender": "남",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000144/0001.wav",
+                "duration": 3.94,
+                "text": "o/ 네 지금 이제 고 (1)/(일) 학생인데요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000144/0002.wav",
+                "duration": 11.695,
+                "text": "n/ o/ (1학기)/(일 학기) 성적이 나와서 그거 가지고 이렇게 입시 컨설팅 이제 뭐 이렇게 앞으로 어떤 어떤 진로쪽이나 이런 거 잡아주는 거 있잖아요. 그걸 입시 컨설팅이라고 하면 되죠?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000144/0003.wav",
+                "duration": 4.725,
+                "text": "네 아직 이제 고 (3)/(삼)은 아니고 고 (1)/(일) 한번 시험 봐서"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000144/0004.wav",
+                "duration": 4.749,
+                "text": "o/ 그걸 가지고 이제 컨설팅을 좀 받아보고 싶거든요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000144/0005.wav",
+                "duration": 3.275,
+                "text": "o/ 진로나 뭐 이런 걸로 예."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000144/0006.wav",
+                "duration": 7.16,
+                "text": "n/ o/ 회원님 그 기다려주셔서 감사합니다. 저희가 이거 확인해봤는데 저희가 따로 입시상담이라는 건 있어요. 회원님."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000144/0007.wav",
+                "duration": 14.157,
+                "text": "n/ o/ 입시 상담이 있긴 한데 이거 같은 경우에는 전화로 상담을 하시는 게 아니고 이거는 회원님께서 여기 양식에 맞춰서 입력을 해주시면은 담당 부서 측에서 회원님거 양식 확인해주시고 답변을 주시는 방식인데"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000144/0008.wav",
+                "duration": 4.195,
+                "text": "o/ 아 그러면은 (직) 직접 상담이 아닌 거예요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000144/0009.wav",
+                "duration": 2.233,
+                "text": "o/ 예 연락으로 하시는 상담"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000144/0010.wav",
+                "duration": 4.872,
+                "text": "n/ o/ 아 아 그러면은 비용 그건 비용이 얼마예요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000144/0011.wav",
+                "duration": 3.486,
+                "text": "n/ 비용은 따로 상관 없으시고요. 잠시만요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000144/0012.wav",
+                "duration": 2.557,
+                "text": "n/ o/ 아 비용이 없어요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000144/0013.wav",
+                "duration": 5.283,
+                "text": "n/ o/ 그냥 아이디랑 월 (2회)/(이 회) 정도 신청 가능하시다고 사이트상에 나와있거든요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000144/0014.wav",
+                "duration": 4.554,
+                "text": "o/ 아 만약에 회원가입이 ((되어 있으면)) 월 (2회)/(이 회) 정도"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000144/0015.wav",
+                "duration": 4.056,
+                "text": "o/ 아 그러면 양식 경로 좀 알려주시겠어요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000144/0016.wav",
+                "duration": 8.973,
+                "text": "n/ o/ 학습지원센터 들어가신 다음에 아래로 창 내리시면은 빨간색 신청하기 버튼 누르시고 여기서 입력하시면 될 것 같아요. 양식대로"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000144/0017.wav",
+                "duration": 3.837,
+                "text": "아 입력을 하면 바로 답변을 주시는 거예요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000144/0018.wav",
+                "duration": 3.496,
+                "text": "o/ 담당부서에서 평일에 아마 답변 주시는 걸 거예요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000144/0019.wav",
+                "duration": 3.661,
+                "text": "아 네 그러면 네 감사합니다."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000144/0020.wav",
+                "duration": 3.213,
+                "text": "o/ 네 감사합니다. 좋은 하루 되세요."
+            }
+        ]
+    }
+}

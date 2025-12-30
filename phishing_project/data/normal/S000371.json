@@ -1,0 +1,122 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "상담사1",
+                    "age": "20대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "고객1",
+                    "age": "40대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000371/0001.wav",
+                "duration": 2.013,
+                "text": "네, 수고하십니다. 그"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000371/0002.wav",
+                "duration": 6.451,
+                "text": "쌤 고 (1)/(일) 과학인데요. n/ 네, (요거)/(요) (하려고)/(할려고) 하는데"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000371/0003.wav",
+                "duration": 3.667,
+                "text": "요새 지금 뭐 이름이 너무 많아서"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000371/0004.wav",
+                "duration": 3.895,
+                "text": "어떤 거 해야 되는지 잘 몰라서 연락드렸거든요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000371/0005.wav",
+                "duration": 2.063,
+                "text": "그러면은 학습"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000371/0006.wav",
+                "duration": 5.636,
+                "text": "이게 어떤 내용인지 그 어떤 강좌를 들을지 학습 상담 요청 주시는 거"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000371/0007.wav",
+                "duration": 2.355,
+                "text": "쌤 걸 들을 건데"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000371/0008.wav",
+                "duration": 3.635,
+                "text": "쌤이 저 이 너무 많잖아요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000371/0009.wav",
+                "duration": 2.248,
+                "text": "올려주신 게"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000371/0010.wav",
+                "duration": 5.16,
+                "text": "고 (1)/(일) 건데 어떤 걸 선택해서 들어야 되는지를 몰라서 연락을 드렸어요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000371/0011.wav",
+                "duration": 5.672,
+                "text": "아 네, 네, 그래서 제가 전문적인 학습상담 선생님께 연결해 드리려고 하거든요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000371/0012.wav",
+                "duration": 7.837,
+                "text": "네, 그래서 (()) 연락받으실 번호가 어떻게 되세 번호로 저희가 전달해 드릴 텐 순차 연락 가실 거예요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000371/0013.wav",
+                "duration": 3.09,
+                "text": "연락 저 불가하신 시간 있으실?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000371/0014.wav",
+                "duration": 3.104,
+                "text": "아니요. 그냥 빨리 연락 부탁드릴게요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000371/0015.wav",
+                "duration": 4.276,
+                "text": "그럼 최대한 빠르게 연락 주실 수 있도록 전달해드릴게"
+            }
+        ]
+    }
+}

@@ -1,0 +1,136 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "고객1",
+                    "age": "40대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "상담사1",
+                    "age": "20대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "3",
+                    "type": "고객2",
+                    "age": "10대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000239/0001.wav",
+                "duration": 3.053,
+                "text": "아 예 안녕하세요. 뭐 좀 (여쭤보려고요)/(여쭤볼려고요)."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000239/0002.wav",
+                "duration": 9.533,
+                "text": "o/ 아 저기 저희 아이가 지금 이거 듣고 있는데 혹시 수능특강에 대한 내용은 들을 수 혹시 돼 있나요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000239/0003.wav",
+                "duration": 4.2,
+                "text": "혹시 저희 수능특강 어떤 강좌 혹시"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000239/0004.wav",
+                "duration": 2.199,
+                "text": "어떤 과목이실까요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000239/0005.wav",
+                "duration": 2.851,
+                "text": "과목. 수학 영어 뭐 이런 거요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000239/0006.wav",
+                "duration": 1.827,
+                "text": "들을 수 없어요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000239/0007.wav",
+                "duration": 7.944,
+                "text": "o/ 어 아뇨 아뇨. 어머니 저희가 b/ 일단 저희 사이트 내에 보시면 강좌 교재찾기 있습니다. 혹시 확인 가능하실까요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000239/0008.wav",
+                "duration": 3.757,
+                "text": "아 잠깐만 b/ 선생님 죄송한데 잠시만요."
+            },
+            {
+                "speaker": "3",
+                "audioPath": "D01/J01/S000239/0009.wav",
+                "duration": 2.68,
+                "text": "o/ 여보세요? 안녕하세요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000239/0010.wav",
+                "duration": 4.061,
+                "text": "네 안녕하세요? 회원님 저희 사이트 보시면"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000239/0011.wav",
+                "duration": 6.573,
+                "text": "o/ 지금 저희 b/ 메뉴 중에 b/ 강좌 교재 찾기하고 돋보기 모양 혹시 보이세요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000239/0012.wav",
+                "duration": 9.507,
+                "text": "네 거기 돋보기 클릭하시고 통합검색에다가 b/ (EBS)/(이비에스) 수능특강하고 예 이제 수강 원하시는 과목 입력하시면"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000239/0013.wav",
+                "duration": 7.8,
+                "text": "저희 이제 b/ 그다음에 저희 강좌 클릭하시면 해당 이제 (EBS)/(이비에스) 관련된 저희 강좌가 다 나오거든요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000239/0014.wav",
+                "duration": 6.824,
+                "text": "네 여기에서 (1번)/(한 번) 검색해보시고 네 (워) 맞으시는 선생님 네 b/ 수강하시면 될 것 같아요. 회원님."
+            },
+            {
+                "speaker": "3",
+                "audioPath": "D01/J01/S000239/0015.wav",
+                "duration": 2.413,
+                "text": "o/ 아 네 감사합니다."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000239/0016.wav",
+                "duration": 2.931,
+                "text": "감사합니다. 좋은 하루 되세요."
+            }
+        ]
+    }
+}

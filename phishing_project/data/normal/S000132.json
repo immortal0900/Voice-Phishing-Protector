@@ -1,0 +1,98 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "상담사1",
+                    "age": "20대",
+                    "gender": "남",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "고객1",
+                    "age": "50대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000132/0001.wav",
+                "duration": 3.869,
+                "text": "타디 학습지원센터입니다. 무엇을 도와 드릴까요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000132/0002.wav",
+                "duration": 13.053,
+                "text": "아 예, 아까 쫌 전에 그 제가 그 상담 전문상담 신청을 했었는데 제가 다른 전화를 받고 있는 사이에 (2통)/(두 통)이나 (왔더라고요)/(왔드라고요). 제가 전화를 못 받아 가지고."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000132/0003.wav",
+                "duration": 5.0,
+                "text": "어 그래 사용하시는 자녀분 핸드폰 번호 어떻게 되세요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000132/0004.wav",
+                "duration": 5.352,
+                "text": "n/ 성함이랑 (생년월일)/(생년월이) 한번 말씀해 주시 (()) 감사합니다. 쪼꼼만 잠시만 기다려 주세요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000132/0005.wav",
+                "duration": 2.941,
+                "text": "어 네,네, 회원님 그러시면은"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000132/0006.wav",
+                "duration": 14.312,
+                "text": "n/ o/ (일단은)/(딴은) 이거는 (어차피)/(어짜히) 저희가 걸었는데 안 받으신 경우엔 이거는 (어차피)/(어짜피) 다시 예약 잡으셔야 돼서 네 오늘 네, 오늘 중으로 계속 시간대 (여) 어느 시간에 전화하셔도 상관 저희가 (어느속에) 언제든 전화드려도 상관없나요n/?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000132/0007.wav",
+                "duration": 3.229,
+                "text": "아 언제 정도 전화 주면은 되"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000132/0008.wav",
+                "duration": 3.56,
+                "text": "제든지 저희가 전화드려도 상관이 없나요? 오늘은?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000132/0009.wav",
+                "duration": 2.094,
+                "text": "오늘 중으로요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000132/0010.wav",
+                "duration": 16.488,
+                "text": "n/ 아 네, 근데 또 아까처럼 또 (동) 동시에 또 저쪽에서 전화가 올 경우에는 제가 (()) 이거 혹시라도 또 전화를 못 받을까 봐. 네 일단은 그렇게 할게요. 일단은 전화주세요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000132/0011.wav",
+                "duration": 2.515,
+                "text": "네, 알겠습니다."
+            }
+        ]
+    }
+}

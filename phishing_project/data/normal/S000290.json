@@ -1,0 +1,152 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "상담사1",
+                    "age": "20대",
+                    "gender": "남",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "고객1",
+                    "age": "40대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000290/0001.wav",
+                "duration": 2.433,
+                "text": "아네 안녕하세요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000290/0002.wav",
+                "duration": 1.725,
+                "text": "o/ 회원님. 안녕하세요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000290/0003.wav",
+                "duration": 8.061,
+                "text": "여기에서도 (9월)/(구 월) 모평을 원래 신청이 가능했던건지 아닌지 그것 좀 (1번)/(한 번) 여쭤보고 싶어서요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000290/0004.wav",
+                "duration": 2.568,
+                "text": "아유 신청하기는 어렵습니다."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000290/0005.wav",
+                "duration": 5.789,
+                "text": "어 그러면 학원이나 뭐 그전 학교로 해야만되는 거였나요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000290/0006.wav",
+                "duration": 2.397,
+                "text": "o/ 네네. 어 이 지금"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000290/0007.wav",
+                "duration": 2.809,
+                "text": "정확하게 안내를 드리기 어려운 게"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000290/0008.wav",
+                "duration": 4.275,
+                "text": "학원이나 학교에서 신청하는 방법도 있지만 이제"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000290/0009.wav",
+                "duration": 3.944,
+                "text": "다른 곳에서도 이체 신청을 할 수 있는지 없는지는"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000290/0010.wav",
+                "duration": 3.485,
+                "text": "저희 쪽에서도 정확하게 확인이 안되기 때문에"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000290/0011.wav",
+                "duration": 3.475,
+                "text": "o/ 이제 그거는 따로 알아보시는 게 좋을 것 같습니다."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000290/0012.wav",
+                "duration": 8.36,
+                "text": "네. 어쨌든 여기서는 뭐 그런 모평 같은 거 신청은 뭐 받거나 그러지는 않는다는 거죠?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000290/0013.wav",
+                "duration": 3.005,
+                "text": "아 네 모의고사 이제"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000290/0014.wav",
+                "duration": 5.181,
+                "text": "사이트에서는 (9월)/(구 월) 모의고사가 끝나고 시험지를"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000290/0015.wav",
+                "duration": 2.739,
+                "text": "o/ 시험지를 이제 어"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000290/0016.wav",
+                "duration": 2.557,
+                "text": "문제를 풀어볼 수는 있겠지만"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000290/0017.wav",
+                "duration": 3.112,
+                "text": "o/ 이제 따로 신청을 받고 있지는 않습니다."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000290/0018.wav",
+                "duration": 3.197,
+                "text": "네 알겠습니다."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000290/0019.wav",
+                "duration": 3.592,
+                "text": "o/ 네 네. 감사합니다."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000290/0020.wav",
+                "duration": 1.789,
+                "text": "예 감사합니다."
+            }
+        ]
+    }
+}

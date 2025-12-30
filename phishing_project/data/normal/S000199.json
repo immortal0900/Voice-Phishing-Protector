@@ -1,0 +1,116 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "상담사1",
+                    "age": "20대",
+                    "gender": "남",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "고객1",
+                    "age": "40대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000199/0001.wav",
+                "duration": 2.259,
+                "text": "예 선생님 네, 네"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000199/0002.wav",
+                "duration": 2.045,
+                "text": "어머니 맞으십니까?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000199/0003.wav",
+                "duration": 2.071,
+                "text": "네 아까 이제"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000199/0004.wav",
+                "duration": 4.061,
+                "text": "o/ 현장 강의하시는 곳 여쭤보셔 가지고 다시 연락을 드렸는데요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000199/0005.wav",
+                "duration": 4.104,
+                "text": "지금 저희쪽에서 확인되신 (계시는) 곳은 이제"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000199/0006.wav",
+                "duration": 3.037,
+                "text": "아 예 너무 감사합니다."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000199/0007.wav",
+                "duration": 2.771,
+                "text": "네 혹시 다른 문의사항은 있으십니까?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000199/0008.wav",
+                "duration": 4.829,
+                "text": "아니 선생님 그 저 그 강의 선생님은"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000199/0009.wav",
+                "duration": 10.081,
+                "text": "고난이도 그 비문학 독해만 하셔가지고 그 최상위권 애들 만 위주로 이렇게 또 수업을 해야 되는 뭐 그런 선생님이신가요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000199/0010.wav",
+                "duration": 6.909,
+                "text": "아 b/ 해당 부분 같은 경우는 b/ 이제 고난이도 문제도 (이) 있긴 하지만"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000199/0011.wav",
+                "duration": 5.541,
+                "text": "이 수능 기초를 다루는 문제들도 출시를 (하) 하시거든요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000199/0012.wav",
+                "duration": 3.533,
+                "text": "(나) 난이도 (나눠) 나눠두셨거든요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000199/0013.wav",
+                "duration": 8.083,
+                "text": "o/ 다만 (()) 같은 경우는 이제 자녀분께서 직접 b/ 확인을 하셔가지고 선택해주시면 되겠습니다."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000199/0014.wav",
+                "duration": 2.867,
+                "text": "아 예 너무 (감사합니다)/(감사합니다아)."
+            }
+        ]
+    }
+}

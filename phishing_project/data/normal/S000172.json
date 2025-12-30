@@ -1,0 +1,494 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "고객1",
+                    "age": "10대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "상담사1",
+                    "age": "30대",
+                    "gender": "남",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000172/0001.wav",
+                "duration": 4.269,
+                "text": "그 지금 네. 상담내용을 다 작성을 했는데요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000172/0002.wav",
+                "duration": 7.144,
+                "text": "그러고 상담 신청 버튼을 눌렀는데 계속 안된다고 (fail)/(페일)이라는 그 말만 나오는데"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000172/0003.wav",
+                "duration": 3.053,
+                "text": "뭐가 잘못된 건지를 모르겠어서요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000172/0004.wav",
+                "duration": 3.64,
+                "text": "혹시 어떤 상담 부분을 남겨주셨을까요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000172/0005.wav",
+                "duration": 4.093,
+                "text": "그 전화 학습 상담 예약이요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000172/0006.wav",
+                "duration": 2.781,
+                "text": "전화 학습 상담 예약이요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000172/0007.wav",
+                "duration": 3.165,
+                "text": "o/ 네. 거기서 상담 내용 ((작성))"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000172/0008.wav",
+                "duration": 4.236,
+                "text": "o/ 네 네. 아 직접 작성을 하셨다는 말씀이신 거죠?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000172/0009.wav",
+                "duration": 5.421,
+                "text": "아 그러시면 혹시 어떤 부분으로 남겨주셨을까요? 내용을?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000172/0010.wav",
+                "duration": 6.189,
+                "text": "o/ 과목별로 추천해서 추천 관련해서 혹시 남겨주신 걸까요? 추천으로?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000172/0011.wav",
+                "duration": 4.541,
+                "text": "어 그랬던 그런 것만은 아니고"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000172/0012.wav",
+                "duration": 5.112,
+                "text": "어 그냥 학습 방향을 조금 같이 설계해보고 싶고"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000172/0013.wav",
+                "duration": 4.349,
+                "text": "o/ 네. 그 혹시 추천이 가능한지도 여쭤본 건 있어요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000172/0014.wav",
+                "duration": 6.781,
+                "text": "o/ 아 네. 근데 그 양식을 인제 남기려고 이제 사이트 내에서 남기려고 하셨는데"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000172/0015.wav",
+                "duration": 10.131,
+                "text": "o/ 왜 (남기) 남겨지지 않는다라는 말씀이신 거죠? 그 학습 저희 사이트 내에서 학습지원센터 누르시면 학습상담에 b/ 남기실 수 있잖아요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000172/0016.wav",
+                "duration": 4.371,
+                "text": "거기에 인제 신청하기가 눌리지 않는다라는 말씀이신 걸까요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000172/0017.wav",
+                "duration": 6.232,
+                "text": "o/ 그 전화번호 쓰는 거랑 양식도 다 작성을 하고 학습 내용까지 다 기록을 했는데"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000172/0018.wav",
+                "duration": 8.835,
+                "text": "o/ 그 상담 신청을 하면은 그 (80)/(팔십) 최소 (80자)/(팔십 자) 이상이 작성되어야 합니다. 이게 먼저 떠서 오케이를 누르면"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000172/0019.wav",
+                "duration": 3.021,
+                "text": "o/ 계속 (fail)/(페일)이라는 단어가 떠요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000172/0020.wav",
+                "duration": 3.885,
+                "text": "o/ (fail)/(페일) 실패라는 말씀 (()) 말씀이신 거죠?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000172/0021.wav",
+                "duration": 3.949,
+                "text": "o/ 기기 뭐 이용하실 때? 뭐 노트북이라던지."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000172/0022.wav",
+                "duration": 3.393,
+                "text": "o/ 노트북이요? 맥으로 하신 건가요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000172/0023.wav",
+                "duration": 7.8,
+                "text": "n/ 전화상담만 신청 가능합니다라고 뜬다는 말씀이시죠? 따로 그러면 제가 전화상담으로 해서"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000172/0024.wav",
+                "duration": 3.436,
+                "text": "o/ 저희 쪽에서 예약을 도와드리도록 할게요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000172/0025.wav",
+                "duration": 2.769,
+                "text": "o/ 학생 회원님 그 일단은 우선"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000172/0026.wav",
+                "duration": 3.261,
+                "text": "아이디 (1번)/(한 번) 먼저 말씀해주시겠어요? n/"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000172/0027.wav",
+                "duration": 3.037,
+                "text": "혹시 어떤 강좌 추천 희망하세요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000172/0028.wav",
+                "duration": 5.427,
+                "text": "o/ 뭐 저희가 간략하게 예약은 도와드리면 되는데 그거에 대해서 인제"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000172/0029.wav",
+                "duration": 3.7,
+                "text": "상담 선생님께서 연락을 드릴 거예요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000172/0030.wav",
+                "duration": 7.239,
+                "text": "o/ 저희가 오늘 (1시)/(한 시)부터 (8시)/(여덟 시) 사이에 상담을 진행을 하거든요. 그래서 그때 전화를 받으시고"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000172/0031.wav",
+                "duration": 3.736,
+                "text": "o/ 저한테 다 말씀 못해주신 부분이더라도"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000172/0032.wav",
+                "duration": 5.96,
+                "text": "o/ 네. 선생님하고 인제 상담하시면서 더 말씀해주셔도 되거든요? 그래서 간략하게"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000172/0033.wav",
+                "duration": 5.055,
+                "text": "o/ (()) 문의하실 사항만 말씀해주시면 예약 도와드리도록 할게요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000172/0034.wav",
+                "duration": 3.694,
+                "text": "혹시 제가 지금 작성한 내용을"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000172/0035.wav",
+                "duration": 4.498,
+                "text": "o/ 그래서 이제 그 뭐야 신청이 안되니까"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000172/0036.wav",
+                "duration": 3.816,
+                "text": "엄청 간략하게 나름 (이렇게)/(케) 줄여놨는데"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000172/0037.wav",
+                "duration": 4.12,
+                "text": "(()) 있으시면 그쪽으로 보내드려도 되나요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000172/0038.wav",
+                "duration": 1.992,
+                "text": "어디 쪽으로요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000172/0039.wav",
+                "duration": 3.625,
+                "text": "어 지금 전화받고 계신 분쪽으로요n/."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000172/0040.wav",
+                "duration": 5.72,
+                "text": "아니요. 저희 쪽으로는 따로 보내주실 수 있는 그 경로가 없어요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000172/0041.wav",
+                "duration": 4.243,
+                "text": "어 왜냐면 지금 이제 작성을 하는데"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000172/0042.wav",
+                "duration": 3.832,
+                "text": "(()) 인강 목록을 받아보고 싶어서만이 아니라"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000172/0043.wav",
+                "duration": 3.528,
+                "text": "(()) 전체적으로 틀을 설계하는데"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000172/0044.wav",
+                "duration": 3.384,
+                "text": "o/ 네. 이제 (시작하시려고)/(시작하실려고) 하시는 거잖아요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000172/0045.wav",
+                "duration": 4.968,
+                "text": "o/ 그럼 일단 전체적인 과목 추천 강좌 추천 희망해서"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000172/0046.wav",
+                "duration": 4.248,
+                "text": "이렇게 일단 안내로 도와드릴게요. 상담받으실 때 조금 더"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000172/0047.wav",
+                "duration": 3.454,
+                "text": "o/ ((구체적으로)) 상담받으시면 될 것 같거든요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000172/0048.wav",
+                "duration": 5.795,
+                "text": "o/ (그럼)/(금) 지금 제가 말로 간략하게 이렇게 조금 설명을 해드리면 될까요? 그 내용을?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000172/0049.wav",
+                "duration": 5.891,
+                "text": "o/ 네. 그쵸. 인제 전화를 받으시면 저는 일단 회원님 그 학습 상담 예약을 도와드릴 거고"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000172/0050.wav",
+                "duration": 7.501,
+                "text": "o/ 네. 상담사님께서 대표번호로 예. 전화가 오면 대표번호로 (찍 보이) 이제 수신이 되실 거예요. 발신번호가."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000172/0051.wav",
+                "duration": 3.72,
+                "text": "o/ 네. 그래서 (()) 남겨드릴 테니까"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000172/0052.wav",
+                "duration": 3.939,
+                "text": "o/ (1시)/(한 시)에서 (8시)/(여덟 시) 사이에 순차적으로 저희 연락드리니까"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000172/0053.wav",
+                "duration": 4.195,
+                "text": "그거는 참고해주시면 되겠습니다. 예약 도와드리도록 할게요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000172/0054.wav",
+                "duration": 4.248,
+                "text": "어 그러면 제가 지금 뭔 말씀드려야 되는 거예요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000172/0055.wav",
+                "duration": 5.725,
+                "text": "어 아니요. 그냥 제가 (고) 고등학교 (2학년)/(이 학년) 학생 전 과목 강좌 추천 희망으로 해서"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000172/0056.wav",
+                "duration": 3.888,
+                "text": "o/ 이렇게 상담 선생님 저희가 전화를 드릴 거예요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000172/0057.wav",
+                "duration": 2.875,
+                "text": "o/ (1시)/(한 시)에서 (8시)/(여덟 시) 사이에"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000172/0058.wav",
+                "duration": 3.315,
+                "text": "o/ 선생님들께서 상담을 진행하시기 때문에"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000172/0059.wav",
+                "duration": 4.204,
+                "text": "o/ 그 사이에 연락을 드릴 거니까 그 부분 참고해주시고"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000172/0060.wav",
+                "duration": 3.853,
+                "text": "수신 차단되어있지 않는지 연락처 (1번)/(한 번) 확인해주시고"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000172/0061.wav",
+                "duration": 3.608,
+                "text": "o/ (1시)/(한 시)부터 (8시)/(여덟 시) 사이에 순차적으로 연락드리니깐요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000172/0062.wav",
+                "duration": 2.696,
+                "text": "n/ 전화 기다려주시면 돼요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000172/0063.wav",
+                "duration": 3.507,
+                "text": "근데 시간을 정해둘 순 없는 거예요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000172/0064.wav",
+                "duration": 7.055,
+                "text": "n/ 네. 저희가 정해져 있지는 않아요. 예약 순서대로 ((데)) (1시)/(한 시)에서 (8시)/(여덟 시) 사이에 연락드리는 거기 때문에"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000172/0065.wav",
+                "duration": 3.507,
+                "text": "n/ 통화 불가하신 시간만 좀 남겨주시겠어요? 그러면?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000172/0066.wav",
+                "duration": 3.661,
+                "text": "아 제가 그 오늘 치과 예약이 있는데"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000172/0067.wav",
+                "duration": 2.557,
+                "text": "o/ 그게 언제 네."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000172/0068.wav",
+                "duration": 3.613,
+                "text": "o/ 그게 언제가 될지를 잘 모르겠어서"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000172/0069.wav",
+                "duration": 2.344,
+                "text": "치과 예약이 몇 시신 거예요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000172/0070.wav",
+                "duration": 2.941,
+                "text": "그게 오늘 변경을 하는 거라"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000172/0071.wav",
+                "duration": 5.069,
+                "text": "아직 그 오픈을 안 해가지고 전화를 못 드렸거든요. 치과에도."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000172/0072.wav",
+                "duration": 5.645,
+                "text": "o/ 그래서 언제가 될지를 잘 모르겠는데 혹시나 시간이 겹칠까 봐서"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000172/0073.wav",
+                "duration": 2.2,
+                "text": "o/ 걱정이 돼서요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000172/0074.wav",
+                "duration": 3.155,
+                "text": "일단은 근데 부재중 찍혀있으면"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000172/0075.wav",
+                "duration": 4.275,
+                "text": "o/ 그 저희가 다시 (1번)/(한 번) 이제 선생님들께서 부재인"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000172/0076.wav",
+                "duration": 3.093,
+                "text": "그 회원님들은 다시 연락드리거든요? n/"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000172/0077.wav",
+                "duration": 7.661,
+                "text": "o/ 그래서 그건 뭐 크게 걱정 안 하셔도 될 것 ((같)) 혹시 아니시면 (못 봐 못) 부재 못 받으셨으면 저희 쪽으로 (1번)/(한 번) 문의 주셔서 다시 예약 진행해주셔도 되세요."
+            }
+        ]
+    }
+}

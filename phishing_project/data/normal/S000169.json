@@ -1,0 +1,206 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "상담사1",
+                    "age": "20대",
+                    "gender": "남",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "고객1",
+                    "age": "40대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000169/0001.wav",
+                "duration": 5.589,
+                "text": "네 애가 지금 중학교 (3학년)/(삼 학년)인데요. 수학 좀 (여쭤보려고)/(여쭤볼려고) 하는데"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000169/0002.wav",
+                "duration": 9.768,
+                "text": "수학 상 하 현장에서 학원에서 수학 상 하 수 (1)/(원) 그다음에 를 끝냈고 지금 수 (2)/(투)를 지금 하고 있거든요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000169/0003.wav",
+                "duration": 8.125,
+                "text": "o/ 아 네 혹시 지금 학생 회원분께서 어 지금 중학교 (3학년)/(삼 학년)이시면 예비 고 (1)/(일) 말씀하시는거 맞으실까요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000169/0004.wav",
+                "duration": 2.904,
+                "text": "네 네 네 맞아요. 네"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000169/0005.wav",
+                "duration": 5.785,
+                "text": "n/ 근데 수학 상 하는 약간 개념은 좀 돼있는 거 같아요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000169/0006.wav",
+                "duration": 6.589,
+                "text": "예 기본 (()) 것 같은데 이제 좀 심화를 좀 하고 싶어 하는데 수학 상 같은 경우는"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000169/0007.wav",
+                "duration": 5.16,
+                "text": "그러면 어떤 강의들 어떤 선생님한테 어떤 걸 좀 드려야 될까요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000169/0008.wav",
+                "duration": 10.227,
+                "text": "o/ 아 네 지금 저희가 해당부분에 있어가지고 이제 정확한 상담을 받으실려면은 학습상담 제가 신청을 도와줄 수 있을 것 같거든요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000169/0009.wav",
+                "duration": 3.325,
+                "text": "학습상담신청 도와드려도 괜찮으실까요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000169/0010.wav",
+                "duration": 3.112,
+                "text": "그거는 어떻게 해요? 선생님 전화가 오나요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000169/0011.wav",
+                "duration": 6.291,
+                "text": "o/ 네 네 이제 학습상담 전문으로 하시는 분께서 연락이 가실 거고요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000169/0012.wav",
+                "duration": 6.035,
+                "text": "o/ 저희가 그러면 해당 부분이 있어서 이제 수학 상 하 부분 이제"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000169/0013.wav",
+                "duration": 3.176,
+                "text": "그 강좌 부분 추천"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000169/0014.wav",
+                "duration": 2.451,
+                "text": "o/ 상담 말씀하신거 맞죠?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000169/0015.wav",
+                "duration": 6.141,
+                "text": "네 그러면 저희가 학습상담 신청을 이제 진행을 도와드릴거고요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000169/0016.wav",
+                "duration": 3.944,
+                "text": "학습상담은 (1시)/(한 시)부터 업무가 진행이 되시고요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000169/0017.wav",
+                "duration": 5.757,
+                "text": "이제 순차적으로 진행되시다 보니까 대기시간 소요되실수있는 부분 있으시고요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000169/0018.wav",
+                "duration": 3.467,
+                "text": "상담받으실 연락처가 어떻게 되실까요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000169/0019.wav",
+                "duration": 9.427,
+                "text": "네 그러면 저희가 해당 부분 학습상담 신청을 진행을 도와드릴 거고요. 네 (1시)/(한 시) 이후에 연락 오시면은 해당 연락 받으시면 되겠습니다."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000169/0020.wav",
+                "duration": 5.117,
+                "text": "혹시 인강을 끊었잖아요. (1)/(하나) 그러면 유효기간이 언제까지 몇 개월이에요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000169/0021.wav",
+                "duration": 12.456,
+                "text": "o/ 각 강좌마다 이제 그 수강 그 강좌 개수라든지 강좌 구성에 따라서 이제 그 학습기간이 다르신 부분이 있어가지고요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000169/0022.wav",
+                "duration": 3.752,
+                "text": "수학 상을 듣는다 그러면 유효기간이 어떻게 되는 거예요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000169/0023.wav",
+                "duration": 2.813,
+                "text": "수학 상 강좌 말씀하신 거 맞으실까요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000169/0024.wav",
+                "duration": 3.765,
+                "text": "n/ 저희가 확인해볼 텐데요. 잠시만 기다려주세요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000169/0025.wav",
+                "duration": 3.186,
+                "text": "지금 저희가 확인해봤을 때"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000169/0026.wav",
+                "duration": 9.235,
+                "text": "o/ 이제 수학 사항 강좌를 학생분께서 수강을 하시게 될 경우에는 현재 지금 (121일)/(백 이십 일 일)인 걸로 확인이 되세요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000169/0027.wav",
+                "duration": 2.323,
+                "text": "아 그래요? 네"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000169/0028.wav",
+                "duration": 4.172,
+                "text": "네 알겠습니다. 일단 상담 (1번)/(한 번) 에 (바) 받을게요. 네"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000169/0029.wav",
+                "duration": 1.832,
+                "text": "좋은 하루 되세요."
+            }
+        ]
+    }
+}

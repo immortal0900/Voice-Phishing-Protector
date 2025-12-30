@@ -1,0 +1,482 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "고객1",
+                    "age": "40대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "상담사1",
+                    "age": "20대",
+                    "gender": "남",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000186/0001.wav",
+                "duration": 8.099,
+                "text": "o/ 아 저희가 카톡으로 친구 연결해가지고 친구 채널 해가지고 (7일)/(칠 일) 동안 무료로 (1번)/(한 번) (이용해보려고요)/(이용해볼려구요)."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000186/0002.wav",
+                "duration": 7.853,
+                "text": "o/ 이거 인터넷으로 아니 컴퓨터로 지금 로고 아이 (그러니까)/(그까) 회원가입을 인제 하고 있는 중에"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000186/0003.wav",
+                "duration": 4.212,
+                "text": "o/ 그 인증 (요) 요청받는 부분이 (있더라고요)/(있드라고요)?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000186/0004.wav",
+                "duration": 5.309,
+                "text": "o/ 회원가입할 때? 근데 이게 지금 인증 요청을 했는데도"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000186/0005.wav",
+                "duration": 5.368,
+                "text": "지금 번호가 지금 그 (옷) 들어오질 않네요? 휴대폰으로?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000186/0006.wav",
+                "duration": 2.537,
+                "text": "아 문자가 안 오시는 겁니까?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000186/0007.wav",
+                "duration": 3.432,
+                "text": "n/ 아 그 우리 애걸로 했는 건데"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000186/0008.wav",
+                "duration": 3.715,
+                "text": "o/ 애 휴대폰으로 했는데 수신 차단되어"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000186/0009.wav",
+                "duration": 3.923,
+                "text": "이거는 어떻게 확인해볼 수 있죠? 이런 거는 휴대폰에서?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000186/0010.wav",
+                "duration": 4.281,
+                "text": "o/ 어 이제 휴대폰마다 (다르시기)/(달르시기) 때문에 그 부분에 대해서는"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000186/0011.wav",
+                "duration": 3.224,
+                "text": "자녀분께서 직접 찾아주셔야 될 것 같습니다."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000186/0012.wav",
+                "duration": 5.176,
+                "text": "(그러면)/(그면) 새로운 연락처로 등록해가지고 전화를 걸어 걸면은 되나요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000186/0013.wav",
+                "duration": 2.965,
+                "text": "걸어보면? n/ 걸어봐."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000186/0014.wav",
+                "duration": 3.235,
+                "text": "그래서 번호 등록을 해놓으면 (되) 되겠죠?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000186/0015.wav",
+                "duration": 3.96,
+                "text": "어 이제 번호 등록 해놓으셔도 이제 차단이 돼있으시면은"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000186/0016.wav",
+                "duration": 3.485,
+                "text": "o/ 아마 문자 수신이나 이제"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000186/0017.wav",
+                "duration": 2.851,
+                "text": "o/ 전화 수신 같은 경우는 안되실 거예요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000186/0018.wav",
+                "duration": 2.995,
+                "text": "아니요. 안 돼있는 거 맞아?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000186/0019.wav",
+                "duration": 2.513,
+                "text": "아 안 돼있는 거 맞는데?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000186/0020.wav",
+                "duration": 2.925,
+                "text": "안돼 있으신데 이제 문자가 안 오시는 겁니까?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000186/0021.wav",
+                "duration": 8.563,
+                "text": "o/ 어 이제 혹시 그러면 인터넷 창을 다시 껐다가 다시 키신 다음에 다시 인증받아보시겠습니까?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000186/0022.wav",
+                "duration": 4.67,
+                "text": "아 완전히n/ 끄고n/ 다시 (1번)/(한 번) 연결해보라고요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000186/0023.wav",
+                "duration": 7.059,
+                "text": "이미 인증받기 번호를 신청하셨습니다라고 자꾸 뜨네요? 요청 (하) 하셨습니다."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000186/0024.wav",
+                "duration": 4.467,
+                "text": "o/ 근데 (너한테)/(니한테) 오진 (않지)/(않제)? 이거 안오는데?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000186/0025.wav",
+                "duration": 4.605,
+                "text": "혹시 그 생년월일이랑 수강 연락처 전부 다"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000186/0026.wav",
+                "duration": 4.492,
+                "text": "o/ 성함 아 이름 있고 휴대전화 번호 있고"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000186/0027.wav",
+                "duration": 3.864,
+                "text": "그냥 바로 전화번호 이렇게 있는데요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000186/0028.wav",
+                "duration": 3.256,
+                "text": "o/ 아 이게 뭐 지금 화면이"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000186/0029.wav",
+                "duration": 3.912,
+                "text": "이게 약관 동의를 우리가 했고"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000186/0030.wav",
+                "duration": 5.8,
+                "text": "그다음에 이름 본인 인증해가지고 이름 (나오고요)/(나오구요). 그래 갖고 이름치고"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000186/0031.wav",
+                "duration": 8.947,
+                "text": "o/ 잠깐만요. 음 이름치고 그다음에 휴대전화 번호 있더라고요. 휴대전화 번호 그거를 (누르고)/(눌르고) 인제"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000186/0032.wav",
+                "duration": 6.941,
+                "text": "고 바로 어 지역번호 지역번호를 포함한 숫자에 휴대폰 번호를 집어넣었거든요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000186/0033.wav",
+                "duration": 2.723,
+                "text": "그리고 인증 요청을 (했고요)/(했구요)."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000186/0034.wav",
+                "duration": 5.144,
+                "text": "o/ 지역번호가 포함이 된 숫자에다가 이제 하셨다고요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000186/0035.wav",
+                "duration": 3.741,
+                "text": "o/ 휴대전화 번호 우리 휴대전화 번호를 입력했거든요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000186/0036.wav",
+                "duration": 5.464,
+                "text": "o/ 연락처라는 부분에 혹시 휴대폰 번호 넣어주시겠습니까?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000186/0037.wav",
+                "duration": 4.616,
+                "text": "예. 아니면 핸드폰이라고 적혀있는 부분에 연락처 (()) 핸드폰."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000186/0038.wav",
+                "duration": 4.596,
+                "text": "예 예. 거기 맨 거기 적은 건데 휴대전화 번호 밑에."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000186/0039.wav",
+                "duration": 4.371,
+                "text": "거기에다가 번호를 입력했거든요. 휴대번호를."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000186/0040.wav",
+                "duration": 3.347,
+                "text": "o/ 휴대번호를 입력하셨는데 문자가 안 (오신다고요)/(오신다구요)?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000186/0041.wav",
+                "duration": 4.168,
+                "text": "예 예. 인증 요청을 했는데도 지금 계속 안 오고 있고"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000186/0042.wav",
+                "duration": 3.075,
+                "text": "원래 이렇게 되면 오는 거 맞잖아요. 그죠?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000186/0043.wav",
+                "duration": 5.688,
+                "text": "o/ 네. 문자 수신이 되셔야 되는데요. 혹시 그거 어머니 번호로 (1번)/(한 번) 해보시겠습니까?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000186/0044.wav",
+                "duration": 3.725,
+                "text": "그러면은 아 제 걸로 해도 되나요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000186/0045.wav",
+                "duration": 4.003,
+                "text": "네 네. 어머니 걸로 등록을 해주셔도 돼요. 되세요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000186/0046.wav",
+                "duration": 3.747,
+                "text": "원래 애 걸로 해야 되는 거 아닌가요? 애 이름으로?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000186/0047.wav",
+                "duration": 3.976,
+                "text": "o/ 아 이게 어머니 걸로 하셔도 b/ 이제"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000186/0048.wav",
+                "duration": 3.128,
+                "text": "o/ 따로 불이익받는 거 없으십니다."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000186/0049.wav",
+                "duration": 4.613,
+                "text": "그러면 들어갈 때도 제 이름으로 해갖고 들어가고 해야 되나요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000186/0050.wav",
+                "duration": 4.12,
+                "text": "n/ 인증 아 휴대폰 인증만 어머니 걸로 받아주시면 됩니다."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000186/0051.wav",
+                "duration": 2.128,
+                "text": "어 번호 왔어요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000186/0052.wav",
+                "duration": 3.889,
+                "text": "o/ 네. 이제 어머님께선 오셨는데 자녀분께서 안 오신 거면"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000186/0053.wav",
+                "duration": 3.16,
+                "text": "o/ 아무래도 이제 자녀분"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000186/0054.wav",
+                "duration": 2.571,
+                "text": "o/ 사용하시는 어플 중에"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000186/0055.wav",
+                "duration": 6.989,
+                "text": "o/ 네. 어플 중에 이제 자동으로 (()) 부분 아님 인터넷 번호를 같은 경우 아 인터넷 번호를"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000186/0056.wav",
+                "duration": 2.547,
+                "text": "차단하는 어플이 있거든요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000186/0057.wav",
+                "duration": 2.824,
+                "text": "그런 어플로 저희 번호가"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000186/0058.wav",
+                "duration": 4.915,
+                "text": "o/ 문자 수신 (()) 막힌 게 아닌지 확인해주셔야 될 것 같습니다."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000186/0059.wav",
+                "duration": 6.072,
+                "text": "그러면은 저희는 이게 지금 어 인증 번호가 일치하지 않습니다. 뭐야 (())"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000186/0060.wav",
+                "duration": 3.998,
+                "text": "그러면 이거는 지금 이렇게 다 된 건가요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000186/0061.wav",
+                "duration": 4.296,
+                "text": "완료되었다고 나오네요. 본인 인증이n/ 완료되었습니다n/."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000186/0062.wav",
+                "duration": 2.664,
+                "text": "o/ 어머니 걸로 가시는데"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000186/0063.wav",
+                "duration": 4.265,
+                "text": "자녀분 걸로 이제 문자는 안 가시는 경우에는요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000186/0064.wav",
+                "duration": 6.07,
+                "text": "o/ 다시 (1번)/(한 번) 자녀분께서 저희 번호가 차단이 되셨는지 확인이 필요할 것 같습니다."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000186/0065.wav",
+                "duration": 2.685,
+                "text": "그러니까 이걸 못 찾겠는데"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000186/0066.wav",
+                "duration": 4.716,
+                "text": "그러면 일단은 제 걸로 했으니까 본인 인증이 됐고"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000186/0067.wav",
+                "duration": 3.192,
+                "text": "o/ 그럼 이용하는 데는 문제가 없단 말인가요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000186/0068.wav",
+                "duration": 5.511,
+                "text": "o/ 네. 이제 나중에 자녀분 아이디도 아 자녀 자녀분 휴대폰 번호로"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000186/0069.wav",
+                "duration": 3.981,
+                "text": "등록돼n/ 있는 휴대폰 번호도 (바꿀) 변경하실 수가 있거든요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000186/0070.wav",
+                "duration": 3.852,
+                "text": "그러니까 이제 나중에 필요하시다면"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000186/0071.wav",
+                "duration": 3.635,
+                "text": "o/ 자녀분 휴대폰 번호로 변경을 해주시면 되겠습니다."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000186/0072.wav",
+                "duration": 6.68,
+                "text": "아 정보에 나중에 얘 정보에 인제 그거 휴대폰 번호만 변경을 해주면 된다는 거네요? 그죠? n/"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000186/0073.wav",
+                "duration": 2.467,
+                "text": "이용하는 데는 문제없고?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000186/0074.wav",
+                "duration": 4.723,
+                "text": "아 일단은 예 예. 잘 알겠습니다."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000186/0075.wav",
+                "duration": 2.877,
+                "text": "네. 알겠습니다. 감사합니다."
+            }
+        ]
+    }
+}

@@ -1,0 +1,134 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "고객1",
+                    "age": "40대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "상담사1",
+                    "age": "20대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000402/0001.wav",
+                "duration": 4.16,
+                "text": "학습지원 상생사입니다. 무엇을 도와드릴까요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000402/0002.wav",
+                "duration": 2.823,
+                "text": "네, 수고하십니다. 문의 좀 할게요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000402/0003.wav",
+                "duration": 3.804,
+                "text": "아 회원 가입을 엄마 이름으로 했는데요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000402/0004.wav",
+                "duration": 4.307,
+                "text": "아이가 그 단과 학습을 신청하려고 하는데"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000402/0005.wav",
+                "duration": 6.355,
+                "text": "그런 경우에는 아이 이름을 다시 가입을 해야 되는 건지 아니면 엄마음으로 이름으로 계속 진행이 가능한 건지"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000402/0006.wav",
+                "duration": 5.672,
+                "text": "자녀 학생회원으로 가입해주셔야 (되고요)/(되구요). 그 안에 들어가서 결제해주시면 되세요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000402/0007.wav",
+                "duration": 5.117,
+                "text": "그리고 만약에 제가 그 물리 인강을 지금 들으려고 하는데요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000402/0008.wav",
+                "duration": 5.578,
+                "text": "물리 인강 중에서 아이한테 맞는 걸 찾으려면은 혹시 그런 상담도 가능할까요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000402/0009.wav",
+                "duration": 3.08,
+                "text": "학습 상담을 말씀하시는 걸까요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000402/0010.wav",
+                "duration": 7.86,
+                "text": "회원님 혹시 지금 학부모 회원님으로 가입해주셨던 연락처가 어떻게 되세요? 잠시만 기다려 주세요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000402/0011.wav",
+                "duration": 2.312,
+                "text": "네, 맞습니다."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000402/0012.wav",
+                "duration": 5.8,
+                "text": "네, 회원님 학습 상담 같은 경우는 저희가 이제 연락을 따로 드려야 돼요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000402/0013.wav",
+                "duration": 4.569,
+                "text": "o/ 왜냐면 이전에 먼저 예약하신 분들이 있기 때문에"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000402/0014.wav",
+                "duration": 8.339,
+                "text": "그러면 저희가 학습 상담을 저희 신청을 해드릴 건데 혹시 어떤 부분이 궁금하신거예요? 물리 쪽은 다 궁금하신 거예요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000402/0015.wav",
+                "duration": 2.589,
+                "text": "예비 고 (1)/(일)이신가요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000402/0016.wav",
+                "duration": 2.541,
+                "text": "아니요. 중 (2)/(이)인데요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000402/0017.wav",
+                "duration": 3.56,
+                "text": "네, 상담좀 부탁드립니다."
+            }
+        ]
+    }
+}

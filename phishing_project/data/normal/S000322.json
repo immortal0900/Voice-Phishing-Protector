@@ -1,0 +1,140 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "고객1",
+                    "age": "50대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "상담사1",
+                    "age": "20대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000322/0001.wav",
+                "duration": 2.22,
+                "text": "n/ o/ 네 확인해봤는데"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000322/0002.wav",
+                "duration": 4.125,
+                "text": "n/ o/ 아까 말씀드린 경로 그 풀서비스에서"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000322/0003.wav",
+                "duration": 4.816,
+                "text": "n/ 네 이쪽으로 들어가셔도 되고 풀서비스 들어가신 다음에"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000322/0004.wav",
+                "duration": 11.657,
+                "text": "n/ o/ 해설 강의 눌러주시면 이쪽에서 보실 수는 있는데 따로 받아보실 방법은 없어요. 그 변형 문제의 경우에는 고 (1)/(일) (2)/(이)만 있는 걸로 확인은 되시긴 해요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000322/0005.wav",
+                "duration": 4.533,
+                "text": "n/ 고 (1)/(일) (2)/(이)는 변형 문제가 있는데 고 (3)/(삼)부분은"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000322/0006.wav",
+                "duration": 9.117,
+                "text": "n/ o/ 한번 강좌 추천 관련해서 이거 학습지원센터 쪽에 학습상담 남겨주시면 여기 전문적인 선생님 계시거든요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000322/0007.wav",
+                "duration": 2.053,
+                "text": "지금 연결해주세요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000322/0008.wav",
+                "duration": 6.604,
+                "text": "n/ o/ 어 이거 예약 남겨주시면 빠르게 연결은 진행되시는데 그 저희가 예약을 남겨드릴까요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000322/0009.wav",
+                "duration": 8.819,
+                "text": "n/ 전화는 이제 지금부터 (9시)/(아홉 시)까지 순차적으로 연락 가시고요. 여기 상담 경로 남겨주셔도 순차적으로 연락가세요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000322/0010.wav",
+                "duration": 4.035,
+                "text": "n/ o/ 네 이거 선생님이 남겨주세요. 제가 또 들어갈 수 없잖아요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000322/0011.wav",
+                "duration": 3.875,
+                "text": "n/ 어 그러면은 저희 쪽에서 남겨드릴 텐데요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000322/0012.wav",
+                "duration": 4.437,
+                "text": "n/ 연락 받으실 번호는 제가 연락드렸던 번호이고요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000322/0013.wav",
+                "duration": 3.677,
+                "text": "n/ 수강 희망 과목은 영어이시잖아요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000322/0014.wav",
+                "duration": 4.161,
+                "text": "n/ 네 변형 문제 외에도 다른 부분 있으세요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000322/0015.wav",
+                "duration": 2.909,
+                "text": "n/ 이 부분만 있으신 건가요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000322/0016.wav",
+                "duration": 3.693,
+                "text": "n/ 네 그러면은 학습 상담 예약"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000322/0017.wav",
+                "duration": 3.16,
+                "text": "네 알겠어요. 기다리고 있겠습니다. 선생님."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000322/0018.wav",
+                "duration": 2.099,
+                "text": "o/ 네 감사합니다."
+            }
+        ]
+    }
+}

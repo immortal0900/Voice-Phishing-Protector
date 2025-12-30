@@ -1,0 +1,412 @@
+{
+  "file": "(대출빙자형) 영업점에선 절 모를수도있어요_.mp3",
+  "rel_path": "(대출빙자형) 영업점에선 절 모를수도있어요_.mp3",
+  "language": "ko",
+  "text": "네 고객님 전화옵니다 제가 전화해보니까 없으시던데요 어느 부분에 연락주신건가요? 잠실이 우리은행 우리은행 시점이 여러군데 있어요 네 맞습니다 영업1팀으로 연락주신거 맞게요? 영업1팀은 아니고요 대표 번호로 영업1팀이 저희가 지점이 크다보니까 기본적으로 일관부사에서는 저희 대출팀 직원을 모를수도 있어요 네 영업대출1팀으로 연락을 하셔서 확인해보시면 확인이 다 되시는 부분이시고요 영업대출1팀요 네 그리고 고객님 삼성카드같은 경우에는 고객님께서 삼성카드로 연락주시고 완납처리 해주고 싶은 부분이시잖아요 저희한테 뭐 해드리는게 없고 근데 삼성카드에서 확인이 안되니까요 그게 제가 제가 그 얘기 말씀 안드렸어요 고객님 법무용 납부증명서 같은 경우는 공문서가 이미 확인이 되셨기 때문에 다른 상담원이 확인이 안될 수가 있어요 앞전에도 제가 말씀드렸듯이 납부처리가 바로 들어가는게 아니고 상한처리가 고객님께서 저희 대출을 못받아보시거나 그러면 고객님께서 중도에 다른 대출 진행권으로 해서 부결이 나실 경우에 다시 환금을 받아보실 수 있도록 중간에 지금 법무팀에서 보관하고 예체하고 있는 상황이라서요 그러면 제가 삼성카드 확인은 어떻게 하죠?",
+  "duration_sec": 103.601625,
+  "segments": [
+    {
+      "index": 0,
+      "start": 0.0,
+      "end": 2.0,
+      "text": "네 고객님",
+      "speaker": "speaker_1",
+      "confidence": -0.325
+    },
+    {
+      "index": 1,
+      "start": 2.0,
+      "end": 4.0,
+      "text": "전화옵니다",
+      "speaker": "speaker_1",
+      "confidence": -0.325
+    },
+    {
+      "index": 2,
+      "start": 4.0,
+      "end": 6.0,
+      "text": "제가 전화해보니까",
+      "speaker": "speaker_1",
+      "confidence": -0.325
+    },
+    {
+      "index": 3,
+      "start": 6.0,
+      "end": 8.0,
+      "text": "없으시던데요",
+      "speaker": "speaker_1",
+      "confidence": -0.325
+    },
+    {
+      "index": 4,
+      "start": 8.0,
+      "end": 10.0,
+      "text": "어느 부분에 연락주신건가요?",
+      "speaker": "speaker_1",
+      "confidence": -0.325
+    },
+    {
+      "index": 5,
+      "start": 10.0,
+      "end": 12.0,
+      "text": "잠실이",
+      "speaker": "speaker_1",
+      "confidence": -0.325
+    },
+    {
+      "index": 6,
+      "start": 12.0,
+      "end": 14.0,
+      "text": "우리은행",
+      "speaker": "speaker_1",
+      "confidence": -0.325
+    },
+    {
+      "index": 7,
+      "start": 14.0,
+      "end": 16.0,
+      "text": "우리은행 시점이 여러군데",
+      "speaker": "speaker_1",
+      "confidence": -0.325
+    },
+    {
+      "index": 8,
+      "start": 16.0,
+      "end": 18.0,
+      "text": "있어요",
+      "speaker": "speaker_1",
+      "confidence": -0.325
+    },
+    {
+      "index": 9,
+      "start": 20.0,
+      "end": 22.0,
+      "text": "네 맞습니다",
+      "speaker": "speaker_1",
+      "confidence": -0.325
+    },
+    {
+      "index": 10,
+      "start": 22.0,
+      "end": 24.0,
+      "text": "영업1팀으로 연락주신거 맞게요?",
+      "speaker": "speaker_1",
+      "confidence": -0.325
+    },
+    {
+      "index": 11,
+      "start": 24.0,
+      "end": 26.0,
+      "text": "영업1팀은 아니고요",
+      "speaker": "speaker_1",
+      "confidence": -0.325
+    },
+    {
+      "index": 12,
+      "start": 26.0,
+      "end": 28.0,
+      "text": "대표 번호로",
+      "speaker": "speaker_1",
+      "confidence": -0.325
+    },
+    {
+      "index": 13,
+      "start": 28.0,
+      "end": 30.0,
+      "text": "영업1팀이",
+      "speaker": "speaker_1",
+      "confidence": -0.2316468291812473
+    },
+    {
+      "index": 14,
+      "start": 30.0,
+      "end": 32.0,
+      "text": "저희가 지점이 크다보니까",
+      "speaker": "speaker_1",
+      "confidence": -0.2316468291812473
+    },
+    {
+      "index": 15,
+      "start": 32.0,
+      "end": 34.0,
+      "text": "기본적으로",
+      "speaker": "speaker_1",
+      "confidence": -0.2316468291812473
+    },
+    {
+      "index": 16,
+      "start": 34.0,
+      "end": 36.0,
+      "text": "일관부사에서는",
+      "speaker": "speaker_1",
+      "confidence": -0.2316468291812473
+    },
+    {
+      "index": 17,
+      "start": 36.0,
+      "end": 38.0,
+      "text": "저희 대출팀 직원을 모를수도 있어요",
+      "speaker": "speaker_1",
+      "confidence": -0.2316468291812473
+    },
+    {
+      "index": 18,
+      "start": 38.0,
+      "end": 40.0,
+      "text": "네",
+      "speaker": "speaker_1",
+      "confidence": -0.2316468291812473
+    },
+    {
+      "index": 19,
+      "start": 40.0,
+      "end": 42.0,
+      "text": "영업대출1팀으로",
+      "speaker": "speaker_1",
+      "confidence": -0.2316468291812473
+    },
+    {
+      "index": 20,
+      "start": 42.0,
+      "end": 44.0,
+      "text": "연락을 하셔서",
+      "speaker": "speaker_1",
+      "confidence": -0.2316468291812473
+    },
+    {
+      "index": 21,
+      "start": 44.0,
+      "end": 46.0,
+      "text": "확인해보시면",
+      "speaker": "speaker_1",
+      "confidence": -0.2316468291812473
+    },
+    {
+      "index": 22,
+      "start": 46.0,
+      "end": 48.0,
+      "text": "확인이 다 되시는 부분이시고요",
+      "speaker": "speaker_1",
+      "confidence": -0.2316468291812473
+    },
+    {
+      "index": 23,
+      "start": 48.0,
+      "end": 50.0,
+      "text": "영업대출1팀요",
+      "speaker": "speaker_1",
+      "confidence": -0.2316468291812473
+    },
+    {
+      "index": 24,
+      "start": 50.0,
+      "end": 52.0,
+      "text": "네 그리고 고객님",
+      "speaker": "speaker_1",
+      "confidence": -0.2316468291812473
+    },
+    {
+      "index": 25,
+      "start": 52.0,
+      "end": 54.0,
+      "text": "삼성카드같은 경우에는 고객님께서",
+      "speaker": "speaker_1",
+      "confidence": -0.2316468291812473
+    },
+    {
+      "index": 26,
+      "start": 54.0,
+      "end": 56.0,
+      "text": "삼성카드로 연락주시고",
+      "speaker": "speaker_1",
+      "confidence": -0.2316468291812473
+    },
+    {
+      "index": 27,
+      "start": 56.0,
+      "end": 58.0,
+      "text": "완납처리 해주고 싶은 부분이시잖아요",
+      "speaker": "speaker_1",
+      "confidence": -0.1898799708347447
+    },
+    {
+      "index": 28,
+      "start": 58.0,
+      "end": 60.0,
+      "text": "저희한테 뭐 해드리는게 없고",
+      "speaker": "speaker_1",
+      "confidence": -0.1898799708347447
+    },
+    {
+      "index": 29,
+      "start": 60.0,
+      "end": 62.0,
+      "text": "근데 삼성카드에서 확인이 안되니까요",
+      "speaker": "speaker_1",
+      "confidence": -0.1898799708347447
+    },
+    {
+      "index": 30,
+      "start": 62.0,
+      "end": 64.0,
+      "text": "그게 제가",
+      "speaker": "speaker_1",
+      "confidence": -0.1898799708347447
+    },
+    {
+      "index": 31,
+      "start": 64.0,
+      "end": 66.0,
+      "text": "제가 그 얘기",
+      "speaker": "speaker_1",
+      "confidence": -0.1898799708347447
+    },
+    {
+      "index": 32,
+      "start": 66.0,
+      "end": 68.0,
+      "text": "말씀 안드렸어요 고객님",
+      "speaker": "speaker_1",
+      "confidence": -0.1898799708347447
+    },
+    {
+      "index": 33,
+      "start": 68.0,
+      "end": 70.0,
+      "text": "법무용 납부증명서 같은 경우는",
+      "speaker": "speaker_1",
+      "confidence": -0.1898799708347447
+    },
+    {
+      "index": 34,
+      "start": 70.0,
+      "end": 72.0,
+      "text": "공문서가 이미 확인이 되셨기 때문에",
+      "speaker": "speaker_1",
+      "confidence": -0.1898799708347447
+    },
+    {
+      "index": 35,
+      "start": 72.0,
+      "end": 74.0,
+      "text": "다른 상담원이",
+      "speaker": "speaker_1",
+      "confidence": -0.1898799708347447
+    },
+    {
+      "index": 36,
+      "start": 74.0,
+      "end": 76.0,
+      "text": "확인이 안될 수가 있어요",
+      "speaker": "speaker_1",
+      "confidence": -0.1898799708347447
+    },
+    {
+      "index": 37,
+      "start": 76.0,
+      "end": 78.0,
+      "text": "앞전에도 제가 말씀드렸듯이",
+      "speaker": "speaker_1",
+      "confidence": -0.1898799708347447
+    },
+    {
+      "index": 38,
+      "start": 78.0,
+      "end": 80.0,
+      "text": "납부처리가 바로 들어가는게 아니고",
+      "speaker": "speaker_1",
+      "confidence": -0.1898799708347447
+    },
+    {
+      "index": 39,
+      "start": 80.0,
+      "end": 82.0,
+      "text": "상한처리가",
+      "speaker": "speaker_1",
+      "confidence": -0.1898799708347447
+    },
+    {
+      "index": 40,
+      "start": 82.0,
+      "end": 84.0,
+      "text": "고객님께서 저희 대출을 못받아보시거나",
+      "speaker": "speaker_1",
+      "confidence": -0.1898799708347447
+    },
+    {
+      "index": 41,
+      "start": 84.0,
+      "end": 86.0,
+      "text": "그러면 고객님께서",
+      "speaker": "speaker_1",
+      "confidence": -0.18253676049849565
+    },
+    {
+      "index": 42,
+      "start": 86.0,
+      "end": 88.0,
+      "text": "중도에",
+      "speaker": "speaker_1",
+      "confidence": -0.18253676049849565
+    },
+    {
+      "index": 43,
+      "start": 88.0,
+      "end": 90.0,
+      "text": "다른 대출 진행권으로 해서",
+      "speaker": "speaker_1",
+      "confidence": -0.18253676049849565
+    },
+    {
+      "index": 44,
+      "start": 90.0,
+      "end": 92.0,
+      "text": "부결이 나실 경우에",
+      "speaker": "speaker_1",
+      "confidence": -0.18253676049849565
+    },
+    {
+      "index": 45,
+      "start": 92.0,
+      "end": 94.0,
+      "text": "다시 환금을 받아보실 수 있도록",
+      "speaker": "speaker_1",
+      "confidence": -0.18253676049849565
+    },
+    {
+      "index": 46,
+      "start": 94.0,
+      "end": 96.0,
+      "text": "중간에 지금",
+      "speaker": "speaker_1",
+      "confidence": -0.18253676049849565
+    },
+    {
+      "index": 47,
+      "start": 96.0,
+      "end": 98.0,
+      "text": "법무팀에서 보관하고",
+      "speaker": "speaker_1",
+      "confidence": -0.18253676049849565
+    },
+    {
+      "index": 48,
+      "start": 98.0,
+      "end": 100.0,
+      "text": "예체하고 있는 상황이라서요",
+      "speaker": "speaker_1",
+      "confidence": -0.18253676049849565
+    },
+    {
+      "index": 49,
+      "start": 100.0,
+      "end": 102.0,
+      "text": "그러면 제가 삼성카드 확인은 어떻게 하죠?",
+      "speaker": "speaker_1",
+      "confidence": -0.18253676049849565
+    }
+  ],
+  "engine": "faster-whisper-medium-float16-cuda",
+  "processed_at": 1758154964.0754797,
+  "error": null
+}

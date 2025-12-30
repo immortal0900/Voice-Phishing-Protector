@@ -1,0 +1,284 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "고객1",
+                    "age": "40대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "상담사1",
+                    "age": "30대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000399/0001.wav",
+                "duration": 4.635,
+                "text": "아 뭐 학습 관련해서 상담 좀 하고 싶은데 부서가 따로 있을까요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000399/0002.wav",
+                "duration": 2.835,
+                "text": "어떤 상담 원하세요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000399/0003.wav",
+                "duration": 5.722,
+                "text": "아 고등학생 내신 수업 관련해서 상담이 가능할까요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000399/0004.wav",
+                "duration": 2.451,
+                "text": "잠시만 기다려주세요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000399/0005.wav",
+                "duration": 6.587,
+                "text": "예 회원님 기다려주셔서 감사합니다. 일단 저희 쪽 아이디나 핸드폰 번호가 등록되어 있으신가요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000399/0006.wav",
+                "duration": 5.48,
+                "text": "학습 지원 센터라고 학습상담이 가능한 게시판이 따로 있어요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000399/0007.wav",
+                "duration": 5.383,
+                "text": "네, 그쪽에 내신 관련해서 글을 남겨주시면 아마 상담이 되실 겁니다."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000399/0008.wav",
+                "duration": 2.87,
+                "text": "아 일단 회원 가입을 한 다음에"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000399/0009.wav",
+                "duration": 5.064,
+                "text": "아 실시간 상담이에요? 아니면 뭐 하루 정도 기다려야 돼요. 대답을 (얻으려면)/(얻을려면)"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000399/0010.wav",
+                "duration": 2.813,
+                "text": "n/ 좀 기다리셔야 되세요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000399/0011.wav",
+                "duration": 6.493,
+                "text": "음 아니 그러면 학습 상담을 해주는 부서가 없어요? 회원 가입하지 않으면"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000399/0012.wav",
+                "duration": 3.501,
+                "text": "n/ 회원가입은 꼭 해주셔야 상담이 가능하세요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000399/0013.wav",
+                "duration": 3.24,
+                "text": "회원 가입을 해야 상담이 가능하다고요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000399/0014.wav",
+                "duration": 4.424,
+                "text": "어 아니 상담원을 해보고 가입을 하는게 (아니고요)/(아니구요)?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000399/0015.wav",
+                "duration": 8.787,
+                "text": "o/ 회원 가입하셨다고 해서 구매하셔야 되거나 그런 건 아니시기 때문에 가입만 해주시고 나서 상담을 남겨주세요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000399/0016.wav",
+                "duration": 6.427,
+                "text": "아 그러면 전화통화로 하는 거예요? 아니면 무슨 채팅으로 하는 거예요? 아 아 아 저기"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000399/0017.wav",
+                "duration": 7.272,
+                "text": "n/ 아 보시면 요 연락처를 남기시는 란도 있고 하기 때문에서 전화가 가실 거예요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000399/0018.wav",
+                "duration": 2.516,
+                "text": "그게 몇 시까지 가능해요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000399/0019.wav",
+                "duration": 2.04,
+                "text": "전화 상담이?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000399/0020.wav",
+                "duration": 4.085,
+                "text": "저희가 날짜별로 조금씩 (다른데)/(달른데)"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000399/0021.wav",
+                "duration": 5.939,
+                "text": "자 오늘 같은 경우는 (6시)/(여섯 시)부터 (9시)/(아홉 시)까지 지금"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000399/0022.wav",
+                "duration": 3.233,
+                "text": "아 (6시)/(여섯 시)부터 (9시)/(아홉 시)에 뭐가 비어있어요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000399/0023.wav",
+                "duration": 3.165,
+                "text": "예약 가능한 상담이 비어 있으세요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000399/0024.wav",
+                "duration": 8.497,
+                "text": "아 그래요? 어 아 저는 혹시나 (6시)/(여섯 시)에 끝나나 해서 여쭤본 건데 밤 (9시)/(아홉 시)까지도 상담이 가능하다는 얘기예요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000399/0025.wav",
+                "duration": 7.435,
+                "text": "상담은 저희가 (12시)/(열 두 시)까지 진행하는데 (9시)/(아홉 시)부터는 예약이 차서 상담은 좀 어려우실 것 (같고요)/(같구요)."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000399/0026.wav",
+                "duration": 1.501,
+                "text": "(6시)/(여섯 시) 부터"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000399/0027.wav",
+                "duration": 6.769,
+                "text": "그데 (6시)/(여섯 시)부터 (9시)/(아홉 시)가 지금 되어있다고요? 그럼 지금 빨리 로그인해가지고 상담 신청을 하면 바로 받을 수 있어요? 전화"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000399/0028.wav",
+                "duration": 3.409,
+                "text": "아 그래요? 시간도 제가 거기다 적어야 돼요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000399/0029.wav",
+                "duration": 5.553,
+                "text": "시간 보시면 날짜랑 시간을 이게 정할 수 있는 카테고리가 따로 있어서"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000399/0030.wav",
+                "duration": 7.816,
+                "text": "o/ 보통 (1시간)/(한 시간) 단위로 끊어지기 때문에 오늘 같은 게 (6시)/(여섯 시)에서 (7시)/(일곱 시) (7시)/(일곱 시)에서 (8시)/(여덟 시) (8시)/(여덟 시) (9시)/(아홉 시)"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000399/0031.wav",
+                "duration": 4.627,
+                "text": "어 그럼 지금 빨리 로그인하면은 지금 좀 있으면 상담받을 수 있겠네요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000399/0032.wav",
+                "duration": 2.099,
+                "text": "네, 가능하세요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000399/0033.wav",
+                "duration": 6.6,
+                "text": "아 (그러면)/(그면) 일단 인터넷으로 들어가서 로그인 회원 가입만 하고 그 다음에 어디로 접속하라고요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000399/0034.wav",
+                "duration": 4.872,
+                "text": "들어가시면 상단에 학습 지원 센터라고 있어요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000399/0035.wav",
+                "duration": 3.452,
+                "text": "상단에 학습 지원 센터"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000399/0036.wav",
+                "duration": 5.064,
+                "text": "라고 써있는 로고 바로 밑에 학습 지원 센터라는 카테고리가 있고요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000399/0037.wav",
+                "duration": 4.087,
+                "text": "왼편의 학습 상담 쪽으로 들어가시는 거예요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000399/0038.wav",
+                "duration": 4.275,
+                "text": "아 여기는 전화를 몇 시까지 받으 지금 받으신데는"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000399/0039.wav",
+                "duration": 3.357,
+                "text": "저희 고객센터는 (12시)/(열 두 시)까지 접수하고 있습니다."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000399/0040.wav",
+                "duration": 2.44,
+                "text": "밤 (12시)/(열 두 시)까지요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000399/0041.wav",
+                "duration": 5.433,
+                "text": "o/ 네, 저희 쪽에서 연락을 주는게 아니라 전문 상담원이 연락을 드릴 거예요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000399/0042.wav",
+                "duration": 3.539,
+                "text": "그래요. 알겠습니다. 네, 고맙습니다."
+            }
+        ]
+    }
+}

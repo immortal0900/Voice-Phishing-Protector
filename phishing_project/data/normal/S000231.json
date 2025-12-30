@@ -1,0 +1,170 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "고객1",
+                    "age": "40대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "상담사1",
+                    "age": "20대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000231/0001.wav",
+                "duration": 3.128,
+                "text": "학습지원센터입니다. 무엇을 도와 드릴"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000231/0002.wav",
+                "duration": 4.072,
+                "text": "예 선생님 그 (2)/(이) (3일)/(삼 일) 전에"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000231/0003.wav",
+                "duration": 4.043,
+                "text": "주교재하고 연필통을 주문했는데요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000231/0004.wav",
+                "duration": 6.005,
+                "text": "그 어제 주교재는 받았는데 연필통은 혹시 배송이 어떻게 되는지 궁금해서요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000231/0005.wav",
+                "duration": 5.213,
+                "text": "o/ 아 (17일)/(십 칠 일) 날 아 연필통이랑 (1클래스)/(일 클래스)."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000231/0006.wav",
+                "duration": 3.795,
+                "text": "네 네 맞아요. (1클래스)/(일 클래스)는 받았거든요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000231/0007.wav",
+                "duration": 4.237,
+                "text": "먼저 나갈 수 있는 교재가 먼저 나간 상태라"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000231/0008.wav",
+                "duration": 3.4,
+                "text": "어 이 곧 요고 받으실 거거든요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000231/0009.wav",
+                "duration": 2.925,
+                "text": "아 원래 분리배송이라는 거죠?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000231/0010.wav",
+                "duration": 4.877,
+                "text": "o/ 네 요게 빨리 나갈 수 있는 책이 먼저 나가서 먼저 도착을 했어요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000231/0011.wav",
+                "duration": 6.493,
+                "text": "네. b/ 선생님 그리고 뭐 (1)/(하나) (여쭤보려고)/(여쭤볼라고) 하는데 그 학습 쪽으로 여쭤봐야 되나요? (1)/(일) (1클래스)/(일 클래스)에서"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000231/0012.wav",
+                "duration": 6.568,
+                "text": "(본무) 지문 분석 선생님 해설이 따로 있는지 (1번)/(한 번) 여쭤보고 싶거든요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000231/0013.wav",
+                "duration": 2.44,
+                "text": "아 책 안에요? 회원님?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000231/0014.wav",
+                "duration": 2.824,
+                "text": "글래스 (잠시만요)/(잠시나요)."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000231/0015.wav",
+                "duration": 9.731,
+                "text": "애들이 그거를 분석하잖아요? 그러면 독해 하잖아요? 그러면 선생님 게 옆에 혹시 스탠다드 해설이 있는 건지."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000231/0016.wav",
+                "duration": 6.339,
+                "text": "어 해설은 따로 없고 정답으로 진행이 되어있어 정답만 진행이 되어 있어요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000231/0017.wav",
+                "duration": 4.093,
+                "text": "o/ 답만 진행이 되어 있고 지문에 대한 해설은 없다고요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000231/0018.wav",
+                "duration": 3.494,
+                "text": "통해서 예 확인을 해주셔야 될 것 같애요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000231/0019.wav",
+                "duration": 5.699,
+                "text": "어 네 질문에 대한 해설이 있는 선생님은 혹시 그"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000231/0020.wav",
+                "duration": 14.168,
+                "text": "o/ 그거는 아마 그러시면 고거는 학습상담 쪽으로 (1번)/(한 번) 추천을 좀 받아보셔야 될 것 같거든요? (그러한)/(고러한) 어떤 형식으로 ((고거를)) 잘할 수 있는 선생님이 지금 어떤 분이 계신가 이렇게 학습상담 쪽으로 저희가 진행을 해드려야 돼요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000231/0021.wav",
+                "duration": 6.323,
+                "text": "예 저희가 전화를 다시 드리는 방식이고 b/ 저희가 오후 (1시)/(한 시)부터 상담이 시작되거든요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000231/0022.wav",
+                "duration": 3.459,
+                "text": "지나서 전화를 다시 드리도록 할게요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000231/0023.wav",
+                "duration": 5.667,
+                "text": "아 네 그러면 일단 (이쪽으로)/(요쪽으로) 저희 (1시)/(한 시) 지나서 다시 전화 드리도록 할게요."
+            }
+        ]
+    }
+}

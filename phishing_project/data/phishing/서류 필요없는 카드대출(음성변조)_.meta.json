@@ -1,0 +1,76 @@
+{
+  "file": "서류 필요없는 카드대출(음성변조)_.mp3",
+  "rel_path": "서류 필요없는 카드대출(음성변조)_.mp3",
+  "language": "ko",
+  "text": "안녕하세요. 대출회사입니다. 혹시 자금 필요한 거 있으신가요? 이번에는요? 무슨 대출을 한대요? 카드 대출이에요. 서류 필요없는 카드 대출 아니 회사가 어딨냐? 네? 회사가 어딨냐? 다 캐피탈. 고객님 저희는 모든 캐피탈 다 가능하시고 고객님께 맞는 상품으로 안내해 드려요. 저금률에서",
+  "duration_sec": 21.91675,
+  "segments": [
+    {
+      "index": 0,
+      "start": 0.0,
+      "end": 3.64,
+      "text": "안녕하세요. 대출회사입니다. 혹시 자금 필요한 거 있으신가요? 이번에는요?",
+      "speaker": "speaker_1",
+      "confidence": -0.42542015604612204
+    },
+    {
+      "index": 1,
+      "start": 3.64,
+      "end": 5.64,
+      "text": "무슨 대출을 한대요?",
+      "speaker": "speaker_1",
+      "confidence": -0.42542015604612204
+    },
+    {
+      "index": 2,
+      "start": 6.96,
+      "end": 9.76,
+      "text": "카드 대출이에요. 서류 필요없는 카드 대출",
+      "speaker": "speaker_1",
+      "confidence": -0.42542015604612204
+    },
+    {
+      "index": 3,
+      "start": 9.76,
+      "end": 11.44,
+      "text": "아니 회사가 어딨냐?",
+      "speaker": "speaker_1",
+      "confidence": -0.42542015604612204
+    },
+    {
+      "index": 4,
+      "start": 11.44,
+      "end": 12.48,
+      "text": "네? 회사가 어딨냐?",
+      "speaker": "speaker_1",
+      "confidence": -0.42542015604612204
+    },
+    {
+      "index": 5,
+      "start": 12.48,
+      "end": 14.6,
+      "text": "다 캐피탈. 고객님",
+      "speaker": "speaker_1",
+      "confidence": -0.42542015604612204
+    },
+    {
+      "index": 6,
+      "start": 14.6,
+      "end": 17.6,
+      "text": "저희는 모든 캐피탈 다 가능하시고",
+      "speaker": "speaker_1",
+      "confidence": -0.42542015604612204
+    },
+    {
+      "index": 7,
+      "start": 17.6,
+      "end": 21.88,
+      "text": "고객님께 맞는 상품으로 안내해 드려요. 저금률에서",
+      "speaker": "speaker_1",
+      "confidence": -0.42542015604612204
+    }
+  ],
+  "engine": "faster-whisper-medium-float16-cuda",
+  "processed_at": 1758154964.0754797,
+  "error": null
+}

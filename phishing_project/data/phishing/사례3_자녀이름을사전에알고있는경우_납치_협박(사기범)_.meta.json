@@ -1,0 +1,76 @@
+{
+  "file": "사례3_자녀이름을사전에알고있는경우_납치_협박(사기범)_.mp3",
+  "rel_path": "사례3_자녀이름을사전에알고있는경우_납치_협박(사기범)_.mp3",
+  "language": "ko",
+  "text": "똑바로 얘기하라고 해. 씨발 신고하면 내가 진짜 죽여버린다. 여보세요? 나는 돈이 필요해가지고 헬림이 잠깐 데리고 있는 거지. 사람 죽이고, 사람 죽이고 하고 싶지 않으니까 전화 끊고 *** 죽는 줄 알고 끊어. 신고하려고 그래 지금 전화 끊고.",
+  "duration_sec": 17.5543125,
+  "segments": [
+    {
+      "index": 0,
+      "start": 0.0,
+      "end": 1.76,
+      "text": "똑바로 얘기하라고 해.",
+      "speaker": "speaker_1",
+      "confidence": -0.3472938242646837
+    },
+    {
+      "index": 1,
+      "start": 1.76,
+      "end": 4.76,
+      "text": "씨발 신고하면 내가 진짜 죽여버린다.",
+      "speaker": "speaker_1",
+      "confidence": -0.3472938242646837
+    },
+    {
+      "index": 2,
+      "start": 4.76,
+      "end": 6.4,
+      "text": "여보세요?",
+      "speaker": "speaker_1",
+      "confidence": -0.3472938242646837
+    },
+    {
+      "index": 3,
+      "start": 6.4,
+      "end": 9.44,
+      "text": "나는 돈이 필요해가지고 헬림이 잠깐 데리고 있는 거지.",
+      "speaker": "speaker_1",
+      "confidence": -0.3472938242646837
+    },
+    {
+      "index": 4,
+      "start": 9.44,
+      "end": 12.4,
+      "text": "사람 죽이고, 사람 죽이고 하고 싶지 않으니까",
+      "speaker": "speaker_1",
+      "confidence": -0.3472938242646837
+    },
+    {
+      "index": 5,
+      "start": 12.4,
+      "end": 13.56,
+      "text": "전화 끊고",
+      "speaker": "speaker_1",
+      "confidence": -0.3472938242646837
+    },
+    {
+      "index": 6,
+      "start": 13.56,
+      "end": 16.2,
+      "text": "*** 죽는 줄 알고 끊어.",
+      "speaker": "speaker_1",
+      "confidence": -0.3472938242646837
+    },
+    {
+      "index": 7,
+      "start": 16.2,
+      "end": 17.5,
+      "text": "신고하려고 그래 지금 전화 끊고.",
+      "speaker": "speaker_1",
+      "confidence": -0.3472938242646837
+    }
+  ],
+  "engine": "faster-whisper-medium-float16-cuda",
+  "processed_at": 1758154964.0754797,
+  "error": null
+}

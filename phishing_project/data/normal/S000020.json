@@ -1,0 +1,98 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "고객1",
+                    "age": "10대",
+                    "gender": "남",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "상담사1",
+                    "age": "20대",
+                    "gender": "남",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000020/0001.wav",
+                "duration": 4.324,
+                "text": "네 저 아까 그 보강 자료 말씀하신 것 때문에 연락을 드렸는데요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000020/0002.wav",
+                "duration": 2.152,
+                "text": "어 그거 신청했어요. 방금l/."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000020/0003.wav",
+                "duration": 3.683,
+                "text": "o/ 아 네네 그거 어디서 혹시 보시는지 알고 계실까요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000020/0004.wav",
+                "duration": 2.605,
+                "text": "네 방금 찾아 가지고 (())."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000020/0005.wav",
+                "duration": 5.731,
+                "text": "o/ 아 네 그거 같은 경우 컴퓨터로만 수강 가능하시다고 하거든요. 그 점만 좀 참고해주시고."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000020/0006.wav",
+                "duration": 3.955,
+                "text": "그럼 이제 등록기가 있어도 컴퓨터로만 (())?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000020/0007.wav",
+                "duration": 6.563,
+                "text": "o/ 네네 말씀하신 건 이제 컴퓨터로만 수강 가능하다고 해서 그냥 피시로 이용해 주시면 감사하겠습니다."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000020/0008.wav",
+                "duration": 4.051,
+                "text": "o/ 기간은 짧아서 (21일)(이십 일 일)까지로 제가 확인이 되거든요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000020/0009.wav",
+                "duration": 3.122,
+                "text": "(21일)(이십 일 일) 되면 이제 그 없어지는 거예요? 그 자료가?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000020/0010.wav",
+                "duration": 4.823,
+                "text": "네네 그래서 (21일)(이십 일 일)까지 빨리 수강 (하셨) 하시길 안내 드리겠습니다."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000020/0011.wav",
+                "duration": 2.104,
+                "text": "네 알겠습니다. 감사합니다."
+            }
+        ]
+    }
+}

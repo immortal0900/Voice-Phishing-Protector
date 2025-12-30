@@ -1,0 +1,248 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "고객1",
+                    "age": "40대",
+                    "gender": "남",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "상담사1",
+                    "age": "20대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000103/0001.wav",
+                "duration": 2.621,
+                "text": "네 다름이 아니라요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000103/0002.wav",
+                "duration": 2.889,
+                "text": "강사님을 좀 (섭외하려고)/(섭외할려고) 하는데"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000103/0003.wav",
+                "duration": 6.76,
+                "text": "메일로 보내 메일을 보냈으니까 메일이 꽉 차셔 가지고 받을 수가 없다고 자꾸 반송이 되더라고요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000103/0004.wav",
+                "duration": 7.976,
+                "text": "o/ 네 네. 그 강사님 섭외를 인제 전북 익산에서 인제 행사 때문에 지금 (섭외하려고)/(섭외할려고) 하는 건데"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000103/0005.wav",
+                "duration": 3.901,
+                "text": "o/ 혹시 뭐 따로 담당하시는 전북이요. 전북"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000103/0006.wav",
+                "duration": 9.747,
+                "text": "o/ 네 네. 그 좀 담당자님께 말씀을 드리면 되나요? 아니면은 따로 섭외 관련해서 뭐 정리를 해주시는 분이 계실까요? 아니면"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000103/0007.wav",
+                "duration": 11.176,
+                "text": "o/ 일단은 저희 쪽에서 요거 담당 관련 부서 쪽으로 일단 전달을 한번 해드릴 거 같은데요. 잠시만 기다려 주세요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000103/0008.wav",
+                "duration": 5.736,
+                "text": "o/ 어 네 혹시 어느 이메일로 보내 셨을까요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000103/0009.wav",
+                "duration": 1.896,
+                "text": "그 메일은"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000103/0010.wav",
+                "duration": 4.179,
+                "text": "강사님 거 다운 에듀케이션"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000103/0011.wav",
+                "duration": 5.565,
+                "text": "아 에듀케이션이 아니구나. 아 네. 다운으로 돼있는 거 그걸로 했습니다."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000103/0012.wav",
+                "duration": 16.649,
+                "text": "o/ 아 네 알겠습니다. 그러시면 저희가 요거 관련 부서로 전달해 드리도록 하겠고요. 일단 연락이 언제 날지는 저희 쪽에서 조금 확인이 어려운 부분이라서 혹시 요거 연락 원하시는 번호가 어떻게 되세요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000103/0013.wav",
+                "duration": 9.32,
+                "text": "아 네 네. 어 그러시면은 저희가 요고 전달 사항은 섭외하고 싶다 하시는 거죠?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000103/0014.wav",
+                "duration": 2.984,
+                "text": "(8월)/(팔 월) (14일)/(십 사 일) 일정이고요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000103/0015.wav",
+                "duration": 2.44,
+                "text": "(8월)/(팔 월) (14일)/(십 사 일) 이요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000103/0016.wav",
+                "duration": 7.613,
+                "text": "일정이시고 혹시 섭외하시는 그 프로그램 명은 어떻게 되세요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000103/0017.wav",
+                "duration": 4.521,
+                "text": "o/ 소란해서 잠시만요. (()) 잠깐만 기다려 주세요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000103/0018.wav",
+                "duration": 9.32,
+                "text": "o/ 토크 콘서트인데 그 정확한 행사 ((명칭이라던가)) 네 그 전북 익산과 관련된 역사 강의를 해주시면 되는 거고요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000103/0019.wav",
+                "duration": 4.46,
+                "text": "o/ 네 백제 지역 내에서 백제 지역 이잖아요. 네 네."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000103/0020.wav",
+                "duration": 5.096,
+                "text": "장수는 전북 익산 미륵사지에서 진행할 예정이고"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000103/0021.wav",
+                "duration": 6.355,
+                "text": "(강) 강의는 스토리 텔링 형식으로 한 (30분)/(삼십 분)에서 (40분)/(사십 분) 정도 부탁을 드리려고 한"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000103/0022.wav",
+                "duration": 3.273,
+                "text": "(30분)/(삼십 분)에서 (40분)/(사십 분) 정도"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000103/0023.wav",
+                "duration": 3.347,
+                "text": "네 네. 문화 재단 주관으로 하는 거고요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000103/0024.wav",
+                "duration": 3.273,
+                "text": "문화 재단 주관이요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000103/0025.wav",
+                "duration": 7.677,
+                "text": "아 네. 감사합니다. 그러면 저희가 요거 전달 사항 전달해 드리겠고요. 요거 연락 기다려 주시면 될 거 같애요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000103/0026.wav",
+                "duration": 4.471,
+                "text": "o/ 혹시 그 언제 쯤이라고 말씀 못해주셨잖아요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000103/0027.wav",
+                "duration": 2.035,
+                "text": "o/ 네 네. 맞아요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000103/0028.wav",
+                "duration": 4.264,
+                "text": "(그르) 그래도 마지노선을 좀 정해주신다면l/"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000103/0029.wav",
+                "duration": 4.413,
+                "text": "o/ 확인이 언제 쯤 될까요? 내일이나 모레까지는 힘들까요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000103/0030.wav",
+                "duration": 11.273,
+                "text": "o/ 일단은 저희가 이거를 전달을 해드리는 부분은 확실한데 연락이 갈지 안 갈지도 확실히 저희 쪽에서는 정확하게 파악하기 어려운 부분이어가지고"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000103/0031.wav",
+                "duration": 5.075,
+                "text": "o/ 네 네. 일단 전달을 해드릴 수 있다는 것만 참고를 해주셔야 될 거 같애요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000103/0032.wav",
+                "duration": 4.221,
+                "text": "아 그러면 뭐 답변을 전혀 들을 수가 없는 건가요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000103/0033.wav",
+                "duration": 9.843,
+                "text": "네 네. 지금으로서는n/ 저희가 지금 바로 전달을 해드리는 늦긴 한데 그 담당 부서 쪽을 거쳐 가지고 또 선생님 쪽으로 가시는 거라서"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000103/0034.wav",
+                "duration": 2.59,
+                "text": "o/ 아 네 네. 알겠습니다."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000103/0035.wav",
+                "duration": 2.825,
+                "text": "o/ 네 감사합니다."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000103/0036.wav",
+                "duration": 2.259,
+                "text": "네 감사합니다."
+            }
+        ]
+    }
+}

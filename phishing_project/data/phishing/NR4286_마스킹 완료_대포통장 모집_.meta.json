@@ -1,0 +1,404 @@
+{
+  "file": "NR4286_마스킹 완료_대포통장 모집_.mp3",
+  "rel_path": "NR4286_마스킹 완료_대포통장 모집_.mp3",
+  "language": "ko",
+  "text": "지금 저희 만나실 직원 이름이 김주혁 대리입니다 청선무역 김영상 과장님 보내서 왔습니다 김주혁 대리님 이렇게 인사할 겁니다 저희 외군보는 직원들은 다 나이가 좀 어릅니다 일부러 우리 고객님 업무 도와드리려고 왔으니까 그래도 안녕하세요 이렇게 인사 잘 받아주시고요 그리고 전화 저 좀 바꿔주세요 고객님 수고비 경비 5만원 뺀 부분도 얘기를 해야 되고 따로 또 지시할 부분도 있고 하니까 3시 4시 반까지는 오늘 일을 끝내야 됩니다 이것저것 또 제가 지시할 부분들이 있습니다 고객님께서 전화 통화하시면 되고 잠깐만요 어 으 음 아직 지금 안 왔나요 오신 것 같은데요 뭐 김주혁 아예 저랑 좀 바꿔드릴까요 네 저는 바꿔주세요 어여 네 여보세요? 네 김주혁 대리죠? 금액이 895만원입니다 이동하면 되고요 다시 고객 좀 바꿔주세요 네 네 여보세요? 저희 직원한테 경비 5만원 뺀거라 얘기했으니까요 오늘 빠르게 업무 봐서 잘 처리하라고 시켰습니다 끊지 마시고 5만원 빼셨으니까 지금 금액이 895만원이죠? 네 전화 끊지 마시고 전달해 주시고요 네 확인 한번 해 주시겠어요? 네 895만원 네 금액 맞겠죠? 저도 진행하는 건데 지금 얼른 보내시면 되고요 그리고 한 5분만 기다려 주세요 저희가 2차 중동 금액이 얼마인지 그리고 어느 쪽으로 이동을 해서 이동을 해서 일을 봐야 되는 제가 한번 파악을 하고 5분 내로 연락을 드릴 테니까요 고객님 커피 한 잔 좀 기다려 주세요 제가 10분 내로 연락 드리겠습니다 네 직원은 얼른 갔다가 대리 좀 들렸다가 고객님 계신 곳에 다시 올 겁니다 직원은 시간 없으니까 많이 바쁠 거예요 고객님은 좀 제 전화 기다려 주시면 됩니다 네",
+  "duration_sec": 158.708375,
+  "segments": [
+    {
+      "index": 0,
+      "start": 0.0,
+      "end": 14.8,
+      "text": "지금 저희 만나실 직원 이름이 김주혁 대리입니다 청선무역 김영상",
+      "speaker": "speaker_1",
+      "confidence": -0.3104272895321554
+    },
+    {
+      "index": 1,
+      "start": 14.8,
+      "end": 19.92,
+      "text": "과장님 보내서 왔습니다 김주혁 대리님 이렇게 인사할 겁니다 저희",
+      "speaker": "speaker_1",
+      "confidence": -0.3104272895321554
+    },
+    {
+      "index": 2,
+      "start": 19.92,
+      "end": 25.0,
+      "text": "외군보는 직원들은 다 나이가 좀 어릅니다 일부러 우리 고객님 업무",
+      "speaker": "speaker_1",
+      "confidence": -0.3104272895321554
+    },
+    {
+      "index": 3,
+      "start": 25.0,
+      "end": 29.68,
+      "text": "도와드리려고 왔으니까 그래도 안녕하세요 이렇게 인사 잘 받아주시고요 그리고",
+      "speaker": "speaker_1",
+      "confidence": -0.3104272895321554
+    },
+    {
+      "index": 4,
+      "start": 29.68,
+      "end": 36.08,
+      "text": "전화 저 좀 바꿔주세요 고객님 수고비 경비 5만원 뺀 부분도 얘기를",
+      "speaker": "speaker_1",
+      "confidence": -0.2559419123219772
+    },
+    {
+      "index": 5,
+      "start": 36.08,
+      "end": 42.08,
+      "text": "해야 되고 따로 또 지시할 부분도 있고 하니까 3시 4시 반까지는 오늘",
+      "speaker": "speaker_1",
+      "confidence": -0.2559419123219772
+    },
+    {
+      "index": 6,
+      "start": 42.08,
+      "end": 46.68,
+      "text": "일을 끝내야 됩니다 이것저것 또 제가 지시할 부분들이 있습니다",
+      "speaker": "speaker_1",
+      "confidence": -0.2559419123219772
+    },
+    {
+      "index": 7,
+      "start": 46.68,
+      "end": 52.68,
+      "text": "고객님께서 전화 통화하시면 되고 잠깐만요",
+      "speaker": "speaker_1",
+      "confidence": -0.7054227941176471
+    },
+    {
+      "index": 8,
+      "start": 52.839999999999996,
+      "end": 54.84,
+      "text": "어",
+      "speaker": "speaker_1",
+      "confidence": -1.3367639935534934
+    },
+    {
+      "index": 9,
+      "start": 64.76,
+      "end": 66.76,
+      "text": "으",
+      "speaker": "speaker_1",
+      "confidence": -1.3367639935534934
+    },
+    {
+      "index": 10,
+      "start": 68.88,
+      "end": 75.03999999999999,
+      "text": "음 아직 지금 안 왔나요 오신 것 같은데요 뭐 김주혁 아예 저랑 좀 바꿔드릴까요",
+      "speaker": "speaker_1",
+      "confidence": -1.3367639935534934
+    },
+    {
+      "index": 11,
+      "start": 75.03999999999999,
+      "end": 78.56,
+      "text": "네 저는 바꿔주세요 어여",
+      "speaker": "speaker_1",
+      "confidence": -1.3367639935534934
+    },
+    {
+      "index": 12,
+      "start": 78.56,
+      "end": 80.56,
+      "text": "네 여보세요?",
+      "speaker": "speaker_1",
+      "confidence": -0.2640335551566548
+    },
+    {
+      "index": 13,
+      "start": 80.56,
+      "end": 82.56,
+      "text": "네 김주혁 대리죠?",
+      "speaker": "speaker_1",
+      "confidence": -0.2640335551566548
+    },
+    {
+      "index": 14,
+      "start": 82.56,
+      "end": 86.56,
+      "text": "금액이 895만원입니다",
+      "speaker": "speaker_1",
+      "confidence": -0.2640335551566548
+    },
+    {
+      "index": 15,
+      "start": 86.56,
+      "end": 88.56,
+      "text": "이동하면 되고요",
+      "speaker": "speaker_1",
+      "confidence": -0.2640335551566548
+    },
+    {
+      "index": 16,
+      "start": 88.56,
+      "end": 90.56,
+      "text": "다시 고객 좀 바꿔주세요",
+      "speaker": "speaker_1",
+      "confidence": -0.2640335551566548
+    },
+    {
+      "index": 17,
+      "start": 90.56,
+      "end": 92.56,
+      "text": "네",
+      "speaker": "speaker_1",
+      "confidence": -0.2640335551566548
+    },
+    {
+      "index": 18,
+      "start": 92.56,
+      "end": 94.56,
+      "text": "네 여보세요?",
+      "speaker": "speaker_1",
+      "confidence": -0.2640335551566548
+    },
+    {
+      "index": 19,
+      "start": 94.56,
+      "end": 98.56,
+      "text": "저희 직원한테 경비 5만원 뺀거라 얘기했으니까요",
+      "speaker": "speaker_1",
+      "confidence": -0.2640335551566548
+    },
+    {
+      "index": 20,
+      "start": 98.56,
+      "end": 100.56,
+      "text": "오늘 빠르게 업무 봐서",
+      "speaker": "speaker_1",
+      "confidence": -0.2640335551566548
+    },
+    {
+      "index": 21,
+      "start": 100.56,
+      "end": 102.56,
+      "text": "잘 처리하라고 시켰습니다",
+      "speaker": "speaker_1",
+      "confidence": -0.2640335551566548
+    },
+    {
+      "index": 22,
+      "start": 102.56,
+      "end": 105.56,
+      "text": "끊지 마시고 5만원 빼셨으니까",
+      "speaker": "speaker_1",
+      "confidence": -0.2640335551566548
+    },
+    {
+      "index": 23,
+      "start": 105.56,
+      "end": 107.56,
+      "text": "지금 금액이 895만원이죠?",
+      "speaker": "speaker_1",
+      "confidence": -0.22014508729002305
+    },
+    {
+      "index": 24,
+      "start": 107.56,
+      "end": 109.56,
+      "text": "네",
+      "speaker": "speaker_1",
+      "confidence": -0.22014508729002305
+    },
+    {
+      "index": 25,
+      "start": 109.56,
+      "end": 111.56,
+      "text": "전화 끊지 마시고 전달해 주시고요",
+      "speaker": "speaker_1",
+      "confidence": -0.22014508729002305
+    },
+    {
+      "index": 26,
+      "start": 111.56,
+      "end": 113.56,
+      "text": "네",
+      "speaker": "speaker_1",
+      "confidence": -0.22014508729002305
+    },
+    {
+      "index": 27,
+      "start": 113.56,
+      "end": 115.56,
+      "text": "확인 한번 해 주시겠어요?",
+      "speaker": "speaker_1",
+      "confidence": -0.22014508729002305
+    },
+    {
+      "index": 28,
+      "start": 115.56,
+      "end": 117.56,
+      "text": "네",
+      "speaker": "speaker_1",
+      "confidence": -0.22014508729002305
+    },
+    {
+      "index": 29,
+      "start": 117.56,
+      "end": 119.56,
+      "text": "895만원",
+      "speaker": "speaker_1",
+      "confidence": -0.22014508729002305
+    },
+    {
+      "index": 30,
+      "start": 119.56,
+      "end": 121.56,
+      "text": "네 금액 맞겠죠?",
+      "speaker": "speaker_1",
+      "confidence": -0.22014508729002305
+    },
+    {
+      "index": 31,
+      "start": 121.56,
+      "end": 123.56,
+      "text": "저도 진행하는 건데",
+      "speaker": "speaker_1",
+      "confidence": -0.22014508729002305
+    },
+    {
+      "index": 32,
+      "start": 123.56,
+      "end": 125.56,
+      "text": "지금 얼른 보내시면 되고요",
+      "speaker": "speaker_1",
+      "confidence": -0.22014508729002305
+    },
+    {
+      "index": 33,
+      "start": 125.56,
+      "end": 127.56,
+      "text": "그리고 한 5분만",
+      "speaker": "speaker_1",
+      "confidence": -0.22014508729002305
+    },
+    {
+      "index": 34,
+      "start": 127.56,
+      "end": 129.56,
+      "text": "기다려 주세요",
+      "speaker": "speaker_1",
+      "confidence": -0.22014508729002305
+    },
+    {
+      "index": 35,
+      "start": 129.56,
+      "end": 131.56,
+      "text": "저희가 2차 중동 금액이 얼마인지",
+      "speaker": "speaker_1",
+      "confidence": -0.22014508729002305
+    },
+    {
+      "index": 36,
+      "start": 131.56,
+      "end": 133.56,
+      "text": "그리고 어느 쪽으로 이동을 해서",
+      "speaker": "speaker_1",
+      "confidence": -0.22014508729002305
+    },
+    {
+      "index": 37,
+      "start": 133.56,
+      "end": 135.56,
+      "text": "이동을 해서 일을 봐야 되는",
+      "speaker": "speaker_1",
+      "confidence": -0.18250511953088103
+    },
+    {
+      "index": 38,
+      "start": 135.56,
+      "end": 137.56,
+      "text": "제가 한번 파악을 하고",
+      "speaker": "speaker_1",
+      "confidence": -0.18250511953088103
+    },
+    {
+      "index": 39,
+      "start": 137.56,
+      "end": 139.56,
+      "text": "5분 내로 연락을 드릴 테니까요",
+      "speaker": "speaker_1",
+      "confidence": -0.18250511953088103
+    },
+    {
+      "index": 40,
+      "start": 139.56,
+      "end": 141.56,
+      "text": "고객님 커피 한 잔 좀 기다려 주세요",
+      "speaker": "speaker_1",
+      "confidence": -0.18250511953088103
+    },
+    {
+      "index": 41,
+      "start": 141.56,
+      "end": 143.56,
+      "text": "제가 10분 내로 연락 드리겠습니다",
+      "speaker": "speaker_1",
+      "confidence": -0.18250511953088103
+    },
+    {
+      "index": 42,
+      "start": 143.56,
+      "end": 145.56,
+      "text": "네",
+      "speaker": "speaker_1",
+      "confidence": -0.18250511953088103
+    },
+    {
+      "index": 43,
+      "start": 145.56,
+      "end": 147.56,
+      "text": "직원은 얼른 갔다가",
+      "speaker": "speaker_1",
+      "confidence": -0.18250511953088103
+    },
+    {
+      "index": 44,
+      "start": 147.56,
+      "end": 149.56,
+      "text": "대리 좀 들렸다가",
+      "speaker": "speaker_1",
+      "confidence": -0.18250511953088103
+    },
+    {
+      "index": 45,
+      "start": 149.56,
+      "end": 151.56,
+      "text": "고객님 계신 곳에 다시 올 겁니다",
+      "speaker": "speaker_1",
+      "confidence": -0.18250511953088103
+    },
+    {
+      "index": 46,
+      "start": 151.56,
+      "end": 153.56,
+      "text": "직원은 시간 없으니까 많이 바쁠 거예요",
+      "speaker": "speaker_1",
+      "confidence": -0.18250511953088103
+    },
+    {
+      "index": 47,
+      "start": 153.56,
+      "end": 155.56,
+      "text": "고객님은 좀 제 전화 기다려 주시면 됩니다",
+      "speaker": "speaker_1",
+      "confidence": -0.18250511953088103
+    },
+    {
+      "index": 48,
+      "start": 155.56,
+      "end": 157.56,
+      "text": "네",
+      "speaker": "speaker_1",
+      "confidence": -0.18250511953088103
+    }
+  ],
+  "engine": "faster-whisper-medium-float16-cuda",
+  "processed_at": 1758154964.0754797,
+  "error": null
+}

@@ -1,0 +1,116 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "고객1",
+                    "age": "40대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "상담사1",
+                    "age": "20대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000314/0001.wav",
+                "duration": 3.763,
+                "text": "네, 안녕하세요. 문의 좀 드리려고 하는데요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000314/0002.wav",
+                "duration": 7.08,
+                "text": "네, 어제 상담했을 때 그 제가 가입하려고 하니까 할인 할인 쿠폰"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000314/0003.wav",
+                "duration": 6.792,
+                "text": "o/ 그리고 번호를 알려주신다고 연락을 어 가입을 하고 연락 연락을 해 달라고 했거든요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000314/0004.wav",
+                "duration": 7.001,
+                "text": "가입 후 연락을 주시면 저희 할인 쿠폰이 있다고 안내를 받으셨단 말씀이실까요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000314/0005.wav",
+                "duration": 5.553,
+                "text": "네, 그 부서가 있던데 학습 뭐 하는 부서신 거 같은데"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000314/0006.wav",
+                "duration": 6.837,
+                "text": "o/ 아 그러세요? 제가 확인하고 도움 드릴 텐데요. 실례지만 잠시만 기다려주시겠습니까?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000314/0007.wav",
+                "duration": 5.501,
+                "text": "기다려주셔서 감사합니다. 혹시 가입하셨던 아이디 확인 가능하실까요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000314/0008.wav",
+                "duration": 3.848,
+                "text": "어 학생 아이디 말씀하시는 거죠?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000314/0009.wav",
+                "duration": 5.853,
+                "text": "그거를 알려 주셔야지 할인 쿠폰 보내주신다고 한데 잠시만요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000314/0010.wav",
+                "duration": 6.259,
+                "text": "확인 감사합니다. 저 혹시 지금 학생 회원 이름이 어떻게 되실까요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000314/0011.wav",
+                "duration": 9.0,
+                "text": "확인 감사합니다. 저희가 이 부분 확인해서요. 연락드릴 수 있도록 할 텐데요. 혹시 (8시)/(여덟 시) 이전에 연락을 드려도 괜찮으실까요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000314/0012.wav",
+                "duration": 7.503,
+                "text": "네, 오늘 (8시)/(여덟 시) 이전에 연락 드리도록 하겠습니다. 실례지만 연락을 받아보셔야 될 번호가 어떻게 되실까요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000314/0013.wav",
+                "duration": 4.213,
+                "text": "어 좀 전에 남긴 번호인데 다시 말씀드려야 되나요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000314/0014.wav",
+                "duration": 3.144,
+                "text": "네, 네, 저희쪽에서 확인이 안 되다보니깐요."
+            }
+        ]
+    }
+}

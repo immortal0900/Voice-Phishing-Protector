@@ -1,0 +1,140 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "상담사1",
+                    "age": "20대",
+                    "gender": "남",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "고객1",
+                    "age": "40대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000251/0001.wav",
+                "duration": 2.813,
+                "text": "o/ 네 수고하십니다. 아"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000251/0002.wav",
+                "duration": 3.469,
+                "text": "o/ 저기 처음인데"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000251/0003.wav",
+                "duration": 2.909,
+                "text": "상담 좀 하고 싶어서요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000251/0004.wav",
+                "duration": 3.741,
+                "text": "아 혹시 그러면은 자녀분은 몇 학년인가요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000251/0005.wav",
+                "duration": 1.939,
+                "text": "고 (1)/(일)요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000251/0006.wav",
+                "duration": 1.715,
+                "text": "o/ 현재 고 (1)/(일)"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000251/0007.wav",
+                "duration": 3.309,
+                "text": "고 (1)/(일)인 예 고 (1)/(일)인데"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000251/0008.wav",
+                "duration": 5.249,
+                "text": "그 국어 영어만 그냥 집에서 과외 받았거든요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000251/0009.wav",
+                "duration": 7.593,
+                "text": "이때까지? 근데 이제 선생님 못하게 돼서 혹시나 여기 많이들 하더라고요? 그래서 (1번)/(한 번) 상담 좀 (해보려고)/(해볼려고)"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000251/0010.wav",
+                "duration": 5.309,
+                "text": "혹시 그러시면 전과목 강좌 추천 희망으로 해서 저희가 상담 예약 잡아서"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000251/0011.wav",
+                "duration": 7.448,
+                "text": "o/ 네 그러시면 어머님 번호 (1번)/(한 번) 남겨주시면 저희가 (1시)/(한 시)부터 (8시)/(여덟 시) 사이에 학습 상담 선생님께서 연락을 주실 거예요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000251/0012.wav",
+                "duration": 2.109,
+                "text": "받으셔서 상담 받으시면"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000251/0013.wav",
+                "duration": 3.315,
+                "text": "(1시)/(한 시)부터 (6시)/(여섯 시) 사이에 연락 드리니까요? 그거 참고"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000251/0014.wav",
+                "duration": 2.243,
+                "text": "o/ (1시)/(한 시)부터 (6시)/(여섯 시)요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000251/0015.wav",
+                "duration": 1.731,
+                "text": "(8시요)/(여덟 시)요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000251/0016.wav",
+                "duration": 2.104,
+                "text": "o/ (8시)/(여덟 시)?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000251/0017.wav",
+                "duration": 7.155,
+                "text": "o/ 순차적으로 연락드리니까요. 고거 참고해 주시고 (()) 대표 번호 주시면 받아주셔서 상담 진행하시면 되겠습니다."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000251/0018.wav",
+                "duration": 2.051,
+                "text": "네 감사합니다."
+            }
+        ]
+    }
+}

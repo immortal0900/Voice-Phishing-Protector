@@ -1,0 +1,128 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "상담사1",
+                    "age": "20대",
+                    "gender": "남",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "고객1",
+                    "age": "20대",
+                    "gender": "남",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000119/0001.wav",
+                "duration": 2.497,
+                "text": "네 안녕하세요. 그"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000119/0002.wav",
+                "duration": 6.013,
+                "text": "강좌 단과도 있지만 여러 강좌 묶어서 파는 패키지 강좌도 있거든요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000119/0003.wav",
+                "duration": 7.48,
+                "text": "그러면은 b/ 그 패키지 강좌 (3개)/(세 개) 묶인 그 패키지 강좌를 구매를 하면은"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000119/0004.wav",
+                "duration": 5.331,
+                "text": "그 수강 시작 설정을 언제까지 최대한 미룰 수 있어요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000119/0005.wav",
+                "duration": 2.568,
+                "text": "회원님 아이디 (1번)/(한 번) 불러주시겠어요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000119/0006.wav",
+                "duration": 6.099,
+                "text": "네 근데 제가 아직 그 강좌 신청 안 해서 안될 거거든요? 제 아이디가 필요 없으실텐데"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000119/0007.wav",
+                "duration": 3.855,
+                "text": "o/ 저희가 이 아이디를 해보는 게"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000119/0008.wav",
+                "duration": 4.573,
+                "text": "o/ 회원님께서 다음에도 상담 받으실 때 저희가 이력을 남겨드리거든요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000119/0009.wav",
+                "duration": 5.031,
+                "text": "o/ 그래서 그걸 참고를 하고 다음 상담을 위해서 지금 (())."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000119/0010.wav",
+                "duration": 4.276,
+                "text": "o/ 방금 불러주신 아이디는 탈퇴된 아이디인데 다른 아이디 아니세요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000119/0011.wav",
+                "duration": 2.893,
+                "text": "n/ 확인되셨고요. 잠시만요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000119/0012.wav",
+                "duration": 3.699,
+                "text": "o/ 선생님 지금 혹시 사이트 들어가계세요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000119/0013.wav",
+                "duration": 11.368,
+                "text": "o/ 그 패키지 강좌 같은 경우는 단과 강좌랑 다르게 이게 단과 강좌 여러 개 묶어서 저희가 조금 저렴하게 이제 구매하도록 도움드리는 상품이잖아요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000119/0014.wav",
+                "duration": 13.917,
+                "text": "o/ 그렇기 때문에 단과 강좌랑 다르게 이제 패키지 강좌는 수강 시작일 설정이라든지 일시 정지 수강 연장 서비스가 제공이 되지 않거든요? 그래서 강의를 구매를 하시게 되면은 그날로부터 이제 바로 시작하신다고 생각하시면 되세요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000119/0015.wav",
+                "duration": 7.512,
+                "text": "아 그러면은 뭐 수 (1)/(원) 수 (2)/(투) 기하가 (1번)/(한 번)에 시작되고 (1번)/(한 번)에 끝나는 개념이네요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000119/0016.wav",
+                "duration": 3.363,
+                "text": "아 그래요? 네 알겠습니다."
+            }
+        ]
+    }
+}

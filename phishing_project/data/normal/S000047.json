@@ -1,0 +1,152 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "고객1",
+                    "age": "30대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "상담사1",
+                    "age": "30대",
+                    "gender": "남",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000047/0001.wav",
+                "duration": 4.477,
+                "text": "네 방문 상담 좀 부탁 드리려고 전화 드렸는데요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000047/0002.wav",
+                "duration": 2.377,
+                "text": "방문 상담이요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000047/0003.wav",
+                "duration": 4.712,
+                "text": "예. 방문해서 상담 해주시지 않나요? 네 네."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000047/0004.wav",
+                "duration": 4.691,
+                "text": "그래요? 방문 상담 없나요? 아 그럼 전화 상담만 하시나요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000047/0005.wav",
+                "duration": 2.057,
+                "text": "네 그렇습니다."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000047/0006.wav",
+                "duration": 3.614,
+                "text": "아 그러면 어떻게 해야 되죠?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000047/0007.wav",
+                "duration": 7.731,
+                "text": "o/ 혹시 (강) 수강을 하시려는 어 단과나 종합반 수강을 어떤 형식으로 진행을 하실 예정이세요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000047/0008.wav",
+                "duration": 6.323,
+                "text": "어 그거는 잘 몰라서 제가 좀 (여쭤보려고)/(여쭤볼려고) 하는 거거든요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000047/0009.wav",
+                "duration": 3.445,
+                "text": "지금 강좌 추천이 필요하신 거세요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000047/0010.wav",
+                "duration": 4.52,
+                "text": "그러시면 혹시 이용하시려는 학생 회원분 학년이 어떻게 되실까요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000047/0011.wav",
+                "duration": 2.377,
+                "text": "고등학교 (1학년)/(일 학년)이요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000047/0012.wav",
+                "duration": 13.961,
+                "text": "o/ 그러시면 저희가 학습 상담 예약을 잡아드릴 거고요. 저희 이게 학습 상담 담당하시는 선생님께서 전화를 드릴 건데 저희가 이게 순차적으로 진행이 되시다 보니까 약간의 대기 시간 발생되실 수 있으세요. 어 연락 받을"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000047/0013.wav",
+                "duration": 2.813,
+                "text": "o/ 학생이 전화 받아야 되는 거죠?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000047/0014.wav",
+                "duration": 2.173,
+                "text": "어머니 받으셔도 상관 없으세요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000047/0015.wav",
+                "duration": 7.283,
+                "text": "음 그러면은 인터넷으로 이거 신청을 하면 전화가 오시는 거죠?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000047/0016.wav",
+                "duration": 5.449,
+                "text": "지금 예약을 저한테 하시겠다고 하시면 제가 예약을 진행해드릴 거고 전화를 드릴 거예요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000047/0017.wav",
+                "duration": 4.894,
+                "text": "음 그러면 시간만 말씀드리면 될까요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000047/0018.wav",
+                "duration": 7.881,
+                "text": "o/ 저희가 시간을 지정해 드릴 수는 없고요. 순차적 진행이라서 앞 전에 있는 상담 건이 끝나면 그 이후에 이어서 진행이 되실 거세요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000047/0019.wav",
+                "duration": 2.483,
+                "text": "네 그럼 전화 주세요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000047/0020.wav",
+                "duration": 3.005,
+                "text": "o/ 예 그러시면은 번호 (1)/(하나) 남겨주시겠어요?"
+            }
+        ]
+    }
+}

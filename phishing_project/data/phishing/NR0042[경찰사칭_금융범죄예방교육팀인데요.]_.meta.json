@@ -1,0 +1,44 @@
+{
+  "file": "NR0042[경찰사칭_금융범죄예방교육팀인데요.]_.mp3",
+  "rel_path": "NR0042[경찰사칭_금융범죄예방교육팀인데요.]_.mp3",
+  "language": "ko",
+  "text": "여보세요. 여보세요. 예. 씨 되십니까. 여보세요. 네. 예. 씨 되십니까. 네. 수고하십니다. 금융범죄예방규혁팀의 이검진 시사관입니다. 수고하는데요.",
+  "duration_sec": 20.74125,
+  "segments": [
+    {
+      "index": 0,
+      "start": 0.0,
+      "end": 4.2,
+      "text": "여보세요. 여보세요. 예. 씨 되십니까.",
+      "speaker": "speaker_1",
+      "confidence": -0.6944444535507096
+    },
+    {
+      "index": 1,
+      "start": 6.9,
+      "end": 11.8,
+      "text": "여보세요. 네. 예. 씨 되십니까. 네.",
+      "speaker": "speaker_1",
+      "confidence": -0.6944444535507096
+    },
+    {
+      "index": 2,
+      "start": 11.96,
+      "end": 16.7,
+      "text": "수고하십니다. 금융범죄예방규혁팀의 이검진 시사관입니다.",
+      "speaker": "speaker_1",
+      "confidence": -0.6944444535507096
+    },
+    {
+      "index": 3,
+      "start": 17.78,
+      "end": 19.28,
+      "text": "수고하는데요.",
+      "speaker": "speaker_1",
+      "confidence": -0.6944444535507096
+    }
+  ],
+  "engine": "faster-whisper-medium-float16-cuda",
+  "processed_at": 1758158787.080419,
+  "error": null
+}

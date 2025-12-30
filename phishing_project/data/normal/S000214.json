@@ -1,0 +1,122 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "고객1",
+                    "age": "40대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "상담사1",
+                    "age": "20대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000214/0001.wav",
+                "duration": 2.46,
+                "text": "저기 선생님 좀 (물어보려고요)/(물어보려구요)."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000214/0002.wav",
+                "duration": 3.923,
+                "text": "고등학교 (볼) 수학 (1)/(원) 있죠."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000214/0003.wav",
+                "duration": 5.509,
+                "text": "(1)/(원) 유형편 풀려면 어떤 선생님을 보통 추천해주시나요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000214/0004.wav",
+                "duration": 6.291,
+                "text": "어머니 일단 선생님 추천 같은 경우에 대해서 저희가 상담을 드리고 있지는 (않고요)/(않구요)."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000214/0005.wav",
+                "duration": 5.757,
+                "text": "해당 부분에 대해서 좀 더 전문적으로 상담해주실 수 있는 선생님과"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000214/0006.wav",
+                "duration": 3.944,
+                "text": "전화상담하실 수 있는 서비스가 있어요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000214/0007.wav",
+                "duration": 4.072,
+                "text": "그거 신청하는 방법을 안내를 드릴게요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000214/0008.wav",
+                "duration": 4.221,
+                "text": "일단 저희 (회원) 사이트 회원이신가요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000214/0009.wav",
+                "duration": 7.635,
+                "text": "네, 그러시면 회원정보 확인 먼저 도와드릴 건데 회원님 핸드폰 번호는 아이디 한번 말씀해주시겠어요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000214/0010.wav",
+                "duration": 5.971,
+                "text": "네, 확인 감사합니다. 어 어머니 지금 혹시 컴퓨터 사용 가능하실까요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000214/0011.wav",
+                "duration": 4.051,
+                "text": "네, 그 이분들 수학 (1)/(원) 다 하시는 건가요? 그러면"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000214/0012.wav",
+                "duration": 4.469,
+                "text": "수학선생님들이시기 때문에 다 수학에 대한 강좌 하세요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000214/0013.wav",
+                "duration": 4.112,
+                "text": "그러면 과학에서 생명과학은 쪽으로는요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000214/0014.wav",
+                "duration": 2.459,
+                "text": "그럼 화학은요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000214/0015.wav",
+                "duration": 3.411,
+                "text": "네, 알겠습니다. 감사합니다."
+            }
+        ]
+    }
+}

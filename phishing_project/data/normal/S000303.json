@@ -1,0 +1,182 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "상담사1",
+                    "age": "20대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "고객1",
+                    "age": "40대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000303/0001.wav",
+                "duration": 4.44,
+                "text": "네 지금 저희 애가 고등학교 (1학년)/(일 학년)인데요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000303/0002.wav",
+                "duration": 3.16,
+                "text": "예 보니까 그 프리미엄"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000303/0003.wav",
+                "duration": 2.256,
+                "text": "그거 있다고요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000303/0004.wav",
+                "duration": 5.652,
+                "text": "o/ 가입을 하려면 학부모회원으로 들어가서 해도 되나요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000303/0005.wav",
+                "duration": 2.291,
+                "text": "o/ 애 이름으로 해도 되고요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000303/0006.wav",
+                "duration": 3.229,
+                "text": "o/ 어 일단 말씀하신 그 학부모회원님은"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000303/0007.wav",
+                "duration": 4.116,
+                "text": "저희가 학부모 회원으로 가입을 하시면 저희가 자녀"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000303/0008.wav",
+                "duration": 4.857,
+                "text": "회원님의 이제 수강관리나 이런 자녀관리만 가능하셔서"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000303/0009.wav",
+                "duration": 6.813,
+                "text": "강좌 결제나 이제 수강을 원하시면 저희 학생회원으로 가입을 해주셔야지 이용이 가능하시거든요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000303/0010.wav",
+                "duration": 3.539,
+                "text": "아 그렇게 해서 결제를 해도 된다고요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000303/0011.wav",
+                "duration": 6.92,
+                "text": "o/ 네. 그렇습니다. 이제 학생회원님 아이디로 로그인 하셔서 이제 보호자분의 결제수단으로 결제해 주시면 되세요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000303/0012.wav",
+                "duration": 6.077,
+                "text": "o/ 아 그렇게 해서 (긍가) 학생이 수강을 해야 되니까 그렇게 하는게 낫다고요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000303/0013.wav",
+                "duration": 2.184,
+                "text": "o/ 네 그렇습니다."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000303/0014.wav",
+                "duration": 6.659,
+                "text": "음 그러면 그 거기에서 인제 뭐 설명이 다 이렇게 돼 있나요? 교재"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000303/0015.wav",
+                "duration": 4.12,
+                "text": "뭐 구하는 저기 구매하는 것도 그렇고"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000303/0016.wav",
+                "duration": 2.406,
+                "text": "o/ 다 그게 설명이 돼 있나요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000303/0017.wav",
+                "duration": 6.173,
+                "text": "o/ 어 수강 원하시는 강좌를 이제 선택을 하셔서 이제 강좌 이제 수강 등록을 하시면"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000303/0018.wav",
+                "duration": 4.796,
+                "text": "o/ 해당 강좌에서 필요한 교재가 같이 네 확인 가능하세요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000303/0019.wav",
+                "duration": 5.8,
+                "text": "아 (긍까) 거기에 나오는 대로 해서 그러면 구매를 하면 되는 거예요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000303/0020.wav",
+                "duration": 2.163,
+                "text": "네 그렇습니다."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000303/0021.wav",
+                "duration": 2.726,
+                "text": "아 그럼 구매를 하면은"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000303/0022.wav",
+                "duration": 2.995,
+                "text": "그 교재가 이렇게 오는건가요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000303/0023.wav",
+                "duration": 5.462,
+                "text": "네 맞습니다. 입력하신 배 주소지로 배송 되 되시는 거예요. 교재는."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000303/0024.wav",
+                "duration": 3.381,
+                "text": "음, 네. 일단 알겠습니다."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000303/0025.wav",
+                "duration": 3.059,
+                "text": "o/ 아 네. 감사합니다. 좋은 하루 되세요"
+            }
+        ]
+    }
+}

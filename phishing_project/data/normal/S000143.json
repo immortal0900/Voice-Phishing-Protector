@@ -1,0 +1,164 @@
+{
+    "dataSet": {
+        "version": "1.0",
+        "date": "null",
+        "typeInfo": {
+            "category": "교육",
+            "subcategory": "공부방법",
+            "place": "null",
+            "inputType": "전화",
+            "speakers": [
+                {
+                    "id": "1",
+                    "type": "고객1",
+                    "age": "50대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                },
+                {
+                    "id": "2",
+                    "type": "상담사1",
+                    "age": "20대",
+                    "gender": "여",
+                    "residence": "알수없음",
+                    "telephone_network": "8k"
+                }
+            ]
+        },
+        "dialogs": [
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000143/0001.wav",
+                "duration": 2.349,
+                "text": "네 여쭤볼 게 있는데요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000143/0002.wav",
+                "duration": 2.576,
+                "text": "저 고 (2)/(이)인데요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000143/0003.wav",
+                "duration": 2.209,
+                "text": "그거 어디서 찾아요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000143/0004.wav",
+                "duration": 6.42,
+                "text": "o/ 어 일단은 저도 한번 같이 봐야 될 것 같고요. 정확한 안내를 위해서 혹시 제가 성함이랑 아이디를 좀 알 수 있을까요?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000143/0005.wav",
+                "duration": 2.669,
+                "text": "n/ 아이디 얘기하라고"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000143/0006.wav",
+                "duration": 3.32,
+                "text": "n/ o/ 전화번호 말씀 가능하세요. 네"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000143/0007.wav",
+                "duration": 2.955,
+                "text": "n/ 처음 들으려면 뭐 들어야 돼요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000143/0008.wav",
+                "duration": 5.736,
+                "text": "n/ 아 회원님께서 약간 강좌 추천을 좀 원하시는 것 같은데 맞으실까요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000143/0009.wav",
+                "duration": 13.672,
+                "text": "n/ o/ 아 저희가 강좌 추천은 저희가 전문 컨설턴트가 따로 계셔서 회원님 상황에 맞는 강좌를 추천해 드리고 있어요. 저랑은 조금 상담이 어렵고요. 저희가 전문 컨설턴트 측으로 이제 상담 가능할 수 있도록 안내를 도와드리고 싶은데요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000143/0010.wav",
+                "duration": 2.077,
+                "text": "o/ 혹시 저희가 상담을"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000143/0011.wav",
+                "duration": 3.936,
+                "text": "그건 나중에 하고요. 지금은 그거 뭐지?"
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000143/0012.wav",
+                "duration": 2.44,
+                "text": "그것 좀 찾아봐주세요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000143/0013.wav",
+                "duration": 4.056,
+                "text": "o/ 예 사이트 들어왔는데 못 찾고 있어가지고요. 네네."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000143/0014.wav",
+                "duration": 3.581,
+                "text": "n/ o/ 네 회원님 오래 (기다려)/(기달려) 주셔서 감사합니다."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000143/0015.wav",
+                "duration": 2.147,
+                "text": "n/ 제가 좀 확인을 했는데"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000143/0016.wav",
+                "duration": 4.003,
+                "text": "n/ o/ 강좌명은 없어서 뭔지 제가 확인을 해보니까 이게"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000143/0017.wav",
+                "duration": 7.373,
+                "text": "n/ o/ 이거에 관련된 강좌가 전문 컨설턴트 측에서 상담을 받으셔서 추천을 받으실 수는 있을 것 같거든요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000143/0018.wav",
+                "duration": 8.899,
+                "text": "그게 저희가 주말에는 출근을 따로 하지 않으셔서 월요일날 저희가 확인 가능한데요. 월요일 오후 (1시)/(한 시)가 가장 빠른 상담 시간대세요."
+            },
+            {
+                "speaker": "1",
+                "audioPath": "D01/J01/S000143/0019.wav",
+                "duration": 2.333,
+                "text": "네 그럼 그렇게 해주세요."
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000143/0020.wav",
+                "duration": 4.881,
+                "text": "o/ 그럼 제가 월요일 오후 (1시)/(한 시)에서 (2시)/(두 시) 사이로 연락을 다시 드려도 될까요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000143/0021.wav",
+                "duration": 6.861,
+                "text": "n/ (2학기)/(이 학기) 수업 내신 혹시 내신 강좌도 추천을 원하시나요? 아니면 모의고사 위주로 좀 추천을 원하시나요?"
+            },
+            {
+                "speaker": "2",
+                "audioPath": "D01/J01/S000143/0022.wav",
+                "duration": 5.871,
+                "text": "n/ o/ 아 네네 내신 모의고사 (2)/(둘) 다시고요. 혹시 뭐 조금 더 상담받고 싶으신 내용 있으세요?"
+            }
+        ]
+    }
+}
