@@ -47,6 +47,7 @@ ENV/
 *.safetensors
 *.ckpt
 models/
+face_recognition/models/
 whisper-medium-finetuned-ko/
 phishing_project/fine-tuned-phishing-model/
 phishing_project/gemma-phishing-adapter/
