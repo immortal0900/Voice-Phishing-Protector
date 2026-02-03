@@ -26,11 +26,48 @@ MANIFEST
 venv/
 env/
 ENV/
-.env
 .venv/
 
-# VS Code
+# Environment Files
+.env
+.env.local
+.env.*.local
+.env.development
+.env.production
+
+# IDE Settings
 .vscode/
+
+
+# Models and Checkpoints
+models/
+face_recognition/models/
+whisper-medium-finetuned-ko/
+finturing_plm_and_slm/
+face_recognition/
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.ckpt
+
+# Data Directories
+data/training_data/
+data/val_data/
+data/face_images/
+fss_paired_text/
+
+# Cache Files
+cache/
+*.pkl
+*.cache
+face_recognition/save_cach/
+
+# Logs and Temp
+*.log
+temp.txt
+temp.ipynb
+test_tmp.wav
 
 # Large Media Files
 *.wav
@@ -40,31 +77,11 @@ ENV/
 *.aac
 *.ogg
 
-# Models and Checkpoints
-*.pt
-*.pth
-*.bin
-*.safetensors
-*.ckpt
-models/
-face_recognition/models/
-whisper-medium-finetuned-ko/
-phishing_project/fine-tuned-phishing-model/
-phishing_project/gemma-phishing-adapter/
-phishing_project/results/
+# Large Data Files
+*.csv
+uv.lock
 
-# Data
-fss_voice_files/
-fss_voice_files_200691/
-fw_stt_voice_files/
-low_qual_tele_files/
-fss_paired_audio/
-stt_results/
-llm_classify_out/
-fss_text_outputs/
+# Documentation (Temporary)
 
-# Logs and Temp
-*.log
-temp.txt
-temp.ipynb
-test_tmp.wav
+황화인_프로젝트진행_9월.md
+docs/refactor_report.md

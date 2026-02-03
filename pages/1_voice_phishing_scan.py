@@ -294,11 +294,11 @@ if st.session_state.run_id and not st.session_state.analysis_complete:
                 if(sttBox) sttBox.textContent = j.stt_result || '';
                 if(llmBox){
                     // Prefer the structured status response when available
-                    const hasStructured = (j.PLM_risk_score !== undefined) || (j.comprehensive_risk_score !== undefined) || (j.LLM_reported_score !== undefined) || (j.LLM_risk_score !== undefined) || (j.LLM_risk_socre !== undefined);
+                    const hasStructured = (j.PLM_risk_score !== undefined) || (j.comprehensive_risk_score !== undefined) || (j.LLM_reported_score !== undefined) || (j.LLM_risk_score !== undefined) || (j.LLM_risk_score !== undefined);
                     if(hasStructured){
                         llmBox.textContent = JSON.stringify({
                             'PLM_risk_score': j.PLM_risk_score,
-                            'LLM_reported_score': (j.LLM_reported_score !== undefined ? j.LLM_reported_score : j.LLM_risk_socre),
+                            'LLM_reported_score': (j.LLM_reported_score !== undefined ? j.LLM_reported_score : j.LLM_risk_score),
                             'LLM_risk_score': j.LLM_risk_score,
                             'comprehensive_risk_score': j.comprehensive_risk_score,
                             'reasoning': j.reasoning,
@@ -331,12 +331,3 @@ if st.session_state.run_id and not st.session_state.analysis_complete:
         """
         html_template = html_template.replace('__RUN_ID__', run_id).replace('__BACKEND__', backend)
         components.html(html_template, height=480)
-
-# On normal render (not polling), always show last saved values so they persist after completion
-# if st.session_state.stt_result or st.session_state.llm_result:
-#     # show final saved values under the action area if not already shown
-#     with results_placeholder.container():
-#         # st.write(" ")
-#         # st.markdown("**최종 결과 (저장됨)**")
-#     render_scrollable_box_html('stt', st.session_state.stt_result, height=200)
-#     render_scrollable_box_html('llm', st.session_state.llm_result, height=200)

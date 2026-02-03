@@ -1,0 +1,30 @@
+import os
+import shutil
+from pathlib import Path
+
+# 프로젝트 루트 경로 설정
+PROJECT_ROOT = Path(__file__).parent.parent.parent.resolve()
+
+# 사용자는 source_folder를 자신의 환경에 맞게 수정해야 합니다
+source_folder = r"C:\Users\user\OneDrive\wanted_9month_project\fw_stt_voice_files"
+destination_folder = str(PROJECT_ROOT / "data" / "training_data" / "phishing")
+
+os.makedirs(destination_folder, exist_ok=True)
+# exist_ok=True 폴더가 이미 있어도 에러가 발생 안함
+
+
+for root, dirs, files in os.walk(source_folder):
+    # os.walk를 사용하여 source_folder와 그 안의 하위 폴더를 탐색함
+    # root: 현재 확인 중인 폴더의 경로
+    # dirs: 현재 폴더 안에 있는 하위 폴더들의 목록
+    # files: 현재 폴더 안에 있는 파일들의 목록
+    for file in files:
+        if file.endswith(".json"):
+            source_path = os.path.join(root, file)
+            # 원본 파일의 전체 경로를 만든다.
+            # 예: C:\normal_sound\S000001\sample.json
+            shutil.copy(source_path, destination_folder)
+            # 원본 파일을 목적지 폴더에 복사함
+
+            print(f" 복사완료 : {source_path}")
+print("모든 .json파일 복사완료")

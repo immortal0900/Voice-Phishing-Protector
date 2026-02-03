@@ -1,41 +1,231 @@
+# ============================================================================
+# Voice Phishing Protector - 통합 프로젝트 설정
+# ============================================================================
+# 해결 이슈:
+# - RC-001: 분산된 pyproject.toml 파일 통합
+# - RC-002: 불완전한 의존성 목록 완성
+# ============================================================================
+
 [project]
-name = "september-project"
-version = "0.1.0"
-description = "Real-time voice phishing detection PoC"
-authors = [{ name = "GitHub Copilot" }]
-requires-python = ">=3.12,<3.13"
-dependencies = [
-    "streamlit>=1.39.0",
-    "faster-whisper>=1.0.2",
-    "ollama>=0.2.1",
-    # "torch>=2.3.1",
-    # "torchaudio>=2.3.1",
-    "librosa>=0.10.2",
-    "numpy>=1.26.4",
-    "pandas>=2.2.2",
-    "soundfile>=0.12.1",
-    "ultralytics>=8.0.0",
-    "opencv-python>=4.7.0",
-    "requests>=2.32.3",
-    "tqdm>=4.66.4",
-    "uvicorn>=0.36.0",
-    "fastapi>=0.117.1",
-    "python-multipart>=0.0.20",
+name = "voice-phishing-protector"
+version = "1.0.0"
+description = "Real-time voice phishing detection with face recognition"
+authors = [{ name = "Voice Phishing Protector Team" }]
+readme = "README.md"
+license = { text = "MIT" }
+requires-python = ">=3.11,<3.13"
+
+keywords = [
+    "voice-phishing",
+    "phishing-detection",
+    "speech-to-text",
+    "face-recognition",
+    "machine-learning",
 ]
 
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+]
+
+dependencies = [
+    # -------------------------------------------------------------------------
+    # Web/API Framework
+    # -------------------------------------------------------------------------
+    "fastapi>=0.117.1",
+    "uvicorn>=0.36.0",
+    "python-multipart>=0.0.20",
+    "pydantic>=2.0.0",
+    "pydantic-settings>=2.0.0",
+    "requests>=2.32.3",
+    # -------------------------------------------------------------------------
+    # Streamlit UI
+    # -------------------------------------------------------------------------
+    "streamlit>=1.39.0",
+    # -------------------------------------------------------------------------
+    # STT (Speech-to-Text)
+    # -------------------------------------------------------------------------
+    "faster-whisper>=1.0.2",
+    "SpeechRecognition>=3.10.0",
+    "pydub>=0.25.1",
+    "soundfile>=0.12.1",
+    # -------------------------------------------------------------------------
+    # Audio Processing
+    # -------------------------------------------------------------------------
+    "librosa>=0.10.2",
+    "numpy>=1.26.4",
+    # -------------------------------------------------------------------------
+    # ML/DL Core (PyTorch는 시스템에 따라 별도 설치 권장)
+    # -------------------------------------------------------------------------
+    # "torch>=2.0.0",  # CUDA 버전에 따라 별도 설치: pip install torch --index-url https://download.pytorch.org/whl/cu121
+    "transformers>=4.35.0",
+    "peft>=0.7.0",
+    "datasets>=2.14.0",
+    # -------------------------------------------------------------------------
+    # Face Recognition
+    # -------------------------------------------------------------------------
+    "ultralytics>=8.0.0",
+    "opencv-python>=4.7.0",
+    "deepface>=0.0.79",
+    "scipy>=1.11.0",
+    # Real-time video streaming (streamlit-webrtc)
+    "streamlit-webrtc>=0.47.0",
+    "aiortc>=1.6.0", # WebRTC backend for streamlit-webrtc
+    "av>=10.0.0", # PyAV for video frame handling
+    # TensorFlow Keras compatibility (TensorFlow 2.16+ requires tf-keras for deepface/retinaface)
+    "tf-keras>=2.16.0",
+    # -------------------------------------------------------------------------
+    # LLM Clients
+    # -------------------------------------------------------------------------
+    "ollama>=0.2.1",
+    "openai>=1.0.0",
+    # -------------------------------------------------------------------------
+    # Utilities
+    # -------------------------------------------------------------------------
+    "pandas>=2.2.2",
+    "tqdm>=4.66.4",
+    "tenacity>=8.2.0",
+    "python-dotenv>=1.0.0",
+]
+
+[project.optional-dependencies]
+# 모델 학습용 추가 의존성
+train = [
+    "bitsandbytes>=0.47.0",
+    "tensorboard>=2.14.0",
+    "jupyter>=1.1.1",
+    "accelerate>=0.25.0",
+]
+
+# 개발/테스트용 의존성
+dev = [
+    "pytest>=7.4.0",
+    "pytest-asyncio>=0.21.0",
+    "pytest-cov>=4.1.0",
+    "ruff>=0.1.0",
+    "mypy>=1.7.0",
+    "pre-commit>=3.5.0",
+]
+
+# 문서화
+docs = [
+    "mkdocs>=1.5.0",
+    "mkdocs-material>=9.5.0",
+]
+
+[project.scripts]
+# CLI 명령어 (선택적)
+vpp-server = "main:run_server"
+
+[project.urls]
+Homepage = "https://github.com/your-org/voice-phishing-protector"
+Documentation = "https://github.com/your-org/voice-phishing-protector#readme"
+Repository = "https://github.com/your-org/voice-phishing-protector.git"
+Issues = "https://github.com/your-org/voice-phishing-protector/issues"
+
+# ============================================================================
+# Build System
+# ============================================================================
 [build-system]
 requires = ["hatchling"]
 build-backend = "hatchling.build"
 
-[tool.rye]
-managed = true
-dev-dependencies = []
-
 [tool.hatch.metadata]
 allow-direct-references = true
 
-[tool.uv]
-dev-dependencies = []
-
 [tool.hatch.build.targets.wheel]
-include = ["*.py"]
+include = ["src/**/*.py", "*.py"]
+
+# ============================================================================
+# Tool Configurations
+# ============================================================================
+
+# Ruff (린터 & 포매터)
+[tool.ruff]
+target-version = "py311"
+line-length = 120
+exclude = [
+    ".git",
+    ".venv",
+    "__pycache__",
+    "*.egg-info",
+    "build",
+    "dist",
+    "scripts/finetuning/*.ipynb",
+]
+
+[tool.ruff.lint]
+select = [
+    "E",    # pycodestyle errors
+    "W",    # pycodestyle warnings
+    "F",    # Pyflakes
+    "I",    # isort
+    "B",    # flake8-bugbear
+    "C4",   # flake8-comprehensions
+    "UP",   # pyupgrade
+]
+ignore = [
+    "E501",  # line too long (handled by formatter)
+    "B008",  # do not perform function calls in argument defaults
+]
+
+[tool.ruff.lint.isort]
+known-first-party = ["src"]
+
+[tool.ruff.format]
+quote-style = "double"
+indent-style = "space"
+skip-magic-trailing-comma = false
+line-ending = "auto"
+
+# MyPy (타입 체커)
+[tool.mypy]
+python_version = "3.11"
+warn_return_any = true
+warn_unused_ignores = true
+disallow_untyped_defs = false
+ignore_missing_imports = true
+
+# Pytest
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py", "*_test.py"]
+asyncio_mode = "auto"
+addopts = "-v --tb=short"
+
+# Coverage
+[tool.coverage.run]
+source = ["src"]
+branch = true
+omit = [
+    "tests/*",
+    "scripts/*",
+]
+
+[tool.coverage.report]
+exclude_lines = [
+    "pragma: no cover",
+    "if TYPE_CHECKING:",
+    "if __name__ == .__main__.:",
+]
+
+# ============================================================================
+# UV/Rye Configuration
+# ============================================================================
+[tool.uv]
+dev-dependencies = [
+    "pytest>=7.4.0",
+    "pytest-asyncio>=0.21.0",
+    "ruff>=0.1.0",
+]
+
+[tool.rye]
+managed = true
+dev-dependencies = [
+    "pytest>=7.4.0",
+    "ruff>=0.1.0",
+]
