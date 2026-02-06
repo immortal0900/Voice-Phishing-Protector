@@ -1,10 +1,19 @@
 # Voice Phishing Protector
 
-![License](https://img.shields.io/badge/license-MIT-blue)
-![Version](https://img.shields.io/badge/version-1.0.0-green)
+![PEFT](https://img.shields.io/badge/PEFT-QLoRA-blueviolet)
+![Transformers](https://img.shields.io/badge/🤗_Transformers-4.35+-FFD21E)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-EE4C2C?logo=pytorch&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-00FFFF?logo=yolo)
+![ArcFace](https://img.shields.io/badge/ArcFace-DeepFace-FF6F61)
 ![Python](https://img.shields.io/badge/python-3.11+-yellow)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.117.1+-009688?logo=fastapi&logoColor=white)
 
-> 실시간 통화 음성을 분석하여 보이스피싱을 탐지하고, 얼굴 인식으로 발신자 신원을 확인하는 AI 기반 보안 시스템
+## 서비스 설명
+
+[![서비스 설명](https://img.youtube.com/vi/MbeziXc_OCE/maxresdefault.jpg)](https://youtu.be/MbeziXc_OCE)
+- 보이스피싱 탐지를 파인튜닝된 트랜스포머 인코더 모델인 PLM과 디코더 모델인 LLM을 통해 진행하는 하이브리드 탐지 
+- 보이스피싱으로 탐지되었을 경우 YOLO와 DeepFace를 이용한 안면인식으로 현금인출을 정지하는 서비스(안면인식 까지만)
+
 
 ## 주요 기능
 
